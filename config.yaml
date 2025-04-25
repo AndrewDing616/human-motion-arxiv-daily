@@ -22,18 +22,13 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "SLAM": 
-        filters: ["SLAM", "Visual Odometry"]
-    "SFM":
-        filters: ["SFM", "Structure from Motion"]
-    "Visual Localization":
-        filters: ["Visual Localization","Camera Localization",
-                  "Camera Re-localisation","Loop Closure Detection",
-                  "visual place recognition","image retrieval"]
-    "Keypoint Detection":
-        filters: ["Keypoint Detection", "Feature Descriptor"]
-    "Image Matching":
-        filters: ["Image Matching", "Keypoint Matching", 
-                  "Line Segment Detection", "Local Feature Matching"]
-    "NeRF":
-        filters: ["NeRF"]
+    "Motion Generation": 
+        filters: ["Motion Generation", "Human Motion", "Human Motions", "Dance Generation", "Motion Understanding"]
+    "Human-Scene Interaction (HSI)":
+        filters: ["Human-Scene Interaction", "Human-Scene Interactions", "HSI", "Human Scene", "Human-In-Scene", "HIS", "Scene-Aware Motion", "Scene-Aware Human", "Character-Scene Interaction", "Human Motion in 3D Scenes"]
+    "Human-Object Interaction (HOI)":
+        filters: ["Human-Object Interaction", "Human-Object", "Human Object", "HOI", “Body-Object”, "Hand-Object"]
+    "Human-Human Interaction (HHI)":
+        filters: ["Human-Human Motion", "Human-Human", "Human-Human Interaction", "Multi-Person Motion", "Two-Person Motion", "Two-Person Motions"]
+        
+
