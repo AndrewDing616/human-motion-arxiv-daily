@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.28
+## Updated on 2025.04.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4632,6 +4632,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-28**|**Robot Motion Planning using One-Step Diffusion with Noise-Optimized Approximate Motions**|Tomoharu Aizu et.al.|[2504.19652](http://arxiv.org/abs/2504.19652)|null|
+|**2025-04-28**|**Motion Generation for Food Topping Challenge 2024: Serving Salmon Roe Bowl and Picking Fried Chicken**|Koki Inami et.al.|[2504.19498](http://arxiv.org/abs/2504.19498)|null|
+|**2025-04-27**|**Sketch2Anim: Towards Transferring Sketch Storyboards into 3D Animation**|Lei Zhong et.al.|[2504.19189](http://arxiv.org/abs/2504.19189)|null|
 |**2025-04-23**|**PMG: Progressive Motion Generation via Sparse Anchor Postures Curriculum Learning**|Yingjie Xi et.al.|[2504.16722](http://arxiv.org/abs/2504.16722)|null|
 |**2025-04-23**|**PP-Tac: Paper Picking Using Tactile Feedback in Dexterous Robotic Hands**|Pei Lin et.al.|[2504.16649](http://arxiv.org/abs/2504.16649)|null|
 |**2025-04-21**|**Towards Understanding Camera Motions in Any Video**|Zhiqiu Lin et.al.|[2504.15376](http://arxiv.org/abs/2504.15376)|null|
@@ -4647,6 +4650,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**Optimal Local Simulations of a Quantum Singlet**|David Llamas et.al.|[2504.20953](http://arxiv.org/abs/2504.20953)|null|
+|**2025-04-29**|**Note about the complexity of the acyclic orientation with parity constraint problem**|Sylvain Gravier et.al.|[2504.20935](http://arxiv.org/abs/2504.20935)|null|
+|**2025-04-29**|**Quasiperiodic Slow-Propagating EUV "Wave" Trains After the Filament Eruption**|Yining Zhang et.al.|[2504.20636](http://arxiv.org/abs/2504.20636)|null|
+|**2025-04-29**|**Spatial-enhanced Reflective Coded Aperture Snapshot Spectral Imaging**|Jiayu Di et.al.|[2504.20516](http://arxiv.org/abs/2504.20516)|null|
+|**2025-04-29**|**MambaMoE: Mixture-of-Spectral-Spatial-Experts State Space Model for Hyperspectral Image Classification**|Yichu Xu et.al.|[2504.20509](http://arxiv.org/abs/2504.20509)|null|
+|**2025-04-29**|**Laser-induced modulation of the ferromagnetic-antiferromagnetic phase fraction in FeRh films**|Alexis Pecheux et.al.|[2504.20502](http://arxiv.org/abs/2504.20502)|null|
+|**2025-04-28**|**The CHILES Continuum \& Polarization Survey-I: Survey Design \& Noise Characterization**|Nicholas M. Luber et.al.|[2504.20253](http://arxiv.org/abs/2504.20253)|null|
+|**2025-04-28**|**Particle Approximation for Conditional Control with Soft Killing**|Rene Carmona et.al.|[2504.20231](http://arxiv.org/abs/2504.20231)|null|
+|**2025-04-28**|**The CHILES Continuum & Polarization Survey-II: Radio Continuum Source Catalog and Radio Properties**|Hansung B. Gim et.al.|[2504.20200](http://arxiv.org/abs/2504.20200)|null|
+|**2025-04-28**|**Further examples of apodictic discourse, I**|Satyanad Kichenassamy et.al.|[2504.19548](http://arxiv.org/abs/2504.19548)|null|
 |**2025-04-24**|**On unitary Shimura varieties at ramified primes**|Yu Luo et.al.|[2504.17484](http://arxiv.org/abs/2504.17484)|null|
 |**2025-04-24**|**Optimal design of reinsurance contracts under adverse selection with a continuum of types**|Ka Chun Cheung et.al.|[2504.17468](http://arxiv.org/abs/2504.17468)|null|
 |**2025-04-24**|**On spaces of Euclidean triangles and triangulated Euclidean surfaces**|Ismail Saglam et.al.|[2504.17328](http://arxiv.org/abs/2504.17328)|null|
@@ -4662,6 +4675,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**PartHOI: Part-based Hand-Object Interaction Transfer via Generalized Cylinders**|Qiaochu Wang et.al.|[2504.20599](http://arxiv.org/abs/2504.20599)|null|
+|**2025-04-28**|**Foundation Model-Driven Framework for Human-Object Interaction Prediction with Segmentation Mask Integration**|Juhan Park et.al.|[2504.19847](http://arxiv.org/abs/2504.19847)|null|
+|**2025-04-28**|**HOIGaze: Gaze Estimation During Hand-Object Interactions in Extended Reality Exploiting Eye-Hand-Head Coordination**|Zhiming Hu et.al.|[2504.19828](http://arxiv.org/abs/2504.19828)|null|
+|**2025-04-25**|**ActionArt: Advancing Multimodal Large Models for Fine-Grained Human-Centric Video Understanding**|Yi-Xing Peng et.al.|[2504.18152](http://arxiv.org/abs/2504.18152)|null|
 |**2025-04-24**|**PICO: Reconstructing 3D People In Contact with Objects**|Alpár Cseke et.al.|[2504.17695](http://arxiv.org/abs/2504.17695)|null|
 |**2025-04-24**|**Predict-Optimize-Distill: A Self-Improving Cycle for 4D Object Understanding**|Mingxuan Wu et.al.|[2504.17441](http://arxiv.org/abs/2504.17441)|null|
 |**2025-04-23**|**Physically Consistent Humanoid Loco-Manipulation using Latent Diffusion Models**|Ilyass Taouil et.al.|[2504.16843](http://arxiv.org/abs/2504.16843)|null|
