@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.05
+## Updated on 2025.05.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4632,6 +4632,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-02**|**GENMO: A GENeralist Model for Human MOtion**|Jiefeng Li et.al.|[2505.01425](http://arxiv.org/abs/2505.01425)|null|
+|**2025-05-05**|**TSTMotion: Training-free Scene-aware Text-to-motion Generation**|Ziyan Guo et.al.|[2505.01182](http://arxiv.org/abs/2505.01182)|null|
+|**2025-05-02**|**Deterministic-to-Stochastic Diverse Latent Feature Mapping for Human Motion Synthesis**|Yu Hua et.al.|[2505.00998](http://arxiv.org/abs/2505.00998)|null|
 |**2025-04-28**|**Robot Motion Planning using One-Step Diffusion with Noise-Optimized Approximate Motions**|Tomoharu Aizu et.al.|[2504.19652](http://arxiv.org/abs/2504.19652)|null|
 |**2025-04-30**|**Motion Generation for Food Topping Challenge 2024: Serving Salmon Roe Bowl and Picking Fried Chicken**|Koki Inami et.al.|[2504.19498](http://arxiv.org/abs/2504.19498)|null|
 |**2025-04-27**|**Sketch2Anim: Towards Transferring Sketch Storyboards into 3D Animation**|Lei Zhong et.al.|[2504.19189](http://arxiv.org/abs/2504.19189)|null|
@@ -4650,6 +4653,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-02**|**Explicit images for the Shimura Correspondence**|Matthew Boylan et.al.|[2505.01018](http://arxiv.org/abs/2505.01018)|null|
+|**2025-05-01**|**Advancing Wheat Crop Analysis: A Survey of Deep Learning Approaches Using Hyperspectral Imaging**|Fadi Abdeladhim Zidi et.al.|[2505.00805](http://arxiv.org/abs/2505.00805)|null|
+|**2025-05-01**|**Reinhardt Cardinals and Eventually Dominating Functions**|Marwan Salam Mohammd et.al.|[2505.00637](http://arxiv.org/abs/2505.00637)|null|
+|**2025-04-30**|**Hoist with His Own Petard: Inducing Guardrails to Facilitate Denial-of-Service Attacks on Retrieval-Augmented Generation of LLMs**|Pan Suo et.al.|[2504.21680](http://arxiv.org/abs/2504.21680)|null|
+|**2025-04-30**|**High-Fidelity Single-Pixel Imaging at Ultra-Low Sampling Ratios via Physically Enhanced Laguerre Gaussian Encoding**|JunYi Xiong et.al.|[2504.21290](http://arxiv.org/abs/2504.21290)|null|
+|**2025-04-29**|**A New High-latitude H I Cloud Complex Entrained in the Northern Fermi Bubble**|Rongmon Bordoloi et.al.|[2504.21091](http://arxiv.org/abs/2504.21091)|null|
+|**2025-04-29**|**Stacking PANCAKEZ: sPectroscopic Analysis with NirspeC stAcKs in the Epoch of reioniZation. Weak ISM Absorption and Implications for Ionizing Photon Escape at $z\sim7$**|Kelsey S. Glazer et.al.|[2504.21080](http://arxiv.org/abs/2504.21080)|null|
 |**2025-04-29**|**Optimal Local Simulations of a Quantum Singlet**|David Llamas et.al.|[2504.20953](http://arxiv.org/abs/2504.20953)|null|
 |**2025-04-29**|**Note about the complexity of the acyclic orientation with parity constraint problem**|Sylvain Gravier et.al.|[2504.20935](http://arxiv.org/abs/2504.20935)|null|
 |**2025-04-29**|**Quasiperiodic Slow-Propagating EUV "Wave" Trains After the Filament Eruption**|Yining Zhang et.al.|[2504.20636](http://arxiv.org/abs/2504.20636)|null|
@@ -4675,6 +4685,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-02**|**ViSA-Flow: Accelerating Robot Skill Learning via Large-Scale Video Semantic Action Flow**|Changhe Chen et.al.|[2505.01288](http://arxiv.org/abs/2505.01288)|null|
+|**2025-05-02**|**Quasi-local Frustration-Free Free Fermions**|Shunsuke Sengoku et.al.|[2505.01010](http://arxiv.org/abs/2505.01010)|null|
 |**2025-04-29**|**PartHOI: Part-based Hand-Object Interaction Transfer via Generalized Cylinders**|Qiaochu Wang et.al.|[2504.20599](http://arxiv.org/abs/2504.20599)|null|
 |**2025-04-28**|**Foundation Model-Driven Framework for Human-Object Interaction Prediction with Segmentation Mask Integration**|Juhan Park et.al.|[2504.19847](http://arxiv.org/abs/2504.19847)|null|
 |**2025-04-28**|**HOIGaze: Gaze Estimation During Hand-Object Interactions in Extended Reality Exploiting Eye-Hand-Head Coordination**|Zhiming Hu et.al.|[2504.19828](http://arxiv.org/abs/2504.19828)|null|
