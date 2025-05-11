@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.06
+## Updated on 2025.05.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4632,6 +4632,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-08**|**Improving Global Motion Estimation in Sparse IMU-based Motion Capture with Physics**|Xinyu Yi et.al.|[2505.05010](http://arxiv.org/abs/2505.05010)|null|
+|**2025-05-08**|**ReAlign: Bilingual Text-to-Motion Generation via Step-Aware Reward-Guided Alignment**|Wanjiang Weng et.al.|[2505.04974](http://arxiv.org/abs/2505.04974)|null|
+|**2025-05-07**|**ELGAR: Expressive Cello Performance Motion Generation for Audio Rendition**|Zhiping Qiu et.al.|[2505.04203](http://arxiv.org/abs/2505.04203)|null|
+|**2025-05-06**|**PARC: Physics-based Augmentation with Reinforcement Learning for Character Controllers**|Michael Xu et.al.|[2505.04002](http://arxiv.org/abs/2505.04002)|null|
+|**2025-05-07**|**Visual Imitation Enables Contextual Humanoid Control**|Arthur Allshire et.al.|[2505.03729](http://arxiv.org/abs/2505.03729)|null|
+|**2025-05-06**|**Meta-Optimization and Program Search using Language Models for Task and Motion Planning**|Denis Shcherba et.al.|[2505.03725](http://arxiv.org/abs/2505.03725)|null|
+|**2025-05-06**|**StableMotion: Training Motion Cleanup Models with Unpaired Corrupted Data**|Yuxuan Mu et.al.|[2505.03154](http://arxiv.org/abs/2505.03154)|null|
+|**2025-05-05**|**TWIST: Teleoperated Whole-Body Imitation System**|Yanjie Ze et.al.|[2505.02833](http://arxiv.org/abs/2505.02833)|null|
+|**2025-05-05**|**Online Phase Estimation of Human Oscillatory Motions using Deep Learning**|Antonio Grotta et.al.|[2505.02668](http://arxiv.org/abs/2505.02668)|null|
+|**2025-05-04**|**SignSplat: Rendering Sign Language via Gaussian Splatting**|Maksym Ivashechkin et.al.|[2505.02108](http://arxiv.org/abs/2505.02108)|null|
 |**2025-05-02**|**GENMO: A GENeralist Model for Human MOtion**|Jiefeng Li et.al.|[2505.01425](http://arxiv.org/abs/2505.01425)|null|
 |**2025-05-05**|**TSTMotion: Training-free Scene-aware Text-to-motion Generation**|Ziyan Guo et.al.|[2505.01182](http://arxiv.org/abs/2505.01182)|null|
 |**2025-05-02**|**Deterministic-to-Stochastic Diverse Latent Feature Mapping for Human Motion Synthesis**|Yu Hua et.al.|[2505.00998](http://arxiv.org/abs/2505.00998)|null|
@@ -4653,6 +4663,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-08**|**In memoriam: aspects of Santosh Kumar's work on exact results in RMT**|Peter J. Forrester et.al.|[2505.04943](http://arxiv.org/abs/2505.04943)|null|
+|**2025-05-08**|**Stable Harmonic Analysis and Stable Transfer**|Matthew Sunohara et.al.|[2505.04910](http://arxiv.org/abs/2505.04910)|null|
+|**2025-05-07**|**Euclid preparation. The impact of redshift interlopers on the two-point correlation function analysis**|Euclid Collaboration et.al.|[2505.04688](http://arxiv.org/abs/2505.04688)|null|
+|**2025-05-07**|**WALLABY pilot survey: properties of HI-selected dark sources and low surface brightness galaxies**|T. O'Beirne et.al.|[2505.04299](http://arxiv.org/abs/2505.04299)|null|
+|**2025-05-07**|**Teleios (G305.4-2.2) -- the mystery of a perfectly shaped new Galactic supernova remnant**|Miroslav D. Filipovic et.al.|[2505.04041](http://arxiv.org/abs/2505.04041)|null|
+|**2025-05-06**|**Prototype-Based Information Compensation Network for Multi-Source Remote Sensing Data Classification**|Feng Gao et.al.|[2505.04003](http://arxiv.org/abs/2505.04003)|**[link](https://github.com/oucailab/picnet)**|
+|**2025-05-06**|**Many body effects in the line radiative transfer equation**|Boy Lankhaar et.al.|[2505.03888](http://arxiv.org/abs/2505.03888)|null|
+|**2025-05-06**|**Differential Privacy for Network Assortativity**|Fei Ma et.al.|[2505.03639](http://arxiv.org/abs/2505.03639)|null|
+|**2025-05-06**|**A Fusion-Guided Inception Network for Hyperspectral Image Super-Resolution**|Usman Muhammad et.al.|[2505.03431](http://arxiv.org/abs/2505.03431)|**[link](https://github.com/usman1021/fusion)**|
+|**2025-05-06**|**Stability study of GEM chamber using radioactive source**|S. Mandal et.al.|[2505.03357](http://arxiv.org/abs/2505.03357)|null|
 |**2025-05-02**|**Explicit images for the Shimura Correspondence**|Matthew Boylan et.al.|[2505.01018](http://arxiv.org/abs/2505.01018)|null|
 |**2025-05-01**|**Advancing Wheat Crop Analysis: A Survey of Deep Learning Approaches Using Hyperspectral Imaging**|Fadi Abdeladhim Zidi et.al.|[2505.00805](http://arxiv.org/abs/2505.00805)|null|
 |**2025-05-01**|**Reinhardt Cardinals and Eventually Dominating Functions**|Marwan Salam Mohammd et.al.|[2505.00637](http://arxiv.org/abs/2505.00637)|null|
@@ -4685,6 +4705,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-07**|**Van Lint-MacWilliams' conjecture and maximum cliques in Cayley graphs over finite fields, II**|Chi Hoi Yip et.al.|[2505.04061](http://arxiv.org/abs/2505.04061)|null|
+|**2025-05-06**|**Towards Application-Specific Evaluation of Vision Models: Case Studies in Ecology and Biology**|Alex Hoi Hang Chan et.al.|[2505.02825](http://arxiv.org/abs/2505.02825)|null|
 |**2025-05-02**|**ViSA-Flow: Accelerating Robot Skill Learning via Large-Scale Video Semantic Action Flow**|Changhe Chen et.al.|[2505.01288](http://arxiv.org/abs/2505.01288)|null|
 |**2025-05-02**|**Quasi-local Frustration-Free Free Fermions**|Shunsuke Sengoku et.al.|[2505.01010](http://arxiv.org/abs/2505.01010)|null|
 |**2025-04-29**|**PartHOI: Part-based Hand-Object Interaction Transfer via Generalized Cylinders**|Qiaochu Wang et.al.|[2504.20599](http://arxiv.org/abs/2504.20599)|null|
