@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.12
+## Updated on 2025.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4632,6 +4632,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-14**|**UMotion: Uncertainty-driven Human Motion Estimation from Inertial and Ultra-wideband Units**|Huakun Liu et.al.|[2505.09393](http://arxiv.org/abs/2505.09393)|**[link](https://github.com/kk9six/umotion)**|
+|**2025-05-14**|**Text-driven Motion Generation: Overview, Challenges and Directions**|Ali Rida Sahili et.al.|[2505.09379](http://arxiv.org/abs/2505.09379)|null|
+|**2025-05-14**|**Deployable and Generalizable Motion Prediction: Taxonomy, Open Challenges and Future Directions**|Letian Wang et.al.|[2505.09074](http://arxiv.org/abs/2505.09074)|null|
+|**2025-05-13**|**Optimal Trajectory Planning with Collision Avoidance for Autonomous Vehicle Maneuvering**|Jason Zalev et.al.|[2505.08724](http://arxiv.org/abs/2505.08724)|null|
+|**2025-05-13**|**Beyond Predefined Actions: Integrating Behavior Trees and Dynamic Movement Primitives for Robot Learning from Demonstration**|David Cáceres Domínguez et.al.|[2505.08625](http://arxiv.org/abs/2505.08625)|null|
+|**2025-05-13**|**M3G: Multi-Granular Gesture Generator for Audio-Driven Full-Body Human Motion Synthesis**|Zhizhuo Yin et.al.|[2505.08293](http://arxiv.org/abs/2505.08293)|null|
+|**2025-05-13**|**Human Motion Prediction via Test-domain-aware Adaptation with Easily-available Human Motions Estimated from Videos**|Katsuki Shimbo et.al.|[2505.07301](http://arxiv.org/abs/2505.07301)|null|
+|**2025-05-12**|**HuB: Learning Extreme Humanoid Balance**|Tong Zhang et.al.|[2505.07294](http://arxiv.org/abs/2505.07294)|null|
+|**2025-05-15**|**X-Sim: Cross-Embodiment Learning via Real-to-Sim-to-Real**|Prithwish Dan et.al.|[2505.07096](http://arxiv.org/abs/2505.07096)|null|
+|**2025-05-10**|**JAEGER: Dual-Level Humanoid Whole-Body Controller**|Ziluo Ding et.al.|[2505.06584](http://arxiv.org/abs/2505.06584)|null|
 |**2025-05-08**|**Improving Global Motion Estimation in Sparse IMU-based Motion Capture with Physics**|Xinyu Yi et.al.|[2505.05010](http://arxiv.org/abs/2505.05010)|null|
 |**2025-05-08**|**ReAlign: Bilingual Text-to-Motion Generation via Step-Aware Reward-Guided Alignment**|Wanjiang Weng et.al.|[2505.04974](http://arxiv.org/abs/2505.04974)|null|
 |**2025-05-07**|**ELGAR: Expressive Cello Performance Motion Generation for Audio Rendition**|Zhiping Qiu et.al.|[2505.04203](http://arxiv.org/abs/2505.04203)|null|
@@ -4663,6 +4673,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-15**|**Einstein, Free Creations, and His Worldly Cloister**|Galina Weinstein et.al.|[2505.09530](http://arxiv.org/abs/2505.09530)|null|
+|**2025-05-14**|**Context and Complementarity: Formalizing Bohr's Vision through Many-Valued Contextual Logic**|Partha Ghose et.al.|[2505.09333](http://arxiv.org/abs/2505.09333)|null|
+|**2025-05-14**|**300th anniversary of the birth of Father Eliseo della Concezione: the scientific contribution in the Royal Academy of Studies of Palermo**|Aurelio Agliolo Gallitto et.al.|[2505.09192](http://arxiv.org/abs/2505.09192)|null|
+|**2025-05-14**|**On one of Birkhoff's theorems for backward limit points**|Veronika Rýžová et.al.|[2505.09177](http://arxiv.org/abs/2505.09177)|null|
+|**2025-05-13**|**Vendi Information Gain: An Alternative To Mutual Information For Science And Machine Learning**|Quan Nguyen et.al.|[2505.09007](http://arxiv.org/abs/2505.09007)|null|
+|**2025-05-13**|**A Possible Problem with the Sunspot Number**|Leif Svalgaard et.al.|[2505.08832](http://arxiv.org/abs/2505.08832)|null|
+|**2025-05-13**|**Unveiling the Best Practices for Applying Speech Foundation Models to Speech Intelligibility Prediction for Hearing-Impaired People**|Haoshuai Zhou et.al.|[2505.08215](http://arxiv.org/abs/2505.08215)|null|
+|**2025-05-13**|**$\mathcal{H}$ -HIGNN: A Scalable Graph Neural Network Framework with Hierarchical Matrix Acceleration for Simulation of Large-Scale Particulate Suspensions**|Zhan Ma et.al.|[2505.08174](http://arxiv.org/abs/2505.08174)|null|
+|**2025-05-12**|**Log-free bounds on exponential sums over primes**|Priyamvad Srivastav et.al.|[2505.07803](http://arxiv.org/abs/2505.07803)|null|
+|**2025-05-12**|**Understanding the IBEX ribbon using the kinetic model of pickup proton transport in a scatter-free limit**|Igor Baliukin et.al.|[2505.07471](http://arxiv.org/abs/2505.07471)|null|
 |**2025-05-08**|**In memoriam: aspects of Santosh Kumar's work on exact results in RMT**|Peter J. Forrester et.al.|[2505.04943](http://arxiv.org/abs/2505.04943)|null|
 |**2025-05-08**|**Stable Harmonic Analysis and Stable Transfer**|Matthew Sunohara et.al.|[2505.04910](http://arxiv.org/abs/2505.04910)|null|
 |**2025-05-07**|**Euclid preparation. The impact of redshift interlopers on the two-point correlation function analysis**|Euclid Collaboration et.al.|[2505.04688](http://arxiv.org/abs/2505.04688)|null|
@@ -4705,9 +4725,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-09**|**Edelstein effect in optically driven monolayer jacutingaite Pt $_2$HgSe$_3$**|Nguyen Quang Bau et.al.|[2505.06144](http://arxiv.org/abs/2505.06144)|null|
+|**2025-05-13**|**Web2Grasp: Learning Functional Grasps from Web Images of Hand-Object Interactions**|Hongyi Chen et.al.|[2505.05517](http://arxiv.org/abs/2505.05517)|null|
 |**2025-05-07**|**Van Lint-MacWilliams' conjecture and maximum cliques in Cayley graphs over finite fields, II**|Chi Hoi Yip et.al.|[2505.04061](http://arxiv.org/abs/2505.04061)|null|
 |**2025-05-06**|**Towards Application-Specific Evaluation of Vision Models: Case Studies in Ecology and Biology**|Alex Hoi Hang Chan et.al.|[2505.02825](http://arxiv.org/abs/2505.02825)|null|
-|**2025-05-02**|**ViSA-Flow: Accelerating Robot Skill Learning via Large-Scale Video Semantic Action Flow**|Changhe Chen et.al.|[2505.01288](http://arxiv.org/abs/2505.01288)|null|
+|**2025-05-12**|**ViSA-Flow: Accelerating Robot Skill Learning via Large-Scale Video Semantic Action Flow**|Changhe Chen et.al.|[2505.01288](http://arxiv.org/abs/2505.01288)|null|
 |**2025-05-02**|**Quasi-local Frustration-Free Free Fermions**|Shunsuke Sengoku et.al.|[2505.01010](http://arxiv.org/abs/2505.01010)|null|
 |**2025-04-29**|**PartHOI: Part-based Hand-Object Interaction Transfer via Generalized Cylinders**|Qiaochu Wang et.al.|[2504.20599](http://arxiv.org/abs/2504.20599)|null|
 |**2025-04-28**|**Foundation Model-Driven Framework for Human-Object Interaction Prediction with Segmentation Mask Integration**|Juhan Park et.al.|[2504.19847](http://arxiv.org/abs/2504.19847)|null|
