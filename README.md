@@ -1,4 +1,4 @@
-## Updated on 2025.05.19
+## Updated on 2025.05.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -921,7 +921,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20250519>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
 
 ## SFM
 
@@ -1313,7 +1313,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20250519>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -2449,7 +2449,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20250519>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2749,7 +2749,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20250519>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
 
 ## Image Matching
 
@@ -3073,7 +3073,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20250519>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
 
 ## NeRF
 
@@ -4649,12 +4649,21 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250519>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
 
 ## Motion Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-19**|**CacheFlow: Fast Human Motion Prediction by Cached Normalizing Flow**|Takahiro Maeda et.al.|[2505.13140](http://arxiv.org/abs/2505.13140)|null|
+|**2025-05-19**|**UniHM: Universal Human Motion Generation with Object Interactions in Indoor Scenes**|Zichen Geng et.al.|[2505.12774](http://arxiv.org/abs/2505.12774)|null|
+|**2025-05-19**|**Multi-Resolution Haar Network: Enhancing human motion prediction via Haar transform**|Li Lin et.al.|[2505.12631](http://arxiv.org/abs/2505.12631)|**[link](https://github.com/xhaughearl/haarmodic)**|
+|**2025-05-16**|**MARRS: Masked Autoregressive Unit-based Reaction Synthesis**|Y. B. Wang et.al.|[2505.11334](http://arxiv.org/abs/2505.11334)|null|
+|**2025-05-16**|**Towards Robust and Controllable Text-to-Motion via Masked Autoregressive Diffusion**|Zongye Zhang et.al.|[2505.11013](http://arxiv.org/abs/2505.11013)|null|
+|**2025-05-16**|**A Non-Markovian Route to Coherence in Heterogeneous Diffusive Systems**|Aranyak Sarkar et.al.|[2505.10906](http://arxiv.org/abs/2505.10906)|null|
+|**2025-05-16**|**MoCLIP: Motion-Aware Fine-Tuning and Distillation of CLIP for Human Motion Generation**|Gabriel Maldonado et.al.|[2505.10810](http://arxiv.org/abs/2505.10810)|null|
+|**2025-05-15**|**Context-aware collaborative pushing of heavy objects using skeleton-based intention prediction**|Gokhan Solak et.al.|[2505.10239](http://arxiv.org/abs/2505.10239)|null|
+|**2025-05-14**|**Dyadic Mamba: Long-term Dyadic Human Motion Synthesis**|Julian Tanke et.al.|[2505.09827](http://arxiv.org/abs/2505.09827)|null|
 |**2025-05-14**|**UMotion: Uncertainty-driven Human Motion Estimation from Inertial and Ultra-wideband Units**|Huakun Liu et.al.|[2505.09393](http://arxiv.org/abs/2505.09393)|**[link](https://github.com/kk9six/umotion)**|
 |**2025-05-14**|**Text-driven Motion Generation: Overview, Challenges and Directions**|Ali Rida Sahili et.al.|[2505.09379](http://arxiv.org/abs/2505.09379)|null|
 |**2025-05-14**|**Deployable and Generalizable Motion Prediction: Taxonomy, Open Challenges and Future Directions**|Letian Wang et.al.|[2505.09074](http://arxiv.org/abs/2505.09074)|null|
@@ -4692,12 +4701,22 @@
 |**2025-04-14**|**KeyMPs: One-Shot Vision-Language Guided Motion Generation by Sequencing DMPs for Occlusion-Rich Tasks**|Edgar Anarossi et.al.|[2504.10011](http://arxiv.org/abs/2504.10011)|null|
 |**2025-04-14**|**RadarLLM: Empowering Large Language Models to Understand Human Motion from Millimeter-wave Point Cloud Sequence**|Zengyuan Lai et.al.|[2504.09862](http://arxiv.org/abs/2504.09862)|null|
 
-<p align=right>(<a href=#updated-on-20250519>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-19**|**Bach-pinched metrics on closed manifolds**|Letizia Branca et.al.|[2505.13059](http://arxiv.org/abs/2505.13059)|null|
+|**2025-05-19**|**Predicting Reaction Time to Comprehend Scenes with Foveated Scene Understanding Maps**|Ziqi Wen et.al.|[2505.12660](http://arxiv.org/abs/2505.12660)|null|
+|**2025-05-19**|**Claus Michael Ringel's main contributions to Gorenstein-projective modules**|Nan Gao et.al.|[2505.12637](http://arxiv.org/abs/2505.12637)|null|
+|**2025-05-20**|**Spectral-Spatial Self-Supervised Learning for Few-Shot Hyperspectral Image Classification**|Wenchen Chen et.al.|[2505.12482](http://arxiv.org/abs/2505.12482)|**[link](https://github.com/wenchen-chen/s4l-fsc)**|
+|**2025-05-18**|**Hyperspectral Image Land Cover Captioning Dataset for Vision Language Models**|Aryan Das et.al.|[2505.12217](http://arxiv.org/abs/2505.12217)|**[link](https://github.com/arya-domain/hypercap)**|
+|**2025-05-17**|**Poincaré on Gibbs and on Probability in Statistical Mechanics**|Bruce D. Popp et.al.|[2505.12168](http://arxiv.org/abs/2505.12168)|null|
+|**2025-05-17**|**Historical and psycholinguistic perspectives on morphological productivity: A sketch of an integrative approach**|Harald Baayen et.al.|[2505.12071](http://arxiv.org/abs/2505.12071)|null|
+|**2025-05-17**|**The dynamics of the Ehrhard-Müller system with invariant algebraic surfaces**|Jaume Llibre et.al.|[2505.12047](http://arxiv.org/abs/2505.12047)|null|
+|**2025-05-17**|**Reputational cheap talk versus prior information**|Allen Vong et.al.|[2505.11877](http://arxiv.org/abs/2505.11877)|null|
+|**2025-05-17**|**Self-Learning Hyperspectral and Multispectral Image Fusion via Adaptive Residual Guided Subspace Diffusion Model**|Jian Zhu et.al.|[2505.11800](http://arxiv.org/abs/2505.11800)|**[link](https://github.com/zhu1116/args-diff)**|
 |**2025-05-15**|**Einstein, Free Creations, and His Worldly Cloister**|Galina Weinstein et.al.|[2505.09530](http://arxiv.org/abs/2505.09530)|null|
 |**2025-05-14**|**Context and Complementarity: Formalizing Bohr's Vision through Many-Valued Contextual Logic**|Partha Ghose et.al.|[2505.09333](http://arxiv.org/abs/2505.09333)|null|
 |**2025-05-14**|**300th anniversary of the birth of Father Eliseo della Concezione: the scientific contribution in the Royal Academy of Studies of Palermo**|Aurelio Agliolo Gallitto et.al.|[2505.09192](http://arxiv.org/abs/2505.09192)|null|
@@ -4746,12 +4765,14 @@
 |**2025-04-24**|**Contact homology of contact manifolds and its applications**|Frédéric Bourgeois et.al.|[2504.16540](http://arxiv.org/abs/2504.16540)|null|
 |**2025-04-22**|**HS-Mamba: Full-Field Interaction Multi-Groups Mamba for Hyperspectral Image Classification**|Hongxing Peng et.al.|[2504.15612](http://arxiv.org/abs/2504.15612)|null|
 
-<p align=right>(<a href=#updated-on-20250519>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-19**|**UniHM: Universal Human Motion Generation with Object Interactions in Indoor Scenes**|Zichen Geng et.al.|[2505.12774](http://arxiv.org/abs/2505.12774)|null|
+|**2025-05-16**|**Multi-Objective Preference Optimization: Improving Human Alignment of Generative Models**|Akhil Agnihotri et.al.|[2505.10892](http://arxiv.org/abs/2505.10892)|null|
 |**2025-05-09**|**Edelstein effect in optically driven monolayer jacutingaite Pt $_2$HgSe$_3$**|Nguyen Quang Bau et.al.|[2505.06144](http://arxiv.org/abs/2505.06144)|null|
 |**2025-05-13**|**Web2Grasp: Learning Functional Grasps from Web Images of Hand-Object Interactions**|Hongyi Chen et.al.|[2505.05517](http://arxiv.org/abs/2505.05517)|null|
 |**2025-05-07**|**Van Lint-MacWilliams' conjecture and maximum cliques in Cayley graphs over finite fields, II**|Chi Hoi Yip et.al.|[2505.04061](http://arxiv.org/abs/2505.04061)|null|
@@ -4773,7 +4794,7 @@
 |**2025-04-07**|**InteractVLM: 3D Interaction Reasoning from 2D Foundational Models**|Sai Kumar Dwivedi et.al.|[2504.05303](http://arxiv.org/abs/2504.05303)|**[link](https://github.com/saidwivedi/InteractVLM)**|
 |**2025-04-06**|**Diophantine tuples and product sets in shifted powers**|Ernie Croot et.al.|[2504.04354](http://arxiv.org/abs/2504.04354)|null|
 
-<p align=right>(<a href=#updated-on-20250519>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
