@@ -1,4 +1,4 @@
-## Updated on 2025.05.21
+## Updated on 2025.05.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -921,7 +921,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
 
 ## SFM
 
@@ -1313,7 +1313,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -2449,7 +2449,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2749,7 +2749,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
 
 ## Image Matching
 
@@ -3073,7 +3073,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
 
 ## NeRF
 
@@ -4649,12 +4649,15 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
 
 ## Motion Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-22**|**MEgoHand: Multimodal Egocentric Hand-Object Interaction Motion Generation**|Bohan Zhou et.al.|[2505.16602](http://arxiv.org/abs/2505.16602)|null|
+|**2025-05-21**|**Proactive Hierarchical Control Barrier Function-Based Safety Prioritization in Close Human-Robot Interaction Scenarios**|Patanjali Maithania et.al.|[2505.16055](http://arxiv.org/abs/2505.16055)|null|
+|**2025-05-21**|**MatchDance: Collaborative Mamba-Transformer Architecture Matching for High-Quality 3D Dance Synthesis**|Kaixing Yang et.al.|[2505.14222](http://arxiv.org/abs/2505.14222)|null|
 |**2025-05-19**|**CacheFlow: Fast Human Motion Prediction by Cached Normalizing Flow**|Takahiro Maeda et.al.|[2505.13140](http://arxiv.org/abs/2505.13140)|null|
 |**2025-05-19**|**UniHM: Universal Human Motion Generation with Object Interactions in Indoor Scenes**|Zichen Geng et.al.|[2505.12774](http://arxiv.org/abs/2505.12774)|null|
 |**2025-05-19**|**Multi-Resolution Haar Network: Enhancing human motion prediction via Haar transform**|Li Lin et.al.|[2505.12631](http://arxiv.org/abs/2505.12631)|**[link](https://github.com/xhaughearl/haarmodic)**|
@@ -4701,12 +4704,22 @@
 |**2025-04-14**|**KeyMPs: One-Shot Vision-Language Guided Motion Generation by Sequencing DMPs for Occlusion-Rich Tasks**|Edgar Anarossi et.al.|[2504.10011](http://arxiv.org/abs/2504.10011)|null|
 |**2025-04-14**|**RadarLLM: Empowering Large Language Models to Understand Human Motion from Millimeter-wave Point Cloud Sequence**|Zengyuan Lai et.al.|[2504.09862](http://arxiv.org/abs/2504.09862)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-22**|**Sensitivity of ECG QRS Complexes to His-Purkinje Structure in Computational Heart Models**|Preetam V. Tanikella et.al.|[2505.16696](http://arxiv.org/abs/2505.16696)|null|
+|**2025-05-22**|**PCMamba: Physics-Informed Cross-Modal State Space Model for Dual-Camera Compressive Hyperspectral Imaging**|Ge Meng et.al.|[2505.16373](http://arxiv.org/abs/2505.16373)|null|
+|**2025-05-21**|**The Peekaboo galaxy: new SALT spectroscopy and implications of archive HST data**|Alexei Kniazev et.al.|[2505.16006](http://arxiv.org/abs/2505.16006)|null|
+|**2025-05-21**|**Exploring future synergies for large-scale structure between gravitational waves and radio sources**|Stefano Zazzera et.al.|[2505.15645](http://arxiv.org/abs/2505.15645)|null|
+|**2025-05-21**|**An enhanced extriangulated subquotient**|Nao Mochizuki et.al.|[2505.15534](http://arxiv.org/abs/2505.15534)|null|
+|**2025-05-21**|**FRN: Fractal-Based Recursive Spectral Reconstruction Network**|Ge Meng et.al.|[2505.15439](http://arxiv.org/abs/2505.15439)|null|
+|**2025-05-21**|**Group Order Logic**|Anatole Dahan et.al.|[2505.15359](http://arxiv.org/abs/2505.15359)|null|
+|**2025-05-21**|**Parameter-Efficient Fine-Tuning of Multispectral Foundation Models for Hyperspectral Image Classification**|Bernardin Ligan et.al.|[2505.15334](http://arxiv.org/abs/2505.15334)|null|
+|**2025-05-21**|**On Kenig's Class $AE$**|Fernando Ballesta-Yagüe et.al.|[2505.15278](http://arxiv.org/abs/2505.15278)|null|
+|**2025-05-21**|**SYMPHANY- SYnergy of Molecular PHase And Neutral hYdrogen in galaxies in A2626**|Tirna Deb et.al.|[2505.15060](http://arxiv.org/abs/2505.15060)|null|
 |**2025-05-19**|**Bach-pinched metrics on closed manifolds**|Letizia Branca et.al.|[2505.13059](http://arxiv.org/abs/2505.13059)|null|
 |**2025-05-19**|**Predicting Reaction Time to Comprehend Scenes with Foveated Scene Understanding Maps**|Ziqi Wen et.al.|[2505.12660](http://arxiv.org/abs/2505.12660)|null|
 |**2025-05-19**|**Claus Michael Ringel's main contributions to Gorenstein-projective modules**|Nan Gao et.al.|[2505.12637](http://arxiv.org/abs/2505.12637)|null|
@@ -4765,12 +4778,14 @@
 |**2025-04-24**|**Contact homology of contact manifolds and its applications**|Frédéric Bourgeois et.al.|[2504.16540](http://arxiv.org/abs/2504.16540)|null|
 |**2025-04-22**|**HS-Mamba: Full-Field Interaction Multi-Groups Mamba for Hyperspectral Image Classification**|Hongxing Peng et.al.|[2504.15612](http://arxiv.org/abs/2504.15612)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-22**|**Towards Texture- And Shape-Independent 3D Keypoint Estimation in Birds**|Valentin Schmuker et.al.|[2505.16633](http://arxiv.org/abs/2505.16633)|null|
+|**2025-05-22**|**Investigating Fine- and Coarse-grained Structural Correspondences Between Deep Neural Networks and Human Object Image Similarity Judgments Using Unsupervised Alignment**|Soh Takahashi et.al.|[2505.16419](http://arxiv.org/abs/2505.16419)|null|
 |**2025-05-19**|**UniHM: Universal Human Motion Generation with Object Interactions in Indoor Scenes**|Zichen Geng et.al.|[2505.12774](http://arxiv.org/abs/2505.12774)|null|
 |**2025-05-16**|**Multi-Objective Preference Optimization: Improving Human Alignment of Generative Models**|Akhil Agnihotri et.al.|[2505.10892](http://arxiv.org/abs/2505.10892)|null|
 |**2025-05-09**|**Edelstein effect in optically driven monolayer jacutingaite Pt $_2$HgSe$_3$**|Nguyen Quang Bau et.al.|[2505.06144](http://arxiv.org/abs/2505.06144)|null|
@@ -4794,7 +4809,7 @@
 |**2025-04-07**|**InteractVLM: 3D Interaction Reasoning from 2D Foundational Models**|Sai Kumar Dwivedi et.al.|[2504.05303](http://arxiv.org/abs/2504.05303)|**[link](https://github.com/saidwivedi/InteractVLM)**|
 |**2025-04-06**|**Diophantine tuples and product sets in shifted powers**|Ernie Croot et.al.|[2504.04354](http://arxiv.org/abs/2504.04354)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
