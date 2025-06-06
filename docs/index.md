@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.02
+## Updated on 2025.06.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4632,6 +4632,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**HUMOF: Human Motion Forecasting in Interactive Social Scenes**|Caiyi Sun et.al.|[2506.03753](http://arxiv.org/abs/2506.03753)|null|
+|**2025-06-04**|**DenseDPO: Fine-Grained Temporal Preference Optimization for Video Diffusion Models**|Ziyi Wu et.al.|[2506.03517](http://arxiv.org/abs/2506.03517)|null|
+|**2025-06-03**|**Controllable Human-centric Keyframe Interpolation with Generative Prior**|Zujin Guo et.al.|[2506.03119](http://arxiv.org/abs/2506.03119)|null|
+|**2025-06-03**|**UniConFlow: A Unified Constrained Generalization Framework for Certified Motion Planning with Flow Matching Models**|Zewen Yang et.al.|[2506.02955](http://arxiv.org/abs/2506.02955)|null|
+|**2025-06-04**|**Go Beyond Earth: Understanding Human Actions and Scenes in Microgravity Environments**|Di Wen et.al.|[2506.02845](http://arxiv.org/abs/2506.02845)|null|
+|**2025-06-03**|**LinkTo-Anime: A 2D Animation Optical Flow Dataset from 3D Model Rendering**|Xiaoyi Feng et.al.|[2506.02733](http://arxiv.org/abs/2506.02733)|null|
+|**2025-06-03**|**MotionRAG-Diff: A Retrieval-Augmented Diffusion Framework for Long-Term Music-to-Dance Generation**|Mingyang Huang et.al.|[2506.02661](http://arxiv.org/abs/2506.02661)|null|
+|**2025-06-03**|**LumosFlow: Motion-Guided Long Video Generation**|Jiahao Chen et.al.|[2506.02497](http://arxiv.org/abs/2506.02497)|null|
+|**2025-06-03**|**ANT: Adaptive Neural Temporal-Aware Text-to-Motion Model**|Wenshuo Chen et.al.|[2506.02452](http://arxiv.org/abs/2506.02452)|null|
+|**2025-06-05**|**SViMo: Synchronized Diffusion for Video and Motion Generation in Hand-object Interaction Scenarios**|Lingwei Dang et.al.|[2506.02444](http://arxiv.org/abs/2506.02444)|**[link](https://github.com/Droliven/SViMo_code)**|
 |**2025-05-29**|**Semantics-Aware Human Motion Generation from Audio Instructions**|Zi-An Wang et.al.|[2505.23465](http://arxiv.org/abs/2505.23465)|null|
 |**2025-05-29**|**Wav2Sem: Plug-and-Play Audio Semantic Decoupling for 3D Speech-Driven Facial Animation**|Hao Li et.al.|[2505.23290](http://arxiv.org/abs/2505.23290)|**[link](https://github.com/wslh852/wav2sem)**|
 |**2025-05-29**|**MMGT: Motion Mask Guided Two-Stage Network for Co-Speech Gesture Video Generation**|Siyuan Wang et.al.|[2505.23120](http://arxiv.org/abs/2505.23120)|null|
@@ -4695,6 +4705,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**Investigating the HI distribution and kinematics of ESO444-G084 and [KKS2000]23: New insights from the MHONGOOSE survey**|Brenda Namumba et.al.|[2506.04101](http://arxiv.org/abs/2506.04101)|null|
+|**2025-06-04**|**Quenching of single-particle strength inferred from nucleon-removal transfer reactions on $^{15}$ C**|Y. C. Jiang et.al.|[2506.03685](http://arxiv.org/abs/2506.03685)|null|
+|**2025-06-04**|**Searching for Dark Galaxies with HI detection from the Arecibo Legacy Fast ALFA (ALFALFA) survey**|Minseong Kwon et.al.|[2506.03678](http://arxiv.org/abs/2506.03678)|null|
+|**2025-06-03**|**Age dependence of Lyα escape fraction of Lyα emitters and their significant role in cosmic reionization**|Shunta Shimizu et.al.|[2506.03242](http://arxiv.org/abs/2506.03242)|null|
+|**2025-06-03**|**Distance to the Galactic centre 7 $^\prime$ halo from HI absorption**|Debangan Maji et.al.|[2506.02799](http://arxiv.org/abs/2506.02799)|null|
+|**2025-06-03**|**Hyperspectral Image Generation with Unmixing Guided Diffusion Model**|Shiyu Shen et.al.|[2506.02601](http://arxiv.org/abs/2506.02601)|null|
+|**2025-06-03**|**A TRPCA-Inspired Deep Unfolding Network for Hyperspectral Image Denoising via Thresholded t-SVD and Top-K Sparse Transformer**|Liang Li et.al.|[2506.02364](http://arxiv.org/abs/2506.02364)|null|
+|**2025-06-02**|**Higher order spectral shift of Euclidean Callias operators**|Oliver Fürst et.al.|[2506.01647](http://arxiv.org/abs/2506.01647)|null|
+|**2025-06-02**|**Exploring the potential for kinematically colder HI component as a tracer for star-forming gas in nearby galaxies**|Hye-Jin Park et.al.|[2506.01620](http://arxiv.org/abs/2506.01620)|null|
+|**2025-06-02**|**HOSIG: Full-Body Human-Object-Scene Interaction Generation with Hierarchical Scene Perception**|Wei Yao et.al.|[2506.01579](http://arxiv.org/abs/2506.01579)|null|
 |**2025-05-28**|**Euclid: Early Release Observations of ram-pressure stripping in the Perseus cluster. Detection of parsec scale star formation with in the low surface brightness stripped tails of UGC 2665 and MCG +07-07-070**|Koshy George et.al.|[2505.23342](http://arxiv.org/abs/2505.23342)|null|
 |**2025-05-29**|**Eulers Horizonte -- Möglichkeiten und Grenzen seiner Arbeitsweise in der Mathematik**|Alexander Aycock et.al.|[2505.23286](http://arxiv.org/abs/2505.23286)|null|
 |**2025-05-29**|**V. J. Emery and P. W. Anderson's views and related issues regarding the basics of cuprates: a re-look**|Navinder Singh et.al.|[2505.23200](http://arxiv.org/abs/2505.23200)|null|
@@ -4777,6 +4797,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**Zero-Shot Temporal Interaction Localization for Egocentric Videos**|Erhang Zhang et.al.|[2506.03662](http://arxiv.org/abs/2506.03662)|null|
+|**2025-06-05**|**Geometric Visual Fusion Graph Neural Networks for Multi-Person Human-Object Interaction Recognition in Videos**|Tanqiu Qiao et.al.|[2506.03440](http://arxiv.org/abs/2506.03440)|null|
+|**2025-06-05**|**SViMo: Synchronized Diffusion for Video and Motion Generation in Hand-object Interaction Scenarios**|Lingwei Dang et.al.|[2506.02444](http://arxiv.org/abs/2506.02444)|**[link](https://github.com/Droliven/SViMo_code)**|
+|**2025-06-02**|**HOSIG: Full-Body Human-Object-Scene Interaction Generation with Hierarchical Scene Perception**|Wei Yao et.al.|[2506.01579](http://arxiv.org/abs/2506.01579)|null|
+|**2025-06-01**|**Aligning VLM Assistants with Personalized Situated Cognition**|Yongqi Li et.al.|[2506.00930](http://arxiv.org/abs/2506.00930)|null|
+|**2025-06-01**|**Multiverse Through Deepfakes: The MultiFakeVerse Dataset of Person-Centric Visual and Conceptual Manipulations**|Parul Gupta et.al.|[2506.00868](http://arxiv.org/abs/2506.00868)|null|
+|**2025-05-30**|**Hi-Dyna Graph: Hierarchical Dynamic Scene Graph for Robotic Autonomy in Human-Centric Environments**|Jiawei Hou et.al.|[2506.00083](http://arxiv.org/abs/2506.00083)|null|
+|**2025-05-30**|**InteractAnything: Zero-shot Human Object Interaction Synthesis via LLM Feedback and Object Affordance Parsing**|Jinlu Zhang et.al.|[2505.24315](http://arxiv.org/abs/2505.24315)|null|
+|**2025-05-30**|**Weakly-Supervised Affordance Grounding Guided by Part-Level Semantic Priors**|Peiran Xu et.al.|[2505.24103](http://arxiv.org/abs/2505.24103)|null|
 |**2025-05-29**|**MAGREF: Masked Guidance for Any-Reference Video Generation**|Yufan Deng et.al.|[2505.23742](http://arxiv.org/abs/2505.23742)|**[link](https://github.com/magref-video/magref)**|
 |**2025-05-29**|**Emergent Risk Awareness in Rational Agents under Resource Constraints**|Daniel Jarne Ornia et.al.|[2505.23436](http://arxiv.org/abs/2505.23436)|null|
 |**2025-05-28**|**Prototype Embedding Optimization for Human-Object Interaction Detection in Livestreaming**|Menghui Zhang et.al.|[2505.22011](http://arxiv.org/abs/2505.22011)|null|
