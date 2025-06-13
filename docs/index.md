@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.09
+## Updated on 2025.06.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4810,6 +4810,51 @@ layout: default
 |**2022-08-01**|**End-to-end View Synthesis via NeRF Attention**|Zelin Zhao et.al.|[2207.14741](http://arxiv.org/abs/2207.14741)|null|
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
+
+## Motion Generation
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**DanceChat: Large Language Model-Guided Music-to-Dance Generation**|Qing Wang et.al.|[2506.10574](http://arxiv.org/abs/2506.10574)|null|
+|**2025-06-12**|**Motion-R1: Chain-of-Thought Reasoning and Reinforcement Learning for Human Motion Generation**|Runqi Ouyang et.al.|[2506.10353](http://arxiv.org/abs/2506.10353)|null|
+|**2025-06-11**|**PlayerOne: Egocentric World Simulator**|Yuanpeng Tu et.al.|[2506.09995](http://arxiv.org/abs/2506.09995)|null|
+|**2025-06-11**|**V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning**|Mido Assran et.al.|[2506.09985](http://arxiv.org/abs/2506.09985)|null|
+|**2025-06-11**|**Synthetic Human Action Video Data Generation with Pose Transfer**|Vaclav Knapp et.al.|[2506.09411](http://arxiv.org/abs/2506.09411)|null|
+|**2025-06-11**|**Analyzing Key Objectives in Human-to-Robot Retargeting for Dexterous Manipulation**|Chendong Xin et.al.|[2506.09384](http://arxiv.org/abs/2506.09384)|null|
+|**2025-06-09**|**SILK: Smooth InterpoLation frameworK for motion in-betweening A Simplified Computational Approach**|Elly Akhoundi et.al.|[2506.09075](http://arxiv.org/abs/2506.09075)|null|
+|**2025-06-10**|**Deploying SICNav in the Field: Safe and Interactive Crowd Navigation using MPC and Bilevel Optimization**|Sepehr Samavi et.al.|[2506.08851](http://arxiv.org/abs/2506.08851)|null|
+|**2025-06-12**|**MoRE: Mixture of Residual Experts for Humanoid Lifelike Gaits Learning on Complex Terrains**|Dewei Wang et.al.|[2506.08840](http://arxiv.org/abs/2506.08840)|null|
+|**2025-06-10**|**Quantum Effective Dynamics of Papapetrou Spacetime**|Xiaokan Guo et.al.|[2506.08821](http://arxiv.org/abs/2506.08821)|null|
+
+## Human-Scene Interaction (HSI)
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**Large-scale quantization of trace I: Finite propagation operators**|Matthias Ludewig et.al.|[2506.10957](http://arxiv.org/abs/2506.10957)|null|
+|**2025-06-12**|**Considerations on Everett J. Nelson's connexive logic**|Davide Fazio et.al.|[2506.10893](http://arxiv.org/abs/2506.10893)|null|
+|**2025-06-12**|**Boosting Adversarial Transferability for Hyperspectral Image Classification Using 3D Structure-invariant Transformation and Intermediate Feature Distance**|Chun Liu et.al.|[2506.10459](http://arxiv.org/abs/2506.10459)|null|
+|**2025-06-11**|**Structural-Spectral Graph Convolution with Evidential Edge Learning for Hyperspectral Image Clustering**|Jianhan Qi et.al.|[2506.09920](http://arxiv.org/abs/2506.09920)|null|
+|**2025-06-10**|**Euclid preparation. Accurate and precise data-driven angular power spectrum covariances**|Euclid Collaboration et.al.|[2506.09118](http://arxiv.org/abs/2506.09118)|null|
+|**2025-06-10**|**The Evolutionary Path of Star-Forming Clumps in Hi-GAL**|Ylenia Maruccia et.al.|[2506.08905](http://arxiv.org/abs/2506.08905)|null|
+|**2025-06-10**|**Transformers Meet Hyperspectral Imaging: A Comprehensive Study of Models, Challenges and Open Problems**|Guyang Zhang et.al.|[2506.08596](http://arxiv.org/abs/2506.08596)|null|
+|**2025-06-10**|**Martin Davis: An Overview of his Work in Logic, Computer Science, and Philosophy**|Liesbeth De Mol et.al.|[2506.08588](http://arxiv.org/abs/2506.08588)|null|
+|**2025-06-10**|**Euclid preparation: The NISP spectroscopy channel, on ground performance and calibration**|Euclid Collaboration et.al.|[2506.08378](http://arxiv.org/abs/2506.08378)|null|
+|**2025-06-10**|**Distortion Search, A Web Search Privacy Heuristic**|Kato Mivule et.al.|[2506.08330](http://arxiv.org/abs/2506.08330)|null|
+
+## Human-Object Interaction (HOI)
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**On the use and interpretation of signal-model indistinguishability measures for gravitational-wave astronomy**|Jonathan E. Thompson et.al.|[2506.10530](http://arxiv.org/abs/2506.10530)|null|
+|**2025-06-11**|**InterActHuman: Multi-Concept Human Animation with Layout-Aligned Audio Conditions**|Zhenzhi Wang et.al.|[2506.09984](http://arxiv.org/abs/2506.09984)|null|
+|**2025-06-10**|**HunyuanVideo-HOMA: Generic Human-Object Interaction in Multimodal Driven Human Animation**|Ziyao Huang et.al.|[2506.08797](http://arxiv.org/abs/2506.08797)|null|
+|**2025-06-08**|**HOI-PAGE: Zero-Shot Human-Object Interaction Generation with Part Affordance Guidance**|Lei Li et.al.|[2506.07209](http://arxiv.org/abs/2506.07209)|null|
+|**2025-06-07**|**PhysLab: A Benchmark Dataset for Multi-Granularity Visual Parsing of Physics Experiments**|Minghao Zou et.al.|[2506.06631](http://arxiv.org/abs/2506.06631)|null|
+|**2025-06-11**|**Zero-Shot Temporal Interaction Localization for Egocentric Videos**|Erhang Zhang et.al.|[2506.03662](http://arxiv.org/abs/2506.03662)|**[link](https://github.com/irmvlab/egoloc)**|
+|**2025-06-05**|**Geometric Visual Fusion Graph Neural Networks for Multi-Person Human-Object Interaction Recognition in Videos**|Tanqiu Qiao et.al.|[2506.03440](http://arxiv.org/abs/2506.03440)|null|
+|**2025-06-05**|**SViMo: Synchronized Diffusion for Video and Motion Generation in Hand-object Interaction Scenarios**|Lingwei Dang et.al.|[2506.02444](http://arxiv.org/abs/2506.02444)|**[link](https://github.com/Droliven/SViMo_code)**|
+|**2025-06-02**|**HOSIG: Full-Body Human-Object-Scene Interaction Generation with Hierarchical Scene Perception**|Wei Yao et.al.|[2506.01579](http://arxiv.org/abs/2506.01579)|null|
+|**2025-06-01**|**Aligning VLM Assistants with Personalized Situated Cognition**|Yongqi Li et.al.|[2506.00930](http://arxiv.org/abs/2506.00930)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
