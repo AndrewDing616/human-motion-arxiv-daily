@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.21
+## Updated on 2025.06.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4815,10 +4815,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**AnimaX: Animating the Inanimate in 3D with Joint Video-Pose Diffusion Models**|Zehuan Huang et.al.|[2506.19851](http://arxiv.org/abs/2506.19851)|null|
+|**2025-06-23**|**DuetGen: Music Driven Two-Person Dance Generation via Hierarchical Masked Modeling**|Anindita Ghosh et.al.|[2506.18680](http://arxiv.org/abs/2506.18680)|null|
+|**2025-06-25**|**TCDiff++: An End-to-end Trajectory-Controllable Diffusion Model for Harmonious Music-Driven Group Choreography**|Yuqin Dai et.al.|[2506.18671](http://arxiv.org/abs/2506.18671)|null|
+|**2025-06-22**|**Fast Neural Inverse Kinematics on Human Body Motions**|David Tolpin et.al.|[2506.17996](http://arxiv.org/abs/2506.17996)|null|
+|**2025-06-22**|**PlanMoGPT: Flow-Enhanced Progressive Planning for Text to Motion Synthesis**|Chuhao Jin et.al.|[2506.17912](http://arxiv.org/abs/2506.17912)|null|
 |**2025-06-18**|**GenHOI: Generalizing Text-driven 4D Human-Object Interaction Synthesis for Unseen Objects**|Shujia Li et.al.|[2506.15483](http://arxiv.org/abs/2506.15483)|null|
 |**2025-06-18**|**Human Motion Capture from Loose and Sparse Inertial Sensors with Garment-aware Diffusion Models**|Andela Ilic et.al.|[2506.15290](http://arxiv.org/abs/2506.15290)|null|
 |**2025-06-18**|**TACT: Humanoid Whole-body Contact Manipulation through Deep Imitation Learning with Tactile Modality**|Masaki Murooka et.al.|[2506.15146](http://arxiv.org/abs/2506.15146)|null|
-|**2025-06-17**|**Design an Editable Speech-to-Sign-Language Transformer System: A Human-Centered AI Approach**|Yingchao Li et.al.|[2506.14677](http://arxiv.org/abs/2506.14677)|null|
+|**2025-06-24**|**Human-Centered Editable Speech-to-Sign-Language Generation via Streaming Conformer-Transformer and Resampling Hook**|Yingchao Li et.al.|[2506.14677](http://arxiv.org/abs/2506.14677)|null|
 |**2025-06-17**|**Single-Example Learning in a Mixture of GPDMs with Latent Geometries**|Jesse St. Amand et.al.|[2506.14563](http://arxiv.org/abs/2506.14563)|null|
 |**2025-06-17**|**Toward Rich Video Human-Motion2D Generation**|Ruihao Xi et.al.|[2506.14428](http://arxiv.org/abs/2506.14428)|null|
 |**2025-06-17**|**Socially Aware Robot Crowd Navigation via Online Uncertainty-Driven Risk Adaptation**|Zhirui Sun et.al.|[2506.14305](http://arxiv.org/abs/2506.14305)|null|
@@ -4840,6 +4845,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**GenHSI: Controllable Generation of Human-Scene Interaction Videos**|Zekun Li et.al.|[2506.19840](http://arxiv.org/abs/2506.19840)|null|
+|**2025-06-24**|**Loose threads: parsec-scale filamentation in the high Galactic latitude molecular clouds MBM 3 and MBM 16**|Marco Monaci et.al.|[2506.19728](http://arxiv.org/abs/2506.19728)|null|
+|**2025-06-24**|**Euclid: Quick Data Release (Q1) -- Watching ICM-selected galaxy clusters with Euclid eyes -- prospects of Euclid data in the context of large SZ and X-ray based surveys**|M. Klein et.al.|[2506.19566](http://arxiv.org/abs/2506.19566)|null|
+|**2025-06-23**|**Longitudinal analysis of heart rate variability as it pertains to anxiety and readiness**|Tucker Paron et.al.|[2506.19128](http://arxiv.org/abs/2506.19128)|null|
+|**2025-06-23**|**Detectability of the 21 cm signal with BINGO through cross-correlation with photometric surveys**|Gabriel A. S. Silva et.al.|[2506.19068](http://arxiv.org/abs/2506.19068)|null|
+|**2025-06-23**|**Multi-Scale Spectral Attention Module-based Hyperspectral Segmentation in Autonomous Driving Scenarios**|Imad Ali Shah et.al.|[2506.18682](http://arxiv.org/abs/2506.18682)|null|
+|**2025-06-23**|**Darboux formulae for linear hyperbolic equations in discrete case**|Sergey V. Smirnov et.al.|[2506.18603](http://arxiv.org/abs/2506.18603)|null|
+|**2025-06-23**|**A converse to Cartan's Theorem B: The extension property for real analytic and Nash sets**|José F. Fernando et.al.|[2506.18347](http://arxiv.org/abs/2506.18347)|null|
+|**2025-06-21**|**LoLA-SpecViT: Local Attention SwiGLU Vision Transformer with LoRA for Hyperspectral Imaging**|Fadi Abdeladhim Zidi et.al.|[2506.17759](http://arxiv.org/abs/2506.17759)|null|
+|**2025-06-20**|**The physics, travels, and tribulations of Ronald Wilfrid Gurney**|Brian R. Pollard et.al.|[2506.17436](http://arxiv.org/abs/2506.17436)|null|
 |**2025-06-18**|**AVID: Formation and evolution of a coalesced major merger of late-type dwarf galaxies (VCC 479) on the outskirts of the Virgo cluster**|Weibin Sun et.al.|[2506.15268](http://arxiv.org/abs/2506.15268)|null|
 |**2025-06-18**|**Classification of restricted Lie algebras of dimension $4$**|W. Liu et.al.|[2506.15179](http://arxiv.org/abs/2506.15179)|null|
 |**2025-06-17**|**An Annotated Translation of D. Bernoulli's "A New Theory on the Motion of Waters Through Channels of Any Kind"**|Sylvio R. Bistafa et.al.|[2506.14905](http://arxiv.org/abs/2506.14905)|null|
@@ -4865,6 +4880,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**GenHSI: Controllable Generation of Human-Scene Interaction Videos**|Zekun Li et.al.|[2506.19840](http://arxiv.org/abs/2506.19840)|null|
+|**2025-06-24**|**HOIverse: A Synthetic Scene Graph Dataset With Human Object Interactions**|Mrunmai Vivek Phatak et.al.|[2506.19639](http://arxiv.org/abs/2506.19639)|null|
+|**2025-06-24**|**Study of higher-order interactions in unweighted, undirected networks using persistent homology**|Udit Raj et.al.|[2506.19448](http://arxiv.org/abs/2506.19448)|null|
+|**2025-06-23**|**OmniAvatar: Efficient Audio-Driven Avatar Video Generation with Adaptive Body Animation**|Qijun Gan et.al.|[2506.18866](http://arxiv.org/abs/2506.18866)|null|
+|**2025-06-23**|**MARL-MambaContour: Unleashing Multi-Agent Deep Reinforcement Learning for Active Contour Optimization in Medical Image Segmentation**|Ruicheng Zhang et.al.|[2506.18679](http://arxiv.org/abs/2506.18679)|null|
+|**2025-06-22**|**On the Robustness of Human-Object Interaction Detection against Distribution Shift**|Chi Xie et.al.|[2506.18021](http://arxiv.org/abs/2506.18021)|null|
+|**2025-06-20**|**Language-driven Description Generation and Common Sense Reasoning for Video Action Recognition**|Xiaodan Hu et.al.|[2506.16701](http://arxiv.org/abs/2506.16701)|null|
+|**2025-06-19**|**Ultrastable jammed sphere packings with a wide range of particle dispersities**|Robert S. Hoy et.al.|[2506.16521](http://arxiv.org/abs/2506.16521)|null|
 |**2025-06-18**|**HOIDiNi: Human-Object Interaction through Diffusion Noise Optimization**|Roey Ron et.al.|[2506.15625](http://arxiv.org/abs/2506.15625)|null|
 |**2025-06-18**|**GenHOI: Generalizing Text-driven 4D Human-Object Interaction Synthesis for Unseen Objects**|Shujia Li et.al.|[2506.15483](http://arxiv.org/abs/2506.15483)|null|
 |**2025-06-17**|**Egocentric Human-Object Interaction Detection: A New Benchmark and Method**|Kunyuan Deng et.al.|[2506.14189](http://arxiv.org/abs/2506.14189)|null|
