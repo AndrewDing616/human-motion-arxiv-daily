@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.26
+## Updated on 2025.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4815,9 +4815,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-27**|**RoboEnvision: A Long-Horizon Video Generation Model for Multi-Task Robot Manipulation**|Liudi Yang et.al.|[2506.22007](http://arxiv.org/abs/2506.22007)|null|
+|**2025-06-27**|**Generating Attribute-Aware Human Motions from Textual Prompt**|Xinghan Wang et.al.|[2506.21912](http://arxiv.org/abs/2506.21912)|null|
+|**2025-06-25**|**SkinningGS: Editable Dynamic Human Scene Reconstruction Using Gaussian Splatting Based on a Skinning Model**|Da Li et.al.|[2506.21632](http://arxiv.org/abs/2506.21632)|null|
+|**2025-06-26**|**Temporal Rate Reduction Clustering for Human Motion Segmentation**|Xianghan Meng et.al.|[2506.21249](http://arxiv.org/abs/2506.21249)|null|
+|**2025-06-25**|**DemoDiffusion: One-Shot Human Imitation using pre-trained Diffusion Policy**|Sungjae Park et.al.|[2506.20668](http://arxiv.org/abs/2506.20668)|null|
 |**2025-06-24**|**AnimaX: Animating the Inanimate in 3D with Joint Video-Pose Diffusion Models**|Zehuan Huang et.al.|[2506.19851](http://arxiv.org/abs/2506.19851)|null|
 |**2025-06-23**|**DuetGen: Music Driven Two-Person Dance Generation via Hierarchical Masked Modeling**|Anindita Ghosh et.al.|[2506.18680](http://arxiv.org/abs/2506.18680)|null|
-|**2025-06-25**|**TCDiff++: An End-to-end Trajectory-Controllable Diffusion Model for Harmonious Music-Driven Group Choreography**|Yuqin Dai et.al.|[2506.18671](http://arxiv.org/abs/2506.18671)|null|
+|**2025-06-26**|**TCDiff++: An End-to-end Trajectory-Controllable Diffusion Model for Harmonious Music-Driven Group Choreography**|Yuqin Dai et.al.|[2506.18671](http://arxiv.org/abs/2506.18671)|null|
 |**2025-06-22**|**Fast Neural Inverse Kinematics on Human Body Motions**|David Tolpin et.al.|[2506.17996](http://arxiv.org/abs/2506.17996)|null|
 |**2025-06-22**|**PlanMoGPT: Flow-Enhanced Progressive Planning for Text to Motion Synthesis**|Chuhao Jin et.al.|[2506.17912](http://arxiv.org/abs/2506.17912)|null|
 |**2025-06-18**|**GenHOI: Generalizing Text-driven 4D Human-Object Interaction Synthesis for Unseen Objects**|Shujia Li et.al.|[2506.15483](http://arxiv.org/abs/2506.15483)|null|
@@ -4845,6 +4850,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-27**|**Modeling the Mass Distribution and Gravitational Potential of Nearby Disk Galaxies: Implications for the ISM Dynamical Equilibrium**|Vivek Vijayakumar et.al.|[2506.22381](http://arxiv.org/abs/2506.22381)|null|
+|**2025-06-27**|**Euclid preparation. Full-shape modelling of 2-point and 3-point correlation functions in real space**|Euclid Collaboration et.al.|[2506.22257](http://arxiv.org/abs/2506.22257)|null|
+|**2025-06-27**|**Boundary Estimates for the Monge-Ampère Equation in the Polygons with Guillemin Boundary Conditions**|Masoud Bayrami-Aminlouee et.al.|[2506.22187](http://arxiv.org/abs/2506.22187)|null|
+|**2025-06-27**|**Disentangling the growth rate of perturbations from the HI bias using only clustering data from galaxy surveys**|Pankaj Chavan et.al.|[2506.22064](http://arxiv.org/abs/2506.22064)|null|
+|**2025-06-27**|**Single-exponential bounds for diagonals of D-finite power series**|Shaoshi Chen et.al.|[2506.22011](http://arxiv.org/abs/2506.22011)|null|
+|**2025-06-27**|**Physical Degradation Model-Guided Interferometric Hyperspectral Reconstruction with Unfolding Transformer**|Yuansheng Li et.al.|[2506.21880](http://arxiv.org/abs/2506.21880)|null|
+|**2025-06-26**|**An H $α$ Cloud in the HI Tail: Recent Star Formation in the Outskirts of NGC 4258 Revealed by Nanshan 1-m Telescope**|Cheng Cheng et.al.|[2506.21321](http://arxiv.org/abs/2506.21321)|null|
+|**2025-06-26**|**Probing Obscured Star Formation in Galaxy Clusters Using JWST Medium Band Images: 3.3 $μ\rm m$ PAH Emitter Sample in Abell 2744**|Cheng Cheng et.al.|[2506.21320](http://arxiv.org/abs/2506.21320)|null|
+|**2025-06-26**|**Tree-based Semantic Losses: Application to Sparsely-supervised Large Multi-class Hyperspectral Segmentation**|Junwen Wang et.al.|[2506.21150](http://arxiv.org/abs/2506.21150)|null|
+|**2025-06-26**|**Introduction to the Cohomology of the Flag Variety**|Sara C. Billey et.al.|[2506.21064](http://arxiv.org/abs/2506.21064)|null|
 |**2025-06-24**|**GenHSI: Controllable Generation of Human-Scene Interaction Videos**|Zekun Li et.al.|[2506.19840](http://arxiv.org/abs/2506.19840)|null|
 |**2025-06-24**|**Loose threads: parsec-scale filamentation in the high Galactic latitude molecular clouds MBM 3 and MBM 16**|Marco Monaci et.al.|[2506.19728](http://arxiv.org/abs/2506.19728)|null|
 |**2025-06-24**|**Euclid: Quick Data Release (Q1) -- Watching ICM-selected galaxy clusters with Euclid eyes -- prospects of Euclid data in the context of large SZ and X-ray based surveys**|M. Klein et.al.|[2506.19566](http://arxiv.org/abs/2506.19566)|null|
@@ -4880,6 +4895,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**Waging a Campaign: Results from an Injection-Recovery Study involving 35 numerical Relativity Simulations and three Waveform Models**|Sarp Akçay et.al.|[2506.19990](http://arxiv.org/abs/2506.19990)|null|
 |**2025-06-24**|**GenHSI: Controllable Generation of Human-Scene Interaction Videos**|Zekun Li et.al.|[2506.19840](http://arxiv.org/abs/2506.19840)|null|
 |**2025-06-24**|**HOIverse: A Synthetic Scene Graph Dataset With Human Object Interactions**|Mrunmai Vivek Phatak et.al.|[2506.19639](http://arxiv.org/abs/2506.19639)|null|
 |**2025-06-24**|**Study of higher-order interactions in unweighted, undirected networks using persistent homology**|Udit Raj et.al.|[2506.19448](http://arxiv.org/abs/2506.19448)|null|
