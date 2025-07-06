@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.01
+## Updated on 2025.07.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4815,6 +4815,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**Reconstructing Close Human Interaction with Appearance and Proxemics Reasoning**|Buzhen Huang et.al.|[2507.02565](http://arxiv.org/abs/2507.02565)|null|
+|**2025-07-02**|**GeoAda: Efficiently Finetune Geometric Diffusion Models with Equivariant Adapters**|Wanjia Zhao et.al.|[2507.02085](http://arxiv.org/abs/2507.02085)|null|
+|**2025-07-02**|**TypeTele: Releasing Dexterity in Teleoperation by Dexterous Manipulation Types**|Yuhao Lin et.al.|[2507.01857](http://arxiv.org/abs/2507.01857)|null|
+|**2025-07-03**|**HOI-Dyn: Learning Interaction Dynamics for Human-Object Motion Diffusion**|Lin Wu et.al.|[2507.01737](http://arxiv.org/abs/2507.01737)|null|
+|**2025-07-02**|**Physics-informed Ground Reaction Dynamics from Human Motion Capture**|Cuong Le et.al.|[2507.01340](http://arxiv.org/abs/2507.01340)|null|
+|**2025-07-01**|**Real-Time Inverse Kinematics for Generating Multi-Constrained Movements of Virtual Human Characters**|Hendric Voss et.al.|[2507.00792](http://arxiv.org/abs/2507.00792)|null|
+|**2025-07-01**|**A Unified Transformer-Based Framework with Pretraining For Whole Body Grasping Motion Generation**|Edward Effendy et.al.|[2507.00676](http://arxiv.org/abs/2507.00676)|null|
+|**2025-07-01**|**Box-QAymo: Box-Referring VQA Dataset for Autonomous Driving**|Djamahl Etchegaray et.al.|[2507.00525](http://arxiv.org/abs/2507.00525)|null|
+|**2025-06-30**|**MotionGPT3: Human Motion as a Second Modality**|Bingfan Zhu et.al.|[2506.24086](http://arxiv.org/abs/2506.24086)|null|
+|**2025-06-30**|**SynMotion: Semantic-Visual Adaptation for Motion Customized Video Generation**|Shuai Tan et.al.|[2506.23690](http://arxiv.org/abs/2506.23690)|null|
 |**2025-06-27**|**RoboEnvision: A Long-Horizon Video Generation Model for Multi-Task Robot Manipulation**|Liudi Yang et.al.|[2506.22007](http://arxiv.org/abs/2506.22007)|null|
 |**2025-06-27**|**Generating Attribute-Aware Human Motions from Textual Prompt**|Xinghan Wang et.al.|[2506.21912](http://arxiv.org/abs/2506.21912)|null|
 |**2025-06-25**|**SkinningGS: Editable Dynamic Human Scene Reconstruction Using Gaussian Splatting Based on a Skinning Model**|Da Li et.al.|[2506.21632](http://arxiv.org/abs/2506.21632)|null|
@@ -4850,6 +4860,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**Maximal stretch and Lipschitz maps on Riemannian manifolds of negative curvature**|Xian Dai et.al.|[2507.02617](http://arxiv.org/abs/2507.02617)|null|
+|**2025-07-03**|**Cross-domain Hyperspectral Image Classification based on Bi-directional Domain Adaptation**|Yuxiang Zhang et.al.|[2507.02268](http://arxiv.org/abs/2507.02268)|null|
+|**2025-07-02**|**Large Scale Wind Driven Structures in the Orion Nebula**|C. R. O'Dell et.al.|[2507.02147](http://arxiv.org/abs/2507.02147)|null|
+|**2025-07-02**|**Vertical Structure and Dynamics of a Galactic Disk**|Chanda J. Jog et.al.|[2507.02062](http://arxiv.org/abs/2507.02062)|null|
+|**2025-07-02**|**The effects of the orbital configurations of mergers on reshaping galaxy structures**|Xinyi Wu et.al.|[2507.02051](http://arxiv.org/abs/2507.02051)|null|
+|**2025-07-02**|**About the relatively uniform completion of a principal ideal**|Elmiloud Chil et.al.|[2507.01507](http://arxiv.org/abs/2507.01507)|null|
+|**2025-07-02**|**Physics-informed Ground Reaction Dynamics from Human Motion Capture**|Cuong Le et.al.|[2507.01340](http://arxiv.org/abs/2507.01340)|null|
+|**2025-07-01**|**Scaling, Fractal Dynamics and Critical Exponents{: Application} in a non-integer dimensional Ising model**|Henrique A. de Lima et.al.|[2507.00956](http://arxiv.org/abs/2507.00956)|null|
+|**2025-07-01**|**Characterizations of the Sobolev norms and the total variation via nonlocal functionals, and related problems**|Hoai-Minh Nguyen et.al.|[2507.00842](http://arxiv.org/abs/2507.00842)|null|
+|**2025-06-30**|**Further generalization of central sets theorem for partial semigroups and vip systems**|Anik Pramanick et.al.|[2506.23865](http://arxiv.org/abs/2506.23865)|null|
 |**2025-06-27**|**Modeling the Mass Distribution and Gravitational Potential of Nearby Disk Galaxies: Implications for the ISM Dynamical Equilibrium**|Vivek Vijayakumar et.al.|[2506.22381](http://arxiv.org/abs/2506.22381)|null|
 |**2025-06-27**|**Euclid preparation. Full-shape modelling of 2-point and 3-point correlation functions in real space**|Euclid Collaboration et.al.|[2506.22257](http://arxiv.org/abs/2506.22257)|null|
 |**2025-06-27**|**Boundary Estimates for the Monge-Ampère Equation in the Polygons with Guillemin Boundary Conditions**|Masoud Bayrami-Aminlouee et.al.|[2506.22187](http://arxiv.org/abs/2506.22187)|null|
@@ -4895,6 +4915,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**MvHo-IB: Multi-View Higher-Order Information Bottleneck for Brain Disorder Diagnosis**|Kunyu Zhang et.al.|[2507.02847](http://arxiv.org/abs/2507.02847)|null|
+|**2025-07-03**|**PhenomXPNR: An improved gravitational wave model linking precessing inspirals and NR-calibrated merger-ringdown**|Eleanor Hamilton et.al.|[2507.02604](http://arxiv.org/abs/2507.02604)|null|
+|**2025-07-03**|**HOI-Dyn: Learning Interaction Dynamics for Human-Object Motion Diffusion**|Lin Wu et.al.|[2507.01737](http://arxiv.org/abs/2507.01737)|null|
+|**2025-07-02**|**Prompt Guidance and Human Proximal Perception for HOT Prediction with Regional Joint Loss**|Yuxiao Wang et.al.|[2507.01630](http://arxiv.org/abs/2507.01630)|null|
+|**2025-07-01**|**Light Manipulation via Tunable Collective Quantum States in Waveguide-Coupled Bragg and Anti-Bragg Superatoms**|Zhengqi Niu et.al.|[2507.00935](http://arxiv.org/abs/2507.00935)|null|
+|**2025-07-01**|**Towards Open-World Human Action Segmentation Using Graph Convolutional Networks**|Hao Xing et.al.|[2507.00756](http://arxiv.org/abs/2507.00756)|null|
+|**2025-07-01**|**Multi-Modal Graph Convolutional Network with Sinusoidal Encoding for Robust Human Action Segmentation**|Hao Xing et.al.|[2507.00752](http://arxiv.org/abs/2507.00752)|null|
+|**2025-06-29**|**VolumetricSMPL: A Neural Volumetric Body Model for Efficient Interactions, Contacts, and Collisions**|Marko Mihajlovic et.al.|[2506.23236](http://arxiv.org/abs/2506.23236)|null|
 |**2025-06-24**|**Waging a Campaign: Results from an Injection-Recovery Study involving 35 numerical Relativity Simulations and three Waveform Models**|Sarp Akçay et.al.|[2506.19990](http://arxiv.org/abs/2506.19990)|null|
 |**2025-06-24**|**GenHSI: Controllable Generation of Human-Scene Interaction Videos**|Zekun Li et.al.|[2506.19840](http://arxiv.org/abs/2506.19840)|null|
 |**2025-06-24**|**HOIverse: A Synthetic Scene Graph Dataset With Human Object Interactions**|Mrunmai Vivek Phatak et.al.|[2506.19639](http://arxiv.org/abs/2506.19639)|null|
