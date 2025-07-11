@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.06
+## Updated on 2025.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4815,6 +4815,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Go to Zero: Towards Zero-shot Motion Generation with Million-scale Data**|Ke Fan et.al.|[2507.07095](http://arxiv.org/abs/2507.07095)|null|
+|**2025-07-09**|**MOST: Motion Diffusion Model for Rare Text via Temporal Clip Banzhaf Interaction**|Yin Wang et.al.|[2507.06590](http://arxiv.org/abs/2507.06590)|null|
+|**2025-07-09**|**Speak2Sign3D: A Multi-modal Pipeline for English Speech to American Sign Language Animation**|Kazi Mahathir Rahman et.al.|[2507.06530](http://arxiv.org/abs/2507.06530)|null|
+|**2025-07-08**|**SImpHAR: Advancing impedance-based human activity recognition using 3D simulation and text-to-motion models**|Lala Shakti Swarup Ray et.al.|[2507.06405](http://arxiv.org/abs/2507.06405)|null|
+|**2025-07-08**|**Learning to Track Any Points from Human Motion**|Inès Hyeonsu Kim et.al.|[2507.06233](http://arxiv.org/abs/2507.06233)|null|
+|**2025-07-08**|**Hybrid Diffusion Policies with Projective Geometric Algebra for Efficient Robot Manipulation Learning**|Xiatao Sun et.al.|[2507.05695](http://arxiv.org/abs/2507.05695)|null|
+|**2025-07-07**|**Motion Generation: A Survey of Generative Approaches and Benchmarks**|Aliasghar Khani et.al.|[2507.05419](http://arxiv.org/abs/2507.05419)|null|
+|**2025-07-06**|**Grounded Gesture Generation: Language, Motion, and Space**|Anna Deichler et.al.|[2507.04522](http://arxiv.org/abs/2507.04522)|null|
+|**2025-07-05**|**Stochastic Human Motion Prediction with Memory of Action Transition and Action Characteristic**|Jianwei Tang et.al.|[2507.04062](http://arxiv.org/abs/2507.04062)|null|
+|**2025-07-05**|**Temporal Continual Learning with Prior Compensation for Human Motion Prediction**|Jianwei Tang et.al.|[2507.04060](http://arxiv.org/abs/2507.04060)|null|
 |**2025-07-03**|**Reconstructing Close Human Interaction with Appearance and Proxemics Reasoning**|Buzhen Huang et.al.|[2507.02565](http://arxiv.org/abs/2507.02565)|null|
 |**2025-07-02**|**GeoAda: Efficiently Finetune Geometric Diffusion Models with Equivariant Adapters**|Wanjia Zhao et.al.|[2507.02085](http://arxiv.org/abs/2507.02085)|null|
 |**2025-07-02**|**TypeTele: Releasing Dexterity in Teleoperation by Dexterous Manipulation Types**|Yuhao Lin et.al.|[2507.01857](http://arxiv.org/abs/2507.01857)|null|
@@ -4860,6 +4870,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**Wave Mechanics and C-equivalence**|Satyanad Kichenassamy et.al.|[2507.07069](http://arxiv.org/abs/2507.07069)|null|
+|**2025-07-09**|**Uncertainty Quantification as a Complementary Latent Health Indicator for Remaining Useful Life Prediction on Turbofan Engines**|Lucas Thil et.al.|[2507.06672](http://arxiv.org/abs/2507.06672)|null|
+|**2025-07-10**|**The Distribution of Atomic Hydrogen in the Host Galaxies of FRBs**|Hugh Roxburgh et.al.|[2507.06594](http://arxiv.org/abs/2507.06594)|null|
+|**2025-07-08**|**Intergalactic Medium Tomography with the Sunburst Arc**|Michelle A. Berg et.al.|[2507.06443](http://arxiv.org/abs/2507.06443)|null|
+|**2025-07-08**|**The HI-to-H2 transition in the Draco cloud**|Nicola Schneider et.al.|[2507.06131](http://arxiv.org/abs/2507.06131)|null|
+|**2025-07-08**|**Revisiting the configurations of hydrogen impurities in SrTiO3: Insights from first-principles local vibration mode calculations**|Cai Zenghua et.al.|[2507.05752](http://arxiv.org/abs/2507.05752)|null|
+|**2025-07-08**|**Non-Intrusive Binaural Speech Intelligibility Prediction Using Mamba for Hearing-Impaired Listeners**|Katsuhiko Yamamoto et.al.|[2507.05729](http://arxiv.org/abs/2507.05729)|null|
+|**2025-07-07**|**Unveiling the dark Universe with HI and EMBER-2**|Mauro Bernardini et.al.|[2507.05339](http://arxiv.org/abs/2507.05339)|null|
+|**2025-07-07**|**Deep neutral hydrogen observations of the early-type galaxy NGC 2768: collided by a newly discovered satellite galaxy?**|Nai-Ping Yu et.al.|[2507.04703](http://arxiv.org/abs/2507.04703)|null|
+|**2025-07-07**|**Equilibrium Strategies for the N-agent Mean-Variance Investment Problem over a Random Horizon**|Xiaoqing Liang et.al.|[2507.04611](http://arxiv.org/abs/2507.04611)|null|
 |**2025-07-03**|**Maximal stretch and Lipschitz maps on Riemannian manifolds of negative curvature**|Xian Dai et.al.|[2507.02617](http://arxiv.org/abs/2507.02617)|null|
 |**2025-07-03**|**Cross-domain Hyperspectral Image Classification based on Bi-directional Domain Adaptation**|Yuxiang Zhang et.al.|[2507.02268](http://arxiv.org/abs/2507.02268)|null|
 |**2025-07-02**|**Large Scale Wind Driven Structures in the Orion Nebula**|C. R. O'Dell et.al.|[2507.02147](http://arxiv.org/abs/2507.02147)|null|
@@ -4915,6 +4935,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Bilateral Collaboration with Large Vision-Language Models for Open Vocabulary Human-Object Interaction Detection**|Yupeng Hu et.al.|[2507.06510](http://arxiv.org/abs/2507.06510)|null|
+|**2025-07-07**|**Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities**|Gheorghe Comanici et.al.|[2507.06261](http://arxiv.org/abs/2507.06261)|null|
+|**2025-07-08**|**Entrywise transforms preserving matrix positivity and non-positivity**|Dominique Guillot et.al.|[2507.06076](http://arxiv.org/abs/2507.06076)|null|
 |**2025-07-03**|**MvHo-IB: Multi-View Higher-Order Information Bottleneck for Brain Disorder Diagnosis**|Kunyu Zhang et.al.|[2507.02847](http://arxiv.org/abs/2507.02847)|null|
 |**2025-07-03**|**PhenomXPNR: An improved gravitational wave model linking precessing inspirals and NR-calibrated merger-ringdown**|Eleanor Hamilton et.al.|[2507.02604](http://arxiv.org/abs/2507.02604)|null|
 |**2025-07-03**|**HOI-Dyn: Learning Interaction Dynamics for Human-Object Motion Diffusion**|Lin Wu et.al.|[2507.01737](http://arxiv.org/abs/2507.01737)|null|
