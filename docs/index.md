@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.11
+## Updated on 2025.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4815,6 +4815,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-13**|**VST-Pose: A Velocity-Integrated Spatiotem-poral Attention Network for Human WiFi Pose Estimation**|Xinyu Zhang et.al.|[2507.09672](http://arxiv.org/abs/2507.09672)|null|
+|**2025-07-12**|**SnapMoGen: Human Motion Generation from Expressive Texts**|Chuan Guo et.al.|[2507.09122](http://arxiv.org/abs/2507.09122)|null|
+|**2025-07-10**|**Membrane-mediated force transduction: Stick-slip motion of vesicles with fluid membranes**|Paula Magrinya et.al.|[2507.07880](http://arxiv.org/abs/2507.07880)|null|
+|**2025-07-10**|**EEvAct: Early Event-Based Action Recognition with High-Rate Two-Stream Spiking Neural Networks**|Michael Neumeier et.al.|[2507.07734](http://arxiv.org/abs/2507.07734)|null|
+|**2025-07-10**|**GGMotion: Group Graph Dynamics-Kinematics Networks for Human Motion Prediction**|Shuaijin Wan et.al.|[2507.07515](http://arxiv.org/abs/2507.07515)|null|
+|**2025-07-10**|**Behave Your Motion: Habit-preserved Cross-category Animal Motion Transfer**|Zhimin Zhang et.al.|[2507.07394](http://arxiv.org/abs/2507.07394)|null|
+|**2025-07-10**|**UniTracker: Learning Universal Whole-Body Motion Tracker for Humanoid Robots**|Kangning Yin et.al.|[2507.07356](http://arxiv.org/abs/2507.07356)|null|
 |**2025-07-09**|**Go to Zero: Towards Zero-shot Motion Generation with Million-scale Data**|Ke Fan et.al.|[2507.07095](http://arxiv.org/abs/2507.07095)|null|
 |**2025-07-09**|**MOST: Motion Diffusion Model for Rare Text via Temporal Clip Banzhaf Interaction**|Yin Wang et.al.|[2507.06590](http://arxiv.org/abs/2507.06590)|null|
 |**2025-07-09**|**Speak2Sign3D: A Multi-modal Pipeline for English Speech to American Sign Language Animation**|Kazi Mahathir Rahman et.al.|[2507.06530](http://arxiv.org/abs/2507.06530)|null|
@@ -4870,6 +4877,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**Investigating Galactic Fountains in M101: Insights from Ionized, UV emissions and Neutral Gas**|Aashiya Anitha Shaji et.al.|[2507.10549](http://arxiv.org/abs/2507.10549)|null|
+|**2025-07-14**|**Short-time existence of Lagrangian mean curvature flow**|Spandan Ghosh et.al.|[2507.10341](http://arxiv.org/abs/2507.10341)|null|
+|**2025-07-14**|**Evolution and star formation history of NGC300 from a chemical evolution model with radial gas inflows**|Xiaoyu Kang et.al.|[2507.10245](http://arxiv.org/abs/2507.10245)|null|
+|**2025-07-14**|**Some New Congruences and Partition-Theoretic Interpretations for the Coefficients of Some Rogers-Ramanujan Type Identities**|Sabi Biswas et.al.|[2507.10020](http://arxiv.org/abs/2507.10020)|null|
+|**2025-07-14**|**The Rosetta Stone Project. II. The correlation between SFE and L/M indicator for the evolutionary stages of star-forming clumps in post-processed RMHD simulations**|Ngo-Duy Tung et.al.|[2507.09936](http://arxiv.org/abs/2507.09936)|null|
+|**2025-07-14**|**MCGA: Mixture of Codebooks Hyperspectral Reconstruction via Grayscale-Aware Attention**|Zhanjiang Yang et.al.|[2507.09885](http://arxiv.org/abs/2507.09885)|null|
+|**2025-07-11**|**Unambiguous GeV gamma-rays from molecular clouds illuminated by particles diffusing from the adjacent supernova remnant G335.2+0.1 that is confined in an expanding bubble**|Chen Huang et.al.|[2507.08709](http://arxiv.org/abs/2507.08709)|null|
+|**2025-07-11**|**Metal-THINGS: gas metallicity gradients in nearby galaxies**|Guillermo Valé et.al.|[2507.08633](http://arxiv.org/abs/2507.08633)|null|
+|**2025-07-11**|**Neutron-induced opalescence in silica glass**|S. A. Vasiliev et.al.|[2507.08618](http://arxiv.org/abs/2507.08618)|null|
+|**2025-07-10**|**Euclid: Early Release Observations. Weak gravitational lensing analysis of Abell 2390**|T. Schrabback et.al.|[2507.07629](http://arxiv.org/abs/2507.07629)|null|
 |**2025-07-08**|**Wave Mechanics and C-equivalence**|Satyanad Kichenassamy et.al.|[2507.07069](http://arxiv.org/abs/2507.07069)|null|
 |**2025-07-09**|**Uncertainty Quantification as a Complementary Latent Health Indicator for Remaining Useful Life Prediction on Turbofan Engines**|Lucas Thil et.al.|[2507.06672](http://arxiv.org/abs/2507.06672)|null|
 |**2025-07-10**|**The Distribution of Atomic Hydrogen in the Host Galaxies of FRBs**|Hugh Roxburgh et.al.|[2507.06594](http://arxiv.org/abs/2507.06594)|null|
@@ -4935,8 +4952,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-12**|**RoHOI: Robustness Benchmark for Human-Object Interaction Detection**|Di Wen et.al.|[2507.09111](http://arxiv.org/abs/2507.09111)|null|
+|**2025-07-10**|**Temporally Consistent Amodal Completion for 3D Human-Object Interaction Reconstruction**|Hyungjun Doh et.al.|[2507.08137](http://arxiv.org/abs/2507.08137)|null|
 |**2025-07-09**|**Bilateral Collaboration with Large Vision-Language Models for Open Vocabulary Human-Object Interaction Detection**|Yupeng Hu et.al.|[2507.06510](http://arxiv.org/abs/2507.06510)|null|
-|**2025-07-07**|**Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities**|Gheorghe Comanici et.al.|[2507.06261](http://arxiv.org/abs/2507.06261)|null|
+|**2025-07-11**|**Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities**|Gheorghe Comanici et.al.|[2507.06261](http://arxiv.org/abs/2507.06261)|null|
 |**2025-07-08**|**Entrywise transforms preserving matrix positivity and non-positivity**|Dominique Guillot et.al.|[2507.06076](http://arxiv.org/abs/2507.06076)|null|
 |**2025-07-03**|**MvHo-IB: Multi-View Higher-Order Information Bottleneck for Brain Disorder Diagnosis**|Kunyu Zhang et.al.|[2507.02847](http://arxiv.org/abs/2507.02847)|null|
 |**2025-07-03**|**PhenomXPNR: An improved gravitational wave model linking precessing inspirals and NR-calibrated merger-ringdown**|Eleanor Hamilton et.al.|[2507.02604](http://arxiv.org/abs/2507.02604)|null|
