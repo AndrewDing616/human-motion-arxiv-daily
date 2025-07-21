@@ -1,4 +1,4 @@
-## Updated on 2025.07.16
+## Updated on 2025.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -976,7 +976,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## SFM
 
@@ -1401,7 +1401,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -2565,7 +2565,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2880,7 +2880,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## Image Matching
 
@@ -3214,7 +3214,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## NeRF
 
@@ -4832,12 +4832,16 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## Motion Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**MMHU: A Massive-Scale Multimodal Benchmark for Human Behavior Understanding**|Renjie Li et.al.|[2507.12463](http://arxiv.org/abs/2507.12463)|null|
+|**2025-07-16**|**Neural Human Pose Prior**|Michal Heker et.al.|[2507.12138](http://arxiv.org/abs/2507.12138)|null|
+|**2025-07-16**|**MOSPA: Human Motion Generation Driven by Spatial Audio**|Shuyang Xu et.al.|[2507.11949](http://arxiv.org/abs/2507.11949)|null|
+|**2025-07-15**|**A Stochastic RAGE Theorem and Enhanced Dissipation for Transport Noise**|Michele Coti Zelati et.al.|[2507.11422](http://arxiv.org/abs/2507.11422)|null|
 |**2025-07-13**|**VST-Pose: A Velocity-Integrated Spatiotem-poral Attention Network for Human WiFi Pose Estimation**|Xinyu Zhang et.al.|[2507.09672](http://arxiv.org/abs/2507.09672)|null|
 |**2025-07-12**|**SnapMoGen: Human Motion Generation from Expressive Texts**|Chuan Guo et.al.|[2507.09122](http://arxiv.org/abs/2507.09122)|null|
 |**2025-07-10**|**Membrane-mediated force transduction: Stick-slip motion of vesicles with fluid membranes**|Paula Magrinya et.al.|[2507.07880](http://arxiv.org/abs/2507.07880)|null|
@@ -4896,12 +4900,22 @@
 |**2025-06-12**|**MoRE: Mixture of Residual Experts for Humanoid Lifelike Gaits Learning on Complex Terrains**|Dewei Wang et.al.|[2506.08840](http://arxiv.org/abs/2506.08840)|null|
 |**2025-06-10**|**Quantum Effective Dynamics of Papapetrou Spacetime**|Xiaokan Guo et.al.|[2506.08821](http://arxiv.org/abs/2506.08821)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**SpectraLift: Physics-Guided Spectral-Inversion Network for Self-Supervised Hyperspectral Image Super-Resolution**|Ritik Shah et.al.|[2507.13339](http://arxiv.org/abs/2507.13339)|null|
+|**2025-07-17**|**RGB Pre-Training Enhanced Unobservable Feature Latent Diffusion Model for Spectral Reconstruction**|Keli Deng et.al.|[2507.12967](http://arxiv.org/abs/2507.12967)|null|
+|**2025-07-17**|**IDS-Net: A novel framework for few-shot photovoltaic power prediction with interpretable dynamic selection and feature information fusion**|Hang Fan et.al.|[2507.12745](http://arxiv.org/abs/2507.12745)|null|
+|**2025-07-16**|**Vision-based Perception for Autonomous Vehicles in Obstacle Avoidance Scenarios**|Van-Hoang-Anh Phan et.al.|[2507.12449](http://arxiv.org/abs/2507.12449)|null|
+|**2025-07-16**|**Euclid preparation. Simulating thousands of Euclid spectroscopic skies**|Euclid Collaboration et.al.|[2507.12116](http://arxiv.org/abs/2507.12116)|null|
+|**2025-07-16**|**Can a multi-tracer approach improve the constraints on the turnover scale?**|Yan Lai et.al.|[2507.11823](http://arxiv.org/abs/2507.11823)|null|
+|**2025-07-15**|**COS-EDGES: Co-rotation and Kinematic Stratification of the Multi-Phase CGM Around Edge-On Galaxies**|Glenn G. Kacprzak et.al.|[2507.11613](http://arxiv.org/abs/2507.11613)|null|
+|**2025-07-15**|**Euclid preparation. Overview of Euclid infrared detector performance from ground tests**|Euclid Collaboration et.al.|[2507.11326](http://arxiv.org/abs/2507.11326)|null|
+|**2025-07-15**|**Boosting Scientific Error-Bounded Lossy Compression through Optimized Synergistic Lossy-Lossless Orchestration**|Shixun Wu et.al.|[2507.11165](http://arxiv.org/abs/2507.11165)|null|
+|**2025-07-15**|**Euclid VI. NISP-P optical ghosts**|Euclid Collaboration et.al.|[2507.11072](http://arxiv.org/abs/2507.11072)|null|
 |**2025-07-14**|**Investigating Galactic Fountains in M101: Insights from Ionized, UV emissions and Neutral Gas**|Aashiya Anitha Shaji et.al.|[2507.10549](http://arxiv.org/abs/2507.10549)|null|
 |**2025-07-14**|**Short-time existence of Lagrangian mean curvature flow**|Spandan Ghosh et.al.|[2507.10341](http://arxiv.org/abs/2507.10341)|null|
 |**2025-07-14**|**Evolution and star formation history of NGC300 from a chemical evolution model with radial gas inflows**|Xiaoyu Kang et.al.|[2507.10245](http://arxiv.org/abs/2507.10245)|null|
@@ -4973,16 +4987,18 @@
 |**2025-06-10**|**Euclid preparation: The NISP spectroscopy channel, on ground performance and calibration**|Euclid Collaboration et.al.|[2506.08378](http://arxiv.org/abs/2506.08378)|null|
 |**2025-06-10**|**Distortion Search, A Web Search Privacy Heuristic**|Kato Mivule et.al.|[2506.08330](http://arxiv.org/abs/2506.08330)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**Funnel-HOI: Top-Down Perception for Zero-Shot HOI Detection**|Sandipan Sarma et.al.|[2507.12628](http://arxiv.org/abs/2507.12628)|null|
+|**2025-07-15**|**Conceptualizing Multi-scale Wavelet Attention and Ray-based Encoding for Human-Object Interaction Detection**|Quan Bi Pay et.al.|[2507.10977](http://arxiv.org/abs/2507.10977)|null|
 |**2025-07-12**|**RoHOI: Robustness Benchmark for Human-Object Interaction Detection**|Di Wen et.al.|[2507.09111](http://arxiv.org/abs/2507.09111)|null|
 |**2025-07-10**|**Temporally Consistent Amodal Completion for 3D Human-Object Interaction Reconstruction**|Hyungjun Doh et.al.|[2507.08137](http://arxiv.org/abs/2507.08137)|null|
 |**2025-07-09**|**Bilateral Collaboration with Large Vision-Language Models for Open Vocabulary Human-Object Interaction Detection**|Yupeng Hu et.al.|[2507.06510](http://arxiv.org/abs/2507.06510)|null|
-|**2025-07-11**|**Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities**|Gheorghe Comanici et.al.|[2507.06261](http://arxiv.org/abs/2507.06261)|null|
+|**2025-07-17**|**Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities**|Gheorghe Comanici et.al.|[2507.06261](http://arxiv.org/abs/2507.06261)|null|
 |**2025-07-08**|**Entrywise transforms preserving matrix positivity and non-positivity**|Dominique Guillot et.al.|[2507.06076](http://arxiv.org/abs/2507.06076)|null|
 |**2025-07-03**|**MvHo-IB: Multi-View Higher-Order Information Bottleneck for Brain Disorder Diagnosis**|Kunyu Zhang et.al.|[2507.02847](http://arxiv.org/abs/2507.02847)|null|
 |**2025-07-03**|**PhenomXPNR: An improved gravitational wave model linking precessing inspirals and NR-calibrated merger-ringdown**|Eleanor Hamilton et.al.|[2507.02604](http://arxiv.org/abs/2507.02604)|null|
@@ -5016,7 +5032,7 @@
 |**2025-06-02**|**HOSIG: Full-Body Human-Object-Scene Interaction Generation with Hierarchical Scene Perception**|Wei Yao et.al.|[2506.01579](http://arxiv.org/abs/2506.01579)|null|
 |**2025-06-01**|**Aligning VLM Assistants with Personalized Situated Cognition**|Yongqi Li et.al.|[2506.00930](http://arxiv.org/abs/2506.00930)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

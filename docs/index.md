@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.16
+## Updated on 2025.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4815,6 +4815,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**MMHU: A Massive-Scale Multimodal Benchmark for Human Behavior Understanding**|Renjie Li et.al.|[2507.12463](http://arxiv.org/abs/2507.12463)|null|
+|**2025-07-16**|**Neural Human Pose Prior**|Michal Heker et.al.|[2507.12138](http://arxiv.org/abs/2507.12138)|null|
+|**2025-07-16**|**MOSPA: Human Motion Generation Driven by Spatial Audio**|Shuyang Xu et.al.|[2507.11949](http://arxiv.org/abs/2507.11949)|null|
+|**2025-07-15**|**A Stochastic RAGE Theorem and Enhanced Dissipation for Transport Noise**|Michele Coti Zelati et.al.|[2507.11422](http://arxiv.org/abs/2507.11422)|null|
 |**2025-07-13**|**VST-Pose: A Velocity-Integrated Spatiotem-poral Attention Network for Human WiFi Pose Estimation**|Xinyu Zhang et.al.|[2507.09672](http://arxiv.org/abs/2507.09672)|null|
 |**2025-07-12**|**SnapMoGen: Human Motion Generation from Expressive Texts**|Chuan Guo et.al.|[2507.09122](http://arxiv.org/abs/2507.09122)|null|
 |**2025-07-10**|**Membrane-mediated force transduction: Stick-slip motion of vesicles with fluid membranes**|Paula Magrinya et.al.|[2507.07880](http://arxiv.org/abs/2507.07880)|null|
@@ -4877,6 +4881,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**SpectraLift: Physics-Guided Spectral-Inversion Network for Self-Supervised Hyperspectral Image Super-Resolution**|Ritik Shah et.al.|[2507.13339](http://arxiv.org/abs/2507.13339)|null|
+|**2025-07-17**|**RGB Pre-Training Enhanced Unobservable Feature Latent Diffusion Model for Spectral Reconstruction**|Keli Deng et.al.|[2507.12967](http://arxiv.org/abs/2507.12967)|null|
+|**2025-07-17**|**IDS-Net: A novel framework for few-shot photovoltaic power prediction with interpretable dynamic selection and feature information fusion**|Hang Fan et.al.|[2507.12745](http://arxiv.org/abs/2507.12745)|null|
+|**2025-07-16**|**Vision-based Perception for Autonomous Vehicles in Obstacle Avoidance Scenarios**|Van-Hoang-Anh Phan et.al.|[2507.12449](http://arxiv.org/abs/2507.12449)|null|
+|**2025-07-16**|**Euclid preparation. Simulating thousands of Euclid spectroscopic skies**|Euclid Collaboration et.al.|[2507.12116](http://arxiv.org/abs/2507.12116)|null|
+|**2025-07-16**|**Can a multi-tracer approach improve the constraints on the turnover scale?**|Yan Lai et.al.|[2507.11823](http://arxiv.org/abs/2507.11823)|null|
+|**2025-07-15**|**COS-EDGES: Co-rotation and Kinematic Stratification of the Multi-Phase CGM Around Edge-On Galaxies**|Glenn G. Kacprzak et.al.|[2507.11613](http://arxiv.org/abs/2507.11613)|null|
+|**2025-07-15**|**Euclid preparation. Overview of Euclid infrared detector performance from ground tests**|Euclid Collaboration et.al.|[2507.11326](http://arxiv.org/abs/2507.11326)|null|
+|**2025-07-15**|**Boosting Scientific Error-Bounded Lossy Compression through Optimized Synergistic Lossy-Lossless Orchestration**|Shixun Wu et.al.|[2507.11165](http://arxiv.org/abs/2507.11165)|null|
+|**2025-07-15**|**Euclid VI. NISP-P optical ghosts**|Euclid Collaboration et.al.|[2507.11072](http://arxiv.org/abs/2507.11072)|null|
 |**2025-07-14**|**Investigating Galactic Fountains in M101: Insights from Ionized, UV emissions and Neutral Gas**|Aashiya Anitha Shaji et.al.|[2507.10549](http://arxiv.org/abs/2507.10549)|null|
 |**2025-07-14**|**Short-time existence of Lagrangian mean curvature flow**|Spandan Ghosh et.al.|[2507.10341](http://arxiv.org/abs/2507.10341)|null|
 |**2025-07-14**|**Evolution and star formation history of NGC300 from a chemical evolution model with radial gas inflows**|Xiaoyu Kang et.al.|[2507.10245](http://arxiv.org/abs/2507.10245)|null|
@@ -4952,10 +4966,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**Funnel-HOI: Top-Down Perception for Zero-Shot HOI Detection**|Sandipan Sarma et.al.|[2507.12628](http://arxiv.org/abs/2507.12628)|null|
+|**2025-07-15**|**Conceptualizing Multi-scale Wavelet Attention and Ray-based Encoding for Human-Object Interaction Detection**|Quan Bi Pay et.al.|[2507.10977](http://arxiv.org/abs/2507.10977)|null|
 |**2025-07-12**|**RoHOI: Robustness Benchmark for Human-Object Interaction Detection**|Di Wen et.al.|[2507.09111](http://arxiv.org/abs/2507.09111)|null|
 |**2025-07-10**|**Temporally Consistent Amodal Completion for 3D Human-Object Interaction Reconstruction**|Hyungjun Doh et.al.|[2507.08137](http://arxiv.org/abs/2507.08137)|null|
 |**2025-07-09**|**Bilateral Collaboration with Large Vision-Language Models for Open Vocabulary Human-Object Interaction Detection**|Yupeng Hu et.al.|[2507.06510](http://arxiv.org/abs/2507.06510)|null|
-|**2025-07-11**|**Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities**|Gheorghe Comanici et.al.|[2507.06261](http://arxiv.org/abs/2507.06261)|null|
+|**2025-07-17**|**Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities**|Gheorghe Comanici et.al.|[2507.06261](http://arxiv.org/abs/2507.06261)|null|
 |**2025-07-08**|**Entrywise transforms preserving matrix positivity and non-positivity**|Dominique Guillot et.al.|[2507.06076](http://arxiv.org/abs/2507.06076)|null|
 |**2025-07-03**|**MvHo-IB: Multi-View Higher-Order Information Bottleneck for Brain Disorder Diagnosis**|Kunyu Zhang et.al.|[2507.02847](http://arxiv.org/abs/2507.02847)|null|
 |**2025-07-03**|**PhenomXPNR: An improved gravitational wave model linking precessing inspirals and NR-calibrated merger-ringdown**|Eleanor Hamilton et.al.|[2507.02604](http://arxiv.org/abs/2507.02604)|null|
