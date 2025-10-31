@@ -32,19 +32,7 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "Motion Generation": 
-        filters: ["Motion Generation", "Human Motion", "Human Motions", "Dance Generation", "Motion Understanding",
-    "Motion Synthesis",
-    "Motion Prediction",
-    "Motion Diffusion",
-    "3D Motion Generation",
-    "Human Motion Generation",
-    "Human Pose Generation",
-    "Text-to-Motion",
-    "Audio-to-Motion",
-    "Speech-to-Motion",
-    "Text Driven Motion",
-    "Text-Driven Motion Generation",
-    "Action Generation",]
+        filters: ["Motion Generation", "Human Motion", "Human Motions", "Dance Generation", "Motion Understanding", "Motion Synthesis", "Motion Prediction", "Motion Diffusion", "3D Motion Generation", "Human Motion Generation", "Human Pose Generation", "Text-to-Motion", "Audio-to-Motion", "Speech-to-Motion", "Text Driven Motion", "Text-Driven Motion Generation", "Action Generation"]
     "Human-Scene Interaction (HSI)":
         filters: ["Human-Scene Interaction", "Human-Scene Interactions", "HSI", "Human Scene", "Human-In-Scene", "HIS", "Scene-Aware Motion", "Scene-Aware Human", "Character-Scene Interaction", "Human Motion in 3D Scenes"]
     "Human-Object Interaction (HOI)":
