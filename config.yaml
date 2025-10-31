@@ -1,6 +1,6 @@
 # TODO: add papers by configuration file
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
-user_name: "liutaocode"
+user_name: "AndrewDing616"
 repo_name: "cv-arxiv-daily"
 show_authors: True
 show_links: True
@@ -23,9 +23,31 @@ claudeai_path: 'analysis_by_ai.md'
 md_gitpage_path: './docs/index.md'
 md_wechat_path: './docs/wechat.md'
 
+# # keywords to search
+# keywords:
+#     "Talking Face": 
+#         filters: ["Talking Face", "Talking Head", "Talking Avatar",  "Animate Portrait", "Visual Dubbing", "Face Genertation", "Lip Sync", "Talker", "Portrait", "Talking Video", "Head Synthesis", "Face Reenactment", "Wav2lip", "Talking Avatar", "Lip Generation", "Lip Synchronization", "Portrait Animation", "Facial Animation", "Lip Expert"]
+#     "Image Animation":
+#         filters: ["Image Animator", "Image Animation"]
 # keywords to search
 keywords:
-    "Talking Face": 
-        filters: ["Talking Face", "Talking Head", "Talking Avatar",  "Animate Portrait", "Visual Dubbing", "Face Genertation", "Lip Sync", "Talker", "Portrait", "Talking Video", "Head Synthesis", "Face Reenactment", "Wav2lip", "Talking Avatar", "Lip Generation", "Lip Synchronization", "Portrait Animation", "Facial Animation", "Lip Expert"]
-    "Image Animation":
-        filters: ["Image Animator", "Image Animation"]
+    "Motion Generation": 
+        filters: ["Motion Generation", "Human Motion", "Human Motions", "Dance Generation", "Motion Understanding",
+    "Motion Synthesis",
+    "Motion Prediction",
+    "Motion Diffusion",
+    "3D Motion Generation",
+    "Human Motion Generation",
+    "Human Pose Generation",
+    "Text-to-Motion",
+    "Audio-to-Motion",
+    "Speech-to-Motion",
+    "Text Driven Motion",
+    "Text-Driven Motion Generation",
+    "Action Generation",]
+    "Human-Scene Interaction (HSI)":
+        filters: ["Human-Scene Interaction", "Human-Scene Interactions", "HSI", "Human Scene", "Human-In-Scene", "HIS", "Scene-Aware Motion", "Scene-Aware Human", "Character-Scene Interaction", "Human Motion in 3D Scenes"]
+    "Human-Object Interaction (HOI)":
+        filters: ["Human-Object Interaction", "Human-Object", "Human Object", "HOI", “Body-Object”, "Hand-Object"]
+    "Human-Human Interaction (HHI)":
+        filters: ["Human-Human Motion", "Human-Human", "Human-Human Interaction", "Multi-Person Motion", "Two-Person Motion", "Two-Person Motions"]
