@@ -311,12 +311,13 @@ def json_to_md(filename,
             f.write("---\n" + "layout: default\n" + "---\n\n")
         
         if show_badge == True:
-            f.write(f"[![Contributors][contributors-shield]][contributors-url]\n")
-            f.write(f"[![Forks][forks-shield]][forks-url]\n")
-            f.write(f"[![Stargazers][stars-shield]][stars-url]\n")
-            f.write(f"[![Issues][issues-shield]][issues-url]\n\n")    
+          pass
+            # f.write(f"[![Contributors][contributors-shield]][contributors-url]\n")
+            # f.write(f"[![Forks][forks-shield]][forks-url]\n")
+            # f.write(f"[![Stargazers][stars-shield]][stars-url]\n")
+            # f.write(f"[![Issues][issues-shield]][issues-url]\n\n")    
         
-        f.write("# Talking-Face Research Papers\n")
+        f.write("# 3D Human Motion Generation Research Papers\n")
         if use_title == True:
             #f.write(("<p align="center"><h1 align="center"><br><ins>talking-face-arxiv-daily"
             #         "</ins><br>Automatically Update CV Papers Daily</h1></p>\n"))
@@ -325,11 +326,11 @@ def json_to_md(filename,
             f.write("> Updated on " + DateNow + "\n")
 
         # TODO: add usage
-        f.write("Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`\n\n")
-        f.write("> If you have any other keywords, please feel free to let us know :) \n\n")
+        # f.write("Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`\n\n")
+        # f.write("> If you have any other keywords, please feel free to let us know :) \n\n")
         # AI analysis removed
-        f.write(" \n\n")
-        f.write("[Web Page](https://liutaocode.github.io/talking-face-arxiv-daily/) ([Scrape Code](https://github.com/liutaocode/talking-face-arxiv-daily)) \n\n")
+        # f.write(" \n\n")
+        # f.write("[Web Page](https://liutaocode.github.io/talking-face-arxiv-daily/) ([Scrape Code](https://github.com/liutaocode/talking-face-arxiv-daily)) \n\n")
         
         #Add: table of contents
         if use_tc == True:
