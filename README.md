@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2025.11.01
+### Automatically Updated on 2025.11.02
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -24,7 +24,7 @@
 |**2025-10-25**|**MOGRAS: Human Motion with Grasping in 3D Scenes**|Kunal Bhosikar et.al.|[2510.22199](http://arxiv.org/abs/2510.22199)|null|
 |**2025-10-24**|**Group Inertial Poser: Multi-Person Pose and Global Translation from Sparse Inertial Sensors and Ultra-Wideband Ranging**|Ying Xue et.al.|[2510.21654](http://arxiv.org/abs/2510.21654)|null|
 
-<p align=right>(<a href=#updated-on-20251101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251102>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -41,7 +41,7 @@
 |**2025-09-01**|**FantasyHSI: Video-Generation-Centric 4D Human Synthesis In Any Scene through A Graph-based Multi-Agent Framework**|Lingzhou Mu et.al.|[2509.01232](http://arxiv.org/abs/2509.01232)|null|
 |**2025-08-26**|**Deep Sensorimotor Control by Imitating Predictive Models of Human Motion**|Himanshu Gaurav Singh et.al.|[2508.18691](http://arxiv.org/abs/2508.18691)|null|
 
-<p align=right>(<a href=#updated-on-20251101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251102>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
@@ -58,7 +58,7 @@
 |**2025-10-03**|**Mask2IV: Interaction-Centric Video Generation via Mask Trajectories**|Gen Li et.al.|[2510.03135](http://arxiv.org/abs/2510.03135)|null|
 |**2025-10-02**|**Unlocking Vision-Language Models for Video Anomaly Detection via Fine-Grained Prompting**|Shu Zou et.al.|[2510.02155](http://arxiv.org/abs/2510.02155)|null|
 
-<p align=right>(<a href=#updated-on-20251101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251102>back to top</a>)</p>
 
 Notes: 
 
