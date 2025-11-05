@@ -13,6 +13,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-04**|**TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System**|Yanjie Ze et.al.|[2511.02832](http://arxiv.org/abs/2511.02832)|null|
+|**2025-11-03**|**UniLION: Towards Unified Autonomous Driving Model with Linear Group RNNs**|Zhe Liu et.al.|[2511.01768](http://arxiv.org/abs/2511.01768)|null|
+|**2025-11-03**|**Scaling Graph Chain-of-Thought Reasoning: A Multi-Agent Framework with Efficient LLM Serving**|Chengying Huan et.al.|[2511.01633](http://arxiv.org/abs/2511.01633)|null|
+|**2025-11-03**|**HMVLM: Human Motion-Vision-Lanuage Model via MoE LoRA**|Lei Hu et.al.|[2511.01463](http://arxiv.org/abs/2511.01463)|null|
+|**2025-11-03**|**FoldPath: End-to-End Object-Centric Motion Generation via Modulated Implicit Paths**|Paolo Rabino et.al.|[2511.01407](http://arxiv.org/abs/2511.01407)|null|
+|**2025-11-03**|**MoSa: Motion Generation with Scalable Autoregressive Modeling**|Mengyuan Liu et.al.|[2511.01200](http://arxiv.org/abs/2511.01200)|null|
+|**2025-11-03**|**A Topology-Aware Graph Convolutional Network for Human Pose Similarity and Action Quality Assessment**|Minmin Zeng et.al.|[2511.01194](http://arxiv.org/abs/2511.01194)|null|
+|**2025-11-01**|**iFlyBot-VLA Technical Report**|Yuan Zhang et.al.|[2511.01914](http://arxiv.org/abs/2511.01914)|null|
+|**2025-10-31**|**Object-Aware 4D Human Motion Generation**|Shurui Gui et.al.|[2511.00248](http://arxiv.org/abs/2511.00248)|null|
 |**2025-10-31**|**Fine-Tuning Open Video Generators for Cinematic Scene Synthesis: A Small-Data Pipeline with LoRA and Wan2.1 I2V**|Meftun Akarsu et.al.|[2510.27364](http://arxiv.org/abs/2510.27364)|null|
 |**2025-10-31**|**DANCER: Dance ANimation via Condition Enhancement and Rendering with diffusion model**|Yucheng Xing et.al.|[2510.27169](http://arxiv.org/abs/2510.27169)|null|
 |**2025-10-31**|**Learning Generalizable Visuomotor Policy through Dynamics-Alignment**|Dohyeok Lee et.al.|[2510.27114](http://arxiv.org/abs/2510.27114)|null|

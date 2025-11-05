@@ -965,19 +965,28 @@
 
 ## Motion Generation
 
+- 2025-11-01, **iFlyBot-VLA Technical Report**, Yuan Zhang et.al., Paper: [http://arxiv.org/abs/2511.01914](http://arxiv.org/abs/2511.01914)
+- 2025-11-03, **UniLION: Towards Unified Autonomous Driving Model with Linear Group RNNs**, Zhe Liu et.al., Paper: [http://arxiv.org/abs/2511.01768](http://arxiv.org/abs/2511.01768)
 - 2025-10-30, **The Quest for Generalizable Motion Generation: Data, Model, and Evaluation**, Jing Lin et.al., Paper: [http://arxiv.org/abs/2510.26794](http://arxiv.org/abs/2510.26794)
+- 2025-11-04, **TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System**, Yanjie Ze et.al., Paper: [http://arxiv.org/abs/2511.02832](http://arxiv.org/abs/2511.02832)
 - 2025-10-26, **Step2Motion: Locomotion Reconstruction from Pressure Sensing Insoles**, Jose Luis Ponton et.al., Paper: [http://arxiv.org/abs/2510.22712](http://arxiv.org/abs/2510.22712)
+- 2025-11-03, **Scaling Graph Chain-of-Thought Reasoning: A Multi-Agent Framework with Efficient LLM Serving**, Chengying Huan et.al., Paper: [http://arxiv.org/abs/2511.01633](http://arxiv.org/abs/2511.01633)
 - 2025-10-29, **One-shot Humanoid Whole-body Motion Learning**, Hao Huang et.al., Paper: [http://arxiv.org/abs/2510.25241](http://arxiv.org/abs/2510.25241)
+- 2025-10-31, **Object-Aware 4D Human Motion Generation**, Shurui Gui et.al., Paper: [http://arxiv.org/abs/2511.00248](http://arxiv.org/abs/2511.00248)
 - 2025-10-27, **Multi-Agent Conditional Diffusion Model with Mean Field Communication as Wireless Resource Allocation Planner**, Kechen Meng et.al., Paper: [http://arxiv.org/abs/2510.22969](http://arxiv.org/abs/2510.22969)
+- 2025-11-03, **MoSa: Motion Generation with Scalable Autoregressive Modeling**, Mengyuan Liu et.al., Paper: [http://arxiv.org/abs/2511.01200](http://arxiv.org/abs/2511.01200)
 - 2025-10-28, **Manipulate as Human: Learning Task-oriented Manipulation Skills by Adversarial Motion Priors**, Ziqi Ma et.al., Paper: [http://arxiv.org/abs/2510.24257](http://arxiv.org/abs/2510.24257)
 - 2025-10-25, **MOGRAS: Human Motion with Grasping in 3D Scenes**, Kunal Bhosikar et.al., Paper: [http://arxiv.org/abs/2510.22199](http://arxiv.org/abs/2510.22199)
 - 2025-10-26, **Learning Neural Observer-Predictor Models for Limb-level Sampling-based Locomotion Planning**, Abhijeet M. Kulkarni et.al., Paper: [http://arxiv.org/abs/2510.22789](http://arxiv.org/abs/2510.22789)
 - 2025-10-31, **Learning Generalizable Visuomotor Policy through Dynamics-Alignment**, Dohyeok Lee et.al., Paper: [http://arxiv.org/abs/2510.27114](http://arxiv.org/abs/2510.27114)
+- 2025-11-03, **HMVLM: Human Motion-Vision-Lanuage Model via MoE LoRA**, Lei Hu et.al., Paper: [http://arxiv.org/abs/2511.01463](http://arxiv.org/abs/2511.01463)
 - 2025-10-24, **Group Inertial Poser: Multi-Person Pose and Global Translation from Sparse Inertial Sensors and Ultra-Wideband Ranging**, Ying Xue et.al., Paper: [http://arxiv.org/abs/2510.21654](http://arxiv.org/abs/2510.21654)
+- 2025-11-03, **FoldPath: End-to-End Object-Centric Motion Generation via Modulated Implicit Paths**, Paolo Rabino et.al., Paper: [http://arxiv.org/abs/2511.01407](http://arxiv.org/abs/2511.01407)
 - 2025-10-31, **Fine-Tuning Open Video Generators for Cinematic Scene Synthesis: A Small-Data Pipeline with LoRA and Wan2.1 I2V**, Meftun Akarsu et.al., Paper: [http://arxiv.org/abs/2510.27364](http://arxiv.org/abs/2510.27364)
 - 2025-10-28, **Dynamically-Consistent Trajectory Optimization for Legged Robots via Contact Point Decomposition**, Sangmin Kim et.al., Paper: [http://arxiv.org/abs/2510.24069](http://arxiv.org/abs/2510.24069)
 - 2025-10-26, **DynaPose4D: High-Quality 4D Dynamic Content Generation via Pose Alignment Loss**, Jing Yang et.al., Paper: [http://arxiv.org/abs/2510.22473](http://arxiv.org/abs/2510.22473)
 - 2025-10-31, **DANCER: Dance ANimation via Condition Enhancement and Rendering with diffusion model**, Yucheng Xing et.al., Paper: [http://arxiv.org/abs/2510.27169](http://arxiv.org/abs/2510.27169)
+- 2025-11-03, **A Topology-Aware Graph Convolutional Network for Human Pose Similarity and Action Quality Assessment**, Minmin Zeng et.al., Paper: [http://arxiv.org/abs/2511.01194](http://arxiv.org/abs/2511.01194)
 
 <p align=right>(<a href=#updated-on-20251105>back to top</a>)</p>
 
