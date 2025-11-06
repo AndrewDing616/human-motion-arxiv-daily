@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-05**|**Unconscious and Intentional Human Motion Cues for Expressive Robot-Arm Motion Design**|Taito Tashiro et.al.|[2511.03676](http://arxiv.org/abs/2511.03676)|null|
+|**2025-11-05**|**UnCLe: Towards Scalable Dynamic Causal Discovery in Non-linear Temporal Systems**|Tingzhu Bi et.al.|[2511.03168](http://arxiv.org/abs/2511.03168)|null|
 |**2025-11-04**|**TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System**|Yanjie Ze et.al.|[2511.02832](http://arxiv.org/abs/2511.02832)|null|
 |**2025-11-03**|**UniLION: Towards Unified Autonomous Driving Model with Linear Group RNNs**|Zhe Liu et.al.|[2511.01768](http://arxiv.org/abs/2511.01768)|null|
 |**2025-11-03**|**Scaling Graph Chain-of-Thought Reasoning: A Multi-Agent Framework with Efficient LLM Serving**|Chengying Huan et.al.|[2511.01633](http://arxiv.org/abs/2511.01633)|null|

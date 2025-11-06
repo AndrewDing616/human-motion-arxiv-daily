@@ -967,6 +967,8 @@
 
 - 2025-11-01, **iFlyBot-VLA Technical Report**, Yuan Zhang et.al., Paper: [http://arxiv.org/abs/2511.01914](http://arxiv.org/abs/2511.01914)
 - 2025-11-03, **UniLION: Towards Unified Autonomous Driving Model with Linear Group RNNs**, Zhe Liu et.al., Paper: [http://arxiv.org/abs/2511.01768](http://arxiv.org/abs/2511.01768)
+- 2025-11-05, **Unconscious and Intentional Human Motion Cues for Expressive Robot-Arm Motion Design**, Taito Tashiro et.al., Paper: [http://arxiv.org/abs/2511.03676](http://arxiv.org/abs/2511.03676)
+- 2025-11-05, **UnCLe: Towards Scalable Dynamic Causal Discovery in Non-linear Temporal Systems**, Tingzhu Bi et.al., Paper: [http://arxiv.org/abs/2511.03168](http://arxiv.org/abs/2511.03168)
 - 2025-10-30, **The Quest for Generalizable Motion Generation: Data, Model, and Evaluation**, Jing Lin et.al., Paper: [http://arxiv.org/abs/2510.26794](http://arxiv.org/abs/2510.26794)
 - 2025-11-04, **TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System**, Yanjie Ze et.al., Paper: [http://arxiv.org/abs/2511.02832](http://arxiv.org/abs/2511.02832)
 - 2025-10-26, **Step2Motion: Locomotion Reconstruction from Pressure Sensing Insoles**, Jose Luis Ponton et.al., Paper: [http://arxiv.org/abs/2510.22712](http://arxiv.org/abs/2510.22712)
