@@ -959,6 +959,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-06**|**GentleHumanoid: Learning Upper-body Compliance for Contact-rich Human and Object Interaction**|Qingzhou Lu et.al.|[2511.04679](http://arxiv.org/abs/2511.04679)|null|
+|**2025-11-06**|**Dissecting coherent motions in extreme wall shear stress events within adverse pressure gradient turbulent boundary layers**|Leandro J. O. Silva et.al.|[2511.04620](http://arxiv.org/abs/2511.04620)|null|
+|**2025-11-06**|**Shared Spatial Memory Through Predictive Coding**|Zhengru Fang et.al.|[2511.04235](http://arxiv.org/abs/2511.04235)|null|
+|**2025-11-06**|**AStF: Motion Style Transfer via Adaptive Statistics Fusor**|Hanmo Chen et.al.|[2511.04192](http://arxiv.org/abs/2511.04192)|null|
 |**2025-11-05**|**Unconscious and Intentional Human Motion Cues for Expressive Robot-Arm Motion Design**|Taito Tashiro et.al.|[2511.03676](http://arxiv.org/abs/2511.03676)|null|
 |**2025-11-05**|**UnCLe: Towards Scalable Dynamic Causal Discovery in Non-linear Temporal Systems**|Tingzhu Bi et.al.|[2511.03168](http://arxiv.org/abs/2511.03168)|null|
 |**2025-11-04**|**TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System**|Yanjie Ze et.al.|[2511.02832](http://arxiv.org/abs/2511.02832)|null|
