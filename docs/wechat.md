@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-> Updated on 2025.11.06
+> Updated on 2025.11.07
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -849,7 +849,7 @@
 - 2020-08-29, **"It took me almost 30 minutes to practice this". Performance and Production Practices in Dance Challenge Videos on TikTok**, Daniel Klug et.al., Paper: [http://arxiv.org/abs/2008.13040](http://arxiv.org/abs/2008.13040)
 - 2025-09-22, **"I don't like my avatar": Investigating Human Digital Doubles**, Siyi Liu et.al., Paper: [http://arxiv.org/abs/2509.17748](http://arxiv.org/abs/2509.17748)
 
-<p align=right>(<a href=#updated-on-20251106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251107>back to top</a>)</p>
 
 ## Image Animation
 
@@ -961,7 +961,7 @@
 - 2022-03-25, **3D GAN Inversion for Controllable Portrait Image Animation**, Connor Z. Lin et.al., Paper: [http://arxiv.org/abs/2203.13441](http://arxiv.org/abs/2203.13441)
 - 2023-03-10, **3D Cinemagraphy from a Single Image**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2303.05724](http://arxiv.org/abs/2303.05724)
 
-<p align=right>(<a href=#updated-on-20251106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251107>back to top</a>)</p>
 
 ## Motion Generation
 
@@ -990,7 +990,7 @@
 - 2025-10-31, **DANCER: Dance ANimation via Condition Enhancement and Rendering with diffusion model**, Yucheng Xing et.al., Paper: [http://arxiv.org/abs/2510.27169](http://arxiv.org/abs/2510.27169)
 - 2025-11-03, **A Topology-Aware Graph Convolutional Network for Human Pose Similarity and Action Quality Assessment**, Minmin Zeng et.al., Paper: [http://arxiv.org/abs/2511.01194](http://arxiv.org/abs/2511.01194)
 
-<p align=right>(<a href=#updated-on-20251106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251107>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -1005,7 +1005,7 @@
 - 2025-08-26, **Deep Sensorimotor Control by Imitating Predictive Models of Human Motion**, Himanshu Gaurav Singh et.al., Paper: [http://arxiv.org/abs/2508.18691](http://arxiv.org/abs/2508.18691)
 - 2025-10-27, **DecoDINO: 3D Human-Scene Contact Prediction with Semantic Classification**, Lukas Bierling et.al., Paper: [http://arxiv.org/abs/2510.23203](http://arxiv.org/abs/2510.23203)
 
-<p align=right>(<a href=#updated-on-20251106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251107>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
@@ -1021,7 +1021,7 @@
 - 2025-10-17, **H2OFlow: Grounding Human-Object Affordances with 3D Generative Models and Dense Diffused Flows**, Harry Zhang et.al., Paper: [http://arxiv.org/abs/2510.21769](http://arxiv.org/abs/2510.21769)
 - 2025-10-27, **DecoDINO: 3D Human-Scene Contact Prediction with Semantic Classification**, Lukas Bierling et.al., Paper: [http://arxiv.org/abs/2510.23203](http://arxiv.org/abs/2510.23203)
 
-<p align=right>(<a href=#updated-on-20251106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251107>back to top</a>)</p>
 
 Notes: 
 
