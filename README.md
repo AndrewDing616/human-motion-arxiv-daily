@@ -13,6 +13,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-07**|**Dense Motion Captioning**|Shiyao Xu et.al.|[2511.05369](http://arxiv.org/abs/2511.05369)|null|
+|**2025-11-07**|**QuAnTS: Question Answering on Time Series**|Felix Divo et.al.|[2511.05124](http://arxiv.org/abs/2511.05124)|null|
+|**2025-11-07**|**Pressure2Motion: Hierarchical Motion Synthesis from Ground Pressure with Text Guidance**|Zhengxuan Li et.al.|[2511.05038](http://arxiv.org/abs/2511.05038)|null|
+|**2025-11-06**|**Unified Multimodal Diffusion Forcing for Forceful Manipulation**|Zixuan Huang et.al.|[2511.04812](http://arxiv.org/abs/2511.04812)|null|
 |**2025-11-06**|**GentleHumanoid: Learning Upper-body Compliance for Contact-rich Human and Object Interaction**|Qingzhou Lu et.al.|[2511.04679](http://arxiv.org/abs/2511.04679)|null|
 |**2025-11-06**|**Dissecting coherent motions in extreme wall shear stress events within adverse pressure gradient turbulent boundary layers**|Leandro J. O. Silva et.al.|[2511.04620](http://arxiv.org/abs/2511.04620)|null|
 |**2025-11-06**|**Shared Spatial Memory Through Predictive Coding**|Zhengru Fang et.al.|[2511.04235](http://arxiv.org/abs/2511.04235)|null|
