@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-10**|**DIMO: Diverse 3D Motion Generation for Arbitrary Objects**|Linzhan Mou et.al.|[2511.07409](http://arxiv.org/abs/2511.07409)|null|
+|**2025-11-08**|**10 Open Challenges Steering the Future of Vision-Language-Action Models**|Soujanya Poria et.al.|[2511.05936](http://arxiv.org/abs/2511.05936)|null|
 |**2025-11-07**|**Dense Motion Captioning**|Shiyao Xu et.al.|[2511.05369](http://arxiv.org/abs/2511.05369)|null|
 |**2025-11-07**|**QuAnTS: Question Answering on Time Series**|Felix Divo et.al.|[2511.05124](http://arxiv.org/abs/2511.05124)|null|
 |**2025-11-07**|**Pressure2Motion: Hierarchical Motion Synthesis from Ground Pressure with Text Guidance**|Zhengxuan Li et.al.|[2511.05038](http://arxiv.org/abs/2511.05038)|null|
