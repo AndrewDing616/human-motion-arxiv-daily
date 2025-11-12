@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-> Updated on 2025.11.11
+> Updated on 2025.11.12
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -8,6 +8,7 @@
     <li><a href=#motion-generation>Motion Generation</a></li>
     <li><a href=#human-scene-interaction-(hsi)>Human-Scene Interaction (HSI)</a></li>
     <li><a href=#human-object-interaction-(hoi)>Human-Object Interaction (HOI)</a></li>
+    <li><a href=#human-human-interaction-(hhi)>Human-Human Interaction (HHI)</a></li>
   </ol>
 </details>
 
@@ -849,7 +850,7 @@
 - 2020-08-29, **"It took me almost 30 minutes to practice this". Performance and Production Practices in Dance Challenge Videos on TikTok**, Daniel Klug et.al., Paper: [http://arxiv.org/abs/2008.13040](http://arxiv.org/abs/2008.13040)
 - 2025-09-22, **"I don't like my avatar": Investigating Human Digital Doubles**, Siyi Liu et.al., Paper: [http://arxiv.org/abs/2509.17748](http://arxiv.org/abs/2509.17748)
 
-<p align=right>(<a href=#updated-on-20251111>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251112>back to top</a>)</p>
 
 ## Image Animation
 
@@ -961,7 +962,7 @@
 - 2022-03-25, **3D GAN Inversion for Controllable Portrait Image Animation**, Connor Z. Lin et.al., Paper: [http://arxiv.org/abs/2203.13441](http://arxiv.org/abs/2203.13441)
 - 2023-03-10, **3D Cinemagraphy from a Single Image**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2303.05724](http://arxiv.org/abs/2303.05724)
 
-<p align=right>(<a href=#updated-on-20251111>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251112>back to top</a>)</p>
 
 ## Motion Generation
 
@@ -970,24 +971,34 @@
 - 2025-11-03, **UniLION: Towards Unified Autonomous Driving Model with Linear Group RNNs**, Zhe Liu et.al., Paper: [http://arxiv.org/abs/2511.01768](http://arxiv.org/abs/2511.01768)
 - 2025-11-05, **Unconscious and Intentional Human Motion Cues for Expressive Robot-Arm Motion Design**, Taito Tashiro et.al., Paper: [http://arxiv.org/abs/2511.03676](http://arxiv.org/abs/2511.03676)
 - 2025-11-05, **UnCLe: Towards Scalable Dynamic Causal Discovery in Non-linear Temporal Systems**, Tingzhu Bi et.al., Paper: [http://arxiv.org/abs/2511.03168](http://arxiv.org/abs/2511.03168)
+- 2024-07-16, **Towards Open Domain Text-Driven Synthesis of Multi-Person Motions**, Mengyi Shan et.al., Paper: [http://arxiv.org/abs/2405.18483](http://arxiv.org/abs/2405.18483)
 - 2025-10-30, **The Quest for Generalizable Motion Generation: Data, Model, and Evaluation**, Jing Lin et.al., Paper: [http://arxiv.org/abs/2510.26794](http://arxiv.org/abs/2510.26794)
 - 2025-11-04, **TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System**, Yanjie Ze et.al., Paper: [http://arxiv.org/abs/2511.02832](http://arxiv.org/abs/2511.02832)
 - 2025-10-26, **Step2Motion: Locomotion Reconstruction from Pressure Sensing Insoles**, Jose Luis Ponton et.al., Paper: [http://arxiv.org/abs/2510.22712](http://arxiv.org/abs/2510.22712)
+- 2023-12-05, **Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**, Danah Yatim et.al., Paper: [http://arxiv.org/abs/2311.17009](http://arxiv.org/abs/2311.17009)
 - 2025-11-06, **Shared Spatial Memory Through Predictive Coding**, Zhengru Fang et.al., Paper: [http://arxiv.org/abs/2511.04235](http://arxiv.org/abs/2511.04235)
 - 2025-11-03, **Scaling Graph Chain-of-Thought Reasoning: A Multi-Agent Framework with Efficient LLM Serving**, Chengying Huan et.al., Paper: [http://arxiv.org/abs/2511.01633](http://arxiv.org/abs/2511.01633)
 - 2025-11-07, **QuAnTS: Question Answering on Time Series**, Felix Divo et.al., Paper: [http://arxiv.org/abs/2511.05124](http://arxiv.org/abs/2511.05124)
 - 2025-11-07, **Pressure2Motion: Hierarchical Motion Synthesis from Ground Pressure with Text Guidance**, Zhengxuan Li et.al., Paper: [http://arxiv.org/abs/2511.05038](http://arxiv.org/abs/2511.05038)
 - 2025-10-29, **One-shot Humanoid Whole-body Motion Learning**, Hao Huang et.al., Paper: [http://arxiv.org/abs/2510.25241](http://arxiv.org/abs/2510.25241)
 - 2025-10-31, **Object-Aware 4D Human Motion Generation**, Shurui Gui et.al., Paper: [http://arxiv.org/abs/2511.00248](http://arxiv.org/abs/2511.00248)
+- 2024-05-27, **Multi-Track Timeline Control for Text-Driven 3D Human Motion Generation**, Mathis Petrovich et.al., Paper: [http://arxiv.org/abs/2401.08559](http://arxiv.org/abs/2401.08559)
 - 2025-10-27, **Multi-Agent Conditional Diffusion Model with Mean Field Communication as Wireless Resource Allocation Planner**, Kechen Meng et.al., Paper: [http://arxiv.org/abs/2510.22969](http://arxiv.org/abs/2510.22969)
+- 2022-09-01, **MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**, Mingyuan Zhang et.al., Paper: [http://arxiv.org/abs/2208.15001](http://arxiv.org/abs/2208.15001)
+- 2025-01-10, **Motion-X++: A Large-Scale Multimodal 3D Whole-body Human Motion Dataset**, Yuhong Zhang et.al., Paper: [http://arxiv.org/abs/2501.05098](http://arxiv.org/abs/2501.05098)
+- 2024-10-08, **Motion-Agent: A Conversational Framework for Human Motion Generation with LLMs**, Qi Wu et.al., Paper: [http://arxiv.org/abs/2405.17013](http://arxiv.org/abs/2405.17013)
+- 2024-12-18, **Motion-2-to-3: Leveraging 2D Motion Data to Boost 3D Motion Generation**, Huaijin Pi et.al., Paper: [http://arxiv.org/abs/2412.13111](http://arxiv.org/abs/2412.13111)
 - 2025-11-03, **MoSa: Motion Generation with Scalable Autoregressive Modeling**, Mengyuan Liu et.al., Paper: [http://arxiv.org/abs/2511.01200](http://arxiv.org/abs/2511.01200)
 - 2025-10-28, **Manipulate as Human: Learning Task-oriented Manipulation Skills by Adversarial Motion Priors**, Ziqi Ma et.al., Paper: [http://arxiv.org/abs/2510.24257](http://arxiv.org/abs/2510.24257)
 - 2025-10-25, **MOGRAS: Human Motion with Grasping in 3D Scenes**, Kunal Bhosikar et.al., Paper: [http://arxiv.org/abs/2510.22199](http://arxiv.org/abs/2510.22199)
 - 2025-10-26, **Learning Neural Observer-Predictor Models for Limb-level Sampling-based Locomotion Planning**, Abhijeet M. Kulkarni et.al., Paper: [http://arxiv.org/abs/2510.22789](http://arxiv.org/abs/2510.22789)
 - 2025-10-31, **Learning Generalizable Visuomotor Policy through Dynamics-Alignment**, Dohyeok Lee et.al., Paper: [http://arxiv.org/abs/2510.27114](http://arxiv.org/abs/2510.27114)
+- 2025-09-05, **Human Motion Video Generation: A Survey**, Haiwei Xue et.al., Paper: [http://arxiv.org/abs/2509.03883](http://arxiv.org/abs/2509.03883)
+- 2025-02-25, **Human Motion Prediction, Reconstruction, and Generation**, Canxuan Gang et.al., Paper: [http://arxiv.org/abs/2502.15956](http://arxiv.org/abs/2502.15956)
 - 2025-11-03, **HMVLM: Human Motion-Vision-Lanuage Model via MoE LoRA**, Lei Hu et.al., Paper: [http://arxiv.org/abs/2511.01463](http://arxiv.org/abs/2511.01463)
 - 2025-10-24, **Group Inertial Poser: Multi-Person Pose and Global Translation from Sparse Inertial Sensors and Ultra-Wideband Ranging**, Ying Xue et.al., Paper: [http://arxiv.org/abs/2510.21654](http://arxiv.org/abs/2510.21654)
 - 2025-11-06, **GentleHumanoid: Learning Upper-body Compliance for Contact-rich Human and Object Interaction**, Qingzhou Lu et.al., Paper: [http://arxiv.org/abs/2511.04679](http://arxiv.org/abs/2511.04679)
+- 2024-01-09, **GUESS:GradUally Enriching SyntheSis for Text-Driven Human Motion Generation**, Xuehao Gao et.al., Paper: [http://arxiv.org/abs/2401.02142](http://arxiv.org/abs/2401.02142)
 - 2025-11-03, **FoldPath: End-to-End Object-Centric Motion Generation via Modulated Implicit Paths**, Paolo Rabino et.al., Paper: [http://arxiv.org/abs/2511.01407](http://arxiv.org/abs/2511.01407)
 - 2025-10-31, **Fine-Tuning Open Video Generators for Cinematic Scene Synthesis: A Small-Data Pipeline with LoRA and Wan2.1 I2V**, Meftun Akarsu et.al., Paper: [http://arxiv.org/abs/2510.27364](http://arxiv.org/abs/2510.27364)
 - 2025-10-28, **Dynamically-Consistent Trajectory Optimization for Legged Robots via Contact Point Decomposition**, Sangmin Kim et.al., Paper: [http://arxiv.org/abs/2510.24069](http://arxiv.org/abs/2510.24069)
@@ -1000,38 +1011,72 @@
 - 2025-11-03, **A Topology-Aware Graph Convolutional Network for Human Pose Similarity and Action Quality Assessment**, Minmin Zeng et.al., Paper: [http://arxiv.org/abs/2511.01194](http://arxiv.org/abs/2511.01194)
 - 2025-11-08, **10 Open Challenges Steering the Future of Vision-Language-Action Models**, Soujanya Poria et.al., Paper: [http://arxiv.org/abs/2511.05936](http://arxiv.org/abs/2511.05936)
 
-<p align=right>(<a href=#updated-on-20251111>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251112>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
+- 2024-11-06, **Unified Human-Scene Interaction via Prompted Chain-of-Contacts**, Zeqi Xiao et.al., Paper: [http://arxiv.org/abs/2309.07918](http://arxiv.org/abs/2309.07918)
+- 2022-05-27, **Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**, Jingbo Wang et.al., Paper: [http://arxiv.org/abs/2205.13001](http://arxiv.org/abs/2205.13001)
+- 2023-08-22, **Synthesizing Diverse Human Motions in 3D Indoor Scenes**, Kaifeng Zhao et.al., Paper: [http://arxiv.org/abs/2305.12411](http://arxiv.org/abs/2305.12411)
 - 2025-09-29, **Social 3D Scene Graphs: Modeling Human Actions and Relations for Interactive Service Robots**, Ermanno Bartoli et.al., Paper: [http://arxiv.org/abs/2509.24966](http://arxiv.org/abs/2509.24966)
+- 2025-07-28, **SceneMI: Motion In-betweening for Modeling Human-Scene Interactions**, Inwoo Hwang et.al., Paper: [http://arxiv.org/abs/2503.16289](http://arxiv.org/abs/2503.16289)
+- 2024-08-13, **Scene-aware Human Motion Forecasting via Mutual Distance Prediction**, Chaoyue Xing et.al., Paper: [http://arxiv.org/abs/2310.00615](http://arxiv.org/abs/2310.00615)
+- 2023-03-28, **Scene-Aware 3D Multi-Human Motion Capture from a Single Camera**, Diogo Luvizon et.al., Paper: [http://arxiv.org/abs/2301.05175](http://arxiv.org/abs/2301.05175)
 - 2025-10-13, **PhySIC: Physically Plausible 3D Human-Scene Interaction and Contact from a Single Image**, Pradyumna Yalandur Muralidhar et.al., Paper: [http://arxiv.org/abs/2510.11649](http://arxiv.org/abs/2510.11649)
-- 2025-10-25, **MOGRAS: Human Motion with Grasping in 3D Scenes**, Kunal Bhosikar et.al., Paper: [http://arxiv.org/abs/2510.22199](http://arxiv.org/abs/2510.22199)
+- 2025-10-28, **MOGRAS: Human Motion with Grasping in 3D Scenes**, Kunal Bhosikar et.al., Paper: [http://arxiv.org/abs/2510.22199](http://arxiv.org/abs/2510.22199)
+- 2025-03-21, **Jointly Understand Your Command and Intention:Reciprocal Co-Evolution between Scene-Aware 3D Human Motion Synthesis and Analysis**, Xuehao Gao et.al., Paper: [http://arxiv.org/abs/2503.00371](http://arxiv.org/abs/2503.00371)
 - 2025-09-28, **InteractMove: Text-Controlled Human-Object Interaction Generation in 3D Scenes with Movable Objects**, Xinhao Cai et.al., Paper: [http://arxiv.org/abs/2509.23612](http://arxiv.org/abs/2509.23612)
 - 2025-10-07, **Human3R: Everyone Everywhere All at Once**, Yue Chen et.al., Paper: [http://arxiv.org/abs/2510.06219](http://arxiv.org/abs/2510.06219)
 - 2025-10-15, **Human-MME: A Holistic Evaluation Benchmark for Human-Centric Multimodal Large Language Models**, Yuansen Liu et.al., Paper: [http://arxiv.org/abs/2509.26165](http://arxiv.org/abs/2509.26165)
+- 2022-10-19, **HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**, Zan Wang et.al., Paper: [http://arxiv.org/abs/2210.09729](http://arxiv.org/abs/2210.09729)
+- 2024-04-17, **Generating Human Interaction Motions in Scenes with Text Control**, Hongwei Yi et.al., Paper: [http://arxiv.org/abs/2404.10685](http://arxiv.org/abs/2404.10685)
 - 2025-09-01, **FantasyHSI: Video-Generation-Centric 4D Human Synthesis In Any Scene through A Graph-based Multi-Agent Framework**, Lingzhou Mu et.al., Paper: [http://arxiv.org/abs/2509.01232](http://arxiv.org/abs/2509.01232)
 - 2025-09-23, **Event-guided 3D Gaussian Splatting for Dynamic Human and Scene Reconstruction**, Xiaoting Yin et.al., Paper: [http://arxiv.org/abs/2509.18566](http://arxiv.org/abs/2509.18566)
 - 2025-08-26, **Deep Sensorimotor Control by Imitating Predictive Models of Human Motion**, Himanshu Gaurav Singh et.al., Paper: [http://arxiv.org/abs/2508.18691](http://arxiv.org/abs/2508.18691)
 - 2025-10-27, **DecoDINO: 3D Human-Scene Contact Prediction with Semantic Classification**, Lukas Bierling et.al., Paper: [http://arxiv.org/abs/2510.23203](http://arxiv.org/abs/2510.23203)
 
-<p align=right>(<a href=#updated-on-20251111>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251112>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
 - 2025-10-29, **Visual Diversity and Region-aware Prompt Learning for Zero-shot HOI Detection**, Chanhyeong Yang et.al., Paper: [http://arxiv.org/abs/2510.25094](http://arxiv.org/abs/2510.25094)
 - 2025-10-02, **Unlocking Vision-Language Models for Video Anomaly Detection via Fine-Grained Prompting**, Shu Zou et.al., Paper: [http://arxiv.org/abs/2510.02155](http://arxiv.org/abs/2510.02155)
+- 2021-01-05, **The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**, Eleftherios Triantafyllidis et.al., Paper: [http://arxiv.org/abs/2101.00260](http://arxiv.org/abs/2101.00260)
 - 2025-10-29, **SynHLMA:Synthesizing Hand Language Manipulation for Articulated Object with Discrete Human Object Interaction Representation**, Wang zhi et.al., Paper: [http://arxiv.org/abs/2510.25268](http://arxiv.org/abs/2510.25268)
 - 2025-10-17, **Proactive Scene Decomposition and Reconstruction**, Baicheng Li et.al., Paper: [http://arxiv.org/abs/2510.16272](http://arxiv.org/abs/2510.16272)
+- 2025-10-10, **Person Identification from Egocentric Human-Object Interactions using 3D Hand Pose**, Muhammad Hamza et.al., Paper: [http://arxiv.org/abs/2509.16557](http://arxiv.org/abs/2509.16557)
 - 2025-10-03, **Mask2IV: Interaction-Centric Video Generation via Mask Trajectories**, Gen Li et.al., Paper: [http://arxiv.org/abs/2510.03135](http://arxiv.org/abs/2510.03135)
 - 2025-10-11, **MMHOI: Modeling Complex 3D Multi-Human Multi-Object Interactions**, Kaen Kogashi et.al., Paper: [http://arxiv.org/abs/2510.07828](http://arxiv.org/abs/2510.07828)
 - 2025-10-21, **Learning Human-Object Interaction as Groups**, Jiajun Hong et.al., Paper: [http://arxiv.org/abs/2510.18357](http://arxiv.org/abs/2510.18357)
+- 2022-06-28, **Learn to Predict How Humans Manipulate Large-sized Objects from Interactive Motions**, Weilin Wan et.al., Paper: [http://arxiv.org/abs/2206.12612](http://arxiv.org/abs/2206.12612)
 - 2025-10-30, **Incremental Human-Object Interaction Detection with Invariant Relation Representation Learning**, Yana Wei et.al., Paper: [http://arxiv.org/abs/2510.27020](http://arxiv.org/abs/2510.27020)
+- 2025-03-06, **Impact of Object Weight in Handovers: Inspiring Robotic Grip Release and Motion from Human Handovers**, Parag Khanna et.al., Paper: [http://arxiv.org/abs/2502.17834](http://arxiv.org/abs/2502.17834)
+- 2020-09-29, **Human-Object Interaction Detection:A Quick Survey and Examination of Methods**, Trevor Bergstrom et.al., Paper: [http://arxiv.org/abs/2009.12950](http://arxiv.org/abs/2009.12950)
+- 2024-06-11, **Human Gaze and Head Rotation during Navigation, Exploration and Object Manipulation in Shared Environments with Robots**, Tim Schreiter et.al., Paper: [http://arxiv.org/abs/2406.06300](http://arxiv.org/abs/2406.06300)
 - 2025-10-07, **HOI-R1: Exploring the Potential of Multimodal Large Language Models for Human-Object Interaction Detection**, Junwen Chen et.al., Paper: [http://arxiv.org/abs/2510.05609](http://arxiv.org/abs/2510.05609)
 - 2025-10-17, **H2OFlow: Grounding Human-Object Affordances with 3D Generative Models and Dense Diffused Flows**, Harry Zhang et.al., Paper: [http://arxiv.org/abs/2510.21769](http://arxiv.org/abs/2510.21769)
+- 2021-03-26, **Detecting Human-Object Interaction via Fabricated Compositional Learning**, Zhi Hou et.al., Paper: [http://arxiv.org/abs/2103.08214](http://arxiv.org/abs/2103.08214)
 - 2025-10-27, **DecoDINO: 3D Human-Scene Contact Prediction with Semantic Classification**, Lukas Bierling et.al., Paper: [http://arxiv.org/abs/2510.23203](http://arxiv.org/abs/2510.23203)
+- 2024-07-16, **Controllable Human-Object Interaction Synthesis**, Jiaman Li et.al., Paper: [http://arxiv.org/abs/2312.03913](http://arxiv.org/abs/2312.03913)
+- 2021-03-11, **Careful with That! Observation of Human Movements to Estimate Objects Properties**, Linda Lastrico et.al., Paper: [http://arxiv.org/abs/2103.01555](http://arxiv.org/abs/2103.01555)
+- 2023-11-23, **A Study of Human-Robot Handover through Human-Human Object Transfer**, Charlotte Morissette et.al., Paper: [http://arxiv.org/abs/2311.13021](http://arxiv.org/abs/2311.13021)
 
-<p align=right>(<a href=#updated-on-20251111>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251112>back to top</a>)</p>
+
+## Human-Human Interaction (HHI)
+
+- 2024-02-26, **Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**, Eike Schneiders et.al., Paper: [http://arxiv.org/abs/2402.15427](http://arxiv.org/abs/2402.15427)
+- 2024-07-16, **Towards Open Domain Text-Driven Synthesis of Multi-Person Motions**, Mengyi Shan et.al., Paper: [http://arxiv.org/abs/2405.18483](http://arxiv.org/abs/2405.18483)
+- 2025-09-17, **Towards Context-Aware Human-like Pointing Gestures with RL Motion Imitation**, Anna Deichler et.al., Paper: [http://arxiv.org/abs/2509.12880](http://arxiv.org/abs/2509.12880)
+- 2024-07-30, **ReMoS: 3D Motion-Conditioned Reaction Synthesis for Two-Person Interactions**, Anindita Ghosh et.al., Paper: [http://arxiv.org/abs/2311.17057](http://arxiv.org/abs/2311.17057)
+- 2025-07-29, **Multi-Person Interaction Generation from Two-Person Motion Priors**, Wenning Xu et.al., Paper: [http://arxiv.org/abs/2505.17860](http://arxiv.org/abs/2505.17860)
+- 2024-03-29, **InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**, Han Liang et.al., Paper: [http://arxiv.org/abs/2304.05684](http://arxiv.org/abs/2304.05684)
+- 2025-01-22, **Human-like Nonverbal Behavior with MetaHumans in Real-World Interaction Studies: An Architecture Using Generative Methods and Motion Capture**, Oliver Chojnowski et.al., Paper: [http://arxiv.org/abs/2501.10713](http://arxiv.org/abs/2501.10713)
+- 2025-04-24, **DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions**, Chaeyeon Lim et.al., Paper: [http://arxiv.org/abs/2504.16770](http://arxiv.org/abs/2504.16770)
+- 2025-05-12, **Collecting Human Motion Data in Large and Occlusion-Prone Environments using Ultra-Wideband Localization**, Janik Kaden et.al., Paper: [http://arxiv.org/abs/2505.05851](http://arxiv.org/abs/2505.05851)
+- 2025-04-09, **A Survey on Human Interaction Motion Generation**, Kewei Sui et.al., Paper: [http://arxiv.org/abs/2503.12763](http://arxiv.org/abs/2503.12763)
+
+<p align=right>(<a href=#updated-on-20251112>back to top</a>)</p>
 
 Notes: 
 

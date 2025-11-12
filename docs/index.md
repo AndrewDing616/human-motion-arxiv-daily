@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2025.11.11
+### Automatically Updated on 2025.11.12
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -993,13 +993,23 @@ layout: default
 |**2025-10-26**|**DynaPose4D: High-Quality 4D Dynamic Content Generation via Pose Alignment Loss**|Jing Yang et.al.|[2510.22473](http://arxiv.org/abs/2510.22473)|null|
 |**2025-10-25**|**MOGRAS: Human Motion with Grasping in 3D Scenes**|Kunal Bhosikar et.al.|[2510.22199](http://arxiv.org/abs/2510.22199)|null|
 |**2025-10-24**|**Group Inertial Poser: Multi-Person Pose and Global Translation from Sparse Inertial Sensors and Ultra-Wideband Ranging**|Ying Xue et.al.|[2510.21654](http://arxiv.org/abs/2510.21654)|null|
+|**2025-09-05**|**Human Motion Video Generation: A Survey**|Haiwei Xue et.al.|[2509.03883](http://arxiv.org/abs/2509.03883)|null|
+|**2025-02-25**|**Human Motion Prediction, Reconstruction, and Generation**|Canxuan Gang et.al.|[2502.15956](http://arxiv.org/abs/2502.15956)|null|
+|**2025-01-10**|**Motion-X++: A Large-Scale Multimodal 3D Whole-body Human Motion Dataset**|Yuhong Zhang et.al.|[2501.05098](http://arxiv.org/abs/2501.05098)|null|
+|**2024-12-18**|**Motion-2-to-3: Leveraging 2D Motion Data to Boost 3D Motion Generation**|Huaijin Pi et.al.|[2412.13111](http://arxiv.org/abs/2412.13111)|null|
+|**2024-10-08**|**Motion-Agent: A Conversational Framework for Human Motion Generation with LLMs**|Qi Wu et.al.|[2405.17013](http://arxiv.org/abs/2405.17013)|null|
+|**2024-07-16**|**Towards Open Domain Text-Driven Synthesis of Multi-Person Motions**|Mengyi Shan et.al.|[2405.18483](http://arxiv.org/abs/2405.18483)|null|
+|**2024-05-27**|**Multi-Track Timeline Control for Text-Driven 3D Human Motion Generation**|Mathis Petrovich et.al.|[2401.08559](http://arxiv.org/abs/2401.08559)|null|
+|**2024-01-09**|**GUESS:GradUally Enriching SyntheSis for Text-Driven Human Motion Generation**|Xuehao Gao et.al.|[2401.02142](http://arxiv.org/abs/2401.02142)|null|
+|**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
+|**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
 ## Human-Scene Interaction (HSI)
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-28**|**MOGRAS: Human Motion with Grasping in 3D Scenes**|Kunal Bhosikar et.al.|[2510.22199](http://arxiv.org/abs/2510.22199)|null|
 |**2025-10-27**|**DecoDINO: 3D Human-Scene Contact Prediction with Semantic Classification**|Lukas Bierling et.al.|[2510.23203](http://arxiv.org/abs/2510.23203)|null|
-|**2025-10-25**|**MOGRAS: Human Motion with Grasping in 3D Scenes**|Kunal Bhosikar et.al.|[2510.22199](http://arxiv.org/abs/2510.22199)|null|
 |**2025-10-15**|**Human-MME: A Holistic Evaluation Benchmark for Human-Centric Multimodal Large Language Models**|Yuansen Liu et.al.|[2509.26165](http://arxiv.org/abs/2509.26165)|null|
 |**2025-10-13**|**PhySIC: Physically Plausible 3D Human-Scene Interaction and Contact from a Single Image**|Pradyumna Yalandur Muralidhar et.al.|[2510.11649](http://arxiv.org/abs/2510.11649)|null|
 |**2025-10-07**|**Human3R: Everyone Everywhere All at Once**|Yue Chen et.al.|[2510.06219](http://arxiv.org/abs/2510.06219)|null|
@@ -1008,6 +1018,15 @@ layout: default
 |**2025-09-23**|**Event-guided 3D Gaussian Splatting for Dynamic Human and Scene Reconstruction**|Xiaoting Yin et.al.|[2509.18566](http://arxiv.org/abs/2509.18566)|null|
 |**2025-09-01**|**FantasyHSI: Video-Generation-Centric 4D Human Synthesis In Any Scene through A Graph-based Multi-Agent Framework**|Lingzhou Mu et.al.|[2509.01232](http://arxiv.org/abs/2509.01232)|null|
 |**2025-08-26**|**Deep Sensorimotor Control by Imitating Predictive Models of Human Motion**|Himanshu Gaurav Singh et.al.|[2508.18691](http://arxiv.org/abs/2508.18691)|null|
+|**2025-07-28**|**SceneMI: Motion In-betweening for Modeling Human-Scene Interactions**|Inwoo Hwang et.al.|[2503.16289](http://arxiv.org/abs/2503.16289)|null|
+|**2025-03-21**|**Jointly Understand Your Command and Intention:Reciprocal Co-Evolution between Scene-Aware 3D Human Motion Synthesis and Analysis**|Xuehao Gao et.al.|[2503.00371](http://arxiv.org/abs/2503.00371)|null|
+|**2024-11-06**|**Unified Human-Scene Interaction via Prompted Chain-of-Contacts**|Zeqi Xiao et.al.|[2309.07918](http://arxiv.org/abs/2309.07918)|null|
+|**2024-08-13**|**Scene-aware Human Motion Forecasting via Mutual Distance Prediction**|Chaoyue Xing et.al.|[2310.00615](http://arxiv.org/abs/2310.00615)|null|
+|**2024-04-17**|**Generating Human Interaction Motions in Scenes with Text Control**|Hongwei Yi et.al.|[2404.10685](http://arxiv.org/abs/2404.10685)|null|
+|**2023-08-22**|**Synthesizing Diverse Human Motions in 3D Indoor Scenes**|Kaifeng Zhao et.al.|[2305.12411](http://arxiv.org/abs/2305.12411)|null|
+|**2023-03-28**|**Scene-Aware 3D Multi-Human Motion Capture from a Single Camera**|Diogo Luvizon et.al.|[2301.05175](http://arxiv.org/abs/2301.05175)|null|
+|**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
+|**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
 ## Human-Object Interaction (HOI)
 
@@ -1021,9 +1040,34 @@ layout: default
 |**2025-10-17**|**H2OFlow: Grounding Human-Object Affordances with 3D Generative Models and Dense Diffused Flows**|Harry Zhang et.al.|[2510.21769](http://arxiv.org/abs/2510.21769)|null|
 |**2025-10-17**|**Proactive Scene Decomposition and Reconstruction**|Baicheng Li et.al.|[2510.16272](http://arxiv.org/abs/2510.16272)|null|
 |**2025-10-11**|**MMHOI: Modeling Complex 3D Multi-Human Multi-Object Interactions**|Kaen Kogashi et.al.|[2510.07828](http://arxiv.org/abs/2510.07828)|null|
+|**2025-10-10**|**Person Identification from Egocentric Human-Object Interactions using 3D Hand Pose**|Muhammad Hamza et.al.|[2509.16557](http://arxiv.org/abs/2509.16557)|null|
 |**2025-10-07**|**HOI-R1: Exploring the Potential of Multimodal Large Language Models for Human-Object Interaction Detection**|Junwen Chen et.al.|[2510.05609](http://arxiv.org/abs/2510.05609)|null|
 |**2025-10-03**|**Mask2IV: Interaction-Centric Video Generation via Mask Trajectories**|Gen Li et.al.|[2510.03135](http://arxiv.org/abs/2510.03135)|null|
 |**2025-10-02**|**Unlocking Vision-Language Models for Video Anomaly Detection via Fine-Grained Prompting**|Shu Zou et.al.|[2510.02155](http://arxiv.org/abs/2510.02155)|null|
+|**2025-03-06**|**Impact of Object Weight in Handovers: Inspiring Robotic Grip Release and Motion from Human Handovers**|Parag Khanna et.al.|[2502.17834](http://arxiv.org/abs/2502.17834)|null|
+|**2024-07-16**|**Controllable Human-Object Interaction Synthesis**|Jiaman Li et.al.|[2312.03913](http://arxiv.org/abs/2312.03913)|null|
+|**2024-06-11**|**Human Gaze and Head Rotation during Navigation, Exploration and Object Manipulation in Shared Environments with Robots**|Tim Schreiter et.al.|[2406.06300](http://arxiv.org/abs/2406.06300)|null|
+|**2023-11-23**|**A Study of Human-Robot Handover through Human-Human Object Transfer**|Charlotte Morissette et.al.|[2311.13021](http://arxiv.org/abs/2311.13021)|null|
+|**2022-06-28**|**Learn to Predict How Humans Manipulate Large-sized Objects from Interactive Motions**|Weilin Wan et.al.|[2206.12612](http://arxiv.org/abs/2206.12612)|null|
+|**2021-03-26**|**Detecting Human-Object Interaction via Fabricated Compositional Learning**|Zhi Hou et.al.|[2103.08214](http://arxiv.org/abs/2103.08214)|null|
+|**2021-03-11**|**Careful with That! Observation of Human Movements to Estimate Objects Properties**|Linda Lastrico et.al.|[2103.01555](http://arxiv.org/abs/2103.01555)|null|
+|**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
+|**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
+
+## Human-Human Interaction (HHI)
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-17**|**Towards Context-Aware Human-like Pointing Gestures with RL Motion Imitation**|Anna Deichler et.al.|[2509.12880](http://arxiv.org/abs/2509.12880)|null|
+|**2025-07-29**|**Multi-Person Interaction Generation from Two-Person Motion Priors**|Wenning Xu et.al.|[2505.17860](http://arxiv.org/abs/2505.17860)|null|
+|**2025-05-12**|**Collecting Human Motion Data in Large and Occlusion-Prone Environments using Ultra-Wideband Localization**|Janik Kaden et.al.|[2505.05851](http://arxiv.org/abs/2505.05851)|null|
+|**2025-04-24**|**DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions**|Chaeyeon Lim et.al.|[2504.16770](http://arxiv.org/abs/2504.16770)|null|
+|**2025-04-09**|**A Survey on Human Interaction Motion Generation**|Kewei Sui et.al.|[2503.12763](http://arxiv.org/abs/2503.12763)|null|
+|**2025-01-22**|**Human-like Nonverbal Behavior with MetaHumans in Real-World Interaction Studies: An Architecture Using Generative Methods and Motion Capture**|Oliver Chojnowski et.al.|[2501.10713](http://arxiv.org/abs/2501.10713)|null|
+|**2024-07-30**|**ReMoS: 3D Motion-Conditioned Reaction Synthesis for Two-Person Interactions**|Anindita Ghosh et.al.|[2311.17057](http://arxiv.org/abs/2311.17057)|null|
+|**2024-07-16**|**Towards Open Domain Text-Driven Synthesis of Multi-Person Motions**|Mengyi Shan et.al.|[2405.18483](http://arxiv.org/abs/2405.18483)|null|
+|**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
+|**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
 Notes: 
 
