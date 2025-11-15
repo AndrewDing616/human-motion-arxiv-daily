@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2025.11.14
+### Automatically Updated on 2025.11.15
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-13**|**Towards Blind and Low-Vision Accessibility of Lightweight VLMs and Custom LLM-Evals**|Shruti Singh Baghel et.al.|[2511.10615](http://arxiv.org/abs/2511.10615)|null|
+|**2025-11-13**|**Multistationarity in semi-open Phosphorylation-Dephosphorylation Cycles**|Praneet Nandan et.al.|[2511.10609](http://arxiv.org/abs/2511.10609)|null|
+|**2025-11-13**|**Safe Planning in Interactive Environments via Iterative Policy Updates and Adversarially Robust Conformal Prediction**|Omid Mirzaeedodangeh et.al.|[2511.10586](http://arxiv.org/abs/2511.10586)|null|
+|**2025-11-13**|**From Fold to Function: Dynamic Modeling and Simulation-Driven Design of Origami Mechanisms**|Tianhui Han et.al.|[2511.10580](http://arxiv.org/abs/2511.10580)|null|
+|**2025-11-13**|**OmniVGGT: Omni-Modality Driven Visual Geometry Grounded**|Haosong Peng et.al.|[2511.10560](http://arxiv.org/abs/2511.10560)|null|
+|**2025-11-13**|**Dynamic Avatar-Scene Rendering from Human-centric Context**|Wenqing Wang et.al.|[2511.10539](http://arxiv.org/abs/2511.10539)|null|
+|**2025-11-13**|**Eigenvalues of Brownian Motions on $\mathrm{GL}(N,\mathbb{C})$**|Tatiana Brailovskaya et.al.|[2511.10535](http://arxiv.org/abs/2511.10535)|null|
+|**2025-11-13**|**Preview, Accept or Discard? A Predictive Low-Motion Interaction Paradigm**|Jose Berengueres et.al.|[2511.10532](http://arxiv.org/abs/2511.10532)|null|
+|**2025-11-13**|**Motivations and Actions of Human-Building Interactions from Environmental Momentary Assessments**|Maharshi Pathak et.al.|[2511.10467](http://arxiv.org/abs/2511.10467)|null|
+|**2025-11-13**|**LongComp: Long-Tail Compositional Zero-Shot Generalization for Robust Trajectory Prediction**|Benjamin Stoler et.al.|[2511.10411](http://arxiv.org/abs/2511.10411)|null|
 |**2025-11-10**|**DIMO: Diverse 3D Motion Generation for Arbitrary Objects**|Linzhan Mou et.al.|[2511.07409](http://arxiv.org/abs/2511.07409)|null|
 |**2025-11-08**|**10 Open Challenges Steering the Future of Vision-Language-Action Models**|Soujanya Poria et.al.|[2511.05936](http://arxiv.org/abs/2511.05936)|null|
 |**2025-11-07**|**Dense Motion Captioning**|Shiyao Xu et.al.|[2511.05369](http://arxiv.org/abs/2511.05369)|null|
@@ -59,12 +69,22 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20251114>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251115>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-13**|**Dynamic Avatar-Scene Rendering from Human-centric Context**|Wenqing Wang et.al.|[2511.10539](http://arxiv.org/abs/2511.10539)|null|
+|**2025-11-13**|**GridPrune: From "Where to Look" to "What to Select" in Visual Token Pruning for MLLMs**|Yuxiang Duan et.al.|[2511.10081](http://arxiv.org/abs/2511.10081)|null|
+|**2025-11-13**|**AffordBot: 3D Fine-grained Embodied Reasoning via Multimodal Large Language Models**|Xinyi Wang et.al.|[2511.10017](http://arxiv.org/abs/2511.10017)|null|
+|**2025-11-13**|**A Study on Enhancing the Generalization Ability of Visuomotor Policies via Data Augmentation**|Hanwen Wang et.al.|[2511.09932](http://arxiv.org/abs/2511.09932)|null|
+|**2025-11-13**|**AHA! Animating Human Avatars in Diverse Scenes with Gaussian Splatting**|Aymen Mir et.al.|[2511.09827](http://arxiv.org/abs/2511.09827)|null|
+|**2025-11-12**|**Social LSTM with Dynamic Occupancy Modeling for Realistic Pedestrian Trajectory Prediction**|Ahmed Alia et.al.|[2511.09735](http://arxiv.org/abs/2511.09735)|null|
+|**2025-11-12**|**RGMP: Recurrent Geometric-prior Multimodal Policy for Generalizable Humanoid Robot Manipulation**|Xuetao Li et.al.|[2511.09141](http://arxiv.org/abs/2511.09141)|null|
+|**2025-11-11**|**Large Sign Language Models: Toward 3D American Sign Language Translation**|Sen Zhang et.al.|[2511.08535](http://arxiv.org/abs/2511.08535)|null|
+|**2025-11-11**|**SkelSplat: Robust Multi-view 3D Human Pose Estimation with Differentiable Gaussian Rendering**|Laura Bragagnolo et.al.|[2511.08294](http://arxiv.org/abs/2511.08294)|null|
+|**2025-11-11**|**Non-Aligned Reference Image Quality Assessment for Novel View Synthesis**|Abhijay Ghildyal et.al.|[2511.08155](http://arxiv.org/abs/2511.08155)|null|
 |**2025-10-28**|**MOGRAS: Human Motion with Grasping in 3D Scenes**|Kunal Bhosikar et.al.|[2510.22199](http://arxiv.org/abs/2510.22199)|null|
 |**2025-10-27**|**DecoDINO: 3D Human-Scene Contact Prediction with Semantic Classification**|Lukas Bierling et.al.|[2510.23203](http://arxiv.org/abs/2510.23203)|null|
 |**2025-10-15**|**Human-MME: A Holistic Evaluation Benchmark for Human-Centric Multimodal Large Language Models**|Yuansen Liu et.al.|[2509.26165](http://arxiv.org/abs/2509.26165)|null|
@@ -85,12 +105,22 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20251114>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251115>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-13**|**Towards Emotionally Intelligent and Responsible Reinforcement Learning**|Garapati Keerthana et.al.|[2511.10573](http://arxiv.org/abs/2511.10573)|null|
+|**2025-11-13**|**Don't Waste It: Guiding Generative Recommenders with Structured Human Priors via Multi-head Decoding**|Yunkai Zhang et.al.|[2511.10492](http://arxiv.org/abs/2511.10492)|null|
+|**2025-11-13**|**Position: On the Methodological Pitfalls of Evaluating Base LLMs for Reasoning**|Jason Chan et.al.|[2511.10381](http://arxiv.org/abs/2511.10381)|null|
+|**2025-11-13**|**Dynamic full-field swept-source optical coherence microscope for cellular-resolution, long-depth, and intratissue-activity imaging**|Nobuhisa Tateno et.al.|[2511.10235](http://arxiv.org/abs/2511.10235)|null|
+|**2025-11-13**|**Learning a Thousand Tasks in a Day**|Kamil Dreczkowski et.al.|[2511.10110](http://arxiv.org/abs/2511.10110)|null|
+|**2025-11-13**|**Moral Change or Noise? On Problems of Aligning AI With Temporally Unstable Human Feedback**|Vijay Keswani et.al.|[2511.10032](http://arxiv.org/abs/2511.10032)|null|
+|**2025-11-13**|**AffordBot: 3D Fine-grained Embodied Reasoning via Multimodal Large Language Models**|Xinyi Wang et.al.|[2511.10017](http://arxiv.org/abs/2511.10017)|null|
+|**2025-11-13**|**Robust Object Detection with Pseudo Labels from VLMs using Per-Object Co-teaching**|Uday Bhaskar et.al.|[2511.09955](http://arxiv.org/abs/2511.09955)|null|
+|**2025-11-13**|**A Study on Enhancing the Generalization Ability of Visuomotor Policies via Data Augmentation**|Hanwen Wang et.al.|[2511.09932](http://arxiv.org/abs/2511.09932)|null|
+|**2025-11-12**|**Echoing: Identity Failures when LLM Agents Talk to Each Other**|Sarath Shekkizhar et.al.|[2511.09710](http://arxiv.org/abs/2511.09710)|null|
 |**2025-10-30**|**Incremental Human-Object Interaction Detection with Invariant Relation Representation Learning**|Yana Wei et.al.|[2510.27020](http://arxiv.org/abs/2510.27020)|null|
 |**2025-10-29**|**SynHLMA:Synthesizing Hand Language Manipulation for Articulated Object with Discrete Human Object Interaction Representation**|Wang zhi et.al.|[2510.25268](http://arxiv.org/abs/2510.25268)|null|
 |**2025-10-29**|**Visual Diversity and Region-aware Prompt Learning for Zero-shot HOI Detection**|Chanhyeong Yang et.al.|[2510.25094](http://arxiv.org/abs/2510.25094)|null|
@@ -113,12 +143,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20251114>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251115>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-13**|**Safe Planning in Interactive Environments via Iterative Policy Updates and Adversarially Robust Conformal Prediction**|Omid Mirzaeedodangeh et.al.|[2511.10586](http://arxiv.org/abs/2511.10586)|null|
+|**2025-11-13**|**Towards Emotionally Intelligent and Responsible Reinforcement Learning**|Garapati Keerthana et.al.|[2511.10573](http://arxiv.org/abs/2511.10573)|null|
+|**2025-11-13**|**Bytes of a Feather: Personality and Opinion Alignment Effects in Human-AI Interaction**|Maximilian Eder et.al.|[2511.10544](http://arxiv.org/abs/2511.10544)|null|
+|**2025-11-13**|**Dynamic Avatar-Scene Rendering from Human-centric Context**|Wenqing Wang et.al.|[2511.10539](http://arxiv.org/abs/2511.10539)|null|
+|**2025-11-13**|**Preview, Accept or Discard? A Predictive Low-Motion Interaction Paradigm**|Jose Berengueres et.al.|[2511.10532](http://arxiv.org/abs/2511.10532)|null|
+|**2025-11-13**|**Don't Waste It: Guiding Generative Recommenders with Structured Human Priors via Multi-head Decoding**|Yunkai Zhang et.al.|[2511.10492](http://arxiv.org/abs/2511.10492)|null|
+|**2025-11-13**|**Proceedings of The third international workshop on eXplainable AI for the Arts (XAIxArts)**|Corey Ford et.al.|[2511.10482](http://arxiv.org/abs/2511.10482)|null|
+|**2025-11-13**|**Motivations and Actions of Human-Building Interactions from Environmental Momentary Assessments**|Maharshi Pathak et.al.|[2511.10467](http://arxiv.org/abs/2511.10467)|null|
+|**2025-11-13**|**Improving dependability in robotized bolting operations**|Lorenzo Pagliara et.al.|[2511.10448](http://arxiv.org/abs/2511.10448)|null|
+|**2025-11-13**|**Navigating the Ethics of Internet Measurement: Researchers' Perspectives from a Case Study in the EU**|Sahibzada Farhan Amin et.al.|[2511.10408](http://arxiv.org/abs/2511.10408)|null|
 |**2025-09-17**|**Towards Context-Aware Human-like Pointing Gestures with RL Motion Imitation**|Anna Deichler et.al.|[2509.12880](http://arxiv.org/abs/2509.12880)|null|
 |**2025-07-29**|**Multi-Person Interaction Generation from Two-Person Motion Priors**|Wenning Xu et.al.|[2505.17860](http://arxiv.org/abs/2505.17860)|null|
 |**2025-05-12**|**Collecting Human Motion Data in Large and Occlusion-Prone Environments using Ultra-Wideband Localization**|Janik Kaden et.al.|[2505.05851](http://arxiv.org/abs/2505.05851)|null|
@@ -130,7 +170,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20251114>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251115>back to top</a>)</p>
 
 Notes: 
 
