@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-> Updated on 2025.11.15
+> Updated on 2025.11.16
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -850,7 +850,7 @@
 - 2020-08-29, **"It took me almost 30 minutes to practice this". Performance and Production Practices in Dance Challenge Videos on TikTok**, Daniel Klug et.al., Paper: [http://arxiv.org/abs/2008.13040](http://arxiv.org/abs/2008.13040)
 - 2025-09-22, **"I don't like my avatar": Investigating Human Digital Doubles**, Siyi Liu et.al., Paper: [http://arxiv.org/abs/2509.17748](http://arxiv.org/abs/2509.17748)
 
-<p align=right>(<a href=#updated-on-20251115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251116>back to top</a>)</p>
 
 ## Image Animation
 
@@ -962,7 +962,7 @@
 - 2022-03-25, **3D GAN Inversion for Controllable Portrait Image Animation**, Connor Z. Lin et.al., Paper: [http://arxiv.org/abs/2203.13441](http://arxiv.org/abs/2203.13441)
 - 2023-03-10, **3D Cinemagraphy from a Single Image**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2303.05724](http://arxiv.org/abs/2303.05724)
 
-<p align=right>(<a href=#updated-on-20251115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251116>back to top</a>)</p>
 
 ## Motion Generation
 
@@ -1021,7 +1021,7 @@
 - 2025-11-03, **A Topology-Aware Graph Convolutional Network for Human Pose Similarity and Action Quality Assessment**, Minmin Zeng et.al., Paper: [http://arxiv.org/abs/2511.01194](http://arxiv.org/abs/2511.01194)
 - 2025-11-08, **10 Open Challenges Steering the Future of Vision-Language-Action Models**, Soujanya Poria et.al., Paper: [http://arxiv.org/abs/2511.05936](http://arxiv.org/abs/2511.05936)
 
-<p align=right>(<a href=#updated-on-20251115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251116>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -1055,7 +1055,7 @@
 - 2025-11-13, **AHA! Animating Human Avatars in Diverse Scenes with Gaussian Splatting**, Aymen Mir et.al., Paper: [http://arxiv.org/abs/2511.09827](http://arxiv.org/abs/2511.09827)
 - 2025-11-13, **A Study on Enhancing the Generalization Ability of Visuomotor Policies via Data Augmentation**, Hanwen Wang et.al., Paper: [http://arxiv.org/abs/2511.09932](http://arxiv.org/abs/2511.09932)
 
-<p align=right>(<a href=#updated-on-20251115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251116>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
@@ -1091,7 +1091,7 @@
 - 2025-11-13, **A Study on Enhancing the Generalization Ability of Visuomotor Policies via Data Augmentation**, Hanwen Wang et.al., Paper: [http://arxiv.org/abs/2511.09932](http://arxiv.org/abs/2511.09932)
 - 2023-11-23, **A Study of Human-Robot Handover through Human-Human Object Transfer**, Charlotte Morissette et.al., Paper: [http://arxiv.org/abs/2311.13021](http://arxiv.org/abs/2311.13021)
 
-<p align=right>(<a href=#updated-on-20251115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251116>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
@@ -1116,7 +1116,7 @@
 - 2025-11-13, **Bytes of a Feather: Personality and Opinion Alignment Effects in Human-AI Interaction**, Maximilian Eder et.al., Paper: [http://arxiv.org/abs/2511.10544](http://arxiv.org/abs/2511.10544)
 - 2025-04-09, **A Survey on Human Interaction Motion Generation**, Kewei Sui et.al., Paper: [http://arxiv.org/abs/2503.12763](http://arxiv.org/abs/2503.12763)
 
-<p align=right>(<a href=#updated-on-20251115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251116>back to top</a>)</p>
 
 Notes: 
 
