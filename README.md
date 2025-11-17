@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-14**|**Who Moved My Distribution? Conformal Prediction for Interactive Multi-Agent Systems**|Allen Emmanuel Binny et.al.|[2511.11567](http://arxiv.org/abs/2511.11567)|null|
+|**2025-11-14**|**Building far-from-equilibrium effective field theories using shift symmetries**|Xin An et.al.|[2511.11555](http://arxiv.org/abs/2511.11555)|null|
+|**2025-11-14**|**Aligning Machiavellian Agents: Behavior Steering via Test-Time Policy Shaping**|Dena Mujtaba et.al.|[2511.11551](http://arxiv.org/abs/2511.11551)|null|
+|**2025-11-14**|**Scalable Policy Evaluation with Video World Models**|Wei-Cheng Tseng et.al.|[2511.11520](http://arxiv.org/abs/2511.11520)|null|
+|**2025-11-14**|**Scalable Coverage Trajectory Synthesis on GPUs as Statistical Inference**|Max M. Sun et.al.|[2511.11514](http://arxiv.org/abs/2511.11514)|null|
+|**2025-11-14**|**ImAgent: A Unified Multimodal Agent Framework for Test-Time Scalable Image Generation**|Kaishen Wang et.al.|[2511.11483](http://arxiv.org/abs/2511.11483)|null|
+|**2025-11-14**|**Inferring response times of perceptual decisions with Poisson variational autoencoders**|Hayden R. Johnson et.al.|[2511.11480](http://arxiv.org/abs/2511.11480)|null|
+|**2025-11-14**|**Rethinking Progression of Memory State in Robotic Manipulation: An Object-Centric Perspective**|Nhat Chung et.al.|[2511.11478](http://arxiv.org/abs/2511.11478)|null|
+|**2025-11-14**|**MoCap2Radar: A Spatiotemporal Transformer for Synthesizing Micro-Doppler Radar Signatures from Motion Capture**|Kevin Chen et.al.|[2511.11462](http://arxiv.org/abs/2511.11462)|null|
+|**2025-11-14**|**Free3D: 3D Human Motion Emerges from Single-View 2D Supervision**|Sheng Liu et.al.|[2511.11368](http://arxiv.org/abs/2511.11368)|null|
 |**2025-11-13**|**Towards Blind and Low-Vision Accessibility of Lightweight VLMs and Custom LLM-Evals**|Shruti Singh Baghel et.al.|[2511.10615](http://arxiv.org/abs/2511.10615)|null|
 |**2025-11-13**|**Multistationarity in semi-open Phosphorylation-Dephosphorylation Cycles**|Praneet Nandan et.al.|[2511.10609](http://arxiv.org/abs/2511.10609)|null|
 |**2025-11-13**|**Safe Planning in Interactive Environments via Iterative Policy Updates and Adversarially Robust Conformal Prediction**|Omid Mirzaeedodangeh et.al.|[2511.10586](http://arxiv.org/abs/2511.10586)|null|
@@ -75,6 +85,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-14**|**VP-Bench: A Comprehensive Benchmark for Visual Prompting in Multimodal Large Language Models**|Mingjie Xu et.al.|[2511.11438](http://arxiv.org/abs/2511.11438)|null|
+|**2025-11-14**|**Hi-DREAM: Brain Inspired Hierarchical Diffusion for fMRI Reconstruction via ROI Encoder and visuAl Mapping**|Guowei Zhang et.al.|[2511.11437](http://arxiv.org/abs/2511.11437)|null|
+|**2025-11-14**|**Discovering Meaningful Units with Visually Grounded Semantics from Image Captions**|Melika Behjati et.al.|[2511.11262](http://arxiv.org/abs/2511.11262)|null|
+|**2025-11-14**|**AdaptPNP: Integrating Prehensile and Non-Prehensile Skills for Adaptive Robotic Manipulation**|Jinxuan Zhu et.al.|[2511.11052](http://arxiv.org/abs/2511.11052)|null|
+|**2025-11-14**|**AirCopBench: A Benchmark for Multi-drone Collaborative Embodied Perception and Reasoning**|Jirong Zha et.al.|[2511.11025](http://arxiv.org/abs/2511.11025)|null|
+|**2025-11-13**|**Advanced Tool for Traffic Crash Analysis: An AI-Driven Multi-Agent Approach to Pre-Crash Reconstruction**|Gerui Xu et.al.|[2511.10853](http://arxiv.org/abs/2511.10853)|null|
 |**2025-11-13**|**Dynamic Avatar-Scene Rendering from Human-centric Context**|Wenqing Wang et.al.|[2511.10539](http://arxiv.org/abs/2511.10539)|null|
 |**2025-11-13**|**GridPrune: From "Where to Look" to "What to Select" in Visual Token Pruning for MLLMs**|Yuxiang Duan et.al.|[2511.10081](http://arxiv.org/abs/2511.10081)|null|
 |**2025-11-13**|**AffordBot: 3D Fine-grained Embodied Reasoning via Multimodal Large Language Models**|Xinyi Wang et.al.|[2511.10017](http://arxiv.org/abs/2511.10017)|null|
@@ -111,6 +127,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-14**|**Aligning Machiavellian Agents: Behavior Steering via Test-Time Policy Shaping**|Dena Mujtaba et.al.|[2511.11551](http://arxiv.org/abs/2511.11551)|null|
+|**2025-11-14**|**SimTac: A Physics-Based Simulator for Vision-Based Tactile Sensing with Biomorphic Structures**|Xuyang Zhang et.al.|[2511.11456](http://arxiv.org/abs/2511.11456)|null|
+|**2025-11-14**|**VP-Bench: A Comprehensive Benchmark for Visual Prompting in Multimodal Large Language Models**|Mingjie Xu et.al.|[2511.11438](http://arxiv.org/abs/2511.11438)|null|
+|**2025-11-14**|**Hi-DREAM: Brain Inspired Hierarchical Diffusion for fMRI Reconstruction via ROI Encoder and visuAl Mapping**|Guowei Zhang et.al.|[2511.11437](http://arxiv.org/abs/2511.11437)|null|
+|**2025-11-14**|**Free3D: 3D Human Motion Emerges from Single-View 2D Supervision**|Sheng Liu et.al.|[2511.11368](http://arxiv.org/abs/2511.11368)|null|
+|**2025-11-14**|**Discovering Meaningful Units with Visually Grounded Semantics from Image Captions**|Melika Behjati et.al.|[2511.11262](http://arxiv.org/abs/2511.11262)|null|
+|**2025-11-14**|**ARCTraj: A Dataset and Benchmark of Human Reasoning Trajectories for Abstract Problem Solving**|Sejin Kim et.al.|[2511.11079](http://arxiv.org/abs/2511.11079)|null|
+|**2025-11-14**|**AdaptPNP: Integrating Prehensile and Non-Prehensile Skills for Adaptive Robotic Manipulation**|Jinxuan Zhu et.al.|[2511.11052](http://arxiv.org/abs/2511.11052)|null|
+|**2025-11-14**|**AirCopBench: A Benchmark for Multi-drone Collaborative Embodied Perception and Reasoning**|Jirong Zha et.al.|[2511.11025](http://arxiv.org/abs/2511.11025)|null|
+|**2025-11-14**|**Dexterous Manipulation Transfer via Progressive Kinematic-Dynamic Alignment**|Wenbin Bai et.al.|[2511.10987](http://arxiv.org/abs/2511.10987)|null|
 |**2025-11-13**|**Towards Emotionally Intelligent and Responsible Reinforcement Learning**|Garapati Keerthana et.al.|[2511.10573](http://arxiv.org/abs/2511.10573)|null|
 |**2025-11-13**|**Don't Waste It: Guiding Generative Recommenders with Structured Human Priors via Multi-head Decoding**|Yunkai Zhang et.al.|[2511.10492](http://arxiv.org/abs/2511.10492)|null|
 |**2025-11-13**|**Position: On the Methodological Pitfalls of Evaluating Base LLMs for Reasoning**|Jason Chan et.al.|[2511.10381](http://arxiv.org/abs/2511.10381)|null|
@@ -149,6 +175,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-14**|**Context-aware Adaptive Visualizations for Critical Decision Making**|Angela Lopez-Cardona et.al.|[2511.11476](http://arxiv.org/abs/2511.11476)|null|
+|**2025-11-14**|**MoCap2Radar: A Spatiotemporal Transformer for Synthesizing Micro-Doppler Radar Signatures from Motion Capture**|Kevin Chen et.al.|[2511.11462](http://arxiv.org/abs/2511.11462)|null|
+|**2025-11-14**|**SimTac: A Physics-Based Simulator for Vision-Based Tactile Sensing with Biomorphic Structures**|Xuyang Zhang et.al.|[2511.11456](http://arxiv.org/abs/2511.11456)|null|
+|**2025-11-14**|**AI as a component in the action research tradition of learning-by-doing**|Ian Benson et.al.|[2511.11445](http://arxiv.org/abs/2511.11445)|null|
+|**2025-11-14**|**Hi-DREAM: Brain Inspired Hierarchical Diffusion for fMRI Reconstruction via ROI Encoder and visuAl Mapping**|Guowei Zhang et.al.|[2511.11437](http://arxiv.org/abs/2511.11437)|null|
+|**2025-11-14**|**WEAVE: Unleashing and Benchmarking the In-context Interleaved Comprehension and Generation**|Wei Chow et.al.|[2511.11434](http://arxiv.org/abs/2511.11434)|null|
+|**2025-11-14**|**Disentangling Emotional Bases and Transient Fluctuations: A Low-Rank Sparse Decomposition Approach for Video Affective Analysis**|Feng-Qi Cui et.al.|[2511.11406](http://arxiv.org/abs/2511.11406)|null|
+|**2025-11-14**|**Free3D: 3D Human Motion Emerges from Single-View 2D Supervision**|Sheng Liu et.al.|[2511.11368](http://arxiv.org/abs/2511.11368)|null|
+|**2025-11-14**|**KarmaTS: A Universal Simulation Platform for Multivariate Time Series with Functional Causal Dynamics**|Haixin Li et.al.|[2511.11357](http://arxiv.org/abs/2511.11357)|null|
+|**2025-11-14**|**RLSLM: A Hybrid Reinforcement Learning Framework Aligning Rule-Based Social Locomotion Model with Human Social Norms**|Yitian Kou et.al.|[2511.11323](http://arxiv.org/abs/2511.11323)|null|
 |**2025-11-13**|**Safe Planning in Interactive Environments via Iterative Policy Updates and Adversarially Robust Conformal Prediction**|Omid Mirzaeedodangeh et.al.|[2511.10586](http://arxiv.org/abs/2511.10586)|null|
 |**2025-11-13**|**Towards Emotionally Intelligent and Responsible Reinforcement Learning**|Garapati Keerthana et.al.|[2511.10573](http://arxiv.org/abs/2511.10573)|null|
 |**2025-11-13**|**Bytes of a Feather: Personality and Opinion Alignment Effects in Human-AI Interaction**|Maximilian Eder et.al.|[2511.10544](http://arxiv.org/abs/2511.10544)|null|
