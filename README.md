@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-17**|**From Power to Precision: Learning Fine-grained Dexterity for Multi-fingered Robotic Hands**|Jianglong Ye et.al.|[2511.13710](http://arxiv.org/abs/2511.13710)|null|
+|**2025-11-17**|**TiViBench: Benchmarking Think-in-Video Reasoning for Video Generative Models**|Harold Haodong Chen et.al.|[2511.13704](http://arxiv.org/abs/2511.13704)|null|
+|**2025-11-17**|**Crossing Borders: A Multimodal Challenge for Indian Poetry Translation and Image Generation**|Sofia Jamil et.al.|[2511.13689](http://arxiv.org/abs/2511.13689)|null|
+|**2025-11-17**|**Live-SWE-agent: Can Software Engineering Agents Self-Evolve on the Fly?**|Chunqiu Steven Xia et.al.|[2511.13646](http://arxiv.org/abs/2511.13646)|null|
+|**2025-11-17**|**CreBench: Human-Aligned Creativity Evaluation from Idea to Process to Product**|Kaiwen Xue et.al.|[2511.13626](http://arxiv.org/abs/2511.13626)|null|
+|**2025-11-17**|**Coclique level structure for stochastic chemical reaction networks**|Simone Bruno et.al.|[2511.13569](http://arxiv.org/abs/2511.13569)|null|
+|**2025-11-17**|**On the General Projective Theory of Matter and Gravitation**|Michael J. Connolly et.al.|[2511.13521](http://arxiv.org/abs/2511.13521)|null|
+|**2025-11-17**|**InterMoE: Individual-Specific 3D Human Interaction Generation via Dynamic Temporal-Selective MoE**|Lipeng Wang et.al.|[2511.13488](http://arxiv.org/abs/2511.13488)|null|
+|**2025-11-17**|**Semi-Supervised Multi-Task Learning for Interpretable Quality As- sessment of Fundus Images**|Lucas Gabriel Telesco et.al.|[2511.13353](http://arxiv.org/abs/2511.13353)|null|
+|**2025-11-17**|**ZeroDexGrasp: Zero-Shot Task-Oriented Dexterous Grasp Synthesis with Prompt-Based Multi-Stage Semantic Reasoning**|Juntao Jian et.al.|[2511.13327](http://arxiv.org/abs/2511.13327)|null|
 |**2025-11-14**|**Who Moved My Distribution? Conformal Prediction for Interactive Multi-Agent Systems**|Allen Emmanuel Binny et.al.|[2511.11567](http://arxiv.org/abs/2511.11567)|null|
 |**2025-11-14**|**Building far-from-equilibrium effective field theories using shift symmetries**|Xin An et.al.|[2511.11555](http://arxiv.org/abs/2511.11555)|null|
 |**2025-11-14**|**Aligning Machiavellian Agents: Behavior Steering via Test-Time Policy Shaping**|Dena Mujtaba et.al.|[2511.11551](http://arxiv.org/abs/2511.11551)|null|
@@ -85,6 +95,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-17**|**Computer Vision based group activity detection and action spotting**|Narthana Sivalingam et.al.|[2511.13315](http://arxiv.org/abs/2511.13315)|null|
+|**2025-11-17**|**Towards Metric-Aware Multi-Person Mesh Recovery by Jointly Optimizing Human Crowd in Camera Space**|Kaiwen Wang et.al.|[2511.13282](http://arxiv.org/abs/2511.13282)|null|
+|**2025-11-17**|**Uni-Inter: Unifying 3D Human Motion Synthesis Across Diverse Interaction Contexts**|Sheng Liu et.al.|[2511.13032](http://arxiv.org/abs/2511.13032)|null|
+|**2025-11-17**|**Visual Room 2.0: Seeing is Not Understanding for MLLMs**|Haokun Li et.al.|[2511.12928](http://arxiv.org/abs/2511.12928)|null|
+|**2025-11-16**|**Predicting upcoming visual features during eye movements yields scene representations aligned with human visual cortex**|Sushrut Thorat et.al.|[2511.12715](http://arxiv.org/abs/2511.12715)|null|
+|**2025-11-16**|**ClutterNav: Gradient-Guided Search for Efficient 3D Clutter Removal with Learned Costmaps**|Navin Sriram Ravie et.al.|[2511.12479](http://arxiv.org/abs/2511.12479)|null|
+|**2025-11-16**|**DenseAnnotate: Enabling Scalable Dense Caption Collection for Images and 3D Scenes via Spoken Descriptions**|Xiaoyu Lin et.al.|[2511.12452](http://arxiv.org/abs/2511.12452)|null|
 |**2025-11-14**|**VP-Bench: A Comprehensive Benchmark for Visual Prompting in Multimodal Large Language Models**|Mingjie Xu et.al.|[2511.11438](http://arxiv.org/abs/2511.11438)|null|
 |**2025-11-14**|**Hi-DREAM: Brain Inspired Hierarchical Diffusion for fMRI Reconstruction via ROI Encoder and visuAl Mapping**|Guowei Zhang et.al.|[2511.11437](http://arxiv.org/abs/2511.11437)|null|
 |**2025-11-14**|**Discovering Meaningful Units with Visually Grounded Semantics from Image Captions**|Melika Behjati et.al.|[2511.11262](http://arxiv.org/abs/2511.11262)|null|
@@ -127,6 +144,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-17**|**From Power to Precision: Learning Fine-grained Dexterity for Multi-fingered Robotic Hands**|Jianglong Ye et.al.|[2511.13710](http://arxiv.org/abs/2511.13710)|null|
+|**2025-11-17**|**Adaptive Multi-Scale Integration Unlocks Robust Cell Annotation in Histopathology Images**|Yinuo Xu et.al.|[2511.13586](http://arxiv.org/abs/2511.13586)|null|
+|**2025-11-17**|**FreeAskWorld: An Interactive and Closed-Loop Simulator for Human-Centric Embodied AI**|Yuhang Peng et.al.|[2511.13524](http://arxiv.org/abs/2511.13524)|null|
+|**2025-11-17**|**Language-Guided Invariance Probing of Vision-Language Models**|Jae Joong Lee et.al.|[2511.13494](http://arxiv.org/abs/2511.13494)|null|
+|**2025-11-17**|**FLOWER: Flow-Oriented Entity-Relationship Tool**|Dmitry Moskalev et.al.|[2511.13357](http://arxiv.org/abs/2511.13357)|null|
+|**2025-11-17**|**ZeroDexGrasp: Zero-Shot Task-Oriented Dexterous Grasp Synthesis with Prompt-Based Multi-Stage Semantic Reasoning**|Juntao Jian et.al.|[2511.13327](http://arxiv.org/abs/2511.13327)|null|
+|**2025-11-17**|**Towards Requirements Engineering for GenAI-Enabled Software: Bridging Responsibility Gaps through Human Oversight Requirements**|Zhenyu Mao et.al.|[2511.13069](http://arxiv.org/abs/2511.13069)|null|
+|**2025-11-17**|**Knowing Ourselves Through Others: Reflecting with AI in Digital Human Debates**|Ichiro Matsuda et.al.|[2511.13046](http://arxiv.org/abs/2511.13046)|null|
+|**2025-11-17**|**Uni-Inter: Unifying 3D Human Motion Synthesis Across Diverse Interaction Contexts**|Sheng Liu et.al.|[2511.13032](http://arxiv.org/abs/2511.13032)|null|
+|**2025-11-17**|**Thermal infrared characterization of spatially unresolved resident space objects: Prospects from analytical two-component modeling**|Stephen Catsamas et.al.|[2511.13030](http://arxiv.org/abs/2511.13030)|null|
 |**2025-11-14**|**Aligning Machiavellian Agents: Behavior Steering via Test-Time Policy Shaping**|Dena Mujtaba et.al.|[2511.11551](http://arxiv.org/abs/2511.11551)|null|
 |**2025-11-14**|**SimTac: A Physics-Based Simulator for Vision-Based Tactile Sensing with Biomorphic Structures**|Xuyang Zhang et.al.|[2511.11456](http://arxiv.org/abs/2511.11456)|null|
 |**2025-11-14**|**VP-Bench: A Comprehensive Benchmark for Visual Prompting in Multimodal Large Language Models**|Mingjie Xu et.al.|[2511.11438](http://arxiv.org/abs/2511.11438)|null|
@@ -175,6 +202,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-17**|**UnSAMv2: Self-Supervised Learning Enables Segment Anything at Any Granularity**|Junwei Yu et.al.|[2511.13714](http://arxiv.org/abs/2511.13714)|null|
+|**2025-11-17**|**From Power to Precision: Learning Fine-grained Dexterity for Multi-fingered Robotic Hands**|Jianglong Ye et.al.|[2511.13710](http://arxiv.org/abs/2511.13710)|null|
+|**2025-11-17**|**OpenRoboCare: A Multimodal Multi-Task Expert Demonstration Dataset for Robot Caregiving**|Xiaoyu Liang et.al.|[2511.13707](http://arxiv.org/abs/2511.13707)|null|
+|**2025-11-17**|**Person-AI Bidirectional Fit - A Proof-Of-Concept Case Study Of Augmented Human-Ai Symbiosis In Management Decision-Making Process**|Agnieszka Bieńkowska et.al.|[2511.13670](http://arxiv.org/abs/2511.13670)|null|
+|**2025-11-17**|**Omni Memory System for Personalized, Long Horizon, Self-Evolving Agents**|Piaohong Wang et.al.|[2511.13593](http://arxiv.org/abs/2511.13593)|null|
+|**2025-11-17**|**Exploring the Effectiveness of Google Play Store's Privacy Transparency Channels**|Anhao Xiang et.al.|[2511.13576](http://arxiv.org/abs/2511.13576)|null|
+|**2025-11-17**|**Artificial Intelligence-driven Intelligent Wearable Systems: A full-stack Integration from Material Design to Personalized Interaction**|Jingyi Zhao et.al.|[2511.13565](http://arxiv.org/abs/2511.13565)|null|
+|**2025-11-17**|**Towards Affect-Adaptive Human-Robot Interaction: A Protocol for Multimodal Dataset Collection on Social Anxiety**|Vesna Poprcova et.al.|[2511.13530](http://arxiv.org/abs/2511.13530)|null|
+|**2025-11-17**|**FreeAskWorld: An Interactive and Closed-Loop Simulator for Human-Centric Embodied AI**|Yuhang Peng et.al.|[2511.13524](http://arxiv.org/abs/2511.13524)|null|
+|**2025-11-17**|**InterMoE: Individual-Specific 3D Human Interaction Generation via Dynamic Temporal-Selective MoE**|Lipeng Wang et.al.|[2511.13488](http://arxiv.org/abs/2511.13488)|null|
 |**2025-11-14**|**Context-aware Adaptive Visualizations for Critical Decision Making**|Angela Lopez-Cardona et.al.|[2511.11476](http://arxiv.org/abs/2511.11476)|null|
 |**2025-11-14**|**MoCap2Radar: A Spatiotemporal Transformer for Synthesizing Micro-Doppler Radar Signatures from Motion Capture**|Kevin Chen et.al.|[2511.11462](http://arxiv.org/abs/2511.11462)|null|
 |**2025-11-14**|**SimTac: A Physics-Based Simulator for Vision-Based Tactile Sensing with Biomorphic Structures**|Xuyang Zhang et.al.|[2511.11456](http://arxiv.org/abs/2511.11456)|null|
