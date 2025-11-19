@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-18**|**$π^{*}_{0.6}$ : a VLA That Learns From Experience**|Ali Amin et.al.|[2511.14759](http://arxiv.org/abs/2511.14759)|null|
+|**2025-11-18**|**Heterogeneous Multi-Agent Proximal Policy Optimization for Power Distribution System Restoration**|Parya Dolatyabi et.al.|[2511.14730](http://arxiv.org/abs/2511.14730)|null|
+|**2025-11-18**|**When AI Democratizes Exploitation: LLM-Assisted Strategic Manipulation of Fair Division Algorithms**|Priyanka Verma et.al.|[2511.14722](http://arxiv.org/abs/2511.14722)|null|
+|**2025-11-18**|**Cell Shape Emerges from Motion**|Gautham Gopinath et.al.|[2511.14707](http://arxiv.org/abs/2511.14707)|null|
+|**2025-11-18**|**SkillGen: Learning Domain Skills for In-Context Sequential Decision Making**|Ruomeng Ding et.al.|[2511.14670](http://arxiv.org/abs/2511.14670)|null|
+|**2025-11-18**|**NORA-1.5: A Vision-Language-Action Model Trained using World Model- and Action-based Preference Rewards**|Chia-Yu Hung et.al.|[2511.14659](http://arxiv.org/abs/2511.14659)|null|
+|**2025-11-18**|**Search by Return: Stochastic Resetting in Fluctuating Harmonic Potentials**|Derek Frydel et.al.|[2511.14646](http://arxiv.org/abs/2511.14646)|null|
+|**2025-11-18**|**ReflexGrad: Three-Way Synergistic Architecture for Zero-Shot Generalization in LLM Agents**|Ankush Kadu et.al.|[2511.14584](http://arxiv.org/abs/2511.14584)|null|
+|**2025-11-18**|**DeCo-VAE: Learning Compact Latents for Video Reconstruction via Decoupled Representation**|Xiangchen Yin et.al.|[2511.14530](http://arxiv.org/abs/2511.14530)|null|
+|**2025-11-18**|**Enhancing End-to-End Autonomous Driving with Risk Semantic Distillaion from VLM**|Jack Qin et.al.|[2511.14499](http://arxiv.org/abs/2511.14499)|null|
 |**2025-11-17**|**From Power to Precision: Learning Fine-grained Dexterity for Multi-fingered Robotic Hands**|Jianglong Ye et.al.|[2511.13710](http://arxiv.org/abs/2511.13710)|null|
 |**2025-11-17**|**TiViBench: Benchmarking Think-in-Video Reasoning for Video Generative Models**|Harold Haodong Chen et.al.|[2511.13704](http://arxiv.org/abs/2511.13704)|null|
 |**2025-11-17**|**Crossing Borders: A Multimodal Challenge for Indian Poetry Translation and Image Generation**|Sofia Jamil et.al.|[2511.13689](http://arxiv.org/abs/2511.13689)|null|
@@ -95,6 +105,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-18**|**Interaction-Aware 4D Gaussian Splatting for Dynamic Hand-Object Interaction Reconstruction**|Hao Tian et.al.|[2511.14540](http://arxiv.org/abs/2511.14540)|null|
+|**2025-11-17**|**Segmenting Collision Sound Sources in Egocentric Videos**|Kranti Kumar Parida et.al.|[2511.13863](http://arxiv.org/abs/2511.13863)|null|
 |**2025-11-17**|**Computer Vision based group activity detection and action spotting**|Narthana Sivalingam et.al.|[2511.13315](http://arxiv.org/abs/2511.13315)|null|
 |**2025-11-17**|**Towards Metric-Aware Multi-Person Mesh Recovery by Jointly Optimizing Human Crowd in Camera Space**|Kaiwen Wang et.al.|[2511.13282](http://arxiv.org/abs/2511.13282)|null|
 |**2025-11-17**|**Uni-Inter: Unifying 3D Human Motion Synthesis Across Diverse Interaction Contexts**|Sheng Liu et.al.|[2511.13032](http://arxiv.org/abs/2511.13032)|null|
@@ -144,6 +156,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-18**|**Quantum realism and its contradictions: a contribution form the social sciences**|Henry Daniel Vera Ramirez et.al.|[2511.14585](http://arxiv.org/abs/2511.14585)|null|
+|**2025-11-18**|**LLM-Assisted Thematic Analysis: Opportunities, Limitations, and Recommendations**|Tatiane Ornelas et.al.|[2511.14528](http://arxiv.org/abs/2511.14528)|null|
+|**2025-11-18**|**D-PerceptCT: Deep Perceptual Enhancement for Low-Dose CT Images**|Taifour Yousra Nabila et.al.|[2511.14518](http://arxiv.org/abs/2511.14518)|null|
+|**2025-11-18**|**Enhancing End-to-End Autonomous Driving with Risk Semantic Distillaion from VLM**|Jack Qin et.al.|[2511.14499](http://arxiv.org/abs/2511.14499)|null|
+|**2025-11-18**|**Continuous Vision-Language-Action Co-Learning with Semantic-Physical Alignment for Behavioral Cloning**|Xiuxiu Qi et.al.|[2511.14396](http://arxiv.org/abs/2511.14396)|null|
+|**2025-11-18**|**Object-Centric World Models for Causality-Aware Reinforcement Learning**|Yosuke Nishimoto et.al.|[2511.14262](http://arxiv.org/abs/2511.14262)|null|
+|**2025-11-18**|**Breaking the Passive Learning Trap: An Active Perception Strategy for Human Motion Prediction**|Juncheng Hu et.al.|[2511.14237](http://arxiv.org/abs/2511.14237)|null|
+|**2025-11-18**|**FreeMusco: Motion-Free Learning of Latent Control for Morphology-Adaptive Locomotion in Musculoskeletal Characters**|Minkwan Kim et.al.|[2511.14205](http://arxiv.org/abs/2511.14205)|null|
+|**2025-11-18**|**Few-Shot Precise Event Spotting via Unified Multi-Entity Graph and Distillation**|Zhaoyu Liu et.al.|[2511.14186](http://arxiv.org/abs/2511.14186)|null|
+|**2025-11-18**|**AdaTok: Adaptive Token Compression with Object-Aware Representations for Efficient Multimodal LLMs**|Xinliang Zhang et.al.|[2511.14169](http://arxiv.org/abs/2511.14169)|null|
 |**2025-11-17**|**From Power to Precision: Learning Fine-grained Dexterity for Multi-fingered Robotic Hands**|Jianglong Ye et.al.|[2511.13710](http://arxiv.org/abs/2511.13710)|null|
 |**2025-11-17**|**Adaptive Multi-Scale Integration Unlocks Robust Cell Annotation in Histopathology Images**|Yinuo Xu et.al.|[2511.13586](http://arxiv.org/abs/2511.13586)|null|
 |**2025-11-17**|**FreeAskWorld: An Interactive and Closed-Loop Simulator for Human-Centric Embodied AI**|Yuhang Peng et.al.|[2511.13524](http://arxiv.org/abs/2511.13524)|null|
@@ -202,6 +224,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-18**|**From Random Determinants to the Ground State**|Hao Zhang et.al.|[2511.14734](http://arxiv.org/abs/2511.14734)|null|
+|**2025-11-18**|**Natural Language Interfaces for Databases: What Do Users Think?**|Panos Ipeirotis et.al.|[2511.14718](http://arxiv.org/abs/2511.14718)|null|
+|**2025-11-18**|**Hyperbolic Graph Embeddings Reveal the Host-Pathogen Interactome**|Xiaoqiong Xia et.al.|[2511.14669](http://arxiv.org/abs/2511.14669)|null|
+|**2025-11-18**|**M-CALLM: Multi-level Context Aware LLM Framework for Group Interaction Prediction**|Diana Romero et.al.|[2511.14661](http://arxiv.org/abs/2511.14661)|null|
+|**2025-11-18**|**Theoretical basis for code presentation: A case for cognitive load**|Nyah Speicher et.al.|[2511.14636](http://arxiv.org/abs/2511.14636)|null|
+|**2025-11-18**|**SecureSign: Bridging Security and UX in Mobile Web3 through Emulated EIP-6963 Sandboxing**|Charles Cheng Ji et.al.|[2511.14611](http://arxiv.org/abs/2511.14611)|null|
+|**2025-11-18**|**Biased Minds Meet Biased AI: How Class Imbalance Shapes Appropriate Reliance and Interacts with Human Base Rate Neglect**|Nick von Felten et.al.|[2511.14591](http://arxiv.org/abs/2511.14591)|null|
+|**2025-11-18**|**SweeperBot: Making 3D Browsing Accessible through View Analysis and Visual Question Answering**|Chen Chen et.al.|[2511.14567](http://arxiv.org/abs/2511.14567)|null|
+|**2025-11-18**|**Agentic Video Intelligence: A Flexible Framework for Advanced Video Exploration and Understanding**|Hong Gao et.al.|[2511.14446](http://arxiv.org/abs/2511.14446)|null|
+|**2025-11-18**|**Tell Me: An LLM-powered Mental Well-being Assistant with RAG, Synthetic Dialogue Generation, and Agentic Planning**|Trishala Jayesh Ahalpara et.al.|[2511.14445](http://arxiv.org/abs/2511.14445)|null|
 |**2025-11-17**|**UnSAMv2: Self-Supervised Learning Enables Segment Anything at Any Granularity**|Junwei Yu et.al.|[2511.13714](http://arxiv.org/abs/2511.13714)|null|
 |**2025-11-17**|**From Power to Precision: Learning Fine-grained Dexterity for Multi-fingered Robotic Hands**|Jianglong Ye et.al.|[2511.13710](http://arxiv.org/abs/2511.13710)|null|
 |**2025-11-17**|**OpenRoboCare: A Multimodal Multi-Task Expert Demonstration Dataset for Robot Caregiving**|Xiaoyu Liang et.al.|[2511.13707](http://arxiv.org/abs/2511.13707)|null|
