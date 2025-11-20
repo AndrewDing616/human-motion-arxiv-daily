@@ -959,6 +959,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-19**|**Assessing (H)EFT theory errors by pitting EoM against Field Redefinitions**|Rodrigo Alonso et.al.|[2511.15609](http://arxiv.org/abs/2511.15609)|null|
+|**2025-11-19**|**SRPO: Self-Referential Policy Optimization for Vision-Language-Action Models**|Senyu Fei et.al.|[2511.15605](http://arxiv.org/abs/2511.15605)|null|
+|**2025-11-19**|**Real-Time Optimal Control via Transformer Networks and Bernstein Polynomials**|Gage MacLin et.al.|[2511.15588](http://arxiv.org/abs/2511.15588)|null|
+|**2025-11-19**|**UltraDP: Generalizable Carotid Ultrasound Scanning with Force-Aware Diffusion Policy**|Ruoqu Chen et.al.|[2511.15550](http://arxiv.org/abs/2511.15550)|null|
+|**2025-11-19**|**NMPC-based Motion Planning with Adaptive Weighting for Dynamic Object Interception**|Chen Cai et.al.|[2511.15532](http://arxiv.org/abs/2511.15532)|null|
+|**2025-11-19**|**A Critical Drift-Diffusion Equation: Intermittent Behavior via Geometric Brownian Motion on $\textbf{SL}(n)$**|Peter S. Morfe et.al.|[2511.15473](http://arxiv.org/abs/2511.15473)|null|
+|**2025-11-19**|**Deep Learning for Accurate Vision-based Catch Composition in Tropical Tuna Purse Seiners**|Xabier Lekunberri et.al.|[2511.15468](http://arxiv.org/abs/2511.15468)|null|
+|**2025-11-19**|**A New Definition of Horndeski Theory and the Possibility of Multiple Scalar Field Extensions**|Tomoki Katayama et.al.|[2511.15423](http://arxiv.org/abs/2511.15423)|null|
+|**2025-11-19**|**On the action principle as a guide to substantive general covariance**|Ward Struyve et.al.|[2511.15417](http://arxiv.org/abs/2511.15417)|null|
+|**2025-11-19**|**DEPO: Dual-Efficiency Preference Optimization for LLM Agents**|Sirui Chen et.al.|[2511.15392](http://arxiv.org/abs/2511.15392)|null|
 |**2025-11-18**|**$π^{*}_{0.6}$ : a VLA That Learns From Experience**|Ali Amin et.al.|[2511.14759](http://arxiv.org/abs/2511.14759)|null|
 |**2025-11-18**|**Heterogeneous Multi-Agent Proximal Policy Optimization for Power Distribution System Restoration**|Parya Dolatyabi et.al.|[2511.14730](http://arxiv.org/abs/2511.14730)|null|
 |**2025-11-18**|**When AI Democratizes Exploitation: LLM-Assisted Strategic Manipulation of Fair Division Algorithms**|Priyanka Verma et.al.|[2511.14722](http://arxiv.org/abs/2511.14722)|null|
@@ -1097,6 +1107,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-19**|**NAMeGEn: Creative Name Generation via A Novel Agent-based Multiple Personalized Goal Enhancement Framework**|Shanlin Zhou et.al.|[2511.15408](http://arxiv.org/abs/2511.15408)|null|
+|**2025-11-19**|**Masked Auto-Regressive Variational Acceleration: Fast Inference Makes Practical Reinforcement Learning**|Yuxuan Gu et.al.|[2511.15190](http://arxiv.org/abs/2511.15190)|null|
+|**2025-11-19**|**Multimodal Wireless Foundation Models**|Ahmed Aboulfotouh et.al.|[2511.15162](http://arxiv.org/abs/2511.15162)|null|
+|**2025-11-19**|**Learning Human-Like RL Agents Through Trajectory Optimization With Action Quantization**|Jian-Ting Guo et.al.|[2511.15055](http://arxiv.org/abs/2511.15055)|null|
+|**2025-11-19**|**UniHOI: Unified Human-Object Interaction Understanding via Unified Token Space**|Panqi Yang et.al.|[2511.15046](http://arxiv.org/abs/2511.15046)|null|
+|**2025-11-18**|**Harmful Traits of AI Companions**|W. Bradley Knox et.al.|[2511.14972](http://arxiv.org/abs/2511.14972)|null|
+|**2025-11-18**|**How Should the Law Treat Future AI Systems? Fictional Legal Personhood versus Legal Identity**|Heather J. Alexander et.al.|[2511.14964](http://arxiv.org/abs/2511.14964)|null|
 |**2025-11-18**|**Quantum realism and its contradictions: a contribution form the social sciences**|Henry Daniel Vera Ramirez et.al.|[2511.14585](http://arxiv.org/abs/2511.14585)|null|
 |**2025-11-18**|**LLM-Assisted Thematic Analysis: Opportunities, Limitations, and Recommendations**|Tatiane Ornelas et.al.|[2511.14528](http://arxiv.org/abs/2511.14528)|null|
 |**2025-11-18**|**D-PerceptCT: Deep Perceptual Enhancement for Low-Dose CT Images**|Taifour Yousra Nabila et.al.|[2511.14518](http://arxiv.org/abs/2511.14518)|null|
@@ -1163,6 +1180,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-19**|**Infrastructuring Pop-Up Cities with "Social Layer": Designing Serendipitous Co-Livings for Temporary Intentional Communities**|Danwen Ji et.al.|[2511.15680](http://arxiv.org/abs/2511.15680)|null|
+|**2025-11-19**|**DuoZone: A User-Centric, LLM-Guided Mixed-Initiative XR Window Management System**|Jing Qian et.al.|[2511.15676](http://arxiv.org/abs/2511.15676)|null|
+|**2025-11-19**|**VisPlay: Self-Evolving Vision-Language Models from Images**|Yicheng He et.al.|[2511.15661](http://arxiv.org/abs/2511.15661)|null|
+|**2025-11-19**|**A Decade of Systems for Human Data Interaction**|Eugene Wu et.al.|[2511.15585](http://arxiv.org/abs/2511.15585)|null|
+|**2025-11-19**|**Computer-Use Agents as Judges for Generative User Interface**|Kevin Qinghong Lin et.al.|[2511.15567](http://arxiv.org/abs/2511.15567)|null|
+|**2025-11-19**|**Scriboora: Rethinking Human Pose Forecasting**|Daniel Bermuth et.al.|[2511.15565](http://arxiv.org/abs/2511.15565)|null|
+|**2025-11-19**|**UltraDP: Generalizable Carotid Ultrasound Scanning with Force-Aware Diffusion Policy**|Ruoqu Chen et.al.|[2511.15550](http://arxiv.org/abs/2511.15550)|null|
+|**2025-11-19**|**Game Master LLM: Task-Based Role-Playing for Natural Slang Learning**|Amir Tahmasbi et.al.|[2511.15504](http://arxiv.org/abs/2511.15504)|null|
+|**2025-11-19**|**IPR-1: Interactive Physical Reasoner**|Mingyu Zhang et.al.|[2511.15407](http://arxiv.org/abs/2511.15407)|null|
+|**2025-11-19**|**Zero-Shot Open-Vocabulary Human Motion Grounding with Test-Time Training**|Yunjiao Zhou et.al.|[2511.15379](http://arxiv.org/abs/2511.15379)|null|
 |**2025-11-18**|**From Random Determinants to the Ground State**|Hao Zhang et.al.|[2511.14734](http://arxiv.org/abs/2511.14734)|null|
 |**2025-11-18**|**Natural Language Interfaces for Databases: What Do Users Think?**|Panos Ipeirotis et.al.|[2511.14718](http://arxiv.org/abs/2511.14718)|null|
 |**2025-11-18**|**Hyperbolic Graph Embeddings Reveal the Host-Pathogen Interactome**|Xiaoqiong Xia et.al.|[2511.14669](http://arxiv.org/abs/2511.14669)|null|
