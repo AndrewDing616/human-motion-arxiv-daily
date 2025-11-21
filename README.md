@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-20**|**Worldline Localization**|Changha Choi et.al.|[2511.16663](http://arxiv.org/abs/2511.16663)|null|
+|**2025-11-20**|**TriDiff-4D: Fast 4D Generation through Diffusion-based Triplane Re-posing**|Eddie Pokming Sheung et.al.|[2511.16662](http://arxiv.org/abs/2511.16662)|null|
+|**2025-11-20**|**Dexterity from Smart Lenses: Multi-Fingered Robot Manipulation with In-the-Wild Human Demonstrations**|Irmak Guzey et.al.|[2511.16661](http://arxiv.org/abs/2511.16661)|null|
+|**2025-11-20**|**InternData-A1: Pioneering High-Fidelity Synthetic Data for Pre-training Generalist Policy**|Yang Tian et.al.|[2511.16651](http://arxiv.org/abs/2511.16651)|null|
+|**2025-11-20**|**TFCDiff: Robust ECG Denoising via Time-Frequency Complementary Diffusion**|Pengxin Li et.al.|[2511.16627](http://arxiv.org/abs/2511.16627)|null|
+|**2025-11-20**|**SAM 3D: 3Dfy Anything in Images**|SAM 3D Team et.al.|[2511.16624](http://arxiv.org/abs/2511.16624)|null|
+|**2025-11-20**|**Analytical Fock Representation of Two-Mode Squeezing for Quantum Interference**|Xuemei Gu et.al.|[2511.16529](http://arxiv.org/abs/2511.16529)|null|
+|**2025-11-20**|**$c=-2$ conformal field theory in quadratic band touching**|Rintaro Masaoka et.al.|[2511.16496](http://arxiv.org/abs/2511.16496)|null|
+|**2025-11-20**|**Flow and Depth Assisted Video Prediction with Latent Transformer**|Eliyas Suleyman et.al.|[2511.16484](http://arxiv.org/abs/2511.16484)|null|
+|**2025-11-20**|**Large Language Model-Based Reward Design for Deep Reinforcement Learning-Driven Autonomous Cyber Defense**|Sayak Mukherjee et.al.|[2511.16483](http://arxiv.org/abs/2511.16483)|null|
 |**2025-11-19**|**Assessing (H)EFT theory errors by pitting EoM against Field Redefinitions**|Rodrigo Alonso et.al.|[2511.15609](http://arxiv.org/abs/2511.15609)|null|
 |**2025-11-19**|**SRPO: Self-Referential Policy Optimization for Vision-Language-Action Models**|Senyu Fei et.al.|[2511.15605](http://arxiv.org/abs/2511.15605)|null|
 |**2025-11-19**|**Real-Time Optimal Control via Transformer Networks and Bernstein Polynomials**|Gage MacLin et.al.|[2511.15588](http://arxiv.org/abs/2511.15588)|null|
@@ -115,10 +125,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-20**|**Dexterity from Smart Lenses: Multi-Fingered Robot Manipulation with In-the-Wild Human Demonstrations**|Irmak Guzey et.al.|[2511.16661](http://arxiv.org/abs/2511.16661)|null|
+|**2025-11-20**|**SAM 3D: 3Dfy Anything in Images**|SAM 3D Team et.al.|[2511.16624](http://arxiv.org/abs/2511.16624)|null|
+|**2025-11-20**|**DynaMimicGen: A Data Generation Framework for Robot Learning of Dynamic Tasks**|Vincenzo Pomponi et.al.|[2511.16223](http://arxiv.org/abs/2511.16223)|null|
+|**2025-11-20**|**Click2Graph: Interactive Panoptic Video Scene Graphs from a Single Click**|Raphael Ruschel et.al.|[2511.15948](http://arxiv.org/abs/2511.15948)|null|
+|**2025-11-20**|**Towards Metric-Aware Multi-Person Mesh Recovery by Jointly Optimizing Human Crowd in Camera Space**|Kaiwen Wang et.al.|[2511.13282](http://arxiv.org/abs/2511.13282)|null|
+|**2025-11-19**|**Segmenting Collision Sound Sources in Egocentric Videos**|Kranti Kumar Parida et.al.|[2511.13863](http://arxiv.org/abs/2511.13863)|null|
 |**2025-11-18**|**Interaction-Aware 4D Gaussian Splatting for Dynamic Hand-Object Interaction Reconstruction**|Hao Tian et.al.|[2511.14540](http://arxiv.org/abs/2511.14540)|null|
-|**2025-11-17**|**Segmenting Collision Sound Sources in Egocentric Videos**|Kranti Kumar Parida et.al.|[2511.13863](http://arxiv.org/abs/2511.13863)|null|
 |**2025-11-17**|**Computer Vision based group activity detection and action spotting**|Narthana Sivalingam et.al.|[2511.13315](http://arxiv.org/abs/2511.13315)|null|
-|**2025-11-17**|**Towards Metric-Aware Multi-Person Mesh Recovery by Jointly Optimizing Human Crowd in Camera Space**|Kaiwen Wang et.al.|[2511.13282](http://arxiv.org/abs/2511.13282)|null|
 |**2025-11-17**|**Uni-Inter: Unifying 3D Human Motion Synthesis Across Diverse Interaction Contexts**|Sheng Liu et.al.|[2511.13032](http://arxiv.org/abs/2511.13032)|null|
 |**2025-11-17**|**Visual Room 2.0: Seeing is Not Understanding for MLLMs**|Haokun Li et.al.|[2511.12928](http://arxiv.org/abs/2511.12928)|null|
 |**2025-11-16**|**Predicting upcoming visual features during eye movements yields scene representations aligned with human visual cortex**|Sushrut Thorat et.al.|[2511.12715](http://arxiv.org/abs/2511.12715)|null|
@@ -166,6 +180,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-20**|**SAM 3D: 3Dfy Anything in Images**|SAM 3D Team et.al.|[2511.16624](http://arxiv.org/abs/2511.16624)|null|
+|**2025-11-20**|**Toward Artificial Palpation: Representation Learning of Touch on Soft Bodies**|Zohar Rimon et.al.|[2511.16596](http://arxiv.org/abs/2511.16596)|null|
+|**2025-11-20**|**Green Resilience of Cyber-Physical Systems: Doctoral Dissertation**|Diaeddin Rimawi et.al.|[2511.16593](http://arxiv.org/abs/2511.16593)|null|
+|**2025-11-20**|**The Oracle and The Prism: A Decoupled and Efficient Framework for Generative Recommendation Explanation**|Jiaheng Zhang et.al.|[2511.16543](http://arxiv.org/abs/2511.16543)|null|
+|**2025-11-20**|**DynaMimicGen: A Data Generation Framework for Robot Learning of Dynamic Tasks**|Vincenzo Pomponi et.al.|[2511.16223](http://arxiv.org/abs/2511.16223)|null|
+|**2025-11-20**|**Mantis: A Versatile Vision-Language-Action Model with Disentangled Visual Foresight**|Yi Yang et.al.|[2511.16175](http://arxiv.org/abs/2511.16175)|null|
+|**2025-11-20**|**Video2Layout: Recall and Reconstruct Metric-Grounded Cognitive Map for Spatial Reasoning**|Yibin Huang et.al.|[2511.16160](http://arxiv.org/abs/2511.16160)|null|
+|**2025-11-20**|**VideoSeg-R1:Reasoning Video Object Segmentation via Reinforcement Learning**|Zishan Xu et.al.|[2511.16077](http://arxiv.org/abs/2511.16077)|null|
+|**2025-11-20**|**Physically Realistic Sequence-Level Adversarial Clothing for Robust Human-Detection Evasion**|Dingkun Zhou et.al.|[2511.16020](http://arxiv.org/abs/2511.16020)|null|
+|**2025-11-20**|**Finite-Dimensional ZX-Calculus for Loop Quantum Gravity**|Ben Priestley et.al.|[2511.15966](http://arxiv.org/abs/2511.15966)|null|
 |**2025-11-19**|**NAMeGEn: Creative Name Generation via A Novel Agent-based Multiple Personalized Goal Enhancement Framework**|Shanlin Zhou et.al.|[2511.15408](http://arxiv.org/abs/2511.15408)|null|
 |**2025-11-19**|**Masked Auto-Regressive Variational Acceleration: Fast Inference Makes Practical Reinforcement Learning**|Yuxuan Gu et.al.|[2511.15190](http://arxiv.org/abs/2511.15190)|null|
 |**2025-11-19**|**Multimodal Wireless Foundation Models**|Ahmed Aboulfotouh et.al.|[2511.15162](http://arxiv.org/abs/2511.15162)|null|
@@ -241,6 +265,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-20**|**Dexterity from Smart Lenses: Multi-Fingered Robot Manipulation with In-the-Wild Human Demonstrations**|Irmak Guzey et.al.|[2511.16661](http://arxiv.org/abs/2511.16661)|null|
+|**2025-11-20**|**D-GARA: A Dynamic Benchmarking Framework for GUI Agent Robustness in Real-World Anomalies**|Sen Chen et.al.|[2511.16590](http://arxiv.org/abs/2511.16590)|null|
+|**2025-11-20**|**End-to-End Motion Capture from Rigid Body Markers with Geodesic Loss**|Hai Lan et.al.|[2511.16418](http://arxiv.org/abs/2511.16418)|null|
+|**2025-11-20**|**Dynamic Risk Assessment for the Wildland-Urban Interface**|Yusheng Hu et.al.|[2511.16302](http://arxiv.org/abs/2511.16302)|null|
+|**2025-11-20**|**Optimized User Experience for Labeling Systems for Predictive Maintenance Applications (Extended)**|Michelle Hallmann et.al.|[2511.16266](http://arxiv.org/abs/2511.16266)|null|
+|**2025-11-20**|**Funabot-Upper: McKibben Actuated Haptic Suit Inducing Kinesthetic Perceptions in Trunk, Shoulder, Elbow, and Wrist**|Haru Fukatsu et.al.|[2511.16265](http://arxiv.org/abs/2511.16265)|null|
+|**2025-11-20**|**Mem-MLP: Real-Time 3D Human Motion Generation from Sparse Inputs**|Sinan Mutlu et.al.|[2511.16264](http://arxiv.org/abs/2511.16264)|null|
+|**2025-11-20**|**GazeInterpreter: Parsing Eye Gaze to Generate Eye-Body-Coordinated Narrations**|Qing Chang et.al.|[2511.16245](http://arxiv.org/abs/2511.16245)|null|
+|**2025-11-20**|**Optimizing Predictive Maintenance: Enhanced AI and Backend Integration**|Michael Stern et.al.|[2511.16239](http://arxiv.org/abs/2511.16239)|null|
+|**2025-11-20**|**Optimized User Experience for Labeling Systems for Predictive Maintenance Applications**|Michelle Hallmann et.al.|[2511.16236](http://arxiv.org/abs/2511.16236)|null|
 |**2025-11-19**|**Infrastructuring Pop-Up Cities with "Social Layer": Designing Serendipitous Co-Livings for Temporary Intentional Communities**|Danwen Ji et.al.|[2511.15680](http://arxiv.org/abs/2511.15680)|null|
 |**2025-11-19**|**DuoZone: A User-Centric, LLM-Guided Mixed-Initiative XR Window Management System**|Jing Qian et.al.|[2511.15676](http://arxiv.org/abs/2511.15676)|null|
 |**2025-11-19**|**VisPlay: Self-Evolving Vision-Language Models from Images**|Yicheng He et.al.|[2511.15661](http://arxiv.org/abs/2511.15661)|null|
