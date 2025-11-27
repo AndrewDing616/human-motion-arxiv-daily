@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-26**|**TraceGen: World Modeling in 3D Trace Space Enables Learning from Cross-Embodiment Videos**|Seungjae Lee et.al.|[2511.21690](http://arxiv.org/abs/2511.21690)|null|
+|**2025-11-26**|**Heterotic Black Holes in Duality-Invariant Formalism**|Upamanyu Moitra et.al.|[2511.21687](http://arxiv.org/abs/2511.21687)|null|
+|**2025-11-26**|**Attention-Guided Patch-Wise Sparse Adversarial Attacks on Vision-Language-Action Models**|Naifu Zhang et.al.|[2511.21663](http://arxiv.org/abs/2511.21663)|null|
+|**2025-11-26**|**Extendability of group actions on K3 or Enriques surfaces**|Tianchen Zhao et.al.|[2511.21648](http://arxiv.org/abs/2511.21648)|null|
+|**2025-11-26**|**Model-free practical PI-Lead control design by ultimate sensitivity principle**|Michael Ruderman et.al.|[2511.21641](http://arxiv.org/abs/2511.21641)|null|
+|**2025-11-26**|**Diagonal Scaling: A Multi-Dimensional Resource Model and Optimization Framework for Distributed Databases**|Shahir Abdullah et.al.|[2511.21612](http://arxiv.org/abs/2511.21612)|null|
+|**2025-11-26**|**Detecting absence: A dedicated prediction-error signal emerging in the auditory thalamus**|Alejandro Tabas et.al.|[2511.21605](http://arxiv.org/abs/2511.21605)|null|
+|**2025-11-26**|**Tidal forces around the Letelier-Alencar cloud of strings black hole**|Marcos V. de S. Silva et.al.|[2511.21604](http://arxiv.org/abs/2511.21604)|null|
+|**2025-11-26**|**MoGAN: Improving Motion Quality in Video Diffusion via Few-Step Motion Adversarial Post-Training**|Haotian Xue et.al.|[2511.21592](http://arxiv.org/abs/2511.21592)|null|
+|**2025-11-26**|**VacuumVLA: Boosting VLA Capabilities via a Unified Suction and Gripping Tool for Complex Robotic Manipulation**|Hui Zhou et.al.|[2511.21557](http://arxiv.org/abs/2511.21557)|null|
 |**2025-11-25**|**Infinity-RoPE: Action-Controllable Infinite Video Generation Emerges From Autoregressive Self-Rollout**|Hidir Yesiltepe et.al.|[2511.20649](http://arxiv.org/abs/2511.20649)|null|
 |**2025-11-25**|**LocateAnything3D: Vision-Language 3D Detection with Chain-of-Sight**|Yunze Man et.al.|[2511.20648](http://arxiv.org/abs/2511.20648)|null|
 |**2025-11-25**|**Diverse Video Generation with Determinantal Point Process-Guided Policy Optimization**|Tahira Kazimi et.al.|[2511.20647](http://arxiv.org/abs/2511.20647)|null|
@@ -155,10 +165,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-26**|**TraceGen: World Modeling in 3D Trace Space Enables Learning from Cross-Embodiment Videos**|Seungjae Lee et.al.|[2511.21690](http://arxiv.org/abs/2511.21690)|null|
+|**2025-11-26**|**Endo-G $^{2}$ T: Geometry-Guided & Temporally Aware Time-Embedded 4DGS For Endoscopic Scenes**|Yangle Liu et.al.|[2511.21367](http://arxiv.org/abs/2511.21367)|null|
+|**2025-11-26**|**AVFakeBench: A Comprehensive Audio-Video Forgery Detection Benchmark for AV-LMMs**|Shuhan Xia et.al.|[2511.21251](http://arxiv.org/abs/2511.21251)|null|
+|**2025-11-26**|**Scenes as Tokens: Multi-Scale Normal Distributions Transform Tokenizer for General 3D Vision-Language Understanding**|Yutao Tang et.al.|[2511.21191](http://arxiv.org/abs/2511.21191)|null|
+|**2025-11-26**|**ENACT: Evaluating Embodied Cognition with World Modeling of Egocentric Interaction**|Qineng Wang et.al.|[2511.20937](http://arxiv.org/abs/2511.20937)|null|
+|**2025-11-26**|**BRIC: Bridging Kinematic Plans and Physical Control at Test Time**|Dohun Lim et.al.|[2511.20431](http://arxiv.org/abs/2511.20431)|null|
+|**2025-11-26**|**Thinking in 360°: Humanoid Visual Search in the Wild**|Heyang Yu et.al.|[2511.20351](http://arxiv.org/abs/2511.20351)|null|
+|**2025-11-25**|**Layer-Aware Video Composition via Split-then-Merge**|Ozgur Kara et.al.|[2511.20809](http://arxiv.org/abs/2511.20809)|null|
 |**2025-11-25**|**Diverse Video Generation with Determinantal Point Process-Guided Policy Optimization**|Tahira Kazimi et.al.|[2511.20647](http://arxiv.org/abs/2511.20647)|null|
 |**2025-11-25**|**Learning to Generate Human-Human-Object Interactions from Textual Descriptions**|Jeonghyeon Na et.al.|[2511.20446](http://arxiv.org/abs/2511.20446)|null|
-|**2025-11-25**|**BRIC: Bridging Kinematic Plans and Physical Control at Test Time**|Dohun Lim et.al.|[2511.20431](http://arxiv.org/abs/2511.20431)|null|
-|**2025-11-25**|**Thinking in 360°: Humanoid Visual Search in the Wild**|Heyang Yu et.al.|[2511.20351](http://arxiv.org/abs/2511.20351)|null|
 |**2025-11-25**|**Dynamic-ICP: Doppler-Aware Iterative Closest Point Registration for Dynamic Scenes**|Dong Wang et.al.|[2511.20292](http://arxiv.org/abs/2511.20292)|null|
 |**2025-11-25**|**GHR-VQA: Graph-guided Hierarchical Relational Reasoning for Video Question Answering**|Dionysia Danai Brilli et.al.|[2511.20201](http://arxiv.org/abs/2511.20201)|null|
 |**2025-11-25**|**SFA: Scan, Focus, and Amplify toward Guidance-aware Answering for Video TextVQA**|Haibin He et.al.|[2511.20190](http://arxiv.org/abs/2511.20190)|null|
@@ -236,6 +252,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-26**|**Revisiting Generalization Across Difficulty Levels: It's Not So Easy**|Yeganeh Kordi et.al.|[2511.21692](http://arxiv.org/abs/2511.21692)|null|
+|**2025-11-26**|**TraceGen: World Modeling in 3D Trace Space Enables Learning from Cross-Embodiment Videos**|Seungjae Lee et.al.|[2511.21690](http://arxiv.org/abs/2511.21690)|null|
+|**2025-11-26**|**MoGAN: Improving Motion Quality in Video Diffusion via Few-Step Motion Adversarial Post-Training**|Haotian Xue et.al.|[2511.21592](http://arxiv.org/abs/2511.21592)|null|
+|**2025-11-26**|**Prune4Web: DOM Tree Pruning Programming for Web Agent**|Jiayuan Zhang et.al.|[2511.21398](http://arxiv.org/abs/2511.21398)|null|
+|**2025-11-26**|**Multi-Reward GRPO for Stable and Prosodic Single-Codebook TTS LLMs at Scale**|Yicheng Zhong et.al.|[2511.21270](http://arxiv.org/abs/2511.21270)|null|
+|**2025-11-26**|**Orthographic Constraint Satisfaction and Human Difficulty Alignment in Large Language Models**|Bryan E. Tuck et.al.|[2511.21086](http://arxiv.org/abs/2511.21086)|null|
+|**2025-11-26**|**Breaking the Safety-Capability Tradeoff: Reinforcement Learning with Verifiable Rewards Maintains Safety Guardrails in LLMs**|Dongkyu Derek Cho et.al.|[2511.21050](http://arxiv.org/abs/2511.21050)|null|
+|**2025-11-26**|**FedAPA: Federated Learning with Adaptive Prototype Aggregation Toward Heterogeneous Wi-Fi CSI-based Crowd Counting**|Jingtao Guo et.al.|[2511.21048](http://arxiv.org/abs/2511.21048)|null|
+|**2025-11-26**|**Beyond Realism: Learning the Art of Expressive Composition with StickerNet**|Haoming Lu et.al.|[2511.20957](http://arxiv.org/abs/2511.20957)|null|
+|**2025-11-25**|**NOIR 2.0: Neural Signal Operated Intelligent Robots for Everyday Activities**|Tasha Kim et.al.|[2511.20848](http://arxiv.org/abs/2511.20848)|null|
 |**2025-11-25**|**RubricRL: Simple Generalizable Rewards for Text-to-Image Generation**|Xuelu Feng et.al.|[2511.20651](http://arxiv.org/abs/2511.20651)|null|
 |**2025-11-25**|**LocateAnything3D: Vision-Language 3D Detection with Chain-of-Sight**|Yunze Man et.al.|[2511.20648](http://arxiv.org/abs/2511.20648)|null|
 |**2025-11-25**|**Diverse Video Generation with Determinantal Point Process-Guided Policy Optimization**|Tahira Kazimi et.al.|[2511.20647](http://arxiv.org/abs/2511.20647)|null|
@@ -351,6 +377,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-26**|**TraceGen: World Modeling in 3D Trace Space Enables Learning from Cross-Embodiment Videos**|Seungjae Lee et.al.|[2511.21690](http://arxiv.org/abs/2511.21690)|null|
+|**2025-11-26**|**Detecting absence: A dedicated prediction-error signal emerging in the auditory thalamus**|Alejandro Tabas et.al.|[2511.21605](http://arxiv.org/abs/2511.21605)|null|
+|**2025-11-26**|**MoGAN: Improving Motion Quality in Video Diffusion via Few-Step Motion Adversarial Post-Training**|Haotian Xue et.al.|[2511.21592](http://arxiv.org/abs/2511.21592)|null|
+|**2025-11-26**|**From Prediction to Foresight: The Role of AI in Designing Responsible Futures**|Maria Perez-Ortiz et.al.|[2511.21570](http://arxiv.org/abs/2511.21570)|null|
+|**2025-11-26**|**Self-Transparency Failures in Expert-Persona LLMs: A Large-Scale Behavioral Audit**|Alex Diep et.al.|[2511.21569](http://arxiv.org/abs/2511.21569)|null|
+|**2025-11-26**|**MMA: A Momentum Mamba Architecture for Human Activity Recognition with Inertial Sensors**|Thai-Khanh Nguyen et.al.|[2511.21550](http://arxiv.org/abs/2511.21550)|null|
+|**2025-11-26**|**Seeing Twice: How Side-by-Side T2I Comparison Changes Auditing Strategies**|Matheus Kunzler Maldaner et.al.|[2511.21547](http://arxiv.org/abs/2511.21547)|null|
+|**2025-11-26**|**Video Generation Models Are Good Latent Reward Models**|Xiaoyue Mi et.al.|[2511.21541](http://arxiv.org/abs/2511.21541)|null|
+|**2025-11-26**|**SpatialBench: Benchmarking Multimodal Large Language Models for Spatial Cognition**|Peiran Xu et.al.|[2511.21471](http://arxiv.org/abs/2511.21471)|null|
+|**2025-11-26**|**From Observation to Action: Latent Action-based Primitive Segmentation for VLA Pre-training in Industrial Settings**|Jiajie Zhang et.al.|[2511.21428](http://arxiv.org/abs/2511.21428)|null|
 |**2025-11-25**|**Diverse Video Generation with Determinantal Point Process-Guided Policy Optimization**|Tahira Kazimi et.al.|[2511.20647](http://arxiv.org/abs/2511.20647)|null|
 |**2025-11-25**|**MapReduce LoRA: Advancing the Pareto Front in Multi-Preference Optimization for Generative Models**|Chieh-Yun Chen et.al.|[2511.20629](http://arxiv.org/abs/2511.20629)|null|
 |**2025-11-25**|**Evaluating the Performance of Deep Learning Models in Whole-body Dynamic 3D Posture Prediction During Load-reaching Activities**|Seyede Niloofar Hosseini et.al.|[2511.20615](http://arxiv.org/abs/2511.20615)|null|
