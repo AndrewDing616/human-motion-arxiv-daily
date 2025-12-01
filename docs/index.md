@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2025.11.30
+### Automatically Updated on 2025.12.01
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-27**|**Varieties of graded $W$ -algebras and asymptotic behavior of codimension growth**|Giovanni Busalacchi et.al.|[2511.22602](http://arxiv.org/abs/2511.22602)|null|
+|**2025-11-27**|**Beyond Success: Refining Elegant Robot Manipulation from Mixed-Quality Data via Just-in-Time Intervention**|Yanbo Mao et.al.|[2511.22555](http://arxiv.org/abs/2511.22555)|null|
+|**2025-11-27**|**Bringing Your Portrait to 3D Presence**|Jiawei Zhang et.al.|[2511.22553](http://arxiv.org/abs/2511.22553)|null|
+|**2025-11-27**|**AI killed the video star. Audio-driven diffusion model for expressive talking head generation**|Baptiste Chopin et.al.|[2511.22488](http://arxiv.org/abs/2511.22488)|null|
+|**2025-11-27**|**Beyond Real versus Fake Towards Intent-Aware Video Analysis**|Saurabh Atreya et.al.|[2511.22455](http://arxiv.org/abs/2511.22455)|null|
+|**2025-11-27**|**Design of Cycles by Impulsive Feedback: Application to Discrete Dosing**|Alexander Medvedev et.al.|[2511.22417](http://arxiv.org/abs/2511.22417)|null|
+|**2025-11-27**|**UAV-MM3D: A Large-Scale Synthetic Benchmark for 3D Perception of Unmanned Aerial Vehicles with Multi-Modal Data**|Longkun Zou et.al.|[2511.22404](http://arxiv.org/abs/2511.22404)|null|
+|**2025-11-27**|**Distributed Knowing How**|Bin Liu et.al.|[2511.22374](http://arxiv.org/abs/2511.22374)|null|
+|**2025-11-27**|**Distributed Koopman Operator Learning for Perception and Safe Navigation**|Ali Azarbahram et.al.|[2511.22368](http://arxiv.org/abs/2511.22368)|null|
+|**2025-11-27**|**Net Charge Accretion in Magnetized Kerr Black Holes**|Ethan Berreby et.al.|[2511.22356](http://arxiv.org/abs/2511.22356)|null|
 |**2025-11-26**|**TraceGen: World Modeling in 3D Trace Space Enables Learning from Cross-Embodiment Videos**|Seungjae Lee et.al.|[2511.21690](http://arxiv.org/abs/2511.21690)|null|
 |**2025-11-26**|**Heterotic Black Holes in Duality-Invariant Formalism**|Upamanyu Moitra et.al.|[2511.21687](http://arxiv.org/abs/2511.21687)|null|
 |**2025-11-26**|**Attention-Guided Patch-Wise Sparse Adversarial Attacks on Vision-Language-Action Models**|Naifu Zhang et.al.|[2511.21663](http://arxiv.org/abs/2511.21663)|null|
@@ -1108,6 +1118,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-27**|**Splat-SAP: Feed-Forward Gaussian Splatting for Human-Centered Scene with Scale-Aware Point Map Reconstruction**|Boyao Zhou et.al.|[2511.22704](http://arxiv.org/abs/2511.22704)|null|
+|**2025-11-27**|**Ar2Can: An Architect and an Artist Leveraging a Canvas for Multi-Human Generation**|Shubhankar Borse et.al.|[2511.22690](http://arxiv.org/abs/2511.22690)|null|
+|**2025-11-27**|**GeoZero: Incentivizing Reasoning from Scratch on Geospatial Scenes**|Di Wang et.al.|[2511.22645](http://arxiv.org/abs/2511.22645)|null|
+|**2025-11-27**|**INSIGHT: An Interpretable Neural Vision-Language Framework for Reasoning of Generative Artifacts**|Anshul Bagaria et.al.|[2511.22351](http://arxiv.org/abs/2511.22351)|null|
+|**2025-11-27**|**Layover or Direct Flight: Rethinking Audio-Guided Image Segmentation**|Joel Alberto Santos et.al.|[2511.22025](http://arxiv.org/abs/2511.22025)|null|
+|**2025-11-26**|**TAPVid-360: Tracking Any Point in 360 from Narrow Field of View Video**|Finlay G. C. Hudson et.al.|[2511.21946](http://arxiv.org/abs/2511.21946)|null|
 |**2025-11-26**|**TraceGen: World Modeling in 3D Trace Space Enables Learning from Cross-Embodiment Videos**|Seungjae Lee et.al.|[2511.21690](http://arxiv.org/abs/2511.21690)|null|
 |**2025-11-26**|**Endo-G $^{2}$ T: Geometry-Guided & Temporally Aware Time-Embedded 4DGS For Endoscopic Scenes**|Yangle Liu et.al.|[2511.21367](http://arxiv.org/abs/2511.21367)|null|
 |**2025-11-26**|**AVFakeBench: A Comprehensive Audio-Video Forgery Detection Benchmark for AV-LMMs**|Shuhan Xia et.al.|[2511.21251](http://arxiv.org/abs/2511.21251)|null|
@@ -1193,6 +1209,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-27**|**A Progressive Evaluation Framework for Multicultural Analysis of Story Visualization**|Janak Kapuriya et.al.|[2511.22576](http://arxiv.org/abs/2511.22576)|null|
+|**2025-11-27**|**Diff-ICMH: Harmonizing Machine and Human Vision in Image Compression with Generative Prior**|Ruoyu Feng et.al.|[2511.22549](http://arxiv.org/abs/2511.22549)|null|
+|**2025-11-27**|**Learning the MPC objective function from human preferences**|Pablo Krupa et.al.|[2511.22502](http://arxiv.org/abs/2511.22502)|null|
+|**2025-11-27**|**LLM-Based Generalizable Hierarchical Task Planning and Execution for Heterogeneous Robot Teams with Event-Driven Replanning**|Suraj Borate et.al.|[2511.22354](http://arxiv.org/abs/2511.22354)|null|
+|**2025-11-27**|**Layover or Direct Flight: Rethinking Audio-Guided Image Segmentation**|Joel Alberto Santos et.al.|[2511.22025](http://arxiv.org/abs/2511.22025)|null|
+|**2025-11-26**|**TAPVid-360: Tracking Any Point in 360 from Narrow Field of View Video**|Finlay G. C. Hudson et.al.|[2511.21946](http://arxiv.org/abs/2511.21946)|null|
+|**2025-11-26**|**A Customer Journey in the Land of Oz: Leveraging the Wizard of Oz Technique to Model Emotions in Customer Service Interactions**|Sofie Labat et.al.|[2511.21909](http://arxiv.org/abs/2511.21909)|null|
+|**2025-11-26**|**Multi-Modal Machine Learning for Early Trust Prediction in Human-AI Interaction Using Face Image and GSR Bio Signals**|Hamid Shamszare et.al.|[2511.21908](http://arxiv.org/abs/2511.21908)|null|
+|**2025-11-26**|**Effective Hyper-clutter Artifacts Suppression for Ultrafast Ultrasound Doppler Imaging**|Lijie Huang et.al.|[2511.21833](http://arxiv.org/abs/2511.21833)|null|
 |**2025-11-26**|**Revisiting Generalization Across Difficulty Levels: It's Not So Easy**|Yeganeh Kordi et.al.|[2511.21692](http://arxiv.org/abs/2511.21692)|null|
 |**2025-11-26**|**TraceGen: World Modeling in 3D Trace Space Enables Learning from Cross-Embodiment Videos**|Seungjae Lee et.al.|[2511.21690](http://arxiv.org/abs/2511.21690)|null|
 |**2025-11-26**|**MoGAN: Improving Motion Quality in Video Diffusion via Few-Step Motion Adversarial Post-Training**|Haotian Xue et.al.|[2511.21592](http://arxiv.org/abs/2511.21592)|null|
@@ -1316,6 +1341,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-27**|**A race to belief: How Evidence Accumulation shapes trust in AI and Human informants**|Johan Sebastián Galindez-Acosta et.al.|[2511.22617](http://arxiv.org/abs/2511.22617)|null|
+|**2025-11-27**|**GazeTrack: High-Precision Eye Tracking Based on Regularization and Spatial Computing**|Xiaoyin Yang et.al.|[2511.22607](http://arxiv.org/abs/2511.22607)|null|
+|**2025-11-27**|**MATCH: Engineering Transparent and Controllable Conversational XAI Systems through Composable Building Blocks**|Sebe Vanbrabant et.al.|[2511.22420](http://arxiv.org/abs/2511.22420)|null|
+|**2025-11-27**|**Engineering Trustworthy Automation: Design Principles and Evaluation for AutoML Tools for Novices**|Jarne Thys et.al.|[2511.22352](http://arxiv.org/abs/2511.22352)|null|
+|**2025-11-27**|**HandyLabel: Towards Post-Processing to Real-Time Annotation Using Skeleton Based Hand Gesture Recognition**|Sachin Kumar Singh et.al.|[2511.22337](http://arxiv.org/abs/2511.22337)|null|
+|**2025-11-27**|**Improving Sparse IMU-based Motion Capture with Motion Label Smoothing**|Zhaorui Meng et.al.|[2511.22288](http://arxiv.org/abs/2511.22288)|null|
+|**2025-11-27**|**RecToM: A Benchmark for Evaluating Machine Theory of Mind in LLM-based Conversational Recommender Systems**|Mengfan Li et.al.|[2511.22275](http://arxiv.org/abs/2511.22275)|null|
+|**2025-11-27**|**Investigating AI in Peer Support via Multi-Module System-Driven Embodied Conversational Agents**|Ruoyu Wen et.al.|[2511.22269](http://arxiv.org/abs/2511.22269)|null|
+|**2025-11-27**|**Bridging 3D Deep Learning and Curation for Analysis and High-Quality Segmentation in Practice**|Simon Püttmann et.al.|[2511.22236](http://arxiv.org/abs/2511.22236)|null|
+|**2025-11-27**|**Shoe Style-Invariant and Ground-Aware Learning for Dense Foot Contact Estimation**|Daniel Sungho Jung et.al.|[2511.22184](http://arxiv.org/abs/2511.22184)|null|
 |**2025-11-26**|**TraceGen: World Modeling in 3D Trace Space Enables Learning from Cross-Embodiment Videos**|Seungjae Lee et.al.|[2511.21690](http://arxiv.org/abs/2511.21690)|null|
 |**2025-11-26**|**Detecting absence: A dedicated prediction-error signal emerging in the auditory thalamus**|Alejandro Tabas et.al.|[2511.21605](http://arxiv.org/abs/2511.21605)|null|
 |**2025-11-26**|**MoGAN: Improving Motion Quality in Video Diffusion via Few-Step Motion Adversarial Post-Training**|Haotian Xue et.al.|[2511.21592](http://arxiv.org/abs/2511.21592)|null|
