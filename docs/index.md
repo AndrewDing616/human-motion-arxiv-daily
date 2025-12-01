@@ -959,6 +959,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-28**|**Effect of near-inertial pumping on subduction at an ocean front**|Nihar Paul et.al.|[2511.23460](http://arxiv.org/abs/2511.23460)|null|
+|**2025-11-28**|**ASTRO: Adaptive Stitching via Dynamics-Guided Trajectory Rollouts**|Hang Yu et.al.|[2511.23442](http://arxiv.org/abs/2511.23442)|null|
+|**2025-11-28**|**Hunyuan-GameCraft-2: Instruction-following Interactive Game World Model**|Junshu Tang et.al.|[2511.23429](http://arxiv.org/abs/2511.23429)|null|
+|**2025-11-28**|**DisMo: Disentangled Motion Representations for Open-World Motion Transfer**|Thomas Ressler-Antal et.al.|[2511.23428](http://arxiv.org/abs/2511.23428)|null|
+|**2025-11-28**|**Inflation Driven by Scalar-Neutrino Coupling in a Mass-Varying Neutrino Framework**|Hemanshi Bundeliya et.al.|[2511.23422](http://arxiv.org/abs/2511.23422)|null|
+|**2025-11-28**|**From CAD to POMDP: Probabilistic Planning for Robotic Disassembly of End-of-Life Products**|Jan Baumgärtner et.al.|[2511.23407](http://arxiv.org/abs/2511.23407)|null|
+|**2025-11-28**|**MANTA: Physics-Informed Generalized Underwater Object Tracking**|Suhas Srinath et.al.|[2511.23405](http://arxiv.org/abs/2511.23405)|null|
+|**2025-11-28**|**SimScale: Learning to Drive via Real-World Simulation at Scale**|Haochen Tian et.al.|[2511.23369](http://arxiv.org/abs/2511.23369)|null|
+|**2025-11-28**|**BanglaSentNet: An Explainable Hybrid Deep Learning Framework for Multi-Aspect Sentiment Analysis with Cross-Domain Transfer Learning**|Ariful Islam et.al.|[2511.23264](http://arxiv.org/abs/2511.23264)|null|
+|**2025-11-28**|**Quadratic Forms, Real Zeros and Echoes of the Spectral Action**|Alain Connes et.al.|[2511.23257](http://arxiv.org/abs/2511.23257)|null|
 |**2025-11-27**|**Varieties of graded $W$ -algebras and asymptotic behavior of codimension growth**|Giovanni Busalacchi et.al.|[2511.22602](http://arxiv.org/abs/2511.22602)|null|
 |**2025-11-27**|**Beyond Success: Refining Elegant Robot Manipulation from Mixed-Quality Data via Just-in-Time Intervention**|Yanbo Mao et.al.|[2511.22555](http://arxiv.org/abs/2511.22555)|null|
 |**2025-11-27**|**Bringing Your Portrait to 3D Presence**|Jiawei Zhang et.al.|[2511.22553](http://arxiv.org/abs/2511.22553)|null|
@@ -1118,6 +1128,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-28**|**Hunyuan-GameCraft-2: Instruction-following Interactive Game World Model**|Junshu Tang et.al.|[2511.23429](http://arxiv.org/abs/2511.23429)|null|
+|**2025-11-28**|**Multi-Modal Scene Graph with Kolmogorov-Arnold Experts for Audio-Visual Question Answering**|Zijian Fu et.al.|[2511.23304](http://arxiv.org/abs/2511.23304)|null|
+|**2025-11-28**|**SafeHumanoid: VLM-RAG-driven Control of Upper Body Impedance for Humanoid Robot**|Yara Mahmoud et.al.|[2511.23300](http://arxiv.org/abs/2511.23300)|null|
+|**2025-11-28**|**Fast Multi-view Consistent 3D Editing with Video Priors**|Liyi Chen et.al.|[2511.23172](http://arxiv.org/abs/2511.23172)|null|
+|**2025-11-28**|**DualCamCtrl: Dual-Branch Diffusion Model for Geometry-Aware Camera-Controlled Video Generation**|Hongfei Zhang et.al.|[2511.23127](http://arxiv.org/abs/2511.23127)|null|
+|**2025-11-28**|**GLOW: Global Illumination-Aware Inverse Rendering of Indoor Scenes Captured with Dynamic Co-Located Light & Camera**|Jiaye Wu et.al.|[2511.22857](http://arxiv.org/abs/2511.22857)|null|
+|**2025-11-28**|**Captain Safari: A World Engine**|Yu-Cheng Chou et.al.|[2511.22815](http://arxiv.org/abs/2511.22815)|null|
+|**2025-11-27**|**From Pixels to Feelings: Aligning MLLMs with Human Cognitive Perception of Images**|Yiming Chen et.al.|[2511.22805](http://arxiv.org/abs/2511.22805)|null|
+|**2025-11-27**|**World in a Frame: Understanding Culture Mixing as a New Challenge for Vision-Language Models**|Eunsu Kim et.al.|[2511.22787](http://arxiv.org/abs/2511.22787)|null|
 |**2025-11-27**|**Splat-SAP: Feed-Forward Gaussian Splatting for Human-Centered Scene with Scale-Aware Point Map Reconstruction**|Boyao Zhou et.al.|[2511.22704](http://arxiv.org/abs/2511.22704)|null|
 |**2025-11-27**|**Ar2Can: An Architect and an Artist Leveraging a Canvas for Multi-Human Generation**|Shubhankar Borse et.al.|[2511.22690](http://arxiv.org/abs/2511.22690)|null|
 |**2025-11-27**|**GeoZero: Incentivizing Reasoning from Scratch on Geospatial Scenes**|Di Wang et.al.|[2511.22645](http://arxiv.org/abs/2511.22645)|null|
@@ -1209,6 +1228,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-28**|**Multi-Modal Scene Graph with Kolmogorov-Arnold Experts for Audio-Visual Question Answering**|Zijian Fu et.al.|[2511.23304](http://arxiv.org/abs/2511.23304)|null|
+|**2025-11-28**|**SafeHumanoid: VLM-RAG-driven Control of Upper Body Impedance for Humanoid Robot**|Yara Mahmoud et.al.|[2511.23300](http://arxiv.org/abs/2511.23300)|null|
+|**2025-11-28**|**Adapting Like Humans: A Metacognitive Agent with Test-time Reasoning**|Yang Li et.al.|[2511.23262](http://arxiv.org/abs/2511.23262)|null|
+|**2025-11-28**|**Obstruction reasoning for robotic grasping**|Runyu Jiao et.al.|[2511.23186](http://arxiv.org/abs/2511.23186)|null|
+|**2025-11-28**|**Learning to Refuse: Refusal-Aware Reinforcement Fine-Tuning for Hard-Irrelevant Queries in Video Temporal Grounding**|Jin-Seop Lee et.al.|[2511.23151](http://arxiv.org/abs/2511.23151)|null|
+|**2025-11-28**|**MindPower: Enabling Theory-of-Mind Reasoning in VLM-based Embodied Agents**|Ruoxuan Zhang et.al.|[2511.23055](http://arxiv.org/abs/2511.23055)|null|
+|**2025-11-28**|**McSc: Motion-Corrective Preference Alignment for Video Generation with Self-Critic Hierarchical Reasoning**|Qiushi Yang et.al.|[2511.22974](http://arxiv.org/abs/2511.22974)|null|
+|**2025-11-27**|**From Pixels to Feelings: Aligning MLLMs with Human Cognitive Perception of Images**|Yiming Chen et.al.|[2511.22805](http://arxiv.org/abs/2511.22805)|null|
 |**2025-11-27**|**A Progressive Evaluation Framework for Multicultural Analysis of Story Visualization**|Janak Kapuriya et.al.|[2511.22576](http://arxiv.org/abs/2511.22576)|null|
 |**2025-11-27**|**Diff-ICMH: Harmonizing Machine and Human Vision in Image Compression with Generative Prior**|Ruoyu Feng et.al.|[2511.22549](http://arxiv.org/abs/2511.22549)|null|
 |**2025-11-27**|**Learning the MPC objective function from human preferences**|Pablo Krupa et.al.|[2511.22502](http://arxiv.org/abs/2511.22502)|null|
@@ -1341,6 +1368,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-28**|**Improving motor imagery decoding methods for an EEG-based mobile brain-computer interface in the context of the 2024 Cybathlon**|Isabel Whiteley Tscherniak et.al.|[2511.23384](http://arxiv.org/abs/2511.23384)|null|
+|**2025-11-28**|**AugGen: Augmenting Task-Based Learning in Professional Creative Software with LLM-Generated Scaffolded UIs**|Yimeng Liu et.al.|[2511.23379](http://arxiv.org/abs/2511.23379)|null|
+|**2025-11-28**|**Is Passive Expertise-Based Personalization Enough? A Case Study in AI-Assisted Test-Taking**|Li Siyan et.al.|[2511.23376](http://arxiv.org/abs/2511.23376)|null|
+|**2025-11-28**|**Do LLM-judges Align with Human Relevance in Cranfield-style Recommender Evaluation?**|Gustavo Penha et.al.|[2511.23312](http://arxiv.org/abs/2511.23312)|null|
+|**2025-11-28**|**Multi-Modal Scene Graph with Kolmogorov-Arnold Experts for Audio-Visual Question Answering**|Zijian Fu et.al.|[2511.23304](http://arxiv.org/abs/2511.23304)|null|
+|**2025-11-28**|**SafeHumanoid: VLM-RAG-driven Control of Upper Body Impedance for Humanoid Robot**|Yara Mahmoud et.al.|[2511.23300](http://arxiv.org/abs/2511.23300)|null|
+|**2025-11-28**|**Field-programmable dynamics in a soft magnetic actuator enabling true random number generation and reservoir computing**|Eduardo Sergio Oliveros-Mata et.al.|[2511.23215](http://arxiv.org/abs/2511.23215)|null|
+|**2025-11-28**|**Quantifying the Privacy-Utility Trade-off in GPS-based Daily Stress Recognition using Semantic Features**|Hoang Khang Phan et.al.|[2511.23200](http://arxiv.org/abs/2511.23200)|null|
+|**2025-11-28**|**Can Intelligent User Interfaces Engage in Philosophical Discussions? A Longitudinal Study of Philosophers' Evolving Perceptions**|Yibo Meng et.al.|[2511.23188](http://arxiv.org/abs/2511.23188)|null|
+|**2025-11-28**|**HPSU: A Benchmark for Human-Level Perception in Real-World Spoken Speech Understanding**|Chen Li et.al.|[2511.23178](http://arxiv.org/abs/2511.23178)|null|
 |**2025-11-27**|**A race to belief: How Evidence Accumulation shapes trust in AI and Human informants**|Johan Sebastián Galindez-Acosta et.al.|[2511.22617](http://arxiv.org/abs/2511.22617)|null|
 |**2025-11-27**|**GazeTrack: High-Precision Eye Tracking Based on Regularization and Spatial Computing**|Xiaoyin Yang et.al.|[2511.22607](http://arxiv.org/abs/2511.22607)|null|
 |**2025-11-27**|**MATCH: Engineering Transparent and Controllable Conversational XAI Systems through Composable Building Blocks**|Sebe Vanbrabant et.al.|[2511.22420](http://arxiv.org/abs/2511.22420)|null|
