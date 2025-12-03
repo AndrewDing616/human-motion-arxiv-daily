@@ -959,6 +959,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-02**|**Video2Act: A Dual-System Video Diffusion Policy with Robotic Spatio-Motional Modeling**|Yueru Jia et.al.|[2512.03044](http://arxiv.org/abs/2512.03044)|null|
+|**2025-12-02**|**MultiShotMaster: A Controllable Multi-Shot Video Generation Framework**|Qinghe Wang et.al.|[2512.03041](http://arxiv.org/abs/2512.03041)|null|
+|**2025-12-02**|**Video4Spatial: Towards Visuospatial Intelligence with Context-Guided Video Generation**|Zeqi Xiao et.al.|[2512.03040](http://arxiv.org/abs/2512.03040)|null|
+|**2025-12-02**|**ViSAudio: End-to-End Video-Driven Binaural Spatial Audio Generation**|Mengchen Zhang et.al.|[2512.03036](http://arxiv.org/abs/2512.03036)|null|
+|**2025-12-02**|**MAViD: A Multimodal Framework for Audio-Visual Dialogue Understanding and Generation**|Youxin Pang et.al.|[2512.03034](http://arxiv.org/abs/2512.03034)|null|
+|**2025-12-02**|**SMP: Reusable Score-Matching Motion Priors for Physics-Based Character Control**|Yuxuan Mu et.al.|[2512.03028](http://arxiv.org/abs/2512.03028)|null|
+|**2025-12-02**|**In-Context Sync-LoRA for Portrait Video Editing**|Sagi Polaczek et.al.|[2512.03013](http://arxiv.org/abs/2512.03013)|null|
+|**2025-12-02**|**DGGT: Feedforward 4D Reconstruction of Dynamic Driving Scenes using Unposed Images**|Xiaoxue Chen et.al.|[2512.03004](http://arxiv.org/abs/2512.03004)|null|
+|**2025-12-02**|**DynamicVerse: A Physically-Aware Multimodal Framework for 4D World Modeling**|Kairun Wen et.al.|[2512.03000](http://arxiv.org/abs/2512.03000)|null|
+|**2025-12-02**|**Slices for reductive group actions in algebraic and holomorphic symplectic geometry**|Peter Crooks et.al.|[2512.02956](http://arxiv.org/abs/2512.02956)|null|
 |**2025-12-01**|**EfficientFlow: Efficient Equivariant Flow Policy Learning for Embodied AI**|Jianlei Chang et.al.|[2512.02020](http://arxiv.org/abs/2512.02020)|null|
 |**2025-12-01**|**Data-Centric Visual Development for Self-Driving Labs**|Anbang Liu et.al.|[2512.02018](http://arxiv.org/abs/2512.02018)|null|
 |**2025-12-01**|**Generative Video Motion Editing with 3D Point Tracks**|Yao-Chih Lee et.al.|[2512.02015](http://arxiv.org/abs/2512.02015)|null|
@@ -1138,6 +1148,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-02**|**MultiShotMaster: A Controllable Multi-Shot Video Generation Framework**|Qinghe Wang et.al.|[2512.03041](http://arxiv.org/abs/2512.03041)|null|
+|**2025-12-02**|**Video4Spatial: Towards Visuospatial Intelligence with Context-Guided Video Generation**|Zeqi Xiao et.al.|[2512.03040](http://arxiv.org/abs/2512.03040)|null|
+|**2025-12-02**|**Action Anticipation at a Glimpse: To What Extent Can Multimodal Cues Replace Video?**|Manuel Benavent-Lledo et.al.|[2512.02846](http://arxiv.org/abs/2512.02846)|null|
+|**2025-12-01**|**See, Hear, and Understand: Benchmarking Audiovisual Human Speech Understanding in Multimodal Large Language Models**|Le Thien Phuc Nguyen et.al.|[2512.02231](http://arxiv.org/abs/2512.02231)|null|
 |**2025-12-01**|**AirSim360: A Panoramic Simulation Platform within Drone View**|Xian Ge et.al.|[2512.02009](http://arxiv.org/abs/2512.02009)|null|
 |**2025-12-01**|**RoleMotion: A Large-Scale Dataset towards Robust Scene-Specific Role-Playing Motion Synthesis with Fine-grained Descriptions**|Junran Peng et.al.|[2512.01582](http://arxiv.org/abs/2512.01582)|null|
 |**2025-12-01**|**Language-Guided Open-World Anomaly Segmentation**|Klara Reichard et.al.|[2512.01427](http://arxiv.org/abs/2512.01427)|null|
@@ -1248,6 +1262,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-02**|**Video4Spatial: Towards Visuospatial Intelligence with Context-Guided Video Generation**|Zeqi Xiao et.al.|[2512.03040](http://arxiv.org/abs/2512.03040)|null|
+|**2025-12-02**|**In-Context Sync-LoRA for Portrait Video Editing**|Sagi Polaczek et.al.|[2512.03013](http://arxiv.org/abs/2512.03013)|null|
+|**2025-12-02**|**LoVoRA: Text-guided and Mask-free Video Object Removal and Addition with Learnable Object-aware Localization**|Zhihan Xiao et.al.|[2512.02933](http://arxiv.org/abs/2512.02933)|null|
+|**2025-12-02**|**Steering Vision-Language-Action Models as Anti-Exploration: A Test-Time Scaling Approach**|Siyuan Yang et.al.|[2512.02834](http://arxiv.org/abs/2512.02834)|null|
+|**2025-12-02**|**RoboWheel: A Data Engine from Real-World Human Demonstrations for Cross-Embodiment Robotic Learning**|Yuhong Zhang et.al.|[2512.02729](http://arxiv.org/abs/2512.02729)|null|
+|**2025-12-02**|**Training Data Attribution for Image Generation using Ontology-Aligned Knowledge Graphs**|Theodoros Aivalis et.al.|[2512.02713](http://arxiv.org/abs/2512.02713)|null|
+|**2025-12-02**|**Pianist Transformer: Towards Expressive Piano Performance Rendering via Scalable Self-Supervised Pre-Training**|Hong-Jie You et.al.|[2512.02652](http://arxiv.org/abs/2512.02652)|null|
+|**2025-12-02**|**Robotic capabilities framework: A boundary object and intermediate-level knowledge artifact for co-designing robotic processes**|Alessandro Ianniello et.al.|[2512.02549](http://arxiv.org/abs/2512.02549)|null|
+|**2025-12-01**|**Edge-Native, Behavior-Adaptive Drone System for Wildlife Monitoring**|Jenna Kline et.al.|[2512.02285](http://arxiv.org/abs/2512.02285)|null|
+|**2025-12-01**|**Story2MIDI: Emotionally Aligned Music Generation from Text**|Mohammad Shokri et.al.|[2512.02192](http://arxiv.org/abs/2512.02192)|null|
 |**2025-12-01**|**Physical ID-Transfer Attacks against Multi-Object Tracking via Adversarial Trajectory**|Chenyi Wang et.al.|[2512.01934](http://arxiv.org/abs/2512.01934)|null|
 |**2025-12-01**|**Real-World Robot Control by Deep Active Inference With a Temporally Hierarchical World Model**|Kentaro Fujii et.al.|[2512.01924](http://arxiv.org/abs/2512.01924)|null|
 |**2025-12-01**|**VideoScoop: A Non-Traditional Domain-Independent Framework For Video Analysis**|Hafsa Billah et.al.|[2512.01769](http://arxiv.org/abs/2512.01769)|null|
@@ -1398,6 +1422,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-02**|**MAViD: A Multimodal Framework for Audio-Visual Dialogue Understanding and Generation**|Youxin Pang et.al.|[2512.03034](http://arxiv.org/abs/2512.03034)|null|
+|**2025-12-02**|**In-Context Sync-LoRA for Portrait Video Editing**|Sagi Polaczek et.al.|[2512.03013](http://arxiv.org/abs/2512.03013)|null|
+|**2025-12-02**|**DynamicVerse: A Physically-Aware Multimodal Framework for 4D World Modeling**|Kairun Wen et.al.|[2512.03000](http://arxiv.org/abs/2512.03000)|null|
+|**2025-12-02**|**Rethinking Generalized BCIs: Benchmarking 340,000+ Unique Algorithmic Configurations for EEG Mental Command Decoding**|Paul Barbaste et.al.|[2512.02978](http://arxiv.org/abs/2512.02978)|null|
+|**2025-12-02**|**The Evolutionary Ecology of Software: Constraints, Innovation, and the AI Disruption**|Sergi Valverde et.al.|[2512.02953](http://arxiv.org/abs/2512.02953)|null|
+|**2025-12-02**|**FluxLab: Creating 3D Printable Shape-Changing Devices with Integrated Deformation Sensing**|Hsuanling Lee et.al.|[2512.02911](http://arxiv.org/abs/2512.02911)|null|
+|**2025-12-02**|**In Silico Development of Psychometric Scales: Feasibility of Representative Population Data Simulation with LLMs**|Enrico Cipriani et.al.|[2512.02910](http://arxiv.org/abs/2512.02910)|null|
+|**2025-12-02**|**Humans incorrectly reject confident accusatory AI judgments**|Riccardo Loconte et.al.|[2512.02848](http://arxiv.org/abs/2512.02848)|null|
+|**2025-12-02**|**Cross-Lingual Prompt Steerability: Towards Accurate and Robust LLM Behavior across Languages**|Lechen Zhang et.al.|[2512.02841](http://arxiv.org/abs/2512.02841)|null|
+|**2025-12-02**|**Perception of AI-Generated Music -- The Role of Composer Identity, Personality Traits, Music Preferences, and Perceived Humanness**|David Stammer et.al.|[2512.02785](http://arxiv.org/abs/2512.02785)|null|
 |**2025-12-01**|**AirSim360: A Panoramic Simulation Platform within Drone View**|Xian Ge et.al.|[2512.02009](http://arxiv.org/abs/2512.02009)|null|
 |**2025-12-01**|**Learning Sim-to-Real Humanoid Locomotion in 15 Minutes**|Younggyo Seo et.al.|[2512.01996](http://arxiv.org/abs/2512.01996)|null|
 |**2025-12-01**|**Neural steering vectors reveal dose and exposure-dependent impacts of human-AI relationships**|Hannah Rose Kirk et.al.|[2512.01991](http://arxiv.org/abs/2512.01991)|null|
