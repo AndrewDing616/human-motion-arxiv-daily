@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-04**|**Light-X: Generative 4D Video Rendering with Camera and Illumination Control**|Tianqi Liu et.al.|[2512.05115](http://arxiv.org/abs/2512.05115)|null|
+|**2025-12-04**|**Deep infant brain segmentation from multi-contrast MRI**|Malte Hoffmann et.al.|[2512.05114](http://arxiv.org/abs/2512.05114)|null|
+|**2025-12-04**|**TV2TV: A Unified Framework for Interleaved Language and Video Generation**|Xiaochuang Han et.al.|[2512.05103](http://arxiv.org/abs/2512.05103)|null|
+|**2025-12-04**|**From Generated Human Videos to Physically Plausible Robot Trajectories**|James Ni et.al.|[2512.05094](http://arxiv.org/abs/2512.05094)|null|
+|**2025-12-04**|**Deep Forcing: Training-Free Long Video Generation with Deep Sink and Participative Compression**|Jung Yi et.al.|[2512.05081](http://arxiv.org/abs/2512.05081)|null|
+|**2025-12-04**|**BulletTime: Decoupled Control of Time and Camera Pose for Video Generation**|Yiming Wang et.al.|[2512.05076](http://arxiv.org/abs/2512.05076)|null|
+|**2025-12-04**|**QKAN-LSTM: Quantum-inspired Kolmogorov-Arnold Long Short-term Memory**|Yu-Chao Hsu et.al.|[2512.05049](http://arxiv.org/abs/2512.05049)|null|
+|**2025-12-04**|**Joint 3D Geometry Reconstruction and Motion Generation for 4D Synthesis from a Single Image**|Yanran Zhang et.al.|[2512.05044](http://arxiv.org/abs/2512.05044)|null|
+|**2025-12-04**|**The Magnus expansion in relativistic quantum field theory**|Andreas Brandhuber et.al.|[2512.05017](http://arxiv.org/abs/2512.05017)|null|
+|**2025-12-04**|**Contact-Implicit Modeling and Simulation of a Snake Robot on Compliant and Granular Terrain**|Haroon Hublikar et.al.|[2512.05008](http://arxiv.org/abs/2512.05008)|null|
 |**2025-12-03**|**Learning Steerable Clarification Policies with Collaborative Self-play**|Jonathan Berant et.al.|[2512.04068](http://arxiv.org/abs/2512.04068)|null|
 |**2025-12-03**|**Stable Signer: Hierarchical Sign Language Generative Model**|Sen Fang et.al.|[2512.04048](http://arxiv.org/abs/2512.04048)|null|
 |**2025-12-03**|**RELIC: Interactive Video World Model with Long-Horizon Memory**|Yicong Hong et.al.|[2512.04040](http://arxiv.org/abs/2512.04040)|null|
@@ -215,6 +225,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-04**|**Joint 3D Geometry Reconstruction and Motion Generation for 4D Synthesis from a Single Image**|Yanran Zhang et.al.|[2512.05044](http://arxiv.org/abs/2512.05044)|null|
+|**2025-12-04**|**Towards Cross-View Point Correspondence in Vision-Language Models**|Yipu Wang et.al.|[2512.04686](http://arxiv.org/abs/2512.04686)|null|
+|**2025-12-04**|**When Robots Should Say "I Don't Know": Benchmarking Abstention in Embodied Question Answering**|Tao Wu et.al.|[2512.04597](http://arxiv.org/abs/2512.04597)|null|
+|**2025-12-04**|**X-Humanoid: Robotize Human Videos to Generate Humanoid Videos at Scale**|Pei Yang et.al.|[2512.04537](http://arxiv.org/abs/2512.04537)|null|
+|**2025-12-04**|**Auto3R: Automated 3D Reconstruction and Scanning via Data-driven Uncertainty Quantification**|Chentao Shen et.al.|[2512.04528](http://arxiv.org/abs/2512.04528)|null|
+|**2025-12-04**|**VideoSSM: Autoregressive Long Video Generation with Hybrid State-Space Memory**|Yifei Yu et.al.|[2512.04519](http://arxiv.org/abs/2512.04519)|null|
+|**2025-12-04**|**MindDrive: An All-in-One Framework Bridging World Models and Vision-Language Model for End-to-End Autonomous Driving**|Bin Suna et.al.|[2512.04441](http://arxiv.org/abs/2512.04441)|null|
+|**2025-12-03**|**CRAFT-E: A Neuro-Symbolic Framework for Embodied Affordance Grounding**|Zhou Chen et.al.|[2512.04231](http://arxiv.org/abs/2512.04231)|null|
+|**2025-12-03**|**MoReGen: Multi-Agent Motion-Reasoning Engine for Code-based Text-to-Video Synthesis**|Xiangyu Bai et.al.|[2512.04221](http://arxiv.org/abs/2512.04221)|null|
 |**2025-12-03**|**On the Temporality for Sketch Representation Learning**|Marcelo Isaias de Moraes Junior et.al.|[2512.04007](http://arxiv.org/abs/2512.04007)|null|
 |**2025-12-03**|**UniMo: Unifying 2D Video and 3D Human Motion with an Autoregressive Framework**|Youxin Pang et.al.|[2512.03918](http://arxiv.org/abs/2512.03918)|null|
 |**2025-12-03**|**ViDiC: Video Difference Captioning**|Jiangtao Wu et.al.|[2512.03405](http://arxiv.org/abs/2512.03405)|null|
@@ -334,6 +353,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-04**|**Visual Reasoning Tracer: Object-Level Grounded Reasoning Benchmark**|Haobo Yuan et.al.|[2512.05091](http://arxiv.org/abs/2512.05091)|null|
+|**2025-12-04**|**Hoi! -- A Multimodal Dataset for Force-Grounded, Cross-View Articulated Manipulation**|Tim Engelbracht et.al.|[2512.04884](http://arxiv.org/abs/2512.04884)|null|
+|**2025-12-04**|**Contract-Driven QoE Auditing for Speech and Singing Services: From MOS Regression to Service Graphs**|Wenzhang Du et.al.|[2512.04827](http://arxiv.org/abs/2512.04827)|null|
+|**2025-12-04**|**Setting up for failure: automatic discovery of the neural mechanisms of cognitive errors**|Puria Radmard et.al.|[2512.04808](http://arxiv.org/abs/2512.04808)|null|
+|**2025-12-04**|**Neural Policy Composition from Free Energy Minimization**|Francesca Rossi et.al.|[2512.04745](http://arxiv.org/abs/2512.04745)|null|
+|**2025-12-04**|**Refaçade: Editing Object with Given Reference Texture**|Youze Huang et.al.|[2512.04534](http://arxiv.org/abs/2512.04534)|null|
+|**2025-12-04**|**Auto3R: Automated 3D Reconstruction and Scanning via Data-driven Uncertainty Quantification**|Chentao Shen et.al.|[2512.04528](http://arxiv.org/abs/2512.04528)|null|
+|**2025-12-04**|**Back to Basics: Motion Representation Matters for Human Motion Generation Using Diffusion Model**|Yuduo Jin et.al.|[2512.04499](http://arxiv.org/abs/2512.04499)|null|
+|**2025-12-04**|**Not All Birds Look The Same: Identity-Preserving Generation For Birds**|Aaron Sun et.al.|[2512.04485](http://arxiv.org/abs/2512.04485)|null|
+|**2025-12-04**|**AI-Assisted Game Management Decisions: A Fuzzy Logic Approach to Real-Time Substituitions**|Pedro Passos et.al.|[2512.04480](http://arxiv.org/abs/2512.04480)|null|
 |**2025-12-03**|**Stable Signer: Hierarchical Sign Language Generative Model**|Sen Fang et.al.|[2512.04048](http://arxiv.org/abs/2512.04048)|null|
 |**2025-12-03**|**On the Temporality for Sketch Representation Learning**|Marcelo Isaias de Moraes Junior et.al.|[2512.04007](http://arxiv.org/abs/2512.04007)|null|
 |**2025-12-03**|**UniMo: Unifying 2D Video and 3D Human Motion with an Autoregressive Framework**|Youxin Pang et.al.|[2512.03918](http://arxiv.org/abs/2512.03918)|null|
@@ -506,6 +535,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-04**|**Deep infant brain segmentation from multi-contrast MRI**|Malte Hoffmann et.al.|[2512.05114](http://arxiv.org/abs/2512.05114)|null|
+|**2025-12-04**|**ARM-Thinker: Reinforcing Multimodal Generative Reward Models with Agentic Tool Use and Visual Reasoning**|Shengyuan Ding et.al.|[2512.05111](http://arxiv.org/abs/2512.05111)|null|
+|**2025-12-04**|**From Generated Human Videos to Physically Plausible Robot Trajectories**|James Ni et.al.|[2512.05094](http://arxiv.org/abs/2512.05094)|null|
+|**2025-12-04**|**The Evolving Landscape of Interactive Surface Sensing Technologies**|David Wang et.al.|[2512.05071](http://arxiv.org/abs/2512.05071)|null|
+|**2025-12-04**|**Perceptually-Minimal Color Optimization for Web Accessibility: A Multi-Phase Constrained Approach**|Lalitha A R et.al.|[2512.05067](http://arxiv.org/abs/2512.05067)|null|
+|**2025-12-04**|**Introducing V-Soft Pro: a Modular Platform for a Transhumeral Prosthesis with Controllable Stiffness**|Giuseppe Milazzo et.al.|[2512.04998](http://arxiv.org/abs/2512.04998)|null|
+|**2025-12-04**|**Towards Adaptive Fusion of Multimodal Deep Networks for Human Action Recognition**|Novanto Yudistira et.al.|[2512.04943](http://arxiv.org/abs/2512.04943)|null|
+|**2025-12-04**|**The AI Consumer Index (ACE)**|Julien Benchek et.al.|[2512.04921](http://arxiv.org/abs/2512.04921)|null|
+|**2025-12-04**|**Hoi! -- A Multimodal Dataset for Force-Grounded, Cross-View Articulated Manipulation**|Tim Engelbracht et.al.|[2512.04884](http://arxiv.org/abs/2512.04884)|null|
+|**2025-12-04**|**Contact-Aware Refinement of Human Pose Pseudo-Ground Truth via Bioimpedance Sensing**|Maria-Paola Forte et.al.|[2512.04862](http://arxiv.org/abs/2512.04862)|null|
 |**2025-12-03**|**Affordances of Digital and Blockchain-based Community Currencies: The Case of Sarafu Network in Kenya**|Patricia Marcella Evite et.al.|[2512.04030](http://arxiv.org/abs/2512.04030)|null|
 |**2025-12-03**|**Artificial Microsaccade Compensation: Stable Vision for an Ornithopter**|Levi Burner et.al.|[2512.03995](http://arxiv.org/abs/2512.03995)|null|
 |**2025-12-03**|**When to Say "Hi" - Learn to Open a Conversation with an in-the-wild Dataset**|Michael Schiffmann et.al.|[2512.03991](http://arxiv.org/abs/2512.03991)|null|
