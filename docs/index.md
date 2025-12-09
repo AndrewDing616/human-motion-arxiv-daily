@@ -959,6 +959,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-06**|**DragMesh: Interactive 3D Generation Made Easy**|Tianshan Zhang et.al.|[2512.06424](http://arxiv.org/abs/2512.06424)|null|
+|**2025-12-06**|**Exploiting Spatiotemporal Properties for Efficient Event-Driven Human Pose Estimation**|Haoxian Zhou et.al.|[2512.06306](http://arxiv.org/abs/2512.06306)|null|
 |**2025-12-05**|**Training-Time Action Conditioning for Efficient Real-Time Chunking**|Kevin Black et.al.|[2512.05964](http://arxiv.org/abs/2512.05964)|null|
 |**2025-12-05**|**SIMPACT: Simulation-Enabled Action Planning using Vision-Language Models**|Haowen Liu et.al.|[2512.05955](http://arxiv.org/abs/2512.05955)|null|
 |**2025-12-05**|**Correspondence-Oriented Imitation Learning: Flexible Visuomotor Control with 3D Conditioning**|Yunhao Cao et.al.|[2512.05953](http://arxiv.org/abs/2512.05953)|null|
@@ -1185,6 +1187,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-06**|**Human3R: Incorporating Human Priors for Better 3D Dynamic Reconstruction from Monocular Videos**|Weitao Xiong et.al.|[2512.06368](http://arxiv.org/abs/2512.06368)|null|
 |**2025-12-05**|**2K-Characters-10K-Stories: A Quality-Gated Stylized Narrative Dataset with Disentangled Control and Sequence Consistency**|Xingxi Yin et.al.|[2512.05557](http://arxiv.org/abs/2512.05557)|null|
 |**2025-12-05**|**Ideal Observer for Segmentation of Dead Leaves Images**|Swantje Mahncke et.al.|[2512.05539](http://arxiv.org/abs/2512.05539)|null|
 |**2025-12-04**|**From Segments to Scenes: Temporal Understanding in Autonomous Driving via Vision-Language Model**|Kevin Cannons et.al.|[2512.05277](http://arxiv.org/abs/2512.05277)|null|
@@ -1314,6 +1317,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-06**|**Human3R: Incorporating Human Priors for Better 3D Dynamic Reconstruction from Monocular Videos**|Weitao Xiong et.al.|[2512.06368](http://arxiv.org/abs/2512.06368)|null|
+|**2025-12-06**|**Efficient and Scalable Monocular Human-Object Interaction Motion Reconstruction**|Boran Wen et.al.|[2512.00960](http://arxiv.org/abs/2512.00960)|null|
 |**2025-12-05**|**To Err Is Human: Systematic Quantification of Errors in Published AI Papers via LLM Analysis**|Federico Bianchi et.al.|[2512.05925](http://arxiv.org/abs/2512.05925)|null|
 |**2025-12-05**|**A Hyperspectral Imaging Guided Robotic Grasping System**|Zheng Sun et.al.|[2512.05578](http://arxiv.org/abs/2512.05578)|null|
 |**2025-12-05**|**Ideal Observer for Segmentation of Dead Leaves Images**|Swantje Mahncke et.al.|[2512.05539](http://arxiv.org/abs/2512.05539)|null|
@@ -1364,7 +1369,6 @@ layout: default
 |**2025-12-01**|**The Necessity of Imperfection:Reversing Model Collapse via Simulating Cognitive Boundedness**|Zhongjie Jiang et.al.|[2512.01354](http://arxiv.org/abs/2512.01354)|null|
 |**2025-12-01**|**Discovering Self-Protective Falling Policy for Humanoid Robot via Deep Reinforcement Learning**|Diyuan Shi et.al.|[2512.01336](http://arxiv.org/abs/2512.01336)|null|
 |**2025-12-01**|**AlignVid: Training-Free Attention Scaling for Semantic Fidelity in Text-Guided Image-to-Video Generation**|Yexin Liu et.al.|[2512.01334](http://arxiv.org/abs/2512.01334)|null|
-|**2025-11-30**|**Efficient and Scalable Monocular Human-Object Interaction Motion Reconstruction**|Boran Wen et.al.|[2512.00960](http://arxiv.org/abs/2512.00960)|null|
 |**2025-11-29**|**Asset-Driven Sematic Reconstruction of Dynamic Scene with Multi-Human-Object Interactions**|Sandika Biswas et.al.|[2512.00547](http://arxiv.org/abs/2512.00547)|null|
 |**2025-11-28**|**Multi-Modal Scene Graph with Kolmogorov-Arnold Experts for Audio-Visual Question Answering**|Zijian Fu et.al.|[2511.23304](http://arxiv.org/abs/2511.23304)|null|
 |**2025-11-28**|**SafeHumanoid: VLM-RAG-driven Control of Upper Body Impedance for Humanoid Robot**|Yara Mahmoud et.al.|[2511.23300](http://arxiv.org/abs/2511.23300)|null|
@@ -1509,6 +1513,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-08**|**Graph-Based Learning of Spectro-Topographical EEG Representations with Gradient Alignment for Brain-Computer Interfaces**|Prithila Angkan et.al.|[2512.07820](http://arxiv.org/abs/2512.07820)|null|
+|**2025-12-08**|**Collaborative Causal Sensemaking: Closing the Complementarity Gap in Human-AI Decision Support**|Raunak Jain et.al.|[2512.07801](http://arxiv.org/abs/2512.07801)|null|
+|**2025-12-08**|**Context-Adaptive Color Optimization for Web Accessibility: Balancing Perceptual Fidelity and Functional Requirements**|Lalitha A R et.al.|[2512.07623](http://arxiv.org/abs/2512.07623)|null|
+|**2025-12-08**|**A Retrospective on Ultrasound Mid-Air Haptics in HCI**|Arthur Fleig et.al.|[2512.07613](http://arxiv.org/abs/2512.07613)|null|
+|**2025-12-08**|**SemanticTours: A Conceptual Framework for Non-Linear, Knowledge Graph-Driven Data Tours**|Daniel Fürst et.al.|[2512.07483](http://arxiv.org/abs/2512.07483)|null|
+|**2025-12-08**|**Living the Novel: A System for Generating Self-Training Timeline-Aware Conversational Agents from Novels**|Yifei Huang et.al.|[2512.07474](http://arxiv.org/abs/2512.07474)|null|
+|**2025-12-08**|**Breaking Players' expectations: the Role of Non-player Characters' coherence and Consistency**|Remi Poivet et.al.|[2512.07388](http://arxiv.org/abs/2512.07388)|null|
+|**2025-12-08**|**The Impact of Spatial Misalignment and Time Delay on Collaborative Presence in Augmented Reality**|Michael Stern et.al.|[2512.07363](http://arxiv.org/abs/2512.07363)|null|
+|**2025-12-08**|**Size Matters: The Impact of Avatar Size on User Experience in Healthcare Applications**|Navid Ashrafi et.al.|[2512.07357](http://arxiv.org/abs/2512.07357)|null|
+|**2025-12-08**|**ContextualSHAP : Enhancing SHAP Explanations Through Contextual Language Generation**|Latifa Dwiyanti et.al.|[2512.07178](http://arxiv.org/abs/2512.07178)|null|
 |**2025-12-05**|**Deep Learning-Based Real-Time Sequential Facial Expression Analysis Using Geometric Features**|Talha Enes Koksal et.al.|[2512.05669](http://arxiv.org/abs/2512.05669)|null|
 |**2025-12-05**|**A Non-Invasive Path to Animal Welfare: Contactless Vital Signs and Activity Monitoring of In-Vivo Rodents Using a mm-Wave FMCW Radar**|Tommaso Polonelli et.al.|[2512.05595](http://arxiv.org/abs/2512.05595)|null|
 |**2025-12-05**|**Eye of the Beholder: Towards Measuring Visualization Complexity**|Johannes Ellemose et.al.|[2512.05536](http://arxiv.org/abs/2512.05536)|null|
