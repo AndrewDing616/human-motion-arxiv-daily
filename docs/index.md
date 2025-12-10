@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2025.12.09
+### Automatically Updated on 2025.12.10
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-09**|**Learning to Control Physically-simulated 3D Characters via Generating and Mimicking 2D Motions**|Jianan Li et.al.|[2512.08500](http://arxiv.org/abs/2512.08500)|null|
 |**2025-12-06**|**DragMesh: Interactive 3D Generation Made Easy**|Tianshan Zhang et.al.|[2512.06424](http://arxiv.org/abs/2512.06424)|null|
 |**2025-12-06**|**Exploiting Spatiotemporal Properties for Efficient Event-Driven Human Pose Estimation**|Haoxian Zhou et.al.|[2512.06306](http://arxiv.org/abs/2512.06306)|null|
 |**2025-12-05**|**Training-Time Action Conditioning for Efficient Real-Time Chunking**|Kevin Black et.al.|[2512.05964](http://arxiv.org/abs/2512.05964)|null|
@@ -1187,7 +1188,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-12-06**|**Human3R: Incorporating Human Priors for Better 3D Dynamic Reconstruction from Monocular Videos**|Weitao Xiong et.al.|[2512.06368](http://arxiv.org/abs/2512.06368)|null|
+|**2025-12-09**|**HuPrior3R: Incorporating Human Priors for Better 3D Dynamic Reconstruction from Monocular Videos**|Weitao Xiong et.al.|[2512.06368](http://arxiv.org/abs/2512.06368)|null|
 |**2025-12-05**|**2K-Characters-10K-Stories: A Quality-Gated Stylized Narrative Dataset with Disentangled Control and Sequence Consistency**|Xingxi Yin et.al.|[2512.05557](http://arxiv.org/abs/2512.05557)|null|
 |**2025-12-05**|**Ideal Observer for Segmentation of Dead Leaves Images**|Swantje Mahncke et.al.|[2512.05539](http://arxiv.org/abs/2512.05539)|null|
 |**2025-12-04**|**From Segments to Scenes: Temporal Understanding in Autonomous Driving via Vision-Language Model**|Kevin Cannons et.al.|[2512.05277](http://arxiv.org/abs/2512.05277)|null|
@@ -1317,7 +1318,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-12-06**|**Human3R: Incorporating Human Priors for Better 3D Dynamic Reconstruction from Monocular Videos**|Weitao Xiong et.al.|[2512.06368](http://arxiv.org/abs/2512.06368)|null|
+|**2025-12-09**|**Learning to Control Physically-simulated 3D Characters via Generating and Mimicking 2D Motions**|Jianan Li et.al.|[2512.08500](http://arxiv.org/abs/2512.08500)|null|
+|**2025-12-09**|**HuPrior3R: Incorporating Human Priors for Better 3D Dynamic Reconstruction from Monocular Videos**|Weitao Xiong et.al.|[2512.06368](http://arxiv.org/abs/2512.06368)|null|
 |**2025-12-06**|**Efficient and Scalable Monocular Human-Object Interaction Motion Reconstruction**|Boran Wen et.al.|[2512.00960](http://arxiv.org/abs/2512.00960)|null|
 |**2025-12-05**|**To Err Is Human: Systematic Quantification of Errors in Published AI Papers via LLM Analysis**|Federico Bianchi et.al.|[2512.05925](http://arxiv.org/abs/2512.05925)|null|
 |**2025-12-05**|**A Hyperspectral Imaging Guided Robotic Grasping System**|Zheng Sun et.al.|[2512.05578](http://arxiv.org/abs/2512.05578)|null|
@@ -1513,6 +1515,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-09**|**Exploring the Grassroots Understanding and Practices of Collective Memory Co-Contribution in a University Community**|Zeyu Huang et.al.|[2512.08787](http://arxiv.org/abs/2512.08787)|null|
+|**2025-12-09**|**See-Control: A Multimodal Agent Framework for Smartphone Interaction with a Robotic Arm**|Haoyu Zhao et.al.|[2512.08629](http://arxiv.org/abs/2512.08629)|null|
+|**2025-12-09**|**The SMART+ Framework for AI Systems**|Laxmiraju Kandikatla et.al.|[2512.08592](http://arxiv.org/abs/2512.08592)|null|
+|**2025-12-09**|**Gamification with Purpose: What Learners Prefer to Motivate Their Learning**|Kai Marquardt et.al.|[2512.08551](http://arxiv.org/abs/2512.08551)|null|
+|**2025-12-09**|**SensHRPS: Sensing Comfortable Human-Robot Proxemics and Personal Space With Eye-Tracking**|Nadezhda Kushina et.al.|[2512.08518](http://arxiv.org/abs/2512.08518)|null|
+|**2025-12-09**|**Time and Money Matters for Sustainability: Insights on User Preferences on Renewable Energy for Electric Vehicle Charging Stations**|Delong Du et.al.|[2512.08437](http://arxiv.org/abs/2512.08437)|null|
+|**2025-12-09**|**Mediating Personal Relationships with Robotic Pets for Fostering Human-Human Interaction of Older Adults**|Delong Du et.al.|[2512.08426](http://arxiv.org/abs/2512.08426)|null|
+|**2025-12-09**|**ClinicalTrialsHub: Bridging Registries and Literature for Comprehensive Clinical Trial Access**|Jiwoo Park et.al.|[2512.08193](http://arxiv.org/abs/2512.08193)|null|
+|**2025-12-08**|**Detecting Ambiguity Aversion in Cyberattack Behavior to Inform Cognitive Defense Strategies**|Stephan Carney et.al.|[2512.08107](http://arxiv.org/abs/2512.08107)|null|
+|**2025-12-08**|**Joint Activity Design Heuristics for Enhancing Human-Machine Collaboration**|Mohammadreza Jalaeian et.al.|[2512.08036](http://arxiv.org/abs/2512.08036)|null|
 |**2025-12-08**|**Graph-Based Learning of Spectro-Topographical EEG Representations with Gradient Alignment for Brain-Computer Interfaces**|Prithila Angkan et.al.|[2512.07820](http://arxiv.org/abs/2512.07820)|null|
 |**2025-12-08**|**Collaborative Causal Sensemaking: Closing the Complementarity Gap in Human-AI Decision Support**|Raunak Jain et.al.|[2512.07801](http://arxiv.org/abs/2512.07801)|null|
 |**2025-12-08**|**Context-Adaptive Color Optimization for Web Accessibility: Balancing Perceptual Fidelity and Functional Requirements**|Lalitha A R et.al.|[2512.07623](http://arxiv.org/abs/2512.07623)|null|
