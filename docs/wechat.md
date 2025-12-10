@@ -1027,6 +1027,7 @@
 - 2025-11-21, **RynnVLA-002: A Unified Vision-Language-Action and World Model**, Jun Cen et.al., Paper: [http://arxiv.org/abs/2511.17502](http://arxiv.org/abs/2511.17502)
 - 2025-11-14, **Rethinking Progression of Memory State in Robotic Manipulation: An Object-Centric Perspective**, Nhat Chung et.al., Paper: [http://arxiv.org/abs/2511.11478](http://arxiv.org/abs/2511.11478)
 - 2025-11-18, **ReflexGrad: Three-Way Synergistic Architecture for Zero-Shot Generalization in LLM Agents**, Ankush Kadu et.al., Paper: [http://arxiv.org/abs/2511.14584](http://arxiv.org/abs/2511.14584)
+- 2025-12-09, **Refining Diffusion Models for Motion Synthesis with an Acceleration Loss to Generate Realistic IMU Data**, Lars Ole Häusler et.al., Paper: [http://arxiv.org/abs/2512.08859](http://arxiv.org/abs/2512.08859)
 - 2025-11-19, **Real-Time Optimal Control via Transformer Networks and Bernstein Polynomials**, Gage MacLin et.al., Paper: [http://arxiv.org/abs/2511.15588](http://arxiv.org/abs/2511.15588)
 - 2025-12-03, **RELIC: Interactive Video World Model with Long-Horizon Memory**, Yicong Hong et.al., Paper: [http://arxiv.org/abs/2512.04040](http://arxiv.org/abs/2512.04040)
 - 2025-11-28, **Quadratic Forms, Real Zeros and Echoes of the Spectral Action**, Alain Connes et.al., Paper: [http://arxiv.org/abs/2511.23257](http://arxiv.org/abs/2511.23257)
@@ -1555,6 +1556,7 @@
 - 2025-12-08, **Size Matters: The Impact of Avatar Size on User Experience in Healthcare Applications**, Navid Ashrafi et.al., Paper: [http://arxiv.org/abs/2512.07357](http://arxiv.org/abs/2512.07357)
 - 2025-12-05, **Simulating Life Paths with Digital Twins: AI-Generated Future Selves Influence Decision-Making and Expand Human Choice**, Rachel Poonsiriwong et.al., Paper: [http://arxiv.org/abs/2512.05397](http://arxiv.org/abs/2512.05397)
 - 2025-11-14, **SimTac: A Physics-Based Simulator for Vision-Based Tactile Sensing with Biomorphic Structures**, Xuyang Zhang et.al., Paper: [http://arxiv.org/abs/2511.11456](http://arxiv.org/abs/2511.11456)
+- 2025-12-09, **Siamese-Driven Optimization for Low-Resolution Image Latent Embedding in Image Captioning**, Jing Jie Tan et.al., Paper: [http://arxiv.org/abs/2512.08873](http://arxiv.org/abs/2512.08873)
 - 2025-11-27, **Shoe Style-Invariant and Ground-Aware Learning for Dense Foot Contact Estimation**, Daniel Sungho Jung et.al., Paper: [http://arxiv.org/abs/2511.22184](http://arxiv.org/abs/2511.22184)
 - 2025-12-09, **SensHRPS: Sensing Comfortable Human-Robot Proxemics and Personal Space With Eye-Tracking**, Nadezhda Kushina et.al., Paper: [http://arxiv.org/abs/2512.08518](http://arxiv.org/abs/2512.08518)
 - 2025-12-08, **SemanticTours: A Conceptual Framework for Non-Linear, Knowledge Graph-Driven Data Tours**, Daniel Fürst et.al., Paper: [http://arxiv.org/abs/2512.07483](http://arxiv.org/abs/2512.07483)
@@ -1725,6 +1727,7 @@
 - 2025-12-05, **A Non-Invasive Path to Animal Welfare: Contactless Vital Signs and Activity Monitoring of In-Vivo Rodents Using a mm-Wave FMCW Radar**, Tommaso Polonelli et.al., Paper: [http://arxiv.org/abs/2512.05595](http://arxiv.org/abs/2512.05595)
 - 2025-12-01, **A Meta-Analysis of the Persuasive Power of Large Language Models**, Lukas Hölbling et.al., Paper: [http://arxiv.org/abs/2512.01431](http://arxiv.org/abs/2512.01431)
 - 2025-11-19, **A Decade of Systems for Human Data Interaction**, Eugene Wu et.al., Paper: [http://arxiv.org/abs/2511.15585](http://arxiv.org/abs/2511.15585)
+- 2025-12-09, **"Nothing about us without us": Perspectives of Global Deaf and Hard-of-hearing Community Members on Sign Language Technologies**, Katherine Atwell et.al., Paper: [http://arxiv.org/abs/2512.08839](http://arxiv.org/abs/2512.08839)
 
 <p align=right>(<a href=#updated-on-20251210>back to top</a>)</p>
 

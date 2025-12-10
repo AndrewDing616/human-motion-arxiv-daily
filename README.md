@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-09**|**Refining Diffusion Models for Motion Synthesis with an Acceleration Loss to Generate Realistic IMU Data**|Lars Ole Häusler et.al.|[2512.08859](http://arxiv.org/abs/2512.08859)|null|
 |**2025-12-09**|**Learning to Control Physically-simulated 3D Characters via Generating and Mimicking 2D Motions**|Jianan Li et.al.|[2512.08500](http://arxiv.org/abs/2512.08500)|null|
 |**2025-12-06**|**DragMesh: Interactive 3D Generation Made Easy**|Tianshan Zhang et.al.|[2512.06424](http://arxiv.org/abs/2512.06424)|null|
 |**2025-12-06**|**Exploiting Spatiotemporal Properties for Efficient Event-Driven Human Pose Estimation**|Haoxian Zhou et.al.|[2512.06306](http://arxiv.org/abs/2512.06306)|null|
@@ -576,6 +577,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-09**|**Siamese-Driven Optimization for Low-Resolution Image Latent Embedding in Image Captioning**|Jing Jie Tan et.al.|[2512.08873](http://arxiv.org/abs/2512.08873)|null|
+|**2025-12-09**|**"Nothing about us without us": Perspectives of Global Deaf and Hard-of-hearing Community Members on Sign Language Technologies**|Katherine Atwell et.al.|[2512.08839](http://arxiv.org/abs/2512.08839)|null|
 |**2025-12-09**|**Exploring the Grassroots Understanding and Practices of Collective Memory Co-Contribution in a University Community**|Zeyu Huang et.al.|[2512.08787](http://arxiv.org/abs/2512.08787)|null|
 |**2025-12-09**|**See-Control: A Multimodal Agent Framework for Smartphone Interaction with a Robotic Arm**|Haoyu Zhao et.al.|[2512.08629](http://arxiv.org/abs/2512.08629)|null|
 |**2025-12-09**|**The SMART+ Framework for AI Systems**|Laxmiraju Kandikatla et.al.|[2512.08592](http://arxiv.org/abs/2512.08592)|null|
