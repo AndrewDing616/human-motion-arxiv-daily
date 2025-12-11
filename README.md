@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2025.12.10
+### Automatically Updated on 2025.12.11
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-10**|**LISN: Language-Instructed Social Navigation with VLM-based Controller Modulating**|Junting Chen et.al.|[2512.09920](http://arxiv.org/abs/2512.09920)|null|
+|**2025-12-10**|**FunPhase: A Periodic Functional Autoencoder for Motion Generation via Phase Manifolds**|Marco Pegoraro et.al.|[2512.09423](http://arxiv.org/abs/2512.09423)|null|
+|**2025-12-09**|**A Survey of Body and Face Motion: Datasets, Performance Evaluation Metrics and Generative Techniques**|Lownish Rai Sookha et.al.|[2512.09005](http://arxiv.org/abs/2512.09005)|null|
 |**2025-12-09**|**Refining Diffusion Models for Motion Synthesis with an Acceleration Loss to Generate Realistic IMU Data**|Lars Ole Häusler et.al.|[2512.08859](http://arxiv.org/abs/2512.08859)|null|
 |**2025-12-09**|**Learning to Control Physically-simulated 3D Characters via Generating and Mimicking 2D Motions**|Jianan Li et.al.|[2512.08500](http://arxiv.org/abs/2512.08500)|null|
 |**2025-12-06**|**DragMesh: Interactive 3D Generation Made Easy**|Tianshan Zhang et.al.|[2512.06424](http://arxiv.org/abs/2512.06424)|null|
@@ -240,7 +243,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20251210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -372,12 +375,14 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20251210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-10**|**VHOI: Controllable Video Generation of Human-Object Interactions from Sparse Trajectories via Motion Densification**|Wanyue Zhang et.al.|[2512.09646](http://arxiv.org/abs/2512.09646)|null|
+|**2025-12-10**|**H2R-Grounder: A Paired-Data-Free Paradigm for Translating Human Interaction Videos into Physically Grounded Robot Videos**|Hai Ci et.al.|[2512.09406](http://arxiv.org/abs/2512.09406)|null|
 |**2025-12-09**|**Learning to Control Physically-simulated 3D Characters via Generating and Mimicking 2D Motions**|Jianan Li et.al.|[2512.08500](http://arxiv.org/abs/2512.08500)|null|
 |**2025-12-09**|**HuPrior3R: Incorporating Human Priors for Better 3D Dynamic Reconstruction from Monocular Videos**|Weitao Xiong et.al.|[2512.06368](http://arxiv.org/abs/2512.06368)|null|
 |**2025-12-06**|**Efficient and Scalable Monocular Human-Object Interaction Motion Reconstruction**|Boran Wen et.al.|[2512.00960](http://arxiv.org/abs/2512.00960)|null|
@@ -571,12 +576,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20251210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-10**|**Building a Data Dashboard for Magic: The Gathering: Initial Design Considerations**|Tomás Alves et.al.|[2512.09802](http://arxiv.org/abs/2512.09802)|null|
+|**2025-12-10**|**Smart, simple, sincere - Why and how we should rethink connected things in our smart homes**|Albrecht Kurze et.al.|[2512.09755](http://arxiv.org/abs/2512.09755)|null|
+|**2025-12-10**|**Adaptive Optimal Control for Avatar-Guided Motor Rehabilitation in Virtual Reality**|Francesco De Lellis et.al.|[2512.09667](http://arxiv.org/abs/2512.09667)|null|
+|**2025-12-10**|**ImageTalk: Designing a Multimodal AAC Text Generation System Driven by Image Recognition and Natural Language Generation**|Boyin Yang et.al.|[2512.09610](http://arxiv.org/abs/2512.09610)|null|
+|**2025-12-10**|**Auto-BenchmarkCard: Automated Synthesis of Benchmark Documentation**|Aris Hofmann et.al.|[2512.09577](http://arxiv.org/abs/2512.09577)|null|
+|**2025-12-10**|**Exploring Community-Powered Conversational Agent for Health Knowledge Acquisition: A Case Study in Colorectal Cancer**|Yiwei Yuan et.al.|[2512.09511](http://arxiv.org/abs/2512.09511)|null|
+|**2025-12-10**|**An Efficient Interaction Human-AI Synergy System Bridging Visual Awareness and Large Language Model for Intensive Care Units**|Yibowen Zhao et.al.|[2512.09473](http://arxiv.org/abs/2512.09473)|null|
+|**2025-12-10**|**Advancing Research via Human-AI Interactive Theorem Proving**|Chenyi Li et.al.|[2512.09443](http://arxiv.org/abs/2512.09443)|null|
+|**2025-12-09**|**Understanding Mental States in Active and Autonomous Driving with EEG**|Prithila Angkan et.al.|[2512.09190](http://arxiv.org/abs/2512.09190)|null|
+|**2025-12-09**|**Cognitive Trust in HRI: "Pay Attention to Me and I'll Trust You Even if You are Wrong"**|Adi Manor et.al.|[2512.09105](http://arxiv.org/abs/2512.09105)|null|
 |**2025-12-09**|**Siamese-Driven Optimization for Low-Resolution Image Latent Embedding in Image Captioning**|Jing Jie Tan et.al.|[2512.08873](http://arxiv.org/abs/2512.08873)|null|
 |**2025-12-09**|**"Nothing about us without us": Perspectives of Global Deaf and Hard-of-hearing Community Members on Sign Language Technologies**|Katherine Atwell et.al.|[2512.08839](http://arxiv.org/abs/2512.08839)|null|
 |**2025-12-09**|**Exploring the Grassroots Understanding and Practices of Collective Memory Co-Contribution in a University Community**|Zeyu Huang et.al.|[2512.08787](http://arxiv.org/abs/2512.08787)|null|
@@ -783,7 +798,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20251210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
 
 Notes: 
 
