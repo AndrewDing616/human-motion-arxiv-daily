@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2025.12.11
+### Automatically Updated on 2025.12.12
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-11**|**IRG-MotionLLM: Interleaving Motion Generation, Assessment and Refinement for Text-to-Motion Generation**|Yuan-Ming Li et.al.|[2512.10730](http://arxiv.org/abs/2512.10730)|null|
+|**2025-12-11**|**Lang2Motion: Bridging Language and Motion through Joint Embedding Spaces**|Bishoy Galoaa et.al.|[2512.10617](http://arxiv.org/abs/2512.10617)|null|
+|**2025-12-11**|**Topology-Agnostic Animal Motion Generation from Text Prompt**|Keyi Chen et.al.|[2512.10352](http://arxiv.org/abs/2512.10352)|null|
+|**2025-12-11**|**Point2Pose: A Generative Framework for 3D Human Pose Estimation with Multi-View Point Cloud Dataset**|Hyunsoo Lee et.al.|[2512.10321](http://arxiv.org/abs/2512.10321)|null|
 |**2025-12-10**|**LISN: Language-Instructed Social Navigation with VLM-based Controller Modulating**|Junting Chen et.al.|[2512.09920](http://arxiv.org/abs/2512.09920)|null|
 |**2025-12-10**|**FunPhase: A Periodic Functional Autoencoder for Motion Generation via Phase Manifolds**|Marco Pegoraro et.al.|[2512.09423](http://arxiv.org/abs/2512.09423)|null|
 |**2025-12-09**|**A Survey of Body and Face Motion: Datasets, Performance Evaluation Metrics and Generative Techniques**|Lownish Rai Sookha et.al.|[2512.09005](http://arxiv.org/abs/2512.09005)|null|
@@ -1521,6 +1525,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-11**|**Agile Deliberation: Concept Deliberation for Subjective Visual Classification**|Leijie Wang et.al.|[2512.10821](http://arxiv.org/abs/2512.10821)|null|
+|**2025-12-11**|**Developing and Evaluating a Large Language Model-Based Automated Feedback System Grounded in Evidence-Centered Design for Supporting Physics Problem Solving**|Holger Maus et.al.|[2512.10785](http://arxiv.org/abs/2512.10785)|null|
+|**2025-12-11**|**Opportunities and Challenges in Harnessing Digital Technology for Effective Teaching and Learning**|Zhongzhou Chen et.al.|[2512.10777](http://arxiv.org/abs/2512.10777)|null|
+|**2025-12-11**|**Reject or Not?: A Benchmark for Voice Assistant Query Rejection in Smart Home Scenario and an Improved Method Based on LLMs**|Huichao Men et.al.|[2512.10257](http://arxiv.org/abs/2512.10257)|null|
+|**2025-12-11**|**InFerActive: Towards Scalable Human Evaluation of Large Language Models through Interactive Inference**|Junhyeong Hwangbo et.al.|[2512.10234](http://arxiv.org/abs/2512.10234)|null|
+|**2025-12-11**|**HyFinBall: a Hybrid User Interface for Coordinated 2D+3D Visualization in Semi-Immersive VR**|Isaac Cho et.al.|[2512.10196](http://arxiv.org/abs/2512.10196)|null|
+|**2025-12-11**|**Offscript: Automated Auditing of Instruction Adherence in LLMs**|Nicholas Clark et.al.|[2512.10172](http://arxiv.org/abs/2512.10172)|null|
+|**2025-12-10**|**Enhancing Large Language Models for End-to-End Circuit Analysis Problem Solving**|Liangliang Chen et.al.|[2512.10159](http://arxiv.org/abs/2512.10159)|null|
+|**2025-12-10**|**Dark Personality Traits and Online Toxicity: Linking Self-Reports to Reddit Activity**|Aldo Cerulli et.al.|[2512.10113](http://arxiv.org/abs/2512.10113)|null|
+|**2025-12-10**|**Generate-Then-Validate: A Novel Question Generation Approach Using Small Language Models**|Yumou Wei et.al.|[2512.10110](http://arxiv.org/abs/2512.10110)|null|
 |**2025-12-10**|**Building a Data Dashboard for Magic: The Gathering: Initial Design Considerations**|Tomás Alves et.al.|[2512.09802](http://arxiv.org/abs/2512.09802)|null|
 |**2025-12-10**|**Smart, simple, sincere - Why and how we should rethink connected things in our smart homes**|Albrecht Kurze et.al.|[2512.09755](http://arxiv.org/abs/2512.09755)|null|
 |**2025-12-10**|**Adaptive Optimal Control for Avatar-Guided Motor Rehabilitation in Virtual Reality**|Francesco De Lellis et.al.|[2512.09667](http://arxiv.org/abs/2512.09667)|null|
