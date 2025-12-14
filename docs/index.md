@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2025.12.13
+### Automatically Updated on 2025.12.14
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
