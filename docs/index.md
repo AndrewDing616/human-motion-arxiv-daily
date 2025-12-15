@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2025.12.14
+### Automatically Updated on 2025.12.15
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-12**|**Reframing Music-Driven 2D Dance Pose Generation as Multi-Channel Image Generation**|Yan Zhang et.al.|[2512.11720](http://arxiv.org/abs/2512.11720)|null|
+|**2025-12-12**|**Kinetic Mining in Context: Few-Shot Action Synthesis via Text-to-Motion Distillation**|Luca Cazzola et.al.|[2512.11654](http://arxiv.org/abs/2512.11654)|null|
+|**2025-12-12**|**KeyframeFace: From Text to Expressive Facial Keyframes**|Jingchao Wu et.al.|[2512.11321](http://arxiv.org/abs/2512.11321)|null|
 |**2025-12-11**|**FoundationMotion: Auto-Labeling and Reasoning about Spatial Movement in Videos**|Yulu Gan et.al.|[2512.10927](http://arxiv.org/abs/2512.10927)|null|
 |**2025-12-11**|**IRG-MotionLLM: Interleaving Motion Generation, Assessment and Refinement for Text-to-Motion Generation**|Yuan-Ming Li et.al.|[2512.10730](http://arxiv.org/abs/2512.10730)|null|
 |**2025-12-11**|**Lang2Motion: Bridging Language and Motion through Joint Embedding Spaces**|Bishoy Galoaa et.al.|[2512.10617](http://arxiv.org/abs/2512.10617)|null|
@@ -1526,6 +1529,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-12**|**Toward a Decision Support System for Energy-Efficient Ferry Operation on Lake Constance based on Optimal Control**|Hannes Homburger et.al.|[2512.11786](http://arxiv.org/abs/2512.11786)|null|
+|**2025-12-12**|**The Influence of Human-like Appearance on Expected Robot Explanations**|Hana Kopecka et.al.|[2512.11746](http://arxiv.org/abs/2512.11746)|null|
+|**2025-12-12**|**From Signal to Turn: Interactional Friction in Modular Speech-to-Speech Pipelines**|Titaya Mairittha et.al.|[2512.11724](http://arxiv.org/abs/2512.11724)|null|
+|**2025-12-12**|**Natural Language Interaction for Editing Visual Knowledge Graphs**|Reza Shahriari et.al.|[2512.11674](http://arxiv.org/abs/2512.11674)|null|
+|**2025-12-12**|**From Verification Burden to Trusted Collaboration: Design Goals for LLM-Assisted Literature Reviews**|Brenda Nogueira et.al.|[2512.11661](http://arxiv.org/abs/2512.11661)|null|
+|**2025-12-12**|**Say it or AI it: Evaluating Hands-Free Text Correction in Virtual Reality**|Ziming Li et.al.|[2512.11564](http://arxiv.org/abs/2512.11564)|null|
+|**2025-12-12**|**Mirror Skin: In Situ Visualization of Robot Touch Intent on Robotic Skin**|David Wagmann et.al.|[2512.11472](http://arxiv.org/abs/2512.11472)|null|
+|**2025-12-12**|**Few-Shot VLM-Based G-Code and HMI Verification in CNC Machining**|Yasaman Hashem Pour et.al.|[2512.11296](http://arxiv.org/abs/2512.11296)|null|
+|**2025-12-12**|**AI Autonomy or Human Dependency? Defining the Boundary in Responsible AI with the $α$ -Coefficient**|Nattaya Mairittha et.al.|[2512.11295](http://arxiv.org/abs/2512.11295)|null|
+|**2025-12-12**|**Words to Describe What I'm Feeling: Exploring the Potential of AI Agents for High Subjectivity Decisions in Advance Care Planning**|Kellie Yu Hui Sim et.al.|[2512.11276](http://arxiv.org/abs/2512.11276)|null|
 |**2025-12-11**|**CompanionCast: A Multi-Agent Conversational AI Framework with Spatial Audio for Social Co-Viewing Experiences**|Yiyang Wang et.al.|[2512.10918](http://arxiv.org/abs/2512.10918)|null|
 |**2025-12-11**|**Agile Deliberation: Concept Deliberation for Subjective Visual Classification**|Leijie Wang et.al.|[2512.10821](http://arxiv.org/abs/2512.10821)|null|
 |**2025-12-11**|**Developing and Evaluating a Large Language Model-Based Automated Feedback System Grounded in Evidence-Centered Design for Supporting Physics Problem Solving**|Holger Maus et.al.|[2512.10785](http://arxiv.org/abs/2512.10785)|null|
