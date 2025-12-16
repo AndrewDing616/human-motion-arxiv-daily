@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-15**|**3D Human-Human Interaction Anomaly Detection**|Shun Maeda et.al.|[2512.13560](http://arxiv.org/abs/2512.13560)|null|
 |**2025-12-14**|**HMPCC: Human-Aware Model Predictive Coverage Control**|Mattia Catellani et.al.|[2512.12717](http://arxiv.org/abs/2512.12717)|null|
 |**2025-12-14**|**Robust Motion Generation using Part-level Reliable Data from Videos**|Boyuan Li et.al.|[2512.12703](http://arxiv.org/abs/2512.12703)|null|
 |**2025-12-14**|**InteracTalker: Prompt-Based Human-Object Interaction with Co-Speech Gesture Generation**|Sreehari Rajan et.al.|[2512.12664](http://arxiv.org/abs/2512.12664)|null|
@@ -596,6 +597,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-15**|**Towards Interactive Intelligence for Digital Humans**|Yiyi Cai et.al.|[2512.13674](http://arxiv.org/abs/2512.13674)|null|
+|**2025-12-15**|**3D Human-Human Interaction Anomaly Detection**|Shun Maeda et.al.|[2512.13560](http://arxiv.org/abs/2512.13560)|null|
+|**2025-12-15**|**Platforms as Crime Scene, Judge, and Jury: How Victim-Survivors of Non-Consensual Intimate Imagery Report Abuse Online**|Li Qiwei et.al.|[2512.13500](http://arxiv.org/abs/2512.13500)|null|
+|**2025-12-15**|**Fostering human learning is crucial for boosting human-AI synergy**|Julian Berger et.al.|[2512.13253](http://arxiv.org/abs/2512.13253)|null|
+|**2025-12-15**|**Know Your Users! Estimating User Domain Knowledge in Conversational Recommenders**|Ivica Kostric et.al.|[2512.13173](http://arxiv.org/abs/2512.13173)|null|
+|**2025-12-15**|**Can AI Understand What We Cannot Say? Measuring Multilevel Alignment Through Abortion Stigma Across Cognitive, Interpersonal, and Structural Levels**|Anika Sharma et.al.|[2512.13142](http://arxiv.org/abs/2512.13142)|null|
+|**2025-12-15**|**Legitimizing, Developing, and Sustaining Feminist HCI in East Asia: Challenges and Opportunities**|Runhua Zhang et.al.|[2512.13000](http://arxiv.org/abs/2512.13000)|null|
+|**2025-12-15**|**Tangible Intangibles: Exploring Embodied Emotion in Mixed Reality for Art Therapy**|Mahsa Nasri et.al.|[2512.12891](http://arxiv.org/abs/2512.12891)|null|
+|**2025-12-14**|**Decoding Human and AI Persuasion in National College Debate: Analyzing Prepared Arguments Through Aristotle's Rhetorical Principles**|Mengqian Wu et.al.|[2512.12817](http://arxiv.org/abs/2512.12817)|null|
 |**2025-12-14**|**Designing The Drive: Enhancing User Experience through Adaptive Interfaces in Autonomous Vehicles**|Reeteesha Roy et.al.|[2512.12773](http://arxiv.org/abs/2512.12773)|null|
 |**2025-12-14**|**ORIBA: Exploring LLM-Driven Role-Play Chatbot as a Creativity Support Tool for Original Character Artists**|Yuqian Sun et.al.|[2512.12630](http://arxiv.org/abs/2512.12630)|null|
 |**2025-12-14**|**Can You Keep a Secret? Exploring AI for Care Coordination in Cognitive Decline**|Alicia et.al.|[2512.12510](http://arxiv.org/abs/2512.12510)|null|
