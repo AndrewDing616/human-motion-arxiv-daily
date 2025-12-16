@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2025.12.15
+### Automatically Updated on 2025.12.16
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-14**|**HMPCC: Human-Aware Model Predictive Coverage Control**|Mattia Catellani et.al.|[2512.12717](http://arxiv.org/abs/2512.12717)|null|
+|**2025-12-14**|**Robust Motion Generation using Part-level Reliable Data from Videos**|Boyuan Li et.al.|[2512.12703](http://arxiv.org/abs/2512.12703)|null|
+|**2025-12-14**|**InteracTalker: Prompt-Based Human-Object Interaction with Co-Speech Gesture Generation**|Sreehari Rajan et.al.|[2512.12664](http://arxiv.org/abs/2512.12664)|null|
+|**2025-12-13**|**Lift reversal from vortex-surface phase coupling in a heaving foil near a free surface**|Qimin Feng et.al.|[2512.12485](http://arxiv.org/abs/2512.12485)|null|
 |**2025-12-12**|**Reframing Music-Driven 2D Dance Pose Generation as Multi-Channel Image Generation**|Yan Zhang et.al.|[2512.11720](http://arxiv.org/abs/2512.11720)|null|
 |**2025-12-12**|**Kinetic Mining in Context: Few-Shot Action Synthesis via Text-to-Motion Distillation**|Luca Cazzola et.al.|[2512.11654](http://arxiv.org/abs/2512.11654)|null|
 |**2025-12-12**|**KeyframeFace: From Text to Expressive Facial Keyframes**|Jingchao Wu et.al.|[2512.11321](http://arxiv.org/abs/2512.11321)|null|
@@ -251,7 +255,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20251215>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251216>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -383,12 +387,14 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20251215>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251216>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-14**|**InteracTalker: Prompt-Based Human-Object Interaction with Co-Speech Gesture Generation**|Sreehari Rajan et.al.|[2512.12664](http://arxiv.org/abs/2512.12664)|null|
+|**2025-12-12**|**CARI4D: Category Agnostic 4D Reconstruction of Human-Object Interaction**|Xianghui Xie et.al.|[2512.11988](http://arxiv.org/abs/2512.11988)|null|
 |**2025-12-10**|**VHOI: Controllable Video Generation of Human-Object Interactions from Sparse Trajectories via Motion Densification**|Wanyue Zhang et.al.|[2512.09646](http://arxiv.org/abs/2512.09646)|null|
 |**2025-12-10**|**H2R-Grounder: A Paired-Data-Free Paradigm for Translating Human Interaction Videos into Physically Grounded Robot Videos**|Hai Ci et.al.|[2512.09406](http://arxiv.org/abs/2512.09406)|null|
 |**2025-12-09**|**Learning to Control Physically-simulated 3D Characters via Generating and Mimicking 2D Motions**|Jianan Li et.al.|[2512.08500](http://arxiv.org/abs/2512.08500)|null|
@@ -584,12 +590,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20251215>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251216>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-14**|**Designing The Drive: Enhancing User Experience through Adaptive Interfaces in Autonomous Vehicles**|Reeteesha Roy et.al.|[2512.12773](http://arxiv.org/abs/2512.12773)|null|
+|**2025-12-14**|**ORIBA: Exploring LLM-Driven Role-Play Chatbot as a Creativity Support Tool for Original Character Artists**|Yuqian Sun et.al.|[2512.12630](http://arxiv.org/abs/2512.12630)|null|
+|**2025-12-14**|**Can You Keep a Secret? Exploring AI for Care Coordination in Cognitive Decline**|Alicia et.al.|[2512.12510](http://arxiv.org/abs/2512.12510)|null|
+|**2025-12-14**|**Explainable AI as a Double-Edged Sword in Dermatology: The Impact on Clinicians versus The Public**|Xuhai Xu et.al.|[2512.12500](http://arxiv.org/abs/2512.12500)|null|
+|**2025-12-13**|**Understanding Critical Thinking in Generative Artificial Intelligence Use: Development, Validation, and Correlates of the Critical Thinking in AI Use Scale**|Gabriel R. Lau et.al.|[2512.12413](http://arxiv.org/abs/2512.12413)|null|
+|**2025-12-13**|**Tacit Understanding Game (TUG): Predicting Interpersonal Compatibility**|Yueshen Li et.al.|[2512.12356](http://arxiv.org/abs/2512.12356)|null|
+|**2025-12-13**|**Understanding Trust Toward Human versus AI-generated Health Information through Behavioral and Physiological Sensing**|Xin Sun et.al.|[2512.12348](http://arxiv.org/abs/2512.12348)|null|
+|**2025-12-13**|**Large Language Models have Chain-of-Affective**|Junjie Xu et.al.|[2512.12283](http://arxiv.org/abs/2512.12283)|null|
+|**2025-12-13**|**System X: A Mobile Voice-Based AI System for EMR Generation and Clinical Decision Support in Low-Resource Maternal Healthcare**|Maryam Mustafa et.al.|[2512.12240](http://arxiv.org/abs/2512.12240)|null|
+|**2025-12-13**|**Not All Transparency Is Equal: Source Presentation Effects on Attention, Interaction, and Persuasion in Conversational Search**|Jiangen He et.al.|[2512.12207](http://arxiv.org/abs/2512.12207)|null|
 |**2025-12-12**|**Toward a Decision Support System for Energy-Efficient Ferry Operation on Lake Constance based on Optimal Control**|Hannes Homburger et.al.|[2512.11786](http://arxiv.org/abs/2512.11786)|null|
 |**2025-12-12**|**The Influence of Human-like Appearance on Expected Robot Explanations**|Hana Kopecka et.al.|[2512.11746](http://arxiv.org/abs/2512.11746)|null|
 |**2025-12-12**|**From Signal to Turn: Interactional Friction in Modular Speech-to-Speech Pipelines**|Titaya Mairittha et.al.|[2512.11724](http://arxiv.org/abs/2512.11724)|null|
@@ -827,7 +843,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20251215>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251216>back to top</a>)</p>
 
 Notes: 
 
