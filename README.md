@@ -14,6 +14,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-16**|**CRISP: Contact-Guided Real2Sim from Monocular Video with Planar Scene Primitives**|Zihan Wang et.al.|[2512.14696](http://arxiv.org/abs/2512.14696)|null|
+|**2025-12-16**|**ViBES: A Conversational Agent with Behaviorally-Intelligent 3D Virtual Body**|Juze Zhang et.al.|[2512.14234](http://arxiv.org/abs/2512.14234)|null|
+|**2025-12-16**|**Transfer Learning-Based Surrogate Modeling for Nonlinear Time-History Response Analysis of High-Fidelity Structural Models**|Keiichi Ishikawa et.al.|[2512.14161](http://arxiv.org/abs/2512.14161)|null|
+|**2025-12-16**|**AnchorHOI: Zero-shot Generation of 4D Human-Object Interaction via Anchor-based Prior Distillation**|Sisi Dai et.al.|[2512.14095](http://arxiv.org/abs/2512.14095)|null|
+|**2025-12-15**|**PrediFlow: A Flow-Based Prediction-Refinement Framework for Real-Time Human Motion Prediction in Human-Robot Collaboration**|Sibo Tian et.al.|[2512.13903](http://arxiv.org/abs/2512.13903)|null|
+|**2025-12-15**|**MoLingo: Motion-Language Alignment for Text-to-Motion Generation**|Yannan He et.al.|[2512.13840](http://arxiv.org/abs/2512.13840)|null|
 |**2025-12-15**|**3D Human-Human Interaction Anomaly Detection**|Shun Maeda et.al.|[2512.13560](http://arxiv.org/abs/2512.13560)|null|
 |**2025-12-14**|**HMPCC: Human-Aware Model Predictive Coverage Control**|Mattia Catellani et.al.|[2512.12717](http://arxiv.org/abs/2512.12717)|null|
 |**2025-12-14**|**Robust Motion Generation using Part-level Reliable Data from Videos**|Boyuan Li et.al.|[2512.12703](http://arxiv.org/abs/2512.12703)|null|
@@ -262,6 +268,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-16**|**CRISP: Contact-Guided Real2Sim from Monocular Video with Planar Scene Primitives**|Zihan Wang et.al.|[2512.14696](http://arxiv.org/abs/2512.14696)|null|
 |**2025-12-09**|**HuPrior3R: Incorporating Human Priors for Better 3D Dynamic Reconstruction from Monocular Videos**|Weitao Xiong et.al.|[2512.06368](http://arxiv.org/abs/2512.06368)|null|
 |**2025-12-05**|**2K-Characters-10K-Stories: A Quality-Gated Stylized Narrative Dataset with Disentangled Control and Sequence Consistency**|Xingxi Yin et.al.|[2512.05557](http://arxiv.org/abs/2512.05557)|null|
 |**2025-12-05**|**Ideal Observer for Segmentation of Dead Leaves Images**|Swantje Mahncke et.al.|[2512.05539](http://arxiv.org/abs/2512.05539)|null|
@@ -394,6 +401,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-16**|**AnchorHOI: Zero-shot Generation of 4D Human-Object Interaction via Anchor-based Prior Distillation**|Sisi Dai et.al.|[2512.14095](http://arxiv.org/abs/2512.14095)|null|
 |**2025-12-14**|**InteracTalker: Prompt-Based Human-Object Interaction with Co-Speech Gesture Generation**|Sreehari Rajan et.al.|[2512.12664](http://arxiv.org/abs/2512.12664)|null|
 |**2025-12-12**|**CARI4D: Category Agnostic 4D Reconstruction of Human-Object Interaction**|Xianghui Xie et.al.|[2512.11988](http://arxiv.org/abs/2512.11988)|null|
 |**2025-12-10**|**VHOI: Controllable Video Generation of Human-Object Interactions from Sparse Trajectories via Motion Densification**|Wanyue Zhang et.al.|[2512.09646](http://arxiv.org/abs/2512.09646)|null|
@@ -597,6 +605,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-16**|**Creating Opportunities: Co-designing an mHealth App with Older Adults**|Abhinav Choudhry et.al.|[2512.14641](http://arxiv.org/abs/2512.14641)|null|
+|**2025-12-16**|**MoT: A Model-Driven Low-Code Approach for Simplifying Cloud-of-Things Application Development**|Cristiano Welter et.al.|[2512.14613](http://arxiv.org/abs/2512.14613)|null|
+|**2025-12-16**|**Not all Chess960 positions are equally complex**|Marc Barthelemy et.al.|[2512.14319](http://arxiv.org/abs/2512.14319)|null|
+|**2025-12-16**|**The Trust in AI-Generated Health Advice (TAIGHA) Scale and Short Version (TAIGHA-S): Development and Validation Study**|Marvin Kopka et.al.|[2512.14278](http://arxiv.org/abs/2512.14278)|null|
+|**2025-12-16**|**Towards Explainable Quantum AI: Informing the Encoder Selection of Quantum Neural Networks via Visualization**|Shaolun Ruan et.al.|[2512.14181](http://arxiv.org/abs/2512.14181)|null|
+|**2025-12-16**|**LAPPI: Interactive Optimization with LLM-Assisted Preference-Based Problem Instantiation**|So Kuroki et.al.|[2512.14138](http://arxiv.org/abs/2512.14138)|null|
+|**2025-12-16**|**Multilingual and Continuous Backchannel Prediction: A Cross-lingual Study**|Koji Inoue et.al.|[2512.14085](http://arxiv.org/abs/2512.14085)|null|
+|**2025-12-16**|**Professional Software Developers Don't Vibe, They Control: AI Agent Use for Coding in 2025**|Ruanqianqian Huang et.al.|[2512.14012](http://arxiv.org/abs/2512.14012)|null|
+|**2025-12-15**|**Context Branching for LLM Conversations: A Version Control Approach to Exploratory Programming**|Bhargav Chickmagalur Nanjundappa et.al.|[2512.13914](http://arxiv.org/abs/2512.13914)|null|
+|**2025-12-15**|**A Fair, Flexible, Zero-Waste Digital Electricity Market: A First-Principles Approach Combining Automatic Market Making, Holarchic Architectures and Shapley Theory**|Shaun Sweeney et.al.|[2512.13871](http://arxiv.org/abs/2512.13871)|null|
 |**2025-12-15**|**Towards Interactive Intelligence for Digital Humans**|Yiyi Cai et.al.|[2512.13674](http://arxiv.org/abs/2512.13674)|null|
 |**2025-12-15**|**3D Human-Human Interaction Anomaly Detection**|Shun Maeda et.al.|[2512.13560](http://arxiv.org/abs/2512.13560)|null|
 |**2025-12-15**|**Platforms as Crime Scene, Judge, and Jury: How Victim-Survivors of Non-Consensual Intimate Imagery Report Abuse Online**|Li Qiwei et.al.|[2512.13500](http://arxiv.org/abs/2512.13500)|null|
