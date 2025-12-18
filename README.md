@@ -605,6 +605,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-17**|**One Size Doesn't Fit All: Age-Aware Gamification Mechanics for Multimedia Learning Environments**|Sarah Kaißer et.al.|[2512.15630](http://arxiv.org/abs/2512.15630)|null|
+|**2025-12-17**|**A Constructive Scientific Methodology to Improve Climate Figures from IPCC**|Lu Ying et.al.|[2512.15514](http://arxiv.org/abs/2512.15514)|null|
+|**2025-12-17**|**GazeBlend: Exploring Paired Gaze-Based Input Techniques for Navigation and Selection Tasks on Mobile Devices**|Omar Namnakani et.al.|[2512.15491](http://arxiv.org/abs/2512.15491)|null|
+|**2025-12-17**|**Intent-Driven UAM Rescheduling**|Jeongseok Kim et.al.|[2512.15462](http://arxiv.org/abs/2512.15462)|null|
+|**2025-12-17**|**Exploring User Acceptance and Concerns toward LLM-powered Conversational Agents in Immersive Extended Reality**|Efe Bozkir et.al.|[2512.15343](http://arxiv.org/abs/2512.15343)|null|
+|**2025-12-17**|**Managing Ambiguity: A Proof of Concept of Human-AI Symbiotic Sense-making based on Quantum-Inspired Cognitive Mechanism of Rogue Variable Detection**|Agnieszka Bienkowska et.al.|[2512.15325](http://arxiv.org/abs/2512.15325)|null|
+|**2025-12-17**|**A Network-Based Framework for Modeling and Analyzing Human-Robot Coordination Strategies**|Martijn IJtsma et.al.|[2512.15282](http://arxiv.org/abs/2512.15282)|null|
+|**2025-12-17**|**Development of Immersive Virtual and Augmented Reality-Based Joint Attention Training Platform for Children with Autism**|Ashirbad Samantaray et.al.|[2512.15263](http://arxiv.org/abs/2512.15263)|null|
+|**2025-12-17**|**Lessons Learnt from Expert-Centred Studies Exploring Opportunities and Challenges for Immersive Forensic Investigation**|Vahid Pooryousef et.al.|[2512.15220](http://arxiv.org/abs/2512.15220)|null|
+|**2025-12-17**|**I am here for you": How relational conversational AI appeals to adolescents, especially those who are socially and emotionally vulnerable**|Pilyoung Kim et.al.|[2512.15117](http://arxiv.org/abs/2512.15117)|null|
 |**2025-12-16**|**Creating Opportunities: Co-designing an mHealth App with Older Adults**|Abhinav Choudhry et.al.|[2512.14641](http://arxiv.org/abs/2512.14641)|null|
 |**2025-12-16**|**MoT: A Model-Driven Low-Code Approach for Simplifying Cloud-of-Things Application Development**|Cristiano Welter et.al.|[2512.14613](http://arxiv.org/abs/2512.14613)|null|
 |**2025-12-16**|**Not all Chess960 positions are equally complex**|Marc Barthelemy et.al.|[2512.14319](http://arxiv.org/abs/2512.14319)|null|
