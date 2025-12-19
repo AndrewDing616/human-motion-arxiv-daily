@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2025.12.18
+### Automatically Updated on 2025.12.19
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-18**|**KineST: A Kinematics-guided Spatiotemporal State Space Model for Human Motion Tracking from Sparse Signals**|Shuting Zhao et.al.|[2512.16791](http://arxiv.org/abs/2512.16791)|null|
+|**2025-12-18**|**Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future**|Tianshuai Hu et.al.|[2512.16760](http://arxiv.org/abs/2512.16760)|null|
+|**2025-12-18**|**Prime and Reach: Synthesising Body Motion for Gaze-Primed Object Reach**|Masashi Hatano et.al.|[2512.16456](http://arxiv.org/abs/2512.16456)|null|
+|**2025-12-18**|**Avatar4D: Synthesizing Domain-Specific 4D Humans for Real-World Pose Estimation**|Jerrin Bright et.al.|[2512.16199](http://arxiv.org/abs/2512.16199)|null|
+|**2025-12-17**|**Few-Shot Inference of Human Perceptions of Robot Performance in Social Navigation Scenarios**|Qiping Zhang et.al.|[2512.16019](http://arxiv.org/abs/2512.16019)|null|
 |**2025-12-16**|**CRISP: Contact-Guided Real2Sim from Monocular Video with Planar Scene Primitives**|Zihan Wang et.al.|[2512.14696](http://arxiv.org/abs/2512.14696)|null|
 |**2025-12-16**|**ViBES: A Conversational Agent with Behaviorally-Intelligent 3D Virtual Body**|Juze Zhang et.al.|[2512.14234](http://arxiv.org/abs/2512.14234)|null|
 |**2025-12-16**|**Transfer Learning-Based Surrogate Modeling for Nonlinear Time-History Response Analysis of High-Fidelity Structural Models**|Keiichi Ishikawa et.al.|[2512.14161](http://arxiv.org/abs/2512.14161)|null|
@@ -262,12 +267,13 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20251218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251219>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-17**|**Seeing is Believing (and Predicting): Context-Aware Multi-Human Behavior Prediction with Vision Language Models**|Utsav Panchal et.al.|[2512.15957](http://arxiv.org/abs/2512.15957)|null|
 |**2025-12-16**|**CRISP: Contact-Guided Real2Sim from Monocular Video with Planar Scene Primitives**|Zihan Wang et.al.|[2512.14696](http://arxiv.org/abs/2512.14696)|null|
 |**2025-12-09**|**HuPrior3R: Incorporating Human Priors for Better 3D Dynamic Reconstruction from Monocular Videos**|Weitao Xiong et.al.|[2512.06368](http://arxiv.org/abs/2512.06368)|null|
 |**2025-12-05**|**2K-Characters-10K-Stories: A Quality-Gated Stylized Narrative Dataset with Disentangled Control and Sequence Consistency**|Xingxi Yin et.al.|[2512.05557](http://arxiv.org/abs/2512.05557)|null|
@@ -395,7 +401,7 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20251218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251219>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
@@ -599,12 +605,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20251218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251219>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-18**|**Plausibility as Failure: How LLMs and Humans Co-Construct Epistemic Error**|Claudia Vale Oliveira et.al.|[2512.16750](http://arxiv.org/abs/2512.16750)|null|
+|**2025-12-18**|**OMG-Bench: A New Challenging Benchmark for Skeleton-based Online Micro Hand Gesture Recognition**|Haochen Chang et.al.|[2512.16727](http://arxiv.org/abs/2512.16727)|null|
+|**2025-12-18**|**ParamExplorer: A framework for exploring parameters in generative art**|Julien Gachadoat et.al.|[2512.16529](http://arxiv.org/abs/2512.16529)|null|
+|**2025-12-18**|**Poster: Recognizing Hidden-in-the-Ear Private Key for Reliable Silent Speech Interface Using Multi-Task Learning**|Xuefu Dong et.al.|[2512.16518](http://arxiv.org/abs/2512.16518)|null|
+|**2025-12-18**|**Investigating the Effect of Encumbrance on Gaze- and Touch-based Target Acquisition on Handheld Mobile Devices**|Omar Namnakani et.al.|[2512.16472](http://arxiv.org/abs/2512.16472)|null|
+|**2025-12-18**|**Preparing Future-Ready Learners: K12 Skills Shift and GenAI EdTech Innovation Direction**|Xin Miao et.al.|[2512.16428](http://arxiv.org/abs/2512.16428)|null|
+|**2025-12-18**|**Mind the Gaze: Improving the Usability of Dwell Input by Adapting Gaze Targets Based on Viewing Distance**|Omar Namnakani et.al.|[2512.16366](http://arxiv.org/abs/2512.16366)|null|
+|**2025-12-18**|**Ein Typenrad auf der Überholspur: Die Kult-Schreibmaschine "Erika" trifft KI**|Karola Köpferl et.al.|[2512.16293](http://arxiv.org/abs/2512.16293)|null|
+|**2025-12-18**|**Machines, AI and the past//future of things**|Karola Köpferl et.al.|[2512.16285](http://arxiv.org/abs/2512.16285)|null|
+|**2025-12-18**|**The Agony of Opacity: Foundations for Reflective Interpretability in AI-Mediated Mental Health Support**|Sachin R. Pendse et.al.|[2512.16206](http://arxiv.org/abs/2512.16206)|null|
 |**2025-12-17**|**One Size Doesn't Fit All: Age-Aware Gamification Mechanics for Multimedia Learning Environments**|Sarah Kaißer et.al.|[2512.15630](http://arxiv.org/abs/2512.15630)|null|
 |**2025-12-17**|**A Constructive Scientific Methodology to Improve Climate Figures from IPCC**|Lu Ying et.al.|[2512.15514](http://arxiv.org/abs/2512.15514)|null|
 |**2025-12-17**|**GazeBlend: Exploring Paired Gaze-Based Input Techniques for Navigation and Selection Tasks on Mobile Devices**|Omar Namnakani et.al.|[2512.15491](http://arxiv.org/abs/2512.15491)|null|
@@ -881,7 +897,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20251218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251219>back to top</a>)</p>
 
 Notes: 
 
