@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2025.12.21
+### Automatically Updated on 2025.12.22
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-19**|**Diffusion Forcing for Multi-Agent Interaction Sequence Modeling**|Vongani H. Maluleke et.al.|[2512.17900](http://arxiv.org/abs/2512.17900)|null|
+|**2025-12-19**|**Learning-Based Safety-Aware Task Scheduling for Efficient Human-Robot Collaboration**|M. Faroni et.al.|[2512.17560](http://arxiv.org/abs/2512.17560)|null|
+|**2025-12-19**|**VAIR: Visual Analytics for Injury Risk Exploration in Sports**|Chunggi Lee et.al.|[2512.17446](http://arxiv.org/abs/2512.17446)|null|
+|**2025-12-19**|**Semantic Co-Speech Gesture Synthesis and Real-Time Control for Humanoid Robots**|Gang Zhang et.al.|[2512.17183](http://arxiv.org/abs/2512.17183)|null|
 |**2025-12-18**|**Flowing from Reasoning to Motion: Learning 3D Hand Trajectory Prediction from Egocentric Human Interaction Videos**|Mingfei Chen et.al.|[2512.16907](http://arxiv.org/abs/2512.16907)|null|
 |**2025-12-18**|**KineST: A Kinematics-guided Spatiotemporal State Space Model for Human Motion Tracking from Sparse Signals**|Shuting Zhao et.al.|[2512.16791](http://arxiv.org/abs/2512.16791)|null|
 |**2025-12-18**|**Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future**|Tianshuai Hu et.al.|[2512.16760](http://arxiv.org/abs/2512.16760)|null|
@@ -1217,6 +1221,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-19**|**Dexterous World Models**|Byungjun Kim et.al.|[2512.17907](http://arxiv.org/abs/2512.17907)|null|
 |**2025-12-17**|**Seeing is Believing (and Predicting): Context-Aware Multi-Human Behavior Prediction with Vision Language Models**|Utsav Panchal et.al.|[2512.15957](http://arxiv.org/abs/2512.15957)|null|
 |**2025-12-16**|**CRISP: Contact-Guided Real2Sim from Monocular Video with Planar Scene Primitives**|Zihan Wang et.al.|[2512.14696](http://arxiv.org/abs/2512.14696)|null|
 |**2025-12-09**|**HuPrior3R: Incorporating Human Priors for Better 3D Dynamic Reconstruction from Monocular Videos**|Weitao Xiong et.al.|[2512.06368](http://arxiv.org/abs/2512.06368)|null|
@@ -1349,6 +1354,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-19**|**Generative Human-Object Interaction Detection via Differentiable Cognitive Steering of Multi-modal LLMs**|Zhaolin Cai et.al.|[2512.17640](http://arxiv.org/abs/2512.17640)|null|
 |**2025-12-16**|**AnchorHOI: Zero-shot Generation of 4D Human-Object Interaction via Anchor-based Prior Distillation**|Sisi Dai et.al.|[2512.14095](http://arxiv.org/abs/2512.14095)|null|
 |**2025-12-14**|**InteracTalker: Prompt-Based Human-Object Interaction with Co-Speech Gesture Generation**|Sreehari Rajan et.al.|[2512.12664](http://arxiv.org/abs/2512.12664)|null|
 |**2025-12-12**|**CARI4D: Category Agnostic 4D Reconstruction of Human-Object Interaction**|Xianghui Xie et.al.|[2512.11988](http://arxiv.org/abs/2512.11988)|null|
@@ -1551,6 +1557,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-19**|**XAgen: An Explainability Tool for Identifying and Correcting Failures in Multi-Agent Workflows**|Xinru Wang et.al.|[2512.17896](http://arxiv.org/abs/2512.17896)|null|
+|**2025-12-19**|**Map2Video: Street View Imagery Driven AI Video Generation**|Hye-Young Jo et.al.|[2512.17883](http://arxiv.org/abs/2512.17883)|null|
+|**2025-12-19**|**Your Eyes Controlled the Game: Real-Time Cognitive Training Adaptation based on Eye-Tracking and Physiological Data in Virtual Reality**|Dominik Szczepaniak et.al.|[2512.17882](http://arxiv.org/abs/2512.17882)|null|
+|**2025-12-19**|**Integrating Computational Methods and AI into Qualitative Studies of Aging and Later Life**|Corey M. Abramson et.al.|[2512.17850](http://arxiv.org/abs/2512.17850)|null|
+|**2025-12-19**|**ShareChat: A Dataset of Chatbot Conversations in the Wild**|Yueru Yan et.al.|[2512.17843](http://arxiv.org/abs/2512.17843)|null|
+|**2025-12-19**|**Playful but Persuasive: Deceptive Designs and Advertising Strategies in Popular Mobile Apps for Children**|Hannah Krahl et.al.|[2512.17819](http://arxiv.org/abs/2512.17819)|null|
+|**2025-12-19**|**Learning Spatio-Temporal Feature Representations for Video-Based Gaze Estimation**|Alexandre Personnic et.al.|[2512.17673](http://arxiv.org/abs/2512.17673)|null|
+|**2025-12-19**|**Digital Bricolage: Design Speculations for Embodied Approaches to Digitized Print-based Cultural Collections**|Malak Sadek et.al.|[2512.17590](http://arxiv.org/abs/2512.17590)|null|
+|**2025-12-19**|**VAIR: Visual Analytics for Injury Risk Exploration in Sports**|Chunggi Lee et.al.|[2512.17446](http://arxiv.org/abs/2512.17446)|null|
+|**2025-12-19**|**Psychological Factors Influencing University Students Trust in AI-Based Learning Assistants**|Ezgi Dağtekin et.al.|[2512.17390](http://arxiv.org/abs/2512.17390)|null|
 |**2025-12-18**|**PrivateXR: Defending Privacy Attacks in Extended Reality Through Explainable AI-Guided Differential Privacy**|Ripan Kumar Kundu et.al.|[2512.16851](http://arxiv.org/abs/2512.16851)|null|
 |**2025-12-18**|**Plausibility as Failure: How LLMs and Humans Co-Construct Epistemic Error**|Claudia Vale Oliveira et.al.|[2512.16750](http://arxiv.org/abs/2512.16750)|null|
 |**2025-12-18**|**OMG-Bench: A New Challenging Benchmark for Skeleton-based Online Micro Hand Gesture Recognition**|Haochen Chang et.al.|[2512.16727](http://arxiv.org/abs/2512.16727)|null|
