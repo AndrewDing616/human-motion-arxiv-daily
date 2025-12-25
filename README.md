@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2025.12.24
+### Automatically Updated on 2025.12.25
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,7 +14,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-12-23**|**Emergent temporal abstractions in autoregressive models enable hierarchical reinforcement learning**|Seijin Kobayashi et.al.|[2512.20605](http://arxiv.org/abs/2512.20605)|null|
+|**2025-12-24**|**SegMo: Segment-aligned Text to 3D Human Motion Generation**|Bowen Dang et.al.|[2512.21237](http://arxiv.org/abs/2512.21237)|null|
+|**2025-12-24**|**Human Motion Estimation with Everyday Wearables**|Siqi Zhu et.al.|[2512.21209](http://arxiv.org/abs/2512.21209)|null|
+|**2025-12-24**|**Towards Arbitrary Motion Completing via Hierarchical Continuous Representation**|Chenghao Xu et.al.|[2512.21183](http://arxiv.org/abs/2512.21183)|null|
+|**2025-12-24**|**SparScene: Efficient Traffic Scene Representation via Sparse Graph Learning for Large-Scale Trajectory Generation**|Xiaoyu Mo et.al.|[2512.21133](http://arxiv.org/abs/2512.21133)|null|
+|**2025-12-24**|**Emergent temporal abstractions in autoregressive models enable hierarchical reinforcement learning**|Seijin Kobayashi et.al.|[2512.20605](http://arxiv.org/abs/2512.20605)|null|
+|**2025-12-23**|**YCB-Handovers Dataset: Analyzing Object Weight Impact on Human Handovers to Adapt Robotic Handover Motion**|Parag Khanna et.al.|[2512.20847](http://arxiv.org/abs/2512.20847)|null|
 |**2025-12-23**|**Squeezed States in Gravity**|Arunima Das et.al.|[2512.20601](http://arxiv.org/abs/2512.20601)|null|
 |**2025-12-23**|**Beyond Motion Pattern: An Empirical Study of Physical Forces for Human Motion Understanding**|Anh Dao et.al.|[2512.20451](http://arxiv.org/abs/2512.20451)|null|
 |**2025-12-23**|**Effective dynamics of Janis-Newman-Winicour spacetime**|Faqiang Yuan et.al.|[2512.20440](http://arxiv.org/abs/2512.20440)|null|
@@ -288,7 +293,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20251224>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251225>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -423,7 +428,7 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20251224>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251225>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
@@ -629,12 +634,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20251224>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251225>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-24**|**Scaling Laws for Economic Productivity: Experimental Evidence in LLM-Assisted Consulting, Data Analyst, and Management Tasks**|Ali Merali et.al.|[2512.21316](http://arxiv.org/abs/2512.21316)|null|
+|**2025-12-24**|**Quadrupped-Legged Robot Movement Plan Generation using Large Language Model**|Muhtadin et.al.|[2512.21293](http://arxiv.org/abs/2512.21293)|null|
+|**2025-12-24**|**Learning Factors in AI-Augmented Education: A Comparative Study of Middle and High School Students**|Gaia Ebli et.al.|[2512.21246](http://arxiv.org/abs/2512.21246)|null|
+|**2025-12-24**|**Volatile Organic Compounds for Stress Detection: A Scoping Review and Exploratory Feasibility Study with Low-Cost Sensors**|Nicolai Plintz et.al.|[2512.21105](http://arxiv.org/abs/2512.21105)|null|
+|**2025-12-24**|**Agentic Explainable Artificial Intelligence (Agentic XAI) Approach To Explore Better Explanation**|Tomoaki Yamaguchi et.al.|[2512.21066](http://arxiv.org/abs/2512.21066)|null|
+|**2025-12-24**|**Making AI Work: An Autoethnography of a Workaround in Higher Education**|Shang Chieh Lee et.al.|[2512.21055](http://arxiv.org/abs/2512.21055)|null|
+|**2025-12-24**|**DexAvatar: 3D Sign Language Reconstruction with Hand and Body Pose Priors**|Kaustubh Kundu et.al.|[2512.21054](http://arxiv.org/abs/2512.21054)|null|
+|**2025-12-24**|**When LLMs fall short in Deductive Coding: Model Comparison and Human AI Collaboration Workflow Design**|Zijian Li et.al.|[2512.21041](http://arxiv.org/abs/2512.21041)|null|
+|**2025-12-24**|**A Design Study Process Model for Medical Visualization**|Mengjie Fan et.al.|[2512.21034](http://arxiv.org/abs/2512.21034)|null|
+|**2025-12-24**|**From Human Bias to Robot Choice: How Occupational Contexts and Racial Priming Shape Robot Selection**|Jiangen He et.al.|[2512.20951](http://arxiv.org/abs/2512.20951)|null|
 |**2025-12-23**|**Automated stereotactic radiosurgery planning using a human-in-the-loop reasoning large language model agent**|Humza Nusrat et.al.|[2512.20586](http://arxiv.org/abs/2512.20586)|null|
 |**2025-12-23**|**A human-centered approach to reframing job satisfaction in the BIM-enabled construction industry**|Sharareh Mirzaei et.al.|[2512.20584](http://arxiv.org/abs/2512.20584)|null|
 |**2025-12-23**|**Structured Visualization Design Knowledge for Grounding Generative Reasoning and Situated Feedback**|Péter Ferenc Gyarmati et.al.|[2512.20306](http://arxiv.org/abs/2512.20306)|null|
@@ -952,7 +967,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20251224>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251225>back to top</a>)</p>
 
 Notes: 
 

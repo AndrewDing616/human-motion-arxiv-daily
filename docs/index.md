@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2025.12.24
+### Automatically Updated on 2025.12.25
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,7 +959,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-12-23**|**Emergent temporal abstractions in autoregressive models enable hierarchical reinforcement learning**|Seijin Kobayashi et.al.|[2512.20605](http://arxiv.org/abs/2512.20605)|null|
+|**2025-12-24**|**SegMo: Segment-aligned Text to 3D Human Motion Generation**|Bowen Dang et.al.|[2512.21237](http://arxiv.org/abs/2512.21237)|null|
+|**2025-12-24**|**Human Motion Estimation with Everyday Wearables**|Siqi Zhu et.al.|[2512.21209](http://arxiv.org/abs/2512.21209)|null|
+|**2025-12-24**|**Towards Arbitrary Motion Completing via Hierarchical Continuous Representation**|Chenghao Xu et.al.|[2512.21183](http://arxiv.org/abs/2512.21183)|null|
+|**2025-12-24**|**SparScene: Efficient Traffic Scene Representation via Sparse Graph Learning for Large-Scale Trajectory Generation**|Xiaoyu Mo et.al.|[2512.21133](http://arxiv.org/abs/2512.21133)|null|
+|**2025-12-24**|**Emergent temporal abstractions in autoregressive models enable hierarchical reinforcement learning**|Seijin Kobayashi et.al.|[2512.20605](http://arxiv.org/abs/2512.20605)|null|
+|**2025-12-23**|**YCB-Handovers Dataset: Analyzing Object Weight Impact on Human Handovers to Adapt Robotic Handover Motion**|Parag Khanna et.al.|[2512.20847](http://arxiv.org/abs/2512.20847)|null|
 |**2025-12-23**|**Squeezed States in Gravity**|Arunima Das et.al.|[2512.20601](http://arxiv.org/abs/2512.20601)|null|
 |**2025-12-23**|**Beyond Motion Pattern: An Empirical Study of Physical Forces for Human Motion Understanding**|Anh Dao et.al.|[2512.20451](http://arxiv.org/abs/2512.20451)|null|
 |**2025-12-23**|**Effective dynamics of Janis-Newman-Winicour spacetime**|Faqiang Yuan et.al.|[2512.20440](http://arxiv.org/abs/2512.20440)|null|
@@ -1574,6 +1579,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-24**|**Scaling Laws for Economic Productivity: Experimental Evidence in LLM-Assisted Consulting, Data Analyst, and Management Tasks**|Ali Merali et.al.|[2512.21316](http://arxiv.org/abs/2512.21316)|null|
+|**2025-12-24**|**Quadrupped-Legged Robot Movement Plan Generation using Large Language Model**|Muhtadin et.al.|[2512.21293](http://arxiv.org/abs/2512.21293)|null|
+|**2025-12-24**|**Learning Factors in AI-Augmented Education: A Comparative Study of Middle and High School Students**|Gaia Ebli et.al.|[2512.21246](http://arxiv.org/abs/2512.21246)|null|
+|**2025-12-24**|**Volatile Organic Compounds for Stress Detection: A Scoping Review and Exploratory Feasibility Study with Low-Cost Sensors**|Nicolai Plintz et.al.|[2512.21105](http://arxiv.org/abs/2512.21105)|null|
+|**2025-12-24**|**Agentic Explainable Artificial Intelligence (Agentic XAI) Approach To Explore Better Explanation**|Tomoaki Yamaguchi et.al.|[2512.21066](http://arxiv.org/abs/2512.21066)|null|
+|**2025-12-24**|**Making AI Work: An Autoethnography of a Workaround in Higher Education**|Shang Chieh Lee et.al.|[2512.21055](http://arxiv.org/abs/2512.21055)|null|
+|**2025-12-24**|**DexAvatar: 3D Sign Language Reconstruction with Hand and Body Pose Priors**|Kaustubh Kundu et.al.|[2512.21054](http://arxiv.org/abs/2512.21054)|null|
+|**2025-12-24**|**When LLMs fall short in Deductive Coding: Model Comparison and Human AI Collaboration Workflow Design**|Zijian Li et.al.|[2512.21041](http://arxiv.org/abs/2512.21041)|null|
+|**2025-12-24**|**A Design Study Process Model for Medical Visualization**|Mengjie Fan et.al.|[2512.21034](http://arxiv.org/abs/2512.21034)|null|
+|**2025-12-24**|**From Human Bias to Robot Choice: How Occupational Contexts and Racial Priming Shape Robot Selection**|Jiangen He et.al.|[2512.20951](http://arxiv.org/abs/2512.20951)|null|
 |**2025-12-23**|**Automated stereotactic radiosurgery planning using a human-in-the-loop reasoning large language model agent**|Humza Nusrat et.al.|[2512.20586](http://arxiv.org/abs/2512.20586)|null|
 |**2025-12-23**|**A human-centered approach to reframing job satisfaction in the BIM-enabled construction industry**|Sharareh Mirzaei et.al.|[2512.20584](http://arxiv.org/abs/2512.20584)|null|
 |**2025-12-23**|**Structured Visualization Design Knowledge for Grounding Generative Reasoning and Situated Feedback**|Péter Ferenc Gyarmati et.al.|[2512.20306](http://arxiv.org/abs/2512.20306)|null|
