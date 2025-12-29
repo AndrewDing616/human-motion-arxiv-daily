@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2025.12.28
+### Automatically Updated on 2025.12.29
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-25**|**Spatiotemporal-Untrammelled Mixture of Experts for Multi-Person Motion Prediction**|Zheng Yin et.al.|[2512.21707](http://arxiv.org/abs/2512.21707)|null|
+|**2025-12-25**|**World-Coordinate Human Motion Retargeting via SAM 3D Body**|Zhangzheng Tum et.al.|[2512.21573](http://arxiv.org/abs/2512.21573)|null|
 |**2025-12-24**|**SegMo: Segment-aligned Text to 3D Human Motion Generation**|Bowen Dang et.al.|[2512.21237](http://arxiv.org/abs/2512.21237)|null|
 |**2025-12-24**|**Human Motion Estimation with Everyday Wearables**|Siqi Zhu et.al.|[2512.21209](http://arxiv.org/abs/2512.21209)|null|
 |**2025-12-24**|**Towards Arbitrary Motion Completing via Hierarchical Continuous Representation**|Chenghao Xu et.al.|[2512.21183](http://arxiv.org/abs/2512.21183)|null|
@@ -293,7 +295,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20251228>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251229>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -428,7 +430,7 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20251228>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251229>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
@@ -634,12 +636,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20251228>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251229>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-26**|**StreamAvatar: Streaming Diffusion Models for Real-Time Interactive Human Avatars**|Zhiyao Sun et.al.|[2512.22065](http://arxiv.org/abs/2512.22065)|null|
+|**2025-12-26**|**Context-Aware Intelligent Chatbot Framework Leveraging Mobile Sensing**|Ziyan Zhang et.al.|[2512.22032](http://arxiv.org/abs/2512.22032)|null|
+|**2025-12-26**|**SketchPlay: Intuitive Creation of Physically Realistic VR Content with Gesture-Driven Sketching**|Xiangwen Zhang et.al.|[2512.22016](http://arxiv.org/abs/2512.22016)|null|
+|**2025-12-26**|**Positive Narrativity Enhances Sense of Agency toward a VR Avatar**|Kureha Hamagashira et.al.|[2512.21968](http://arxiv.org/abs/2512.21968)|null|
+|**2025-12-26**|**Conserved active information**|Yanchen Chen et.al.|[2512.21834](http://arxiv.org/abs/2512.21834)|null|
+|**2025-12-25**|**Generative Lecture: Making Lecture Videos Interactive with LLMs and AI Clone Instructors**|Hye-Young Jo et.al.|[2512.21796](http://arxiv.org/abs/2512.21796)|null|
+|**2025-12-25**|**Five Years of SciCap: What We Learned and Future Directions for Scientific Figure Captioning**|Ting-Hao K. Huang et.al.|[2512.21789](http://arxiv.org/abs/2512.21789)|null|
+|**2025-12-25**|**Modified TSception for Analyzing Driver Drowsiness and Mental Workload from EEG**|Gourav Siddhad et.al.|[2512.21747](http://arxiv.org/abs/2512.21747)|null|
+|**2025-12-25**|**Spatiotemporal-Untrammelled Mixture of Experts for Multi-Person Motion Prediction**|Zheng Yin et.al.|[2512.21707](http://arxiv.org/abs/2512.21707)|null|
+|**2025-12-25**|**Ghostcrafting AI: Under the Rug of Platform Labor**|ATM Mizanur Rahman et.al.|[2512.21649](http://arxiv.org/abs/2512.21649)|null|
 |**2025-12-24**|**Scaling Laws for Economic Productivity: Experimental Evidence in LLM-Assisted Consulting, Data Analyst, and Management Tasks**|Ali Merali et.al.|[2512.21316](http://arxiv.org/abs/2512.21316)|null|
 |**2025-12-24**|**Quadrupped-Legged Robot Movement Plan Generation using Large Language Model**|Muhtadin et.al.|[2512.21293](http://arxiv.org/abs/2512.21293)|null|
 |**2025-12-24**|**Learning Factors in AI-Augmented Education: A Comparative Study of Middle and High School Students**|Gaia Ebli et.al.|[2512.21246](http://arxiv.org/abs/2512.21246)|null|
@@ -967,7 +979,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20251228>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251229>back to top</a>)</p>
 
 Notes: 
 

@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2025.12.28
+### Automatically Updated on 2025.12.29
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-25**|**Spatiotemporal-Untrammelled Mixture of Experts for Multi-Person Motion Prediction**|Zheng Yin et.al.|[2512.21707](http://arxiv.org/abs/2512.21707)|null|
+|**2025-12-25**|**World-Coordinate Human Motion Retargeting via SAM 3D Body**|Zhangzheng Tum et.al.|[2512.21573](http://arxiv.org/abs/2512.21573)|null|
 |**2025-12-24**|**SegMo: Segment-aligned Text to 3D Human Motion Generation**|Bowen Dang et.al.|[2512.21237](http://arxiv.org/abs/2512.21237)|null|
 |**2025-12-24**|**Human Motion Estimation with Everyday Wearables**|Siqi Zhu et.al.|[2512.21209](http://arxiv.org/abs/2512.21209)|null|
 |**2025-12-24**|**Towards Arbitrary Motion Completing via Hierarchical Continuous Representation**|Chenghao Xu et.al.|[2512.21183](http://arxiv.org/abs/2512.21183)|null|
@@ -1579,6 +1581,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-26**|**StreamAvatar: Streaming Diffusion Models for Real-Time Interactive Human Avatars**|Zhiyao Sun et.al.|[2512.22065](http://arxiv.org/abs/2512.22065)|null|
+|**2025-12-26**|**Context-Aware Intelligent Chatbot Framework Leveraging Mobile Sensing**|Ziyan Zhang et.al.|[2512.22032](http://arxiv.org/abs/2512.22032)|null|
+|**2025-12-26**|**SketchPlay: Intuitive Creation of Physically Realistic VR Content with Gesture-Driven Sketching**|Xiangwen Zhang et.al.|[2512.22016](http://arxiv.org/abs/2512.22016)|null|
+|**2025-12-26**|**Positive Narrativity Enhances Sense of Agency toward a VR Avatar**|Kureha Hamagashira et.al.|[2512.21968](http://arxiv.org/abs/2512.21968)|null|
+|**2025-12-26**|**Conserved active information**|Yanchen Chen et.al.|[2512.21834](http://arxiv.org/abs/2512.21834)|null|
+|**2025-12-25**|**Generative Lecture: Making Lecture Videos Interactive with LLMs and AI Clone Instructors**|Hye-Young Jo et.al.|[2512.21796](http://arxiv.org/abs/2512.21796)|null|
+|**2025-12-25**|**Five Years of SciCap: What We Learned and Future Directions for Scientific Figure Captioning**|Ting-Hao K. Huang et.al.|[2512.21789](http://arxiv.org/abs/2512.21789)|null|
+|**2025-12-25**|**Modified TSception for Analyzing Driver Drowsiness and Mental Workload from EEG**|Gourav Siddhad et.al.|[2512.21747](http://arxiv.org/abs/2512.21747)|null|
+|**2025-12-25**|**Spatiotemporal-Untrammelled Mixture of Experts for Multi-Person Motion Prediction**|Zheng Yin et.al.|[2512.21707](http://arxiv.org/abs/2512.21707)|null|
+|**2025-12-25**|**Ghostcrafting AI: Under the Rug of Platform Labor**|ATM Mizanur Rahman et.al.|[2512.21649](http://arxiv.org/abs/2512.21649)|null|
 |**2025-12-24**|**Scaling Laws for Economic Productivity: Experimental Evidence in LLM-Assisted Consulting, Data Analyst, and Management Tasks**|Ali Merali et.al.|[2512.21316](http://arxiv.org/abs/2512.21316)|null|
 |**2025-12-24**|**Quadrupped-Legged Robot Movement Plan Generation using Large Language Model**|Muhtadin et.al.|[2512.21293](http://arxiv.org/abs/2512.21293)|null|
 |**2025-12-24**|**Learning Factors in AI-Augmented Education: A Comparative Study of Middle and High School Students**|Gaia Ebli et.al.|[2512.21246](http://arxiv.org/abs/2512.21246)|null|
