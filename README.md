@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-29**|**HY-Motion 1.0: Scaling Flow Matching Models for Text-To-Motion Generation**|Yuxin Wen et.al.|[2512.23464](http://arxiv.org/abs/2512.23464)|null|
 |**2025-12-27**|**Autoregressive Flow Matching for Motion Prediction**|Johnathan Xie et.al.|[2512.22688](http://arxiv.org/abs/2512.22688)|null|
 |**2025-12-27**|**ParaMaP: Parallel Mapping and Collision-free Motion Planning for Reactive Robot Manipulation**|Xuewei Zhang et.al.|[2512.22575](http://arxiv.org/abs/2512.22575)|null|
 |**2025-12-27**|**Pose-Guided Residual Refinement for Interpretable Text-to-Motion Generation and Editing**|Sukhyun Jeong et.al.|[2512.22464](http://arxiv.org/abs/2512.22464)|null|
@@ -647,6 +648,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-29**|**Training AI Co-Scientists Using Rubric Rewards**|Shashwat Goel et.al.|[2512.23707](http://arxiv.org/abs/2512.23707)|null|
+|**2025-12-29**|**Soft Robotic Technological Probe for Speculative Fashion Futures**|Amy Ingold et.al.|[2512.23570](http://arxiv.org/abs/2512.23570)|null|
+|**2025-12-29**|**Securing the AI Supply Chain: What Can We Learn From Developer-Reported Security Issues and Solutions of AI Projects?**|The Anh Nguyen et.al.|[2512.23385](http://arxiv.org/abs/2512.23385)|null|
+|**2025-12-29**|**A Design Space for Intelligent Agents in Mixed-Initiative Visual Analytics**|Tobias Stähle et.al.|[2512.23372](http://arxiv.org/abs/2512.23372)|null|
 |**2025-12-29**|**Understanding EFL Learners' Code-Switching and Teachers' Pedagogical Approaches in LLM-Supported Speaking Practice**|Junyeong Park et.al.|[2512.23136](http://arxiv.org/abs/2512.23136)|null|
 |**2025-12-29**|**It's a TRAP! Task-Redirecting Agent Persuasion Benchmark for Web Agents**|Karolina Korgul et.al.|[2512.23128](http://arxiv.org/abs/2512.23128)|null|
 |**2025-12-28**|**ReHome Earth: A VR-Based Concept Validation for AI-Driven Space Homesickness Interventions**|Mengyao Guo et.al.|[2512.23118](http://arxiv.org/abs/2512.23118)|null|
