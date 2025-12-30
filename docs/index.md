@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2025.12.29
+### Automatically Updated on 2025.12.30
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,8 +959,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-27**|**Autoregressive Flow Matching for Motion Prediction**|Johnathan Xie et.al.|[2512.22688](http://arxiv.org/abs/2512.22688)|null|
+|**2025-12-27**|**ParaMaP: Parallel Mapping and Collision-free Motion Planning for Reactive Robot Manipulation**|Xuewei Zhang et.al.|[2512.22575](http://arxiv.org/abs/2512.22575)|null|
+|**2025-12-27**|**Pose-Guided Residual Refinement for Interpretable Text-to-Motion Generation and Editing**|Sukhyun Jeong et.al.|[2512.22464](http://arxiv.org/abs/2512.22464)|null|
+|**2025-12-26**|**DeMoGen: Towards Decompositional Human Motion Generation with Energy-Based Diffusion Models**|Jianrong Zhang et.al.|[2512.22324](http://arxiv.org/abs/2512.22324)|null|
 |**2025-12-25**|**Spatiotemporal-Untrammelled Mixture of Experts for Multi-Person Motion Prediction**|Zheng Yin et.al.|[2512.21707](http://arxiv.org/abs/2512.21707)|null|
-|**2025-12-25**|**World-Coordinate Human Motion Retargeting via SAM 3D Body**|Zhangzheng Tum et.al.|[2512.21573](http://arxiv.org/abs/2512.21573)|null|
+|**2025-12-25**|**World-Coordinate Human Motion Retargeting via SAM 3D Body**|Zhangzheng Tu et.al.|[2512.21573](http://arxiv.org/abs/2512.21573)|null|
 |**2025-12-24**|**SegMo: Segment-aligned Text to 3D Human Motion Generation**|Bowen Dang et.al.|[2512.21237](http://arxiv.org/abs/2512.21237)|null|
 |**2025-12-24**|**Human Motion Estimation with Everyday Wearables**|Siqi Zhu et.al.|[2512.21209](http://arxiv.org/abs/2512.21209)|null|
 |**2025-12-24**|**Towards Arbitrary Motion Completing via Hierarchical Continuous Representation**|Chenghao Xu et.al.|[2512.21183](http://arxiv.org/abs/2512.21183)|null|
@@ -1377,6 +1381,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-28**|**ByteLoom: Weaving Geometry-Consistent Human-Object Interactions through Progressive Curriculum Learning**|Bangya Liu et.al.|[2512.22854](http://arxiv.org/abs/2512.22854)|null|
 |**2025-12-22**|**Decoupled Generative Modeling for Human-Object Interaction Synthesis**|Hwanhee Jung et.al.|[2512.19049](http://arxiv.org/abs/2512.19049)|null|
 |**2025-12-19**|**Generative Human-Object Interaction Detection via Differentiable Cognitive Steering of Multi-modal LLMs**|Zhaolin Cai et.al.|[2512.17640](http://arxiv.org/abs/2512.17640)|null|
 |**2025-12-16**|**AnchorHOI: Zero-shot Generation of 4D Human-Object Interaction via Anchor-based Prior Distillation**|Sisi Dai et.al.|[2512.14095](http://arxiv.org/abs/2512.14095)|null|
@@ -1581,6 +1586,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-29**|**Understanding EFL Learners' Code-Switching and Teachers' Pedagogical Approaches in LLM-Supported Speaking Practice**|Junyeong Park et.al.|[2512.23136](http://arxiv.org/abs/2512.23136)|null|
+|**2025-12-29**|**It's a TRAP! Task-Redirecting Agent Persuasion Benchmark for Web Agents**|Karolina Korgul et.al.|[2512.23128](http://arxiv.org/abs/2512.23128)|null|
+|**2025-12-28**|**ReHome Earth: A VR-Based Concept Validation for AI-Driven Space Homesickness Interventions**|Mengyao Guo et.al.|[2512.23118](http://arxiv.org/abs/2512.23118)|null|
+|**2025-12-28**|**Cogniscope: Modeling Social Media Interactions as Digital Biomarkers for Early Detection of Cognitive Decline**|Ananya Drishti et.al.|[2512.23093](http://arxiv.org/abs/2512.23093)|null|
+|**2025-12-28**|**Multimodal Functional Maximum Correlation for Emotion Recognition**|Deyang Zheng et.al.|[2512.23076](http://arxiv.org/abs/2512.23076)|null|
+|**2025-12-28**|**Reimagining the Traditional Flight Computer: E6BJA as a Modern, Multi-Platform Tool for Flight Calculations and Training**|Jamie J. Alnasir et.al.|[2512.23055](http://arxiv.org/abs/2512.23055)|null|
+|**2025-12-28**|**Differentiable Physics-Driven Human Representation for Millimeter-Wave Based Pose Estimation**|Shuntian Zheng et.al.|[2512.23054](http://arxiv.org/abs/2512.23054)|null|
+|**2025-12-28**|**Towards the analysis of team members well-being**|Zan Xu et.al.|[2512.22845](http://arxiv.org/abs/2512.22845)|null|
+|**2025-12-28**|**ChatGraPhT: A Visual Conversation Interface for Multi-Path Reflection with Agentic LLM Support**|Geoff Kimm et.al.|[2512.22790](http://arxiv.org/abs/2512.22790)|null|
+|**2025-12-28**|**What do you say? A pilot study investigating student responses in Data Driven Classroom Interviews**|Jaclyn Ocumpaugh et.al.|[2512.22747](http://arxiv.org/abs/2512.22747)|null|
 |**2025-12-26**|**StreamAvatar: Streaming Diffusion Models for Real-Time Interactive Human Avatars**|Zhiyao Sun et.al.|[2512.22065](http://arxiv.org/abs/2512.22065)|null|
 |**2025-12-26**|**Context-Aware Intelligent Chatbot Framework Leveraging Mobile Sensing**|Ziyan Zhang et.al.|[2512.22032](http://arxiv.org/abs/2512.22032)|null|
 |**2025-12-26**|**SketchPlay: Intuitive Creation of Physically Realistic VR Content with Gesture-Driven Sketching**|Xiangwen Zhang et.al.|[2512.22016](http://arxiv.org/abs/2512.22016)|null|
