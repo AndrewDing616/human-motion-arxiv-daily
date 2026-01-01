@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2025.12.31
+### Automatically Updated on 2026.01.01
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-30**|**UniAct: Unified Motion Generation and Action Streaming for Humanoid Robots**|Nan Jiang et.al.|[2512.24321](http://arxiv.org/abs/2512.24321)|null|
+|**2025-12-30**|**PartMotionEdit: Fine-Grained Text-Driven 3D Human Motion Editing via Part-Level Modulation**|Yujie Yang et.al.|[2512.24200](http://arxiv.org/abs/2512.24200)|null|
+|**2025-12-30**|**Think Before You Move: Latent Motion Reasoning for Text-to-Motion Generation**|Yijie Qian et.al.|[2512.24100](http://arxiv.org/abs/2512.24100)|null|
+|**2025-12-30**|**A multimodal Transformer for InSAR-based ground deformation forecasting with cross-site generalization across Europe**|Wendong Yao et.al.|[2512.23906](http://arxiv.org/abs/2512.23906)|null|
 |**2025-12-29**|**HY-Motion 1.0: Scaling Flow Matching Models for Text-To-Motion Generation**|Yuxin Wen et.al.|[2512.23464](http://arxiv.org/abs/2512.23464)|null|
 |**2025-12-27**|**Autoregressive Flow Matching for Motion Prediction**|Johnathan Xie et.al.|[2512.22688](http://arxiv.org/abs/2512.22688)|null|
 |**2025-12-27**|**ParaMaP: Parallel Mapping and Collision-free Motion Planning for Reactive Robot Manipulation**|Xuewei Zhang et.al.|[2512.22575](http://arxiv.org/abs/2512.22575)|null|
@@ -1587,6 +1591,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-31**|**ReflecToMeet: An AI-Assisted Reflection Based System to Enhance Collaborative Preparedness**|Md Nazmus Sakib et.al.|[2512.24632](http://arxiv.org/abs/2512.24632)|null|
+|**2025-12-30**|**Power Analysis is Essential: High-Powered Tests Suggest Minimal to No Effect of Rounded Shapes on Click-Through Rates**|Ron Kohavi et.al.|[2512.24521](http://arxiv.org/abs/2512.24521)|null|
+|**2025-12-30**|**IELTS Writing Revision Platform with Automated Essay Scoring and Adaptive Feedback**|Titas Ramancauskas et.al.|[2512.24460](http://arxiv.org/abs/2512.24460)|null|
+|**2025-12-30**|**Language Model Agents Under Attack: A Cross Model-Benchmark of Profit-Seeking Behaviors in Customer Service**|Jingyu Zhang et.al.|[2512.24415](http://arxiv.org/abs/2512.24415)|null|
+|**2025-12-30**|**A Framing and Analysis of Applicative Tangible Interfaces**|Guillaume Riviere et.al.|[2512.24237](http://arxiv.org/abs/2512.24237)|null|
+|**2025-12-30**|**External Human-Machine Interface based on Intent Recognition: Framework Design and Experimental Validation**|Boya Sun et.al.|[2512.24166](http://arxiv.org/abs/2512.24166)|null|
+|**2025-12-30**|**Evaluation of Impression Difference of a Domestic Mobile Manipulator with Autonomous and/or Remote Control in Fetch-and-Carry Tasks**|Takashi Yamamoto et.al.|[2512.24029](http://arxiv.org/abs/2512.24029)|null|
+|**2025-12-30**|**Deletion Considered Harmful**|Paul Englefield et.al.|[2512.23907](http://arxiv.org/abs/2512.23907)|null|
+|**2025-12-29**|**Seeking Late Night Life Lines: Experiences of Conversational AI Use in Mental Health Crisis**|Leah Hope Ajmani et.al.|[2512.23859](http://arxiv.org/abs/2512.23859)|null|
+|**2025-12-29**|**From Correctness to Collaboration: Toward a Human-Centered Framework for Evaluating AI Agent Behavior in Software Engineering**|Tao Dong et.al.|[2512.23844](http://arxiv.org/abs/2512.23844)|null|
 |**2025-12-29**|**Training AI Co-Scientists Using Rubric Rewards**|Shashwat Goel et.al.|[2512.23707](http://arxiv.org/abs/2512.23707)|null|
 |**2025-12-29**|**Soft Robotic Technological Probe for Speculative Fashion Futures**|Amy Ingold et.al.|[2512.23570](http://arxiv.org/abs/2512.23570)|null|
 |**2025-12-29**|**Securing the AI Supply Chain: What Can We Learn From Developer-Reported Security Issues and Solutions of AI Projects?**|The Anh Nguyen et.al.|[2512.23385](http://arxiv.org/abs/2512.23385)|null|
