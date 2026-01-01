@@ -959,6 +959,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-31**|**ShowUI- $π$ : Flow-based Generative Models as GUI Dexterous Hands**|Siyuan Hu et.al.|[2512.24965](http://arxiv.org/abs/2512.24965)|null|
 |**2025-12-30**|**UniAct: Unified Motion Generation and Action Streaming for Humanoid Robots**|Nan Jiang et.al.|[2512.24321](http://arxiv.org/abs/2512.24321)|null|
 |**2025-12-30**|**PartMotionEdit: Fine-Grained Text-Driven 3D Human Motion Editing via Part-Level Modulation**|Yujie Yang et.al.|[2512.24200](http://arxiv.org/abs/2512.24200)|null|
 |**2025-12-30**|**Think Before You Move: Latent Motion Reasoning for Text-to-Motion Generation**|Yijie Qian et.al.|[2512.24100](http://arxiv.org/abs/2512.24100)|null|
@@ -1591,6 +1592,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-31**|**Context-aware LLM-based AI Agents for Human-centered Energy Management Systems in Smart Buildings**|Tianzhi He et.al.|[2512.25055](http://arxiv.org/abs/2512.25055)|null|
+|**2025-12-31**|**ShowUI- $π$ : Flow-based Generative Models as GUI Dexterous Hands**|Siyuan Hu et.al.|[2512.24965](http://arxiv.org/abs/2512.24965)|null|
+|**2025-12-31**|**Vibe Coding, Interface Flattening**|Hongrui Jin et.al.|[2512.24939](http://arxiv.org/abs/2512.24939)|null|
+|**2025-12-31**|**No Vision, No Wearables: 5G-based 2D Human Pose Recognition with Integrated Sensing and Communications**|Haojin Li et.al.|[2512.24923](http://arxiv.org/abs/2512.24923)|null|
+|**2025-12-31**|**Explaining Why Things Go Where They Go: Interpretable Constructs of Human Organizational Preferences**|Emmanuel Fashae et.al.|[2512.24829](http://arxiv.org/abs/2512.24829)|null|
 |**2025-12-31**|**ReflecToMeet: An AI-Assisted Reflection Based System to Enhance Collaborative Preparedness**|Md Nazmus Sakib et.al.|[2512.24632](http://arxiv.org/abs/2512.24632)|null|
 |**2025-12-30**|**Power Analysis is Essential: High-Powered Tests Suggest Minimal to No Effect of Rounded Shapes on Click-Through Rates**|Ron Kohavi et.al.|[2512.24521](http://arxiv.org/abs/2512.24521)|null|
 |**2025-12-30**|**IELTS Writing Revision Platform with Automated Essay Scoring and Adaptive Feedback**|Titas Ramancauskas et.al.|[2512.24460](http://arxiv.org/abs/2512.24460)|null|
