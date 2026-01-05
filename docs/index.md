@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.01.04
+### Automatically Updated on 2026.01.05
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-02**|**SafeMo: Linguistically Grounded Unlearning for Trustworthy Text-to-Motion Generation**|Yiling Wang et.al.|[2601.00590](http://arxiv.org/abs/2601.00590)|null|
+|**2026-01-02**|**DynaDrag: Dynamic Drag-Style Image Editing by Motion Prediction**|Jiacheng Sui et.al.|[2601.00542](http://arxiv.org/abs/2601.00542)|null|
 |**2025-12-31**|**ShowUI- $π$ : Flow-based Generative Models as GUI Dexterous Hands**|Siyuan Hu et.al.|[2512.24965](http://arxiv.org/abs/2512.24965)|null|
 |**2025-12-30**|**UniAct: Unified Motion Generation and Action Streaming for Humanoid Robots**|Nan Jiang et.al.|[2512.24321](http://arxiv.org/abs/2512.24321)|null|
 |**2025-12-30**|**PartMotionEdit: Fine-Grained Text-Driven 3D Human Motion Editing via Part-Level Modulation**|Yujie Yang et.al.|[2512.24200](http://arxiv.org/abs/2512.24200)|null|
@@ -1592,6 +1594,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-02**|**The Effect of Transparency on Students' Perceptions of AI Graders**|Joslyn Orgill et.al.|[2601.00765](http://arxiv.org/abs/2601.00765)|null|
+|**2026-01-02**|**Calling for Backup: How Children Navigate Successive Robot Communication Failures**|Maria Teresa Parreira et.al.|[2601.00754](http://arxiv.org/abs/2601.00754)|null|
+|**2026-01-02**|**Wave2Word: A Multimodal Transformer Framework for Joint EEG-Text Alignment and Multi-Task Representation Learning in Neurocritical Care**|Argha Kamal Samanta et.al.|[2601.00670](http://arxiv.org/abs/2601.00670)|null|
+|**2026-01-02**|**Avatar Forcing: Real-Time Interactive Head Avatar Generation for Natural Conversation**|Taekyung Ki et.al.|[2601.00664](http://arxiv.org/abs/2601.00664)|null|
+|**2026-01-02**|**Evaluating Web Accessibility and Usability in Bangladesh: A Comparative Analysis of Government and Non-Government Websites**|Sanjida Islam Era et.al.|[2601.00592](http://arxiv.org/abs/2601.00592)|null|
+|**2026-01-02**|**The AI Invisibility Effect: Understanding Human-AI Interaction When Users Don't Recognize Artificial Intelligence**|Obada Kraishan et.al.|[2601.00579](http://arxiv.org/abs/2601.00579)|null|
+|**2026-01-02**|**User Perceptions of an LLM-Based Chatbot for Cognitive Reappraisal of Stress: Feasibility Study**|Ananya Bhattacharjee et.al.|[2601.00570](http://arxiv.org/abs/2601.00570)|null|
+|**2026-01-01**|**Progressive Ideation using an Agentic AI Framework for Human-AI Co-Creation**|Sankar B et.al.|[2601.00475](http://arxiv.org/abs/2601.00475)|null|
+|**2026-01-01**|**Unseen Risks of Clinical Speech-to-Text Systems: Transparency, Privacy, and Reliability Challenges in AI-Driven Documentation**|Nelly Elsayed et.al.|[2601.00382](http://arxiv.org/abs/2601.00382)|null|
+|**2026-01-01**|**Effects of Limited Field of View on Musical Collaboration Experience with Avatars in Extended Reality**|Suibi Che-Chuan Weng et.al.|[2601.00333](http://arxiv.org/abs/2601.00333)|null|
 |**2025-12-31**|**Context-aware LLM-based AI Agents for Human-centered Energy Management Systems in Smart Buildings**|Tianzhi He et.al.|[2512.25055](http://arxiv.org/abs/2512.25055)|null|
 |**2025-12-31**|**ShowUI- $π$ : Flow-based Generative Models as GUI Dexterous Hands**|Siyuan Hu et.al.|[2512.24965](http://arxiv.org/abs/2512.24965)|null|
 |**2025-12-31**|**Vibe Coding, Interface Flattening**|Hongrui Jin et.al.|[2512.24939](http://arxiv.org/abs/2512.24939)|null|
