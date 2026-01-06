@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.01.05
+### Automatically Updated on 2026.01.06
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-03**|**UniSH: Unifying Scene and Human Reconstruction in a Feed-Forward Pass**|Mengfei Li et.al.|[2601.01222](http://arxiv.org/abs/2601.01222)|null|
+|**2026-01-02**|**Contractive Diffusion Policies: Robust Action Diffusion via Contractive Score-Based Sampling with Differential Equations**|Amin Abyaneh et.al.|[2601.01003](http://arxiv.org/abs/2601.01003)|null|
 |**2026-01-02**|**SafeMo: Linguistically Grounded Unlearning for Trustworthy Text-to-Motion Generation**|Yiling Wang et.al.|[2601.00590](http://arxiv.org/abs/2601.00590)|null|
 |**2026-01-02**|**DynaDrag: Dynamic Drag-Style Image Editing by Motion Prediction**|Jiacheng Sui et.al.|[2601.00542](http://arxiv.org/abs/2601.00542)|null|
 |**2025-12-31**|**ShowUI- $π$ : Flow-based Generative Models as GUI Dexterous Hands**|Siyuan Hu et.al.|[2512.24965](http://arxiv.org/abs/2512.24965)|null|
@@ -307,12 +309,13 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260106>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-04**|**AHA! Animating Human Avatars in Diverse Scenes with Gaussian Splatting**|Aymen Mir et.al.|[2511.09827](http://arxiv.org/abs/2511.09827)|null|
 |**2025-12-22**|**BRIC: Bridging Kinematic Plans and Physical Control at Test Time**|Dohun Lim et.al.|[2511.20431](http://arxiv.org/abs/2511.20431)|null|
 |**2025-12-21**|**CRISP: Contact-Guided Real2Sim from Monocular Video with Planar Scene Primitives**|Zihan Wang et.al.|[2512.14696](http://arxiv.org/abs/2512.14696)|null|
 |**2025-12-19**|**Dexterous World Models**|Byungjun Kim et.al.|[2512.17907](http://arxiv.org/abs/2512.17907)|null|
@@ -416,7 +419,6 @@
 |**2025-11-13**|**GridPrune: From "Where to Look" to "What to Select" in Visual Token Pruning for MLLMs**|Yuxiang Duan et.al.|[2511.10081](http://arxiv.org/abs/2511.10081)|null|
 |**2025-11-13**|**AffordBot: 3D Fine-grained Embodied Reasoning via Multimodal Large Language Models**|Xinyi Wang et.al.|[2511.10017](http://arxiv.org/abs/2511.10017)|null|
 |**2025-11-13**|**A Study on Enhancing the Generalization Ability of Visuomotor Policies via Data Augmentation**|Hanwen Wang et.al.|[2511.09932](http://arxiv.org/abs/2511.09932)|null|
-|**2025-11-13**|**AHA! Animating Human Avatars in Diverse Scenes with Gaussian Splatting**|Aymen Mir et.al.|[2511.09827](http://arxiv.org/abs/2511.09827)|null|
 |**2025-11-12**|**Social LSTM with Dynamic Occupancy Modeling for Realistic Pedestrian Trajectory Prediction**|Ahmed Alia et.al.|[2511.09735](http://arxiv.org/abs/2511.09735)|null|
 |**2025-11-12**|**RGMP: Recurrent Geometric-prior Multimodal Policy for Generalizable Humanoid Robot Manipulation**|Xuetao Li et.al.|[2511.09141](http://arxiv.org/abs/2511.09141)|null|
 |**2025-11-11**|**Large Sign Language Models: Toward 3D American Sign Language Translation**|Sen Zhang et.al.|[2511.08535](http://arxiv.org/abs/2511.08535)|null|
@@ -442,7 +444,7 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260106>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
@@ -649,12 +651,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260106>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-05**|**EdgeSSVEP: A Fully Embedded SSVEP BCI Platform for Low-Power Real-Time Applications**|Manh-Dat Nguyen et.al.|[2601.01772](http://arxiv.org/abs/2601.01772)|null|
+|**2026-01-04**|**Neural Digital Twins: Toward Next-Generation Brain-Computer Interfaces**|Mohammad Mahdi Habibi Bina et.al.|[2601.01539](http://arxiv.org/abs/2601.01539)|null|
+|**2026-01-04**|**EmoHarbor: Evaluating Personalized Emotional Support by Simulating the User's Internal World**|Jing Ye et.al.|[2601.01530](http://arxiv.org/abs/2601.01530)|null|
+|**2026-01-04**|**Garment Inertial Denoiser (GID): Endowing Accurate Motion Capture via Loose IMU Denoiser**|Jiawei Fang et.al.|[2601.01360](http://arxiv.org/abs/2601.01360)|null|
+|**2026-01-03**|**Human-Centered Artificial Intelligence (HCAI): Foundations and Approaches**|Wei Xu et.al.|[2601.01247](http://arxiv.org/abs/2601.01247)|null|
+|**2026-01-03**|**Bridging Language Gaps: Utilizing Interactive Robots to Teach Cantonese in Real-Life Contexts for Newly-Arrived Children**|Ka-Yan Fung et.al.|[2601.01234](http://arxiv.org/abs/2601.01234)|null|
+|**2026-01-03**|**LiveBo: Empowering Non-Chinese Speaking Students through AI-Driven Real-Life Scenarios in Cantonese**|Ka Yan Fung et.al.|[2601.01227](http://arxiv.org/abs/2601.01227)|null|
+|**2026-01-03**|**MotiBo: The Impact of Interactive Digital Storytelling Robots on Student Motivation through Self-Determination Theory**|Ka Yan Fung et.al.|[2601.01218](http://arxiv.org/abs/2601.01218)|null|
+|**2026-01-03**|**MentalGame: Predicting Personality-Job Fitness for Software Developers Using Multi-Genre Games and Machine Learning Approaches**|Soroush Elyasi et.al.|[2601.01206](http://arxiv.org/abs/2601.01206)|null|
+|**2026-01-03**|**SoulSeek: Exploring the Use of Social Cues in LLM-based Information Seeking**|Yubo Shu et.al.|[2601.01094](http://arxiv.org/abs/2601.01094)|null|
 |**2026-01-02**|**The Effect of Transparency on Students' Perceptions of AI Graders**|Joslyn Orgill et.al.|[2601.00765](http://arxiv.org/abs/2601.00765)|null|
 |**2026-01-02**|**Calling for Backup: How Children Navigate Successive Robot Communication Failures**|Maria Teresa Parreira et.al.|[2601.00754](http://arxiv.org/abs/2601.00754)|null|
 |**2026-01-02**|**Wave2Word: A Multimodal Transformer Framework for Joint EEG-Text Alignment and Multi-Task Representation Learning in Neurocritical Care**|Argha Kamal Samanta et.al.|[2601.00670](http://arxiv.org/abs/2601.00670)|null|
@@ -1031,7 +1043,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260106>back to top</a>)</p>
 
 Notes: 
 
