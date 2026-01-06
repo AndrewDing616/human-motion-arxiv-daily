@@ -959,6 +959,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-05**|**MagicFight: Personalized Martial Arts Combat Video Generation**|Jiancheng Huang et.al.|[2601.02107](http://arxiv.org/abs/2601.02107)|null|
+|**2026-01-05**|**Learning Diffusion Policy from Primitive Skills for Robot Manipulation**|Zhihao Gu et.al.|[2601.01948](http://arxiv.org/abs/2601.01948)|null|
 |**2026-01-03**|**UniSH: Unifying Scene and Human Reconstruction in a Feed-Forward Pass**|Mengfei Li et.al.|[2601.01222](http://arxiv.org/abs/2601.01222)|null|
 |**2026-01-02**|**Contractive Diffusion Policies: Robust Action Diffusion via Contractive Score-Based Sampling with Differential Equations**|Amin Abyaneh et.al.|[2601.01003](http://arxiv.org/abs/2601.01003)|null|
 |**2026-01-02**|**SafeMo: Linguistically Grounded Unlearning for Trustworthy Text-to-Motion Generation**|Yiling Wang et.al.|[2601.00590](http://arxiv.org/abs/2601.00590)|null|
@@ -1596,6 +1598,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-05**|**Cooperation in Virtual Reality: Exploring Environmental Decision-Making through a Real-Effort Threshold Public Goods Game**|Manuela Chessa et.al.|[2601.02214](http://arxiv.org/abs/2601.02214)|null|
+|**2026-01-05**|**From Chat Control to Robot Control: The Backdoors Left Open for the Sake of Safety**|Neziha Akalin et.al.|[2601.02205](http://arxiv.org/abs/2601.02205)|null|
+|**2026-01-05**|**LocoScooter: Designing a Stationary Scooter-Based Locomotion System for Navigation in Virtual Reality**|Wei He et.al.|[2601.02167](http://arxiv.org/abs/2601.02167)|null|
+|**2026-01-05**|**Realistic adversarial scenario generation via human-like pedestrian model for autonomous vehicle control parameter optimisation**|Yueyang Wang et.al.|[2601.02082](http://arxiv.org/abs/2601.02082)|null|
+|**2026-01-05**|**Escaping the Filter Bubble: Evaluating Electroencephalographic Theta Band Synchronization as Indicator for Selective Exposure in Online News Reading**|Thomas Krämer et.al.|[2601.02047](http://arxiv.org/abs/2601.02047)|null|
+|**2026-01-05**|**EyeLiveMetrics: Real-time Analysis of Online Reading with Eye Tracking**|Daniel Hienert et.al.|[2601.02044](http://arxiv.org/abs/2601.02044)|null|
+|**2026-01-05**|**From Metrics to Meaning: Insights from a Mixed-Methods Field Experiment on Retail Robot Deployment**|Sichao Song et.al.|[2601.01946](http://arxiv.org/abs/2601.01946)|null|
 |**2026-01-05**|**EdgeSSVEP: A Fully Embedded SSVEP BCI Platform for Low-Power Real-Time Applications**|Manh-Dat Nguyen et.al.|[2601.01772](http://arxiv.org/abs/2601.01772)|null|
 |**2026-01-04**|**Neural Digital Twins: Toward Next-Generation Brain-Computer Interfaces**|Mohammad Mahdi Habibi Bina et.al.|[2601.01539](http://arxiv.org/abs/2601.01539)|null|
 |**2026-01-04**|**EmoHarbor: Evaluating Personalized Emotional Support by Simulating the User's Internal World**|Jing Ye et.al.|[2601.01530](http://arxiv.org/abs/2601.01530)|null|
