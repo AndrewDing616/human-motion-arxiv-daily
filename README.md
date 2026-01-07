@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.01.06
+### Automatically Updated on 2026.01.07
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-06**|**Warm-Starting Collision-Free Model Predictive Control With Object-Centric Diffusion**|Arthur Haffemayer et.al.|[2601.02873](http://arxiv.org/abs/2601.02873)|null|
 |**2026-01-05**|**MagicFight: Personalized Martial Arts Combat Video Generation**|Jiancheng Huang et.al.|[2601.02107](http://arxiv.org/abs/2601.02107)|null|
 |**2026-01-05**|**Learning Diffusion Policy from Primitive Skills for Robot Manipulation**|Zhihao Gu et.al.|[2601.01948](http://arxiv.org/abs/2601.01948)|null|
 |**2026-01-03**|**UniSH: Unifying Scene and Human Reconstruction in a Feed-Forward Pass**|Mengfei Li et.al.|[2601.01222](http://arxiv.org/abs/2601.01222)|null|
@@ -311,7 +312,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260107>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -446,7 +447,7 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260107>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
@@ -653,12 +654,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260107>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-06**|**Wait or cross? Understanding the influence of behavioral tendency, trust, and risk perception on pedestrian gap-acceptance of automated truck platoons**|Yun Ye et.al.|[2601.03225](http://arxiv.org/abs/2601.03225)|null|
+|**2026-01-06**|**Are eHMIs always helpful? Investigating how eHMIs interfere with pedestrian behavior on multi-lane streets: An eye-tracking virtual reality experiment**|Yun Ye et.al.|[2601.03223](http://arxiv.org/abs/2601.03223)|null|
+|**2026-01-06**|**The Fake Friend Dilemma: Trust and the Political Economy of Conversational AI**|Jacob Erickson et.al.|[2601.03222](http://arxiv.org/abs/2601.03222)|null|
+|**2026-01-06**|**Enhancing Safety in Automated Ports: A Virtual Reality Study of Pedestrian-Autonomous Vehicle Interactions under Time Pressure, Visual Constraints, and Varying Vehicle Size**|Yuan Che et.al.|[2601.03218](http://arxiv.org/abs/2601.03218)|null|
+|**2026-01-06**|**Predicting Time Pressure of Powered Two-Wheeler Riders for Proactive Safety Interventions**|Sumit S. Shevtekar et.al.|[2601.03173](http://arxiv.org/abs/2601.03173)|null|
+|**2026-01-06**|**MedDialogRubrics: A Comprehensive Benchmark and Evaluation Framework for Multi-turn Medical Consultations in Large Language Models**|Lecheng Gong et.al.|[2601.03023](http://arxiv.org/abs/2601.03023)|null|
+|**2026-01-06**|**Pearmut: Human Evaluation of Translation Made Trivial**|Vilém Zouhar et.al.|[2601.02933](http://arxiv.org/abs/2601.02933)|null|
+|**2026-01-06**|**Resolution deficits drive simulator sickness and compromise reading performance in virtual environments**|Jialin Wang et.al.|[2601.02829](http://arxiv.org/abs/2601.02829)|null|
+|**2026-01-06**|**The perceptual gap between video see-through displays and natural human vision**|Jialin Wang et.al.|[2601.02805](http://arxiv.org/abs/2601.02805)|null|
+|**2026-01-06**|**Experience and Adaptation in AI-mediated Hiring Systems: A Combined Analysis of Online Discourse and Interface Design**|Md Nazmus Sakib et.al.|[2601.02775](http://arxiv.org/abs/2601.02775)|null|
 |**2026-01-05**|**Cooperation in Virtual Reality: Exploring Environmental Decision-Making through a Real-Effort Threshold Public Goods Game**|Manuela Chessa et.al.|[2601.02214](http://arxiv.org/abs/2601.02214)|null|
 |**2026-01-05**|**From Chat Control to Robot Control: The Backdoors Left Open for the Sake of Safety**|Neziha Akalin et.al.|[2601.02205](http://arxiv.org/abs/2601.02205)|null|
 |**2026-01-05**|**LocoScooter: Designing a Stationary Scooter-Based Locomotion System for Navigation in Virtual Reality**|Wei He et.al.|[2601.02167](http://arxiv.org/abs/2601.02167)|null|
@@ -1052,7 +1063,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260107>back to top</a>)</p>
 
 Notes: 
 
