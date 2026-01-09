@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.01.07
+### Automatically Updated on 2026.01.09
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-07**|**FUSION: Full-Body Unified Motion Prior for Body and Hands via Diffusion**|Enes Duran et.al.|[2601.03959](http://arxiv.org/abs/2601.03959)|null|
+|**2026-01-07**|**Semantic Belief-State World Model for 3D Human Motion Prediction**|Sarim Chaudhry et.al.|[2601.03517](http://arxiv.org/abs/2601.03517)|null|
+|**2026-01-06**|**Listen to Rhythm, Choose Movements: Autoregressive Multimodal Dance Generation via Diffusion and Mamba with Decoupled Dance Dataset**|Oran Duan et.al.|[2601.03323](http://arxiv.org/abs/2601.03323)|null|
 |**2026-01-06**|**Warm-Starting Collision-Free Model Predictive Control With Object-Centric Diffusion**|Arthur Haffemayer et.al.|[2601.02873](http://arxiv.org/abs/2601.02873)|null|
 |**2026-01-05**|**MagicFight: Personalized Martial Arts Combat Video Generation**|Jiancheng Huang et.al.|[2601.02107](http://arxiv.org/abs/2601.02107)|null|
 |**2026-01-05**|**Learning Diffusion Policy from Primitive Skills for Robot Manipulation**|Zhihao Gu et.al.|[2601.01948](http://arxiv.org/abs/2601.01948)|null|
@@ -1599,6 +1602,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-08**|**Driver-Intention Prediction with Deep Learning: Real-Time Brain-to-Vehicle Communication**|Niloufar Alavi et.al.|[2601.05084](http://arxiv.org/abs/2601.05084)|null|
+|**2026-01-08**|**Exploring Student Expectations and Confidence in Learning Analytics**|Hayk Asatryan et.al.|[2601.05082](http://arxiv.org/abs/2601.05082)|null|
+|**2026-01-08**|**From Idea to Co-Creation: A Planner-Actor-Critic Framework for Agent Augmented 3D Modeling**|Jin Gao et.al.|[2601.05016](http://arxiv.org/abs/2601.05016)|null|
+|**2026-01-08**|**What Students Ask, How a Generative AI Assistant Responds: Exploring Higher Education Students' Dialogues on Learning Analytics Feedback**|Yildiz Uzun et.al.|[2601.04919](http://arxiv.org/abs/2601.04919)|null|
+|**2026-01-08**|**OnomaCompass: A Texture Exploration Interface that Shuttles between Words and Images**|Miki Okamura et.al.|[2601.04915](http://arxiv.org/abs/2601.04915)|null|
+|**2026-01-08**|**Dynamic Thermal Feedback in Highly Immersive VR Scenarios: a Multimodal Analysis of User Experience**|Sophie Villenave et.al.|[2601.04781](http://arxiv.org/abs/2601.04781)|null|
+|**2026-01-08**|**Leveraging LLMs for Efficient and Personalized Smart Home Automation**|Chaerin Yu et.al.|[2601.04680](http://arxiv.org/abs/2601.04680)|null|
+|**2026-01-08**|**Model of Spatial Human-Agent Interaction with Consideration for Others**|Takafumi Sakamoto et.al.|[2601.04657](http://arxiv.org/abs/2601.04657)|null|
+|**2026-01-08**|**RecruitScope: A Visual Analytics System for Multidimensional Recruitment Data Analysis**|Xiyuan Zhu et.al.|[2601.04630](http://arxiv.org/abs/2601.04630)|null|
+|**2026-01-08**|**The UnScripted Trip: Fostering Policy Discussion on Future Human-Vehicle Collaboration in Autonomous Driving Through Design-Oriented Methods**|Xinyan Yu et.al.|[2601.04601](http://arxiv.org/abs/2601.04601)|null|
 |**2026-01-06**|**Wait or cross? Understanding the influence of behavioral tendency, trust, and risk perception on pedestrian gap-acceptance of automated truck platoons**|Yun Ye et.al.|[2601.03225](http://arxiv.org/abs/2601.03225)|null|
 |**2026-01-06**|**Are eHMIs always helpful? Investigating how eHMIs interfere with pedestrian behavior on multi-lane streets: An eye-tracking virtual reality experiment**|Yun Ye et.al.|[2601.03223](http://arxiv.org/abs/2601.03223)|null|
 |**2026-01-06**|**The Fake Friend Dilemma: Trust and the Political Economy of Conversational AI**|Jacob Erickson et.al.|[2601.03222](http://arxiv.org/abs/2601.03222)|null|
