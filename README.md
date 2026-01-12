@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.01.11
+### Automatically Updated on 2026.01.12
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-09**|**Game connectivity and adaptive dynamics in many-action games**|Tom Johnston et.al.|[2601.05965](http://arxiv.org/abs/2601.05965)|null|
+|**2026-01-09**|**A Minimalist Merger Interpretation of XRISM's Gas Velocity Measurements in the Coma Cluster**|Congyao Zhang et.al.|[2601.05803](http://arxiv.org/abs/2601.05803)|null|
 |**2026-01-07**|**FUSION: Full-Body Unified Motion Prior for Body and Hands via Diffusion**|Enes Duran et.al.|[2601.03959](http://arxiv.org/abs/2601.03959)|null|
 |**2026-01-07**|**Semantic Belief-State World Model for 3D Human Motion Prediction**|Sarim Chaudhry et.al.|[2601.03517](http://arxiv.org/abs/2601.03517)|null|
 |**2026-01-06**|**Listen to Rhythm, Choose Movements: Autoregressive Multimodal Dance Generation via Diffusion and Mamba with Decoupled Dance Dataset**|Oran Duan et.al.|[2601.03323](http://arxiv.org/abs/2601.03323)|null|
@@ -315,7 +317,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260111>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260112>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -450,7 +452,7 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260111>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260112>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
@@ -657,12 +659,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260111>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260112>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-09**|**A Framework for Optimizing Human-Machine Interaction in Classification Systems**|Goran Muric et.al.|[2601.05974](http://arxiv.org/abs/2601.05974)|null|
+|**2026-01-09**|**Illusions of Confidence? Diagnosing LLM Truthfulness via Neighborhood Consistency**|Haoming Xu et.al.|[2601.05905](http://arxiv.org/abs/2601.05905)|null|
+|**2026-01-09**|**How to Analyse Interviews: A Documentary Method of Interpretation**|Andy Crabtree et.al.|[2601.05871](http://arxiv.org/abs/2601.05871)|null|
+|**2026-01-09**|**Decoding Workload and Agreement From EEG During Spoken Dialogue With Conversational AI**|Lucija Mihić Zidar et.al.|[2601.05825](http://arxiv.org/abs/2601.05825)|null|
+|**2026-01-09**|**Improving Clinical Data Accessibility Through Automated FHIR Data Transformation Tools**|Adarsh Pawar et.al.|[2601.05822](http://arxiv.org/abs/2601.05822)|null|
+|**2026-01-09**|**SAFE: Secure and Accurate Federated Learning for Privacy-Preserving Brain-Computer Interfaces**|Tianwang Jia et.al.|[2601.05789](http://arxiv.org/abs/2601.05789)|null|
+|**2026-01-09**|**Advancing credit mobility through stakeholder-informed AI design and adoption**|Yerin Kwak et.al.|[2601.05666](http://arxiv.org/abs/2601.05666)|null|
+|**2026-01-09**|**Productive Discussion Moves in Groups Addressing Controversial Issues**|Kyuwon Kim et.al.|[2601.05651](http://arxiv.org/abs/2601.05651)|null|
+|**2026-01-09**|**The ICASSP 2026 HumDial Challenge: Benchmarking Human-like Spoken Dialogue Systems in the LLM Era**|Zhixian Zhao et.al.|[2601.05564](http://arxiv.org/abs/2601.05564)|null|
+|**2026-01-09**|**Secure Text Entry using a Virtual Radial Keyboard with Dynamically Resized Keys and Non-Intrusive Randomization**|Yuxuan Huang et.al.|[2601.05516](http://arxiv.org/abs/2601.05516)|null|
 |**2026-01-08**|**Driver-Intention Prediction with Deep Learning: Real-Time Brain-to-Vehicle Communication**|Niloufar Alavi et.al.|[2601.05084](http://arxiv.org/abs/2601.05084)|null|
 |**2026-01-08**|**Exploring Student Expectations and Confidence in Learning Analytics**|Hayk Asatryan et.al.|[2601.05082](http://arxiv.org/abs/2601.05082)|null|
 |**2026-01-08**|**From Idea to Co-Creation: A Planner-Actor-Critic Framework for Agent Augmented 3D Modeling**|Jin Gao et.al.|[2601.05016](http://arxiv.org/abs/2601.05016)|null|
@@ -1076,7 +1088,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260111>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260112>back to top</a>)</p>
 
 Notes: 
 
