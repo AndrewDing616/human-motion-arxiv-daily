@@ -959,6 +959,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-12**|**Variational Contrastive Learning for Skeleton-based Action Recognition**|Dang Dinh Nguyen et.al.|[2601.07666](http://arxiv.org/abs/2601.07666)|null|
+|**2026-01-12**|**GeoMotionGPT: Geometry-Aligned Motion Understanding with Large Language Models**|Zhankai Ye et.al.|[2601.07632](http://arxiv.org/abs/2601.07632)|null|
+|**2026-01-12**|**AdaMorph: Unified Motion Retargeting via Embodiment-Aware Adaptive Transformers**|Haoyu Zhang et.al.|[2601.07284](http://arxiv.org/abs/2601.07284)|null|
 |**2026-01-10**|**RigMo: Unifying Rig and Motion Learning for Generative Animation**|Hao Zhang et.al.|[2601.06378](http://arxiv.org/abs/2601.06378)|null|
 |**2026-01-09**|**Game connectivity and adaptive dynamics in many-action games**|Tom Johnston et.al.|[2601.05965](http://arxiv.org/abs/2601.05965)|null|
 |**2026-01-09**|**A Minimalist Merger Interpretation of XRISM's Gas Velocity Measurements in the Coma Cluster**|Congyao Zhang et.al.|[2601.05803](http://arxiv.org/abs/2601.05803)|null|
@@ -1606,6 +1609,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-12**|**Learning Through Dialogue: Unpacking the Dynamics of Human-LLM Conversations on Political Issues**|Shaz Furniturewala et.al.|[2601.07796](http://arxiv.org/abs/2601.07796)|null|
+|**2026-01-12**|**Passing the Baton: Shift Handovers within Cybersecurity Incident Response Teams**|Liberty Kent et.al.|[2601.07788](http://arxiv.org/abs/2601.07788)|null|
+|**2026-01-12**|**OS-Symphony: A Holistic Framework for Robust and Generalist Computer-Using Agent**|Bowen Yang et.al.|[2601.07779](http://arxiv.org/abs/2601.07779)|null|
+|**2026-01-12**|**A Multimodal Dataset of Student Oral Presentations with Sensors and Evaluation Data**|Alvaro Becerra et.al.|[2601.07576](http://arxiv.org/abs/2601.07576)|null|
+|**2026-01-12**|**GPU accelerated surface-based gaze mapping for XR experiences**|Charles Javerliat et.al.|[2601.07571](http://arxiv.org/abs/2601.07571)|null|
+|**2026-01-12**|**Backpropagation-Free Test-Time Adaptation for Lightweight EEG-Based Brain-Computer Interfaces**|Siyang Li et.al.|[2601.07556](http://arxiv.org/abs/2601.07556)|null|
+|**2026-01-12**|**Recommendation-as-Experience: A framework for context-sensitive adaptation in conversational recommender systems**|Raj Mahmud et.al.|[2601.07401](http://arxiv.org/abs/2601.07401)|null|
+|**2026-01-12**|**Interactive visualizations for adolescents to understand and challenge algorithmic profiling in online platforms**|Yui Kondo et.al.|[2601.07381](http://arxiv.org/abs/2601.07381)|null|
+|**2026-01-12**|**ColorBrowserAgent: An Intelligent GUI Agent for Complex Long-Horizon Web Automation**|Jiamu Zhou et.al.|[2601.07262](http://arxiv.org/abs/2601.07262)|null|
+|**2026-01-12**|**MeepleLM: A Virtual Playtester Simulating Diverse Subjective Experiences**|Zizhen Li et.al.|[2601.07251](http://arxiv.org/abs/2601.07251)|null|
 |**2026-01-11**|**The AI Cognitive Trojan Horse: How Large Language Models May Bypass Human Epistemic Vigilance**|Andrew D. Maynard et.al.|[2601.07085](http://arxiv.org/abs/2601.07085)|null|
 |**2026-01-11**|**Santa Clara 3D: Digital Reconstruction and Storytelling of a Francoist Concentration Camp**|Stinne Zacho et.al.|[2601.06902](http://arxiv.org/abs/2601.06902)|null|
 |**2026-01-11**|**Personality-Aware Reinforcement Learning for Persuasive Dialogue with LLM-Driven Simulation**|Donghuo Zeng et.al.|[2601.06877](http://arxiv.org/abs/2601.06877)|null|
