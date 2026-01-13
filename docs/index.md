@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.01.12
+### Automatically Updated on 2026.01.13
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-10**|**RigMo: Unifying Rig and Motion Learning for Generative Animation**|Hao Zhang et.al.|[2601.06378](http://arxiv.org/abs/2601.06378)|null|
 |**2026-01-09**|**Game connectivity and adaptive dynamics in many-action games**|Tom Johnston et.al.|[2601.05965](http://arxiv.org/abs/2601.05965)|null|
 |**2026-01-09**|**A Minimalist Merger Interpretation of XRISM's Gas Velocity Measurements in the Coma Cluster**|Congyao Zhang et.al.|[2601.05803](http://arxiv.org/abs/2601.05803)|null|
 |**2026-01-07**|**FUSION: Full-Body Unified Motion Prior for Body and Hands via Diffusion**|Enes Duran et.al.|[2601.03959](http://arxiv.org/abs/2601.03959)|null|
@@ -1399,6 +1400,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-02**|**Semantic Event Graphs for Long-Form Video Question Answering**|Aradhya Dixit et.al.|[2601.06097](http://arxiv.org/abs/2601.06097)|null|
 |**2025-12-28**|**ByteLoom: Weaving Geometry-Consistent Human-Object Interactions through Progressive Curriculum Learning**|Bangya Liu et.al.|[2512.22854](http://arxiv.org/abs/2512.22854)|null|
 |**2025-12-22**|**Decoupled Generative Modeling for Human-Object Interaction Synthesis**|Hwanhee Jung et.al.|[2512.19049](http://arxiv.org/abs/2512.19049)|null|
 |**2025-12-19**|**Generative Human-Object Interaction Detection via Differentiable Cognitive Steering of Multi-modal LLMs**|Zhaolin Cai et.al.|[2512.17640](http://arxiv.org/abs/2512.17640)|null|
@@ -1604,6 +1606,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-11**|**The AI Cognitive Trojan Horse: How Large Language Models May Bypass Human Epistemic Vigilance**|Andrew D. Maynard et.al.|[2601.07085](http://arxiv.org/abs/2601.07085)|null|
+|**2026-01-11**|**Santa Clara 3D: Digital Reconstruction and Storytelling of a Francoist Concentration Camp**|Stinne Zacho et.al.|[2601.06902](http://arxiv.org/abs/2601.06902)|null|
+|**2026-01-11**|**Personality-Aware Reinforcement Learning for Persuasive Dialogue with LLM-Driven Simulation**|Donghuo Zeng et.al.|[2601.06877](http://arxiv.org/abs/2601.06877)|null|
+|**2026-01-11**|**Generative Modeling of Human-Computer Interfaces with Diffusion Processes and Conditional Control**|Rui Liu et.al.|[2601.06823](http://arxiv.org/abs/2601.06823)|null|
+|**2026-01-11**|**AutoTour: Automatic Photo Tour Guide with Smartphones and LLMs**|Huatao Xu et.al.|[2601.06781](http://arxiv.org/abs/2601.06781)|null|
+|**2026-01-11**|**ImmuniFraug: A Metacognitive Intervention Anti-Fraud Approach to Enhance Undergraduate Students' Cyber Fraud Awareness**|Xiangzhe Yuan et.al.|[2601.06774](http://arxiv.org/abs/2601.06774)|null|
+|**2026-01-10**|**IDRBench: Interactive Deep Research Benchmark**|Yingchaojie Feng et.al.|[2601.06676](http://arxiv.org/abs/2601.06676)|null|
+|**2026-01-10**|**Learning Password Best Practices Through In-Task Instruction**|Qian Ma et.al.|[2601.06650](http://arxiv.org/abs/2601.06650)|null|
+|**2026-01-10**|**LLM-Driven Accessible Interface: A Model-Based Approach**|Blessing Jerry et.al.|[2601.06616](http://arxiv.org/abs/2601.06616)|null|
+|**2026-01-10**|**AI Washing and the Erosion of Digital Legitimacy: A Socio-Technical Perspective on Responsible Artificial Intelligence in Business**|Nelly Elsayed et.al.|[2601.06611](http://arxiv.org/abs/2601.06611)|null|
 |**2026-01-09**|**A Framework for Optimizing Human-Machine Interaction in Classification Systems**|Goran Muric et.al.|[2601.05974](http://arxiv.org/abs/2601.05974)|null|
 |**2026-01-09**|**Illusions of Confidence? Diagnosing LLM Truthfulness via Neighborhood Consistency**|Haoming Xu et.al.|[2601.05905](http://arxiv.org/abs/2601.05905)|null|
 |**2026-01-09**|**How to Analyse Interviews: A Documentary Method of Interpretation**|Andy Crabtree et.al.|[2601.05871](http://arxiv.org/abs/2601.05871)|null|
