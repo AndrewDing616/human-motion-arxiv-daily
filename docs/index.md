@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.01.13
+### Automatically Updated on 2026.01.14
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-13**|**Towards Safer Mobile Agents: Scalable Generation and Evaluation of Diverse Scenarios for VLMs**|Takara Taniguchi et.al.|[2601.08470](http://arxiv.org/abs/2601.08470)|null|
 |**2026-01-12**|**Variational Contrastive Learning for Skeleton-based Action Recognition**|Dang Dinh Nguyen et.al.|[2601.07666](http://arxiv.org/abs/2601.07666)|null|
 |**2026-01-12**|**GeoMotionGPT: Geometry-Aligned Motion Understanding with Large Language Models**|Zhankai Ye et.al.|[2601.07632](http://arxiv.org/abs/2601.07632)|null|
 |**2026-01-12**|**AdaMorph: Unified Motion Retargeting via Embodiment-Aware Adaptive Transformers**|Haoyu Zhang et.al.|[2601.07284](http://arxiv.org/abs/2601.07284)|null|
@@ -1609,6 +1610,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-13**|**Older Adults' Preferences for Feedback Cadence from an Exercise Coach Robot**|Roshni Kaushik et.al.|[2601.08819](http://arxiv.org/abs/2601.08819)|null|
+|**2026-01-13**|**Auditing Student-AI Collaboration: A Case Study of Online Graduate CS Students**|Nifu Dan et.al.|[2601.08697](http://arxiv.org/abs/2601.08697)|null|
+|**2026-01-13**|**Tailored Immersive Environments: Advancing Neurodivergent Support Through Virtual Reality**|Elia Moscoso-Thompson et.al.|[2601.08652](http://arxiv.org/abs/2601.08652)|null|
+|**2026-01-13**|**Enhancing Financial Literacy and Management through Goal-Directed Design and Gamification in Personal Finance Application**|Phuong Lien To et.al.|[2601.08640](http://arxiv.org/abs/2601.08640)|null|
+|**2026-01-13**|**Rewriting Video: Text-Driven Reauthoring of Video Footage**|Sitong Wang et.al.|[2601.08565](http://arxiv.org/abs/2601.08565)|null|
+|**2026-01-13**|**Do You Understand How I Feel?: Towards Verified Empathy in Therapy Chatbots**|Francesco Dettori et.al.|[2601.08477](http://arxiv.org/abs/2601.08477)|null|
+|**2026-01-13**|**SUMMPILOT: Bridging Efficiency and Customization for Interactive Summarization System**|JungMin Yun et.al.|[2601.08475](http://arxiv.org/abs/2601.08475)|null|
+|**2026-01-13**|**Characterizing Personality from Eye-Tracking: The Role of Gaze and Its Absence in Interactive Search Environments**|Jiaman He et.al.|[2601.08287](http://arxiv.org/abs/2601.08287)|null|
+|**2026-01-13**|**Data-Induced Groupings and How To Find Them**|Yilan Jiang et.al.|[2601.08256](http://arxiv.org/abs/2601.08256)|null|
+|**2026-01-13**|**Scoping Review: Mental Health XR Games at ISMAR, IEEEVR, & TVCG**|Cassidy R. Nelson et.al.|[2601.08203](http://arxiv.org/abs/2601.08203)|null|
 |**2026-01-12**|**Learning Through Dialogue: Unpacking the Dynamics of Human-LLM Conversations on Political Issues**|Shaz Furniturewala et.al.|[2601.07796](http://arxiv.org/abs/2601.07796)|null|
 |**2026-01-12**|**Passing the Baton: Shift Handovers within Cybersecurity Incident Response Teams**|Liberty Kent et.al.|[2601.07788](http://arxiv.org/abs/2601.07788)|null|
 |**2026-01-12**|**OS-Symphony: A Holistic Framework for Robust and Generalist Computer-Using Agent**|Bowen Yang et.al.|[2601.07779](http://arxiv.org/abs/2601.07779)|null|
