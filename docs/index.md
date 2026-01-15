@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.01.14
+### Automatically Updated on 2026.01.15
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,9 +959,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-14**|**CEI: A Unified Interface for Cross-Embodiment Visuomotor Policy Learning in 3D Space**|Tong Wu et.al.|[2601.09163](http://arxiv.org/abs/2601.09163)|null|
+|**2026-01-14**|**GeoMotionGPT: Geometry-Aligned Motion Understanding with Large Language Models**|Zhankai Ye et.al.|[2601.07632](http://arxiv.org/abs/2601.07632)|null|
+|**2026-01-13**|**Generalizable Geometric Prior and Recurrent Spiking Feature Learning for Humanoid Robot Manipulation**|Xuetao Li et.al.|[2601.09031](http://arxiv.org/abs/2601.09031)|null|
 |**2026-01-13**|**Towards Safer Mobile Agents: Scalable Generation and Evaluation of Diverse Scenarios for VLMs**|Takara Taniguchi et.al.|[2601.08470](http://arxiv.org/abs/2601.08470)|null|
 |**2026-01-12**|**Variational Contrastive Learning for Skeleton-based Action Recognition**|Dang Dinh Nguyen et.al.|[2601.07666](http://arxiv.org/abs/2601.07666)|null|
-|**2026-01-12**|**GeoMotionGPT: Geometry-Aligned Motion Understanding with Large Language Models**|Zhankai Ye et.al.|[2601.07632](http://arxiv.org/abs/2601.07632)|null|
 |**2026-01-12**|**AdaMorph: Unified Motion Retargeting via Embodiment-Aware Adaptive Transformers**|Haoyu Zhang et.al.|[2601.07284](http://arxiv.org/abs/2601.07284)|null|
 |**2026-01-10**|**RigMo: Unifying Rig and Motion Learning for Generative Animation**|Hao Zhang et.al.|[2601.06378](http://arxiv.org/abs/2601.06378)|null|
 |**2026-01-09**|**Game connectivity and adaptive dynamics in many-action games**|Tom Johnston et.al.|[2601.05965](http://arxiv.org/abs/2601.05965)|null|
@@ -1404,6 +1406,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-14**|**GlovEgo-HOI: Bridging the Synthetic-to-Real Gap for Industrial Egocentric Human-Object Interaction Detection**|Alfio Spoto et.al.|[2601.09528](http://arxiv.org/abs/2601.09528)|null|
 |**2026-01-02**|**Semantic Event Graphs for Long-Form Video Question Answering**|Aradhya Dixit et.al.|[2601.06097](http://arxiv.org/abs/2601.06097)|null|
 |**2025-12-28**|**ByteLoom: Weaving Geometry-Consistent Human-Object Interactions through Progressive Curriculum Learning**|Bangya Liu et.al.|[2512.22854](http://arxiv.org/abs/2512.22854)|null|
 |**2025-12-22**|**Decoupled Generative Modeling for Human-Object Interaction Synthesis**|Hwanhee Jung et.al.|[2512.19049](http://arxiv.org/abs/2512.19049)|null|
@@ -1610,6 +1613,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-14**|**PersonalAlign: Hierarchical Implicit Intent Alignment for Personalized GUI Agent with Long-Term User-Centric Records**|Yibo Lyu et.al.|[2601.09636](http://arxiv.org/abs/2601.09636)|null|
+|**2026-01-14**|**Perceptually-Guided Adjusted Teleporting: Perceptual Thresholds for Teleport Displacements in Virtual Environments**|Rose Connolly et.al.|[2601.09632](http://arxiv.org/abs/2601.09632)|null|
+|**2026-01-14**|**Full Disclosure, Less Trust? How the Level of Detail about AI Use in News Writing Affects Readers' Trust**|Pooja Prajod et.al.|[2601.09620](http://arxiv.org/abs/2601.09620)|null|
+|**2026-01-14**|**Technological Advances in Two Generations of Consumer-Grade VR Systems: Effects on User Experience and Task Performance**|Marie Luisa Fiedler et.al.|[2601.09610](http://arxiv.org/abs/2601.09610)|null|
+|**2026-01-14**|**Information Access of the Oppressed: A Problem-Posing Framework for Envisioning Emancipatory Information Access Platforms**|Bhaskar Mitra et.al.|[2601.09600](http://arxiv.org/abs/2601.09600)|null|
+|**2026-01-14**|**Video Joint-Embedding Predictive Architectures for Facial Expression Recognition**|Lennart Eing et.al.|[2601.09524](http://arxiv.org/abs/2601.09524)|null|
+|**2026-01-14**|**Learning Whole-Body Human-Humanoid Interaction from Human-Human Demonstrations**|Wei-Jin Huang et.al.|[2601.09518](http://arxiv.org/abs/2601.09518)|null|
+|**2026-01-14**|**TiInsight: A SQL-based Automated Exploratory Data Analysis System through Large Language Models**|Jun-Peng Zhu et.al.|[2601.09404](http://arxiv.org/abs/2601.09404)|null|
+|**2026-01-14**|**Mikasa: A Character-Driven Emotional AI Companion Inspired by Japanese Oshi Culture**|Miki Ueno et.al.|[2601.09208](http://arxiv.org/abs/2601.09208)|null|
+|**2026-01-14**|**Position on LLM-Assisted Peer Review: Addressing Reviewer Gap through Mentoring and Feedback**|JungMin Yun et.al.|[2601.09182](http://arxiv.org/abs/2601.09182)|null|
 |**2026-01-13**|**Older Adults' Preferences for Feedback Cadence from an Exercise Coach Robot**|Roshni Kaushik et.al.|[2601.08819](http://arxiv.org/abs/2601.08819)|null|
 |**2026-01-13**|**Auditing Student-AI Collaboration: A Case Study of Online Graduate CS Students**|Nifu Dan et.al.|[2601.08697](http://arxiv.org/abs/2601.08697)|null|
 |**2026-01-13**|**Tailored Immersive Environments: Advancing Neurodivergent Support Through Virtual Reality**|Elia Moscoso-Thompson et.al.|[2601.08652](http://arxiv.org/abs/2601.08652)|null|
