@@ -1618,6 +1618,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-15**|**The Conversational Exam: A Scalable Assessment Design for the AI Era**|Lorena A. Barba et.al.|[2601.10691](http://arxiv.org/abs/2601.10691)|null|
+|**2026-01-15**|**An Extension-Based Accessibility Framework for Making Blockly Accessible to Blind and Low-Vision Users**|Rubel Hassan Mollik et.al.|[2601.10688](http://arxiv.org/abs/2601.10688)|null|
 |**2026-01-15**|**Generative AI collective behavior needs an interactionist paradigm**|Laura Ferrarotti et.al.|[2601.10567](http://arxiv.org/abs/2601.10567)|null|
 |**2026-01-15**|**CoGen: Creation of Reusable UI Components in Figma via Textual Commands**|Ishani Kanapathipillai et.al.|[2601.10536](http://arxiv.org/abs/2601.10536)|null|
 |**2026-01-15**|**Learning from Brain Topography: A Hierarchical Local-Global Graph-Transformer Network for EEG Emotion Recognition**|Yijin Zhou et.al.|[2601.10525](http://arxiv.org/abs/2601.10525)|null|
