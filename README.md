@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.01.15
+### Automatically Updated on 2026.01.16
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,10 +14,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-15**|**CoMoVi: Co-Generation of 3D Human Motions and Realistic Videos**|Chengfeng Zhao et.al.|[2601.10632](http://arxiv.org/abs/2601.10632)|null|
+|**2026-01-15**|**CS-GBA: A Critical Sample-based Gradient-guided Backdoor Attack for Offline Reinforcement Learning**|Yuanjie Zhao et.al.|[2601.10407](http://arxiv.org/abs/2601.10407)|null|
+|**2026-01-15**|**Proactive Local-Minima-Free Robot Navigation: Blending Motion Prediction with Safe Control**|Yifan Xue et.al.|[2601.10233](http://arxiv.org/abs/2601.10233)|null|
+|**2026-01-14**|**How Human Motion Prediction Quality Shapes Social Robot Navigation Performance in Constrained Spaces**|Andrew Stratton et.al.|[2601.09856](http://arxiv.org/abs/2601.09856)|null|
 |**2026-01-14**|**CEI: A Unified Interface for Cross-Embodiment Visuomotor Policy Learning in 3D Space**|Tong Wu et.al.|[2601.09163](http://arxiv.org/abs/2601.09163)|null|
 |**2026-01-14**|**GeoMotionGPT: Geometry-Aligned Motion Understanding with Large Language Models**|Zhankai Ye et.al.|[2601.07632](http://arxiv.org/abs/2601.07632)|null|
 |**2026-01-13**|**Generalizable Geometric Prior and Recurrent Spiking Feature Learning for Humanoid Robot Manipulation**|Xuetao Li et.al.|[2601.09031](http://arxiv.org/abs/2601.09031)|null|
 |**2026-01-13**|**Towards Safer Mobile Agents: Scalable Generation and Evaluation of Diverse Scenarios for VLMs**|Takara Taniguchi et.al.|[2601.08470](http://arxiv.org/abs/2601.08470)|null|
+|**2026-01-12**|**R-LAM: Reproducibility-Constrained Large Action Models for Scientific Workflow Automation**|Suriya Sureshkumar et.al.|[2601.09749](http://arxiv.org/abs/2601.09749)|null|
 |**2026-01-12**|**Variational Contrastive Learning for Skeleton-based Action Recognition**|Dang Dinh Nguyen et.al.|[2601.07666](http://arxiv.org/abs/2601.07666)|null|
 |**2026-01-12**|**AdaMorph: Unified Motion Retargeting via Embodiment-Aware Adaptive Transformers**|Haoyu Zhang et.al.|[2601.07284](http://arxiv.org/abs/2601.07284)|null|
 |**2026-01-10**|**RigMo: Unifying Rig and Motion Learning for Generative Animation**|Hao Zhang et.al.|[2601.06378](http://arxiv.org/abs/2601.06378)|null|
@@ -324,7 +329,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260116>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -459,7 +464,7 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260116>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
@@ -668,12 +673,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260116>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-15**|**Generative AI collective behavior needs an interactionist paradigm**|Laura Ferrarotti et.al.|[2601.10567](http://arxiv.org/abs/2601.10567)|null|
+|**2026-01-15**|**CoGen: Creation of Reusable UI Components in Figma via Textual Commands**|Ishani Kanapathipillai et.al.|[2601.10536](http://arxiv.org/abs/2601.10536)|null|
+|**2026-01-15**|**Learning from Brain Topography: A Hierarchical Local-Global Graph-Transformer Network for EEG Emotion Recognition**|Yijin Zhou et.al.|[2601.10525](http://arxiv.org/abs/2601.10525)|null|
+|**2026-01-15**|**AEQ-Bench: Measuring Empathy of Omni-Modal Large Models**|Xuan Luo et.al.|[2601.10513](http://arxiv.org/abs/2601.10513)|null|
+|**2026-01-15**|**AI Sycophancy: How Users Flag and Respond**|Kazi Noshin et.al.|[2601.10467](http://arxiv.org/abs/2601.10467)|null|
+|**2026-01-15**|**LangLasso: Interactive Cluster Descriptions through LLM Explanation**|Raphael Buchmüller et.al.|[2601.10458](http://arxiv.org/abs/2601.10458)|null|
+|**2026-01-15**|**Does Cognitive Load Affect Human Accuracy in Detecting Voice-Based Deepfakes?**|Marcel Gohsen et.al.|[2601.10383](http://arxiv.org/abs/2601.10383)|null|
+|**2026-01-15**|**Evolving with AI: A Longitudinal Analysis of Developer Logs**|Agnia Sergeyuk et.al.|[2601.10258](http://arxiv.org/abs/2601.10258)|null|
+|**2026-01-15**|**Developer Interaction Patterns with Proactive AI: A Five-Day Field Study**|Nadine Kuo et.al.|[2601.10253](http://arxiv.org/abs/2601.10253)|null|
+|**2026-01-15**|**Who Owns the Text? Design Patterns for Preserving Authorship in AI-Assisted Writing**|Bohan Zhang et.al.|[2601.10236](http://arxiv.org/abs/2601.10236)|null|
 |**2026-01-14**|**PersonalAlign: Hierarchical Implicit Intent Alignment for Personalized GUI Agent with Long-Term User-Centric Records**|Yibo Lyu et.al.|[2601.09636](http://arxiv.org/abs/2601.09636)|null|
 |**2026-01-14**|**Perceptually-Guided Adjusted Teleporting: Perceptual Thresholds for Teleport Displacements in Virtual Environments**|Rose Connolly et.al.|[2601.09632](http://arxiv.org/abs/2601.09632)|null|
 |**2026-01-14**|**Full Disclosure, Less Trust? How the Level of Detail about AI Use in News Writing Affects Readers' Trust**|Pooja Prajod et.al.|[2601.09620](http://arxiv.org/abs/2601.09620)|null|
@@ -1137,7 +1152,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260116>back to top</a>)</p>
 
 Notes: 
 
