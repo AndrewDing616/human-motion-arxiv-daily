@@ -959,6 +959,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-20**|**CREATE: Cross-Layer Resilience Characterization and Optimization for Efficient yet Reliable Embodied AI Systems**|Tong Xie et.al.|[2601.14140](http://arxiv.org/abs/2601.14140)|null|
+|**2026-01-20**|**Rigid Body Dynamics in Ambient Fluids**|Marcel Padilla et.al.|[2601.13971](http://arxiv.org/abs/2601.13971)|null|
+|**2026-01-19**|**Sparse ActionGen: Accelerating Diffusion Policy with Real-time Pruning**|Kangye Ji et.al.|[2601.12894](http://arxiv.org/abs/2601.12894)|null|
+|**2026-01-19**|**FRoM-W1: Towards General Humanoid Whole-Body Control with Language Instructions**|Peng Li et.al.|[2601.12799](http://arxiv.org/abs/2601.12799)|null|
+|**2026-01-19**|**Moaw: Unleashing Motion Awareness for Video Diffusion Models**|Tianqi Zhang et.al.|[2601.12761](http://arxiv.org/abs/2601.12761)|null|
+|**2026-01-19**|**Millimeter-Wave Multi-Radar Tracking System Enabled by a Modified GRIN Luneburg Lens for Real-Time Healthcare Monitoring**|Mohammad Omid Bagheri et.al.|[2601.12629](http://arxiv.org/abs/2601.12629)|null|
 |**2026-01-18**|**Actionable Advice from Reviews via Mixture of LoRA Experts: A Two-LLM Pipeline for Issue Extraction and Business Recommendations**|Kartikey Singh Bhandari et.al.|[2601.12338](http://arxiv.org/abs/2601.12338)|null|
 |**2026-01-18**|**Breaking Coordinate Overfitting: Geometry-Aware WiFi Sensing for Cross-Layout 3D Pose Estimation**|Songming Jia et.al.|[2601.12252](http://arxiv.org/abs/2601.12252)|null|
 |**2026-01-17**|**UniMo: Unified Motion Generation and Understanding with Chain of Thought**|Guocun Wang et.al.|[2601.12126](http://arxiv.org/abs/2601.12126)|null|
@@ -1420,6 +1426,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-01-17**|**DAOS: A Multimodal In-cabin Behavior Monitoring with Driver Action-Object Synergy Dataset**|Yiming Li et.al.|[2601.11990](http://arxiv.org/abs/2601.11990)|null|
 |**2026-01-16**|**The Great March 100: 100 Detail-oriented Tasks for Evaluating Embodied AI Agents**|Ziyu Wang et.al.|[2601.11421](http://arxiv.org/abs/2601.11421)|null|
+|**2026-01-15**|**Human detectors are surprisingly powerful reward models**|Kumar Ashutosh et.al.|[2601.14037](http://arxiv.org/abs/2601.14037)|null|
 |**2026-01-14**|**GlovEgo-HOI: Bridging the Synthetic-to-Real Gap for Industrial Egocentric Human-Object Interaction Detection**|Alfio Spoto et.al.|[2601.09528](http://arxiv.org/abs/2601.09528)|null|
 |**2026-01-02**|**Semantic Event Graphs for Long-Form Video Question Answering**|Aradhya Dixit et.al.|[2601.06097](http://arxiv.org/abs/2601.06097)|null|
 |**2025-12-28**|**ByteLoom: Weaving Geometry-Consistent Human-Object Interactions through Progressive Curriculum Learning**|Bangya Liu et.al.|[2512.22854](http://arxiv.org/abs/2512.22854)|null|
@@ -1627,6 +1634,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-20**|**MASCOT: Towards Multi-Agent Socio-Collaborative Companion Systems**|Yiyang Wang et.al.|[2601.14230](http://arxiv.org/abs/2601.14230)|null|
+|**2026-01-20**|**The Transparency Paradox in Explainable AI: A Theory of Autonomy Depletion Through Cognitive Load**|Ancuta Margondai et.al.|[2601.13973](http://arxiv.org/abs/2601.13973)|null|
+|**2026-01-20**|**PREFAB: PREFerence-based Affective Modeling for Low-Budget Self-Annotation**|Jaeyoung Moon et.al.|[2601.13904](http://arxiv.org/abs/2601.13904)|null|
+|**2026-01-20**|**Towards Inclusive External Human-Machine Interface: Exploring the Effects of Visual and Auditory eHMI for Deaf and Hard-of-Hearing People**|Wenge Xu et.al.|[2601.13889](http://arxiv.org/abs/2601.13889)|null|
+|**2026-01-20**|**Understanding Human-Multi-Agent Team Formation for Creative Work**|Hyunseung Lim et.al.|[2601.13865](http://arxiv.org/abs/2601.13865)|null|
+|**2026-01-20**|**Designing Drone Interfaces to Assist Pedestrians Crossing Non-Signalised Roads**|Guixiang Zhang et.al.|[2601.13858](http://arxiv.org/abs/2601.13858)|null|
+|**2026-01-20**|**GuideTouch: An Obstacle Avoidance Device for Visually Impaired**|Timofei Kozlov et.al.|[2601.13813](http://arxiv.org/abs/2601.13813)|null|
+|**2026-01-20**|**Fit Matters: Format-Distance Alignment Improves Conversational Search**|Yitian Yang et.al.|[2601.13778](http://arxiv.org/abs/2601.13778)|null|
+|**2026-01-20**|**EEG-Titans: Long-Horizon Seizure Forecasting via Dual-Branch Attention and Neural Memory**|Tien-Dat Pham et.al.|[2601.13748](http://arxiv.org/abs/2601.13748)|null|
+|**2026-01-20**|**Hidden in Plain Text: Measuring LLM Deception Quality Against Human Baselines Using Social Deduction Games**|Christopher Kao et.al.|[2601.13709](http://arxiv.org/abs/2601.13709)|null|
 |**2026-01-18**|**Conversing with Objects toward Fluid Human and Artificial Identities during Life Transitions**|Yuhui Xu et.al.|[2601.12589](http://arxiv.org/abs/2601.12589)|null|
 |**2026-01-18**|**Do MLLMs See What We See? Analyzing Visualization Literacy Barriers in AI Systems**|Mengli et.al.|[2601.12585](http://arxiv.org/abs/2601.12585)|null|
 |**2026-01-18**|**Information Farming: From Berry Picking to Berry Growing**|Leif Azzopardi et.al.|[2601.12544](http://arxiv.org/abs/2601.12544)|null|
