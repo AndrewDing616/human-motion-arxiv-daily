@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.01.20
+### Automatically Updated on 2026.01.21
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-18**|**Actionable Advice from Reviews via Mixture of LoRA Experts: A Two-LLM Pipeline for Issue Extraction and Business Recommendations**|Kartikey Singh Bhandari et.al.|[2601.12338](http://arxiv.org/abs/2601.12338)|null|
+|**2026-01-18**|**Breaking Coordinate Overfitting: Geometry-Aware WiFi Sensing for Cross-Layout 3D Pose Estimation**|Songming Jia et.al.|[2601.12252](http://arxiv.org/abs/2601.12252)|null|
+|**2026-01-17**|**UniMo: Unified Motion Generation and Understanding with Chain of Thought**|Guocun Wang et.al.|[2601.12126](http://arxiv.org/abs/2601.12126)|null|
 |**2026-01-16**|**ACoT-VLA: Action Chain-of-Thought for Vision-Language-Action Models**|Linqing Zhong et.al.|[2601.11404](http://arxiv.org/abs/2601.11404)|null|
 |**2026-01-15**|**FrankenMotion: Part-level Human Motion Generation and Composition**|Chuqiao Li et.al.|[2601.10909](http://arxiv.org/abs/2601.10909)|null|
 |**2026-01-15**|**Future Optical Flow Prediction Improves Robot Control & Video Generation**|Kanchana Ranasinghe et.al.|[2601.10781](http://arxiv.org/abs/2601.10781)|null|
@@ -1281,6 +1284,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-16**|**Generating metamers of human scene understanding**|Ritik Raina et.al.|[2601.11675](http://arxiv.org/abs/2601.11675)|null|
 |**2026-01-04**|**AHA! Animating Human Avatars in Diverse Scenes with Gaussian Splatting**|Aymen Mir et.al.|[2511.09827](http://arxiv.org/abs/2511.09827)|null|
 |**2025-12-22**|**BRIC: Bridging Kinematic Plans and Physical Control at Test Time**|Dohun Lim et.al.|[2511.20431](http://arxiv.org/abs/2511.20431)|null|
 |**2025-12-21**|**CRISP: Contact-Guided Real2Sim from Monocular Video with Planar Scene Primitives**|Zihan Wang et.al.|[2512.14696](http://arxiv.org/abs/2512.14696)|null|
@@ -1414,6 +1418,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-17**|**DAOS: A Multimodal In-cabin Behavior Monitoring with Driver Action-Object Synergy Dataset**|Yiming Li et.al.|[2601.11990](http://arxiv.org/abs/2601.11990)|null|
 |**2026-01-16**|**The Great March 100: 100 Detail-oriented Tasks for Evaluating Embodied AI Agents**|Ziyu Wang et.al.|[2601.11421](http://arxiv.org/abs/2601.11421)|null|
 |**2026-01-14**|**GlovEgo-HOI: Bridging the Synthetic-to-Real Gap for Industrial Egocentric Human-Object Interaction Detection**|Alfio Spoto et.al.|[2601.09528](http://arxiv.org/abs/2601.09528)|null|
 |**2026-01-02**|**Semantic Event Graphs for Long-Form Video Question Answering**|Aradhya Dixit et.al.|[2601.06097](http://arxiv.org/abs/2601.06097)|null|
@@ -1622,6 +1627,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-18**|**Conversing with Objects toward Fluid Human and Artificial Identities during Life Transitions**|Yuhui Xu et.al.|[2601.12589](http://arxiv.org/abs/2601.12589)|null|
+|**2026-01-18**|**Do MLLMs See What We See? Analyzing Visualization Literacy Barriers in AI Systems**|Mengli et.al.|[2601.12585](http://arxiv.org/abs/2601.12585)|null|
+|**2026-01-18**|**Information Farming: From Berry Picking to Berry Growing**|Leif Azzopardi et.al.|[2601.12544](http://arxiv.org/abs/2601.12544)|null|
+|**2026-01-18**|**VASTU: Value-Aligned Social Toolkit for Online Content Curation**|Agam Goyal et.al.|[2601.12491](http://arxiv.org/abs/2601.12491)|null|
+|**2026-01-18**|**A Multimodal Assistive System for Product Localization and Retrieval for People who are Blind or have Low Vision**|Ligao Ruan et.al.|[2601.12486](http://arxiv.org/abs/2601.12486)|null|
+|**2026-01-18**|**VR $^2$ : A Co-Located Dual-Headset Platform for Touch-Enabled Human-Robot Interaction Research**|Chao Wang et.al.|[2601.12395](http://arxiv.org/abs/2601.12395)|null|
+|**2026-01-18**|**CD-TWINSAFE: A ROS-enabled Digital Twin for Scene Understanding and Safety Emerging V2I Technology**|Amro Khaled et.al.|[2601.12373](http://arxiv.org/abs/2601.12373)|null|
+|**2026-01-18**|**User-to-Vehicle Interaction in Smart Mobility: The GO-DRiVeS Autonomous Ride-Sharing Application**|Hana E. Elmalah et.al.|[2601.12367](http://arxiv.org/abs/2601.12367)|null|
+|**2026-01-18**|**Time-Continuous Modeling for Temporal Affective Pattern Recognition in LLMs**|Rezky Kam et.al.|[2601.12341](http://arxiv.org/abs/2601.12341)|null|
+|**2026-01-18**|**Experiencer, Helper, or Observer: Online Fraud Intervention for Older Adults Through Role-based Simulation**|Yue Deng et.al.|[2601.12324](http://arxiv.org/abs/2601.12324)|null|
 |**2026-01-16**|**Interactive Narrative Analytics: Bridging Computational Narrative Extraction and Human Sensemaking**|Brian Keith et.al.|[2601.11459](http://arxiv.org/abs/2601.11459)|null|
 |**2026-01-16**|**Sociotechnical Challenges of Machine Learning in Healthcare and Social Welfare**|Tyler Reinmund et.al.|[2601.11417](http://arxiv.org/abs/2601.11417)|null|
 |**2026-01-16**|**Show me the evidence: Evaluating the role of evidence and natural language explanations in AI-supported fact-checking**|Greta Warren et.al.|[2601.11387](http://arxiv.org/abs/2601.11387)|null|
