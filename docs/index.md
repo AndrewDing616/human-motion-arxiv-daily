@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.01.21
+### Automatically Updated on 2026.01.22
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-21**|**Reconstruction-Anchored Diffusion Model for Text-to-Motion Generation**|Yifei Liu et.al.|[2601.14788](http://arxiv.org/abs/2601.14788)|null|
+|**2026-01-21**|**A Brain-inspired Embodied Intelligence for Fluid and Fast Reflexive Robotics Control**|Weiyu Guo et.al.|[2601.14628](http://arxiv.org/abs/2601.14628)|null|
 |**2026-01-20**|**CREATE: Cross-Layer Resilience Characterization and Optimization for Efficient yet Reliable Embodied AI Systems**|Tong Xie et.al.|[2601.14140](http://arxiv.org/abs/2601.14140)|null|
 |**2026-01-20**|**Rigid Body Dynamics in Ambient Fluids**|Marcel Padilla et.al.|[2601.13971](http://arxiv.org/abs/2601.13971)|null|
 |**2026-01-19**|**Sparse ActionGen: Accelerating Diffusion Policy with Real-time Pruning**|Kangye Ji et.al.|[2601.12894](http://arxiv.org/abs/2601.12894)|null|
@@ -1424,9 +1426,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-21**|**Human detectors are surprisingly powerful reward models**|Kumar Ashutosh et.al.|[2601.14037](http://arxiv.org/abs/2601.14037)|null|
 |**2026-01-17**|**DAOS: A Multimodal In-cabin Behavior Monitoring with Driver Action-Object Synergy Dataset**|Yiming Li et.al.|[2601.11990](http://arxiv.org/abs/2601.11990)|null|
 |**2026-01-16**|**The Great March 100: 100 Detail-oriented Tasks for Evaluating Embodied AI Agents**|Ziyu Wang et.al.|[2601.11421](http://arxiv.org/abs/2601.11421)|null|
-|**2026-01-15**|**Human detectors are surprisingly powerful reward models**|Kumar Ashutosh et.al.|[2601.14037](http://arxiv.org/abs/2601.14037)|null|
 |**2026-01-14**|**GlovEgo-HOI: Bridging the Synthetic-to-Real Gap for Industrial Egocentric Human-Object Interaction Detection**|Alfio Spoto et.al.|[2601.09528](http://arxiv.org/abs/2601.09528)|null|
 |**2026-01-02**|**Semantic Event Graphs for Long-Form Video Question Answering**|Aradhya Dixit et.al.|[2601.06097](http://arxiv.org/abs/2601.06097)|null|
 |**2025-12-28**|**ByteLoom: Weaving Geometry-Consistent Human-Object Interactions through Progressive Curriculum Learning**|Bangya Liu et.al.|[2512.22854](http://arxiv.org/abs/2512.22854)|null|
@@ -1634,6 +1636,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-21**|**Real-time Facial Communication Restores Cooperation After Defection in Social Dilemmas**|Mayada Oudah et.al.|[2601.15211](http://arxiv.org/abs/2601.15211)|null|
+|**2026-01-21**|**Deaf and Hard of Hearing Access to Intelligent Personal Assistants: Comparison of Voice-Based Options with an LLM-Powered Touch Interface**|Paige S. DeVries et.al.|[2601.15209](http://arxiv.org/abs/2601.15209)|null|
+|**2026-01-21**|**The Promises and Perils of using LLMs for Effective Public Services**|Erina Seh-Young Moon et.al.|[2601.15163](http://arxiv.org/abs/2601.15163)|null|
+|**2026-01-21**|**A Real-Time Error Prevention System for Gaze-Based Interaction in Virtual Reality Based on Anomaly Detection**|Björn R. Severitt et.al.|[2601.15146](http://arxiv.org/abs/2601.15146)|null|
+|**2026-01-21**|**Conversational AI for Social Good (CAI4SG): An Overview of Emerging Trends, Applications, and Challenges**|Yi-Chieh Lee et.al.|[2601.15136](http://arxiv.org/abs/2601.15136)|null|
+|**2026-01-21**|**BREPS: Bounding-Box Robustness Evaluation of Promptable Segmentation**|Andrey Moskalenko et.al.|[2601.15123](http://arxiv.org/abs/2601.15123)|null|
+|**2026-01-21**|**An Agentic Operationalization of DISARM for FIMI Investigation on Social Media**|Kevin Tseng et.al.|[2601.15109](http://arxiv.org/abs/2601.15109)|null|
+|**2026-01-21**|**Facilitating Proactive and Reactive Guidance for Decision Making on the Web: A Design Probe with WebSeek**|Yanwei Huang et.al.|[2601.15100](http://arxiv.org/abs/2601.15100)|null|
+|**2026-01-21**|**Incentive-Tuning: Understanding and Designing Incentives for Empirical Human-AI Decision-Making Studies**|Simran Kaur et.al.|[2601.15064](http://arxiv.org/abs/2601.15064)|null|
+|**2026-01-21**|**Visual and Cognitive Demands of a Large Language Model-Powered In-vehicle Conversational Agent**|Chris Monk et.al.|[2601.15034](http://arxiv.org/abs/2601.15034)|null|
 |**2026-01-20**|**MASCOT: Towards Multi-Agent Socio-Collaborative Companion Systems**|Yiyang Wang et.al.|[2601.14230](http://arxiv.org/abs/2601.14230)|null|
 |**2026-01-20**|**The Transparency Paradox in Explainable AI: A Theory of Autonomy Depletion Through Cognitive Load**|Ancuta Margondai et.al.|[2601.13973](http://arxiv.org/abs/2601.13973)|null|
 |**2026-01-20**|**PREFAB: PREFerence-based Affective Modeling for Low-Budget Self-Annotation**|Jaeyoung Moon et.al.|[2601.13904](http://arxiv.org/abs/2601.13904)|null|
