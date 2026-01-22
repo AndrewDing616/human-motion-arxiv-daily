@@ -1636,6 +1636,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-21**|**LLM-based Multimodal Feedback Produces Equivalent Learning and Better Student Perceptions than Educator Feedback**|Chloe Qianhui Zhao et.al.|[2601.15280](http://arxiv.org/abs/2601.15280)|null|
 |**2026-01-21**|**Real-time Facial Communication Restores Cooperation After Defection in Social Dilemmas**|Mayada Oudah et.al.|[2601.15211](http://arxiv.org/abs/2601.15211)|null|
 |**2026-01-21**|**Deaf and Hard of Hearing Access to Intelligent Personal Assistants: Comparison of Voice-Based Options with an LLM-Powered Touch Interface**|Paige S. DeVries et.al.|[2601.15209](http://arxiv.org/abs/2601.15209)|null|
 |**2026-01-21**|**The Promises and Perils of using LLMs for Effective Public Services**|Erina Seh-Young Moon et.al.|[2601.15163](http://arxiv.org/abs/2601.15163)|null|
