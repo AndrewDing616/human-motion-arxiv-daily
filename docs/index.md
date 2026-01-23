@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.01.22
+### Automatically Updated on 2026.01.23
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-22**|**Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning**|Moo Jin Kim et.al.|[2601.16163](http://arxiv.org/abs/2601.16163)|null|
+|**2026-01-22**|**Masked Modeling for Human Motion Recovery Under Occlusions**|Zhiyin Qian et.al.|[2601.16079](http://arxiv.org/abs/2601.16079)|null|
+|**2026-01-22**|**Decoupling Return-to-Go for Efficient Decision Transformer**|Yongyi Wang et.al.|[2601.15953](http://arxiv.org/abs/2601.15953)|null|
 |**2026-01-21**|**Reconstruction-Anchored Diffusion Model for Text-to-Motion Generation**|Yifei Liu et.al.|[2601.14788](http://arxiv.org/abs/2601.14788)|null|
 |**2026-01-21**|**A Brain-inspired Embodied Intelligence for Fluid and Fast Reflexive Robotics Control**|Weiyu Guo et.al.|[2601.14628](http://arxiv.org/abs/2601.14628)|null|
 |**2026-01-20**|**CREATE: Cross-Layer Resilience Characterization and Optimization for Efficient yet Reliable Embodied AI Systems**|Tong Xie et.al.|[2601.14140](http://arxiv.org/abs/2601.14140)|null|
@@ -1426,6 +1429,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-22**|**Skywork UniPic 3.0: Unified Multi-Image Composition via Sequence Modeling**|Hongyang Wei et.al.|[2601.15664](http://arxiv.org/abs/2601.15664)|null|
 |**2026-01-21**|**Human detectors are surprisingly powerful reward models**|Kumar Ashutosh et.al.|[2601.14037](http://arxiv.org/abs/2601.14037)|null|
 |**2026-01-17**|**DAOS: A Multimodal In-cabin Behavior Monitoring with Driver Action-Object Synergy Dataset**|Yiming Li et.al.|[2601.11990](http://arxiv.org/abs/2601.11990)|null|
 |**2026-01-16**|**The Great March 100: 100 Detail-oriented Tasks for Evaluating Embodied AI Agents**|Ziyu Wang et.al.|[2601.11421](http://arxiv.org/abs/2601.11421)|null|
@@ -1636,6 +1640,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-22**|**Replicating Human Motivated Reasoning Studies with LLMs**|Neeley Pate et.al.|[2601.16130](http://arxiv.org/abs/2601.16130)|null|
+|**2026-01-22**|**From Harm to Healing: Understanding Individual Resilience after Cybercrimes**|Xiaowei Chen et.al.|[2601.16050](http://arxiv.org/abs/2601.16050)|null|
+|**2026-01-22**|**Timbre-Aware LLM-based Direct Speech-to-Speech Translation Extendable to Multiple Language Pairs**|Lalaram Arya et.al.|[2601.16023](http://arxiv.org/abs/2601.16023)|null|
+|**2026-01-22**|**The Latency Wall: Benchmarking Off-the-Shelf Emotion Recognition for Real-Time Virtual Avatars**|Yarin Benyamin et.al.|[2601.15914](http://arxiv.org/abs/2601.15914)|null|
+|**2026-01-22**|**Co-Constructing Alignment: A Participatory Approach to Situate AI Values**|Anne Arzberger et.al.|[2601.15895](http://arxiv.org/abs/2601.15895)|null|
+|**2026-01-22**|**Entangled Life and Code: A Computational Design Taxonomy for Synergistic Bio-Digital Systems**|Zoë Breed et.al.|[2601.15804](http://arxiv.org/abs/2601.15804)|null|
+|**2026-01-22**|**UXCascade: Scalable Usability Testing with Simulated User Agents**|Steffen Holter et.al.|[2601.15777](http://arxiv.org/abs/2601.15777)|null|
+|**2026-01-22**|**StreetDesignAI: A Multi-Persona Evaluation System for Inclusive Infrastructure Design**|Ziyi Wang et.al.|[2601.15671](http://arxiv.org/abs/2601.15671)|null|
+|**2026-01-22**|**Reflective Motion and a Physical Canvas: Exploring Embodied Journaling in Virtual Reality**|Michael Yin et.al.|[2601.15656](http://arxiv.org/abs/2601.15656)|null|
+|**2026-01-22**|**Tackling the Scaffolding Paradox: A Person-Centered Adaptive Robotic Interview Coach**|Wanqi Zhang et.al.|[2601.15600](http://arxiv.org/abs/2601.15600)|null|
 |**2026-01-21**|**LLM-based Multimodal Feedback Produces Equivalent Learning and Better Student Perceptions than Educator Feedback**|Chloe Qianhui Zhao et.al.|[2601.15280](http://arxiv.org/abs/2601.15280)|null|
 |**2026-01-21**|**Real-time Facial Communication Restores Cooperation After Defection in Social Dilemmas**|Mayada Oudah et.al.|[2601.15211](http://arxiv.org/abs/2601.15211)|null|
 |**2026-01-21**|**Deaf and Hard of Hearing Access to Intelligent Personal Assistants: Comparison of Voice-Based Options with an LLM-Powered Touch Interface**|Paige S. DeVries et.al.|[2601.15209](http://arxiv.org/abs/2601.15209)|null|
