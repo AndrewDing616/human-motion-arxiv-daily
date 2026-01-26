@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.01.25
+### Automatically Updated on 2026.01.26
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,8 +959,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-23**|**Adaptive Reinforcement and Model Predictive Control Switching for Safe Human-Robot Cooperative Navigation**|Ning Liu et.al.|[2601.16686](http://arxiv.org/abs/2601.16686)|null|
+|**2026-01-23**|**Masked Modeling for Human Motion Recovery Under Occlusions**|Zhiyin Qian et.al.|[2601.16079](http://arxiv.org/abs/2601.16079)|null|
 |**2026-01-22**|**Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning**|Moo Jin Kim et.al.|[2601.16163](http://arxiv.org/abs/2601.16163)|null|
-|**2026-01-22**|**Masked Modeling for Human Motion Recovery Under Occlusions**|Zhiyin Qian et.al.|[2601.16079](http://arxiv.org/abs/2601.16079)|null|
 |**2026-01-22**|**Decoupling Return-to-Go for Efficient Decision Transformer**|Yongyi Wang et.al.|[2601.15953](http://arxiv.org/abs/2601.15953)|null|
 |**2026-01-21**|**Reconstruction-Anchored Diffusion Model for Text-to-Motion Generation**|Yifei Liu et.al.|[2601.14788](http://arxiv.org/abs/2601.14788)|null|
 |**2026-01-21**|**A Brain-inspired Embodied Intelligence for Fluid and Fast Reflexive Robotics Control**|Weiyu Guo et.al.|[2601.14628](http://arxiv.org/abs/2601.14628)|null|
@@ -1640,6 +1641,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-23**|**Do We Know What They Know We Know? Calibrating Student Trust in AI and Human Responses Through Mutual Theory of Mind**|Olivia Pal et.al.|[2601.16960](http://arxiv.org/abs/2601.16960)|null|
+|**2026-01-23**|**Nishpaksh: TEC Standard-Compliant Framework for Fairness Auditing and Certification of AI Models**|Shashank Prakash et.al.|[2601.16926](http://arxiv.org/abs/2601.16926)|null|
+|**2026-01-23**|**The Trajectory Alignment Coefficient in Two Acts: From Reward Tuning to Reward Learning**|Calarina Muslimani et.al.|[2601.16906](http://arxiv.org/abs/2601.16906)|null|
+|**2026-01-23**|**Optical Tag-Based Neuronavigation and Augmentation System for Non-Invasive Brain Stimulation**|Xuyi Hu et.al.|[2601.16862](http://arxiv.org/abs/2601.16862)|null|
+|**2026-01-23**|**Privacy in Human-AI Romantic Relationships: Concerns, Boundaries, and Agency**|Rongjun Ma et.al.|[2601.16824](http://arxiv.org/abs/2601.16824)|null|
+|**2026-01-23**|**GTA: Generative Traffic Agents for Simulating Realistic Mobility Behavior**|Simon Lämmer et.al.|[2601.16778](http://arxiv.org/abs/2601.16778)|null|
+|**2026-01-23**|**Tactile Rendering Using Three Basic Stimulus Components in Ultrasound Midair Haptics**|Tao Morisaki et.al.|[2601.16767](http://arxiv.org/abs/2601.16767)|null|
+|**2026-01-23**|**From Clicks to Consensus: Collective Consent Assemblies for Data Governance**|Lin Kyi et.al.|[2601.16752](http://arxiv.org/abs/2601.16752)|null|
+|**2026-01-23**|**"What I Sign Is Not What I See": Towards Explainable and Trustworthy Cryptocurrency Wallet Signatures**|Yuyang Qin et.al.|[2601.16751](http://arxiv.org/abs/2601.16751)|null|
+|**2026-01-23**|**Evaluating Generative AI in the Lab: Methodological Challenges and Guidelines**|Hyerim Park et.al.|[2601.16740](http://arxiv.org/abs/2601.16740)|null|
 |**2026-01-22**|**Replicating Human Motivated Reasoning Studies with LLMs**|Neeley Pate et.al.|[2601.16130](http://arxiv.org/abs/2601.16130)|null|
 |**2026-01-22**|**From Harm to Healing: Understanding Individual Resilience after Cybercrimes**|Xiaowei Chen et.al.|[2601.16050](http://arxiv.org/abs/2601.16050)|null|
 |**2026-01-22**|**Timbre-Aware LLM-based Direct Speech-to-Speech Translation Extendable to Multiple Language Pairs**|Lalaram Arya et.al.|[2601.16023](http://arxiv.org/abs/2601.16023)|null|
