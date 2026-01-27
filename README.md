@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-26**|**Goal-oriented Communication for Fast and Robust Robotic Fault Detection and Recovery**|Shutong Chen et.al.|[2601.18765](http://arxiv.org/abs/2601.18765)|null|
+|**2026-01-26**|**Splat-Portrait: Generalizing Talking Heads with Gaussian Splatting**|Tong Shi et.al.|[2601.18633](http://arxiv.org/abs/2601.18633)|null|
 |**2026-01-25**|**LLM-Based SQL Generation: Prompting, Self-Refinement, and Adaptive Weighted Majority Voting**|Yu-Jie Yang et.al.|[2601.17942](http://arxiv.org/abs/2601.17942)|null|
 |**2026-01-23**|**Adaptive Reinforcement and Model Predictive Control Switching for Safe Human-Robot Cooperative Navigation**|Ning Liu et.al.|[2601.16686](http://arxiv.org/abs/2601.16686)|null|
 |**2026-01-23**|**Masked Modeling for Human Motion Recovery Under Occlusions**|Zhiyin Qian et.al.|[2601.16079](http://arxiv.org/abs/2601.16079)|null|
@@ -703,6 +705,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-26**|**MEGnifying Emotion: Sentiment Analysis from Annotated Brain Data**|Brian Liu et.al.|[2601.18792](http://arxiv.org/abs/2601.18792)|null|
+|**2026-01-26**|**Design Techniques for LLM-Powered Interactive Storytelling: A Case Study of the Dramamancer System**|Tiffany Wang et.al.|[2601.18785](http://arxiv.org/abs/2601.18785)|null|
+|**2026-01-26**|**Are Conversational AI Agents the Way Out? Co-Designing Reader-Oriented News Experiences with Immigrants and Journalists**|Yongle Zhang et.al.|[2601.18772](http://arxiv.org/abs/2601.18772)|null|
+|**2026-01-26**|**UI Remix: Supporting UI Design Through Interactive Example Retrieval and Remixing**|Junling Wang et.al.|[2601.18759](http://arxiv.org/abs/2601.18759)|null|
+|**2026-01-26**|**Anticipation in Action: Evaluating Stimulus-Preceding Negativity as an Implicit Trigger for Adaptive Mixed Reality**|Francesco Chiossi et.al.|[2601.18750](http://arxiv.org/abs/2601.18750)|null|
+|**2026-01-26**|**Bridging Instead of Replacing Online Coding Communities with AI through Community-Enriched Chatbot Designs**|Junling Wang et.al.|[2601.18697](http://arxiv.org/abs/2601.18697)|null|
+|**2026-01-26**|**Counterfactual Explanations on Robust Perceptual Geodesics**|Eslam Zaher et.al.|[2601.18678](http://arxiv.org/abs/2601.18678)|null|
+|**2026-01-26**|**Unheard in the Digital Age: Rethinking AI Bias and Speech Diversity**|Onyedikachi Hope Amaechi-Okorie et.al.|[2601.18641](http://arxiv.org/abs/2601.18641)|null|
+|**2026-01-26**|**Assessing the Quality of Mental Health Support in LLM Responses through Multi-Attribute Human Evaluation**|Abeer Badawi et.al.|[2601.18630](http://arxiv.org/abs/2601.18630)|null|
+|**2026-01-26**|**BAIT: Visual-illusion-inspired Privacy Preservation for Mobile Data Visualization**|Sizhe Cheng et.al.|[2601.18497](http://arxiv.org/abs/2601.18497)|null|
 |**2026-01-25**|**"Lighting The Way For Those Not Here": How Technology Researchers Can Help Fight the Missing and Murdered Indigenous Relatives (MMIR) Crisis**|Naman Gupta et.al.|[2601.17966](http://arxiv.org/abs/2601.17966)|null|
 |**2026-01-25**|**Designing AI Peers for Collaborative Mathematical Problem Solving with Middle School Students: A Participatory Design Study**|Wenhan Lyu et.al.|[2601.17962](http://arxiv.org/abs/2601.17962)|null|
 |**2026-01-25**|**"I use ChatGPT to humanize my words": Affordances and Risks of ChatGPT to Autistic Users**|Renkai Ma et.al.|[2601.17946](http://arxiv.org/abs/2601.17946)|null|
