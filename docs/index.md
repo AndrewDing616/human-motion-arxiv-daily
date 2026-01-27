@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.01.26
+### Automatically Updated on 2026.01.27
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-25**|**LLM-Based SQL Generation: Prompting, Self-Refinement, and Adaptive Weighted Majority Voting**|Yu-Jie Yang et.al.|[2601.17942](http://arxiv.org/abs/2601.17942)|null|
 |**2026-01-23**|**Adaptive Reinforcement and Model Predictive Control Switching for Safe Human-Robot Cooperative Navigation**|Ning Liu et.al.|[2601.16686](http://arxiv.org/abs/2601.16686)|null|
 |**2026-01-23**|**Masked Modeling for Human Motion Recovery Under Occlusions**|Zhiyin Qian et.al.|[2601.16079](http://arxiv.org/abs/2601.16079)|null|
 |**2026-01-22**|**Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning**|Moo Jin Kim et.al.|[2601.16163](http://arxiv.org/abs/2601.16163)|null|
@@ -1296,6 +1297,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-23**|**Ar2Can: An Architect and an Artist Leveraging a Canvas for Multi-Human Generation**|Shubhankar Borse et.al.|[2511.22690](http://arxiv.org/abs/2511.22690)|null|
 |**2026-01-16**|**Generating metamers of human scene understanding**|Ritik Raina et.al.|[2601.11675](http://arxiv.org/abs/2601.11675)|null|
 |**2026-01-04**|**AHA! Animating Human Avatars in Diverse Scenes with Gaussian Splatting**|Aymen Mir et.al.|[2511.09827](http://arxiv.org/abs/2511.09827)|null|
 |**2025-12-22**|**BRIC: Bridging Kinematic Plans and Physical Control at Test Time**|Dohun Lim et.al.|[2511.20431](http://arxiv.org/abs/2511.20431)|null|
@@ -1342,7 +1344,6 @@ layout: default
 |**2025-11-27**|**From Pixels to Feelings: Aligning MLLMs with Human Cognitive Perception of Images**|Yiming Chen et.al.|[2511.22805](http://arxiv.org/abs/2511.22805)|null|
 |**2025-11-27**|**World in a Frame: Understanding Culture Mixing as a New Challenge for Vision-Language Models**|Eunsu Kim et.al.|[2511.22787](http://arxiv.org/abs/2511.22787)|null|
 |**2025-11-27**|**Splat-SAP: Feed-Forward Gaussian Splatting for Human-Centered Scene with Scale-Aware Point Map Reconstruction**|Boyao Zhou et.al.|[2511.22704](http://arxiv.org/abs/2511.22704)|null|
-|**2025-11-27**|**Ar2Can: An Architect and an Artist Leveraging a Canvas for Multi-Human Generation**|Shubhankar Borse et.al.|[2511.22690](http://arxiv.org/abs/2511.22690)|null|
 |**2025-11-27**|**GeoZero: Incentivizing Reasoning from Scratch on Geospatial Scenes**|Di Wang et.al.|[2511.22645](http://arxiv.org/abs/2511.22645)|null|
 |**2025-11-27**|**INSIGHT: An Interpretable Neural Vision-Language Framework for Reasoning of Generative Artifacts**|Anshul Bagaria et.al.|[2511.22351](http://arxiv.org/abs/2511.22351)|null|
 |**2025-11-27**|**Layover or Direct Flight: Rethinking Audio-Guided Image Segmentation**|Joel Alberto Santos et.al.|[2511.22025](http://arxiv.org/abs/2511.22025)|null|
@@ -1641,6 +1642,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-25**|**"Lighting The Way For Those Not Here": How Technology Researchers Can Help Fight the Missing and Murdered Indigenous Relatives (MMIR) Crisis**|Naman Gupta et.al.|[2601.17966](http://arxiv.org/abs/2601.17966)|null|
+|**2026-01-25**|**Designing AI Peers for Collaborative Mathematical Problem Solving with Middle School Students: A Participatory Design Study**|Wenhan Lyu et.al.|[2601.17962](http://arxiv.org/abs/2601.17962)|null|
+|**2026-01-25**|**"I use ChatGPT to humanize my words": Affordances and Risks of ChatGPT to Autistic Users**|Renkai Ma et.al.|[2601.17946](http://arxiv.org/abs/2601.17946)|null|
+|**2026-01-25**|**"Label from Somewhere": Reflexive Annotating for Situated AI Alignment**|Anne Arzberger et.al.|[2601.17937](http://arxiv.org/abs/2601.17937)|null|
+|**2026-01-25**|**Investigating How Music Affects Persuasion, Engagement, and Emotion in Data Videos**|Sarmistha Sarna Gomasta et.al.|[2601.17893](http://arxiv.org/abs/2601.17893)|null|
+|**2026-01-25**|**Physiological and Behavioral Modeling of Stress and Cognitive Load in Web-Based Question Answering**|Ailin Liu et.al.|[2601.17890](http://arxiv.org/abs/2601.17890)|null|
+|**2026-01-25**|**AI Personalization Paradox: Personalized AI Increases Superficial Engagement in Reading while Undermines Autonomy and Ownership in Writing**|Peinuan Qin et.al.|[2601.17846](http://arxiv.org/abs/2601.17846)|null|
+|**2026-01-25**|**Are we collaborative yet? A Usability Perspective on Mixnet Latency for Real-Time Applications**|Killian Davitt et.al.|[2601.17845](http://arxiv.org/abs/2601.17845)|null|
+|**2026-01-25**|**RAICL: Retrieval-Augmented In-Context Learning for Vision-Language-Model Based EEG Seizure Detection**|Siyang Li et.al.|[2601.17844](http://arxiv.org/abs/2601.17844)|null|
+|**2026-01-25**|**ChatLearn: Leveraging AI to Transform Non-Native Speaker Communication Challenges as Language Learning Opportunities**|Peinuan Qin et.al.|[2601.17837](http://arxiv.org/abs/2601.17837)|null|
 |**2026-01-23**|**Do We Know What They Know We Know? Calibrating Student Trust in AI and Human Responses Through Mutual Theory of Mind**|Olivia Pal et.al.|[2601.16960](http://arxiv.org/abs/2601.16960)|null|
 |**2026-01-23**|**Nishpaksh: TEC Standard-Compliant Framework for Fairness Auditing and Certification of AI Models**|Shashank Prakash et.al.|[2601.16926](http://arxiv.org/abs/2601.16926)|null|
 |**2026-01-23**|**The Trajectory Alignment Coefficient in Two Acts: From Reward Tuning to Reward Learning**|Calarina Muslimani et.al.|[2601.16906](http://arxiv.org/abs/2601.16906)|null|
