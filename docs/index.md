@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.01.27
+### Automatically Updated on 2026.01.28
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-27**|**QuaMo: Quaternion Motions for Vision-based 3D Human Kinematics Capture**|Cuong Le et.al.|[2601.19580](http://arxiv.org/abs/2601.19580)|null|
 |**2026-01-26**|**Goal-oriented Communication for Fast and Robust Robotic Fault Detection and Recovery**|Shutong Chen et.al.|[2601.18765](http://arxiv.org/abs/2601.18765)|null|
 |**2026-01-26**|**Splat-Portrait: Generalizing Talking Heads with Gaussian Splatting**|Tong Shi et.al.|[2601.18633](http://arxiv.org/abs/2601.18633)|null|
 |**2026-01-25**|**LLM-Based SQL Generation: Prompting, Self-Refinement, and Adaptive Weighted Majority Voting**|Yu-Jie Yang et.al.|[2601.17942](http://arxiv.org/abs/2601.17942)|null|
@@ -1299,6 +1300,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-27**|**Dynamic Worlds, Dynamic Humans: Generating Virtual Human-Scene Interaction Motion in Dynamic Scenes**|Yin Wang et.al.|[2601.19484](http://arxiv.org/abs/2601.19484)|null|
 |**2026-01-23**|**Ar2Can: An Architect and an Artist Leveraging a Canvas for Multi-Human Generation**|Shubhankar Borse et.al.|[2511.22690](http://arxiv.org/abs/2511.22690)|null|
 |**2026-01-16**|**Generating metamers of human scene understanding**|Ritik Raina et.al.|[2601.11675](http://arxiv.org/abs/2601.11675)|null|
 |**2026-01-04**|**AHA! Animating Human Avatars in Diverse Scenes with Gaussian Splatting**|Aymen Mir et.al.|[2511.09827](http://arxiv.org/abs/2511.09827)|null|
@@ -1644,6 +1646,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-27**|**Putting Privacy to the Test: Introducing Red Teaming for Research Data Anonymization**|Luisa Jansen et.al.|[2601.19575](http://arxiv.org/abs/2601.19575)|null|
+|**2026-01-27**|**"Do I Trust the AI?" Towards Trustworthy AI-Assisted Diagnosis: Understanding User Perception in LLM-Supported Reasoning**|Yuansong Xu et.al.|[2601.19540](http://arxiv.org/abs/2601.19540)|null|
+|**2026-01-27**|**VisGuardian: A Lightweight Group-based Privacy Control Technique For Front Camera Data From AR Glasses in Home Environments**|Shuning Zhang et.al.|[2601.19502](http://arxiv.org/abs/2601.19502)|null|
+|**2026-01-27**|**eHMI for All -- Investigating the Effect of External Communication of Automated Vehicles on Pedestrians, Manual Drivers, and Cyclists in Virtual Reality**|Mark Colley et.al.|[2601.19440](http://arxiv.org/abs/2601.19440)|null|
+|**2026-01-27**|**ProVoice: Designing Proactive Functionality for In-Vehicle Conversational Assistants using Multi-Objective Bayesian Optimization to Enhance Driver Experience**|Josh Susak et.al.|[2601.19421](http://arxiv.org/abs/2601.19421)|null|
+|**2026-01-27**|**Bridging the Socio-Emotional Gap: The Functional Dimension of Human-AI Collaboration for Software Engineering**|Lekshmi Murali Rani et.al.|[2601.19387](http://arxiv.org/abs/2601.19387)|null|
+|**2026-01-27**|**MIRAGE: Enabling Real-Time Automotive Mediated Reality**|Pascal Jansen et.al.|[2601.19385](http://arxiv.org/abs/2601.19385)|null|
+|**2026-01-27**|**Teaching Machine Learning Fundamentals with LEGO Robotics**|Viacheslav Sydora et.al.|[2601.19376](http://arxiv.org/abs/2601.19376)|null|
+|**2026-01-27**|**CommSense: Facilitating Bias-Aware and Reflective Navigation of Online Comments for Rational Judgment**|Yang Ouyang et.al.|[2601.19347](http://arxiv.org/abs/2601.19347)|null|
+|**2026-01-27**|**The Psychological Science of Artificial Intelligence: A Rapidly Emerging Field of Psychology**|Zheng Yan et.al.|[2601.19338](http://arxiv.org/abs/2601.19338)|null|
 |**2026-01-26**|**MEGnifying Emotion: Sentiment Analysis from Annotated Brain Data**|Brian Liu et.al.|[2601.18792](http://arxiv.org/abs/2601.18792)|null|
 |**2026-01-26**|**Design Techniques for LLM-Powered Interactive Storytelling: A Case Study of the Dramamancer System**|Tiffany Wang et.al.|[2601.18785](http://arxiv.org/abs/2601.18785)|null|
 |**2026-01-26**|**Are Conversational AI Agents the Way Out? Co-Designing Reader-Oriented News Experiences with Immigrants and Journalists**|Yongle Zhang et.al.|[2601.18772](http://arxiv.org/abs/2601.18772)|null|

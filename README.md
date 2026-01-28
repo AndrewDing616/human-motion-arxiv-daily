@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.01.27
+### Automatically Updated on 2026.01.28
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-27**|**QuaMo: Quaternion Motions for Vision-based 3D Human Kinematics Capture**|Cuong Le et.al.|[2601.19580](http://arxiv.org/abs/2601.19580)|null|
 |**2026-01-26**|**Goal-oriented Communication for Fast and Robust Robotic Fault Detection and Recovery**|Shutong Chen et.al.|[2601.18765](http://arxiv.org/abs/2601.18765)|null|
 |**2026-01-26**|**Splat-Portrait: Generalizing Talking Heads with Gaussian Splatting**|Tong Shi et.al.|[2601.18633](http://arxiv.org/abs/2601.18633)|null|
 |**2026-01-25**|**LLM-Based SQL Generation: Prompting, Self-Refinement, and Adaptive Weighted Majority Voting**|Yu-Jie Yang et.al.|[2601.17942](http://arxiv.org/abs/2601.17942)|null|
@@ -350,12 +351,13 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260127>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260128>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-27**|**Dynamic Worlds, Dynamic Humans: Generating Virtual Human-Scene Interaction Motion in Dynamic Scenes**|Yin Wang et.al.|[2601.19484](http://arxiv.org/abs/2601.19484)|null|
 |**2026-01-23**|**Ar2Can: An Architect and an Artist Leveraging a Canvas for Multi-Human Generation**|Shubhankar Borse et.al.|[2511.22690](http://arxiv.org/abs/2511.22690)|null|
 |**2026-01-16**|**Generating metamers of human scene understanding**|Ritik Raina et.al.|[2601.11675](http://arxiv.org/abs/2601.11675)|null|
 |**2026-01-04**|**AHA! Animating Human Avatars in Diverse Scenes with Gaussian Splatting**|Aymen Mir et.al.|[2511.09827](http://arxiv.org/abs/2511.09827)|null|
@@ -486,7 +488,7 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260127>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260128>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
@@ -699,12 +701,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260127>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260128>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-27**|**Putting Privacy to the Test: Introducing Red Teaming for Research Data Anonymization**|Luisa Jansen et.al.|[2601.19575](http://arxiv.org/abs/2601.19575)|null|
+|**2026-01-27**|**"Do I Trust the AI?" Towards Trustworthy AI-Assisted Diagnosis: Understanding User Perception in LLM-Supported Reasoning**|Yuansong Xu et.al.|[2601.19540](http://arxiv.org/abs/2601.19540)|null|
+|**2026-01-27**|**VisGuardian: A Lightweight Group-based Privacy Control Technique For Front Camera Data From AR Glasses in Home Environments**|Shuning Zhang et.al.|[2601.19502](http://arxiv.org/abs/2601.19502)|null|
+|**2026-01-27**|**eHMI for All -- Investigating the Effect of External Communication of Automated Vehicles on Pedestrians, Manual Drivers, and Cyclists in Virtual Reality**|Mark Colley et.al.|[2601.19440](http://arxiv.org/abs/2601.19440)|null|
+|**2026-01-27**|**ProVoice: Designing Proactive Functionality for In-Vehicle Conversational Assistants using Multi-Objective Bayesian Optimization to Enhance Driver Experience**|Josh Susak et.al.|[2601.19421](http://arxiv.org/abs/2601.19421)|null|
+|**2026-01-27**|**Bridging the Socio-Emotional Gap: The Functional Dimension of Human-AI Collaboration for Software Engineering**|Lekshmi Murali Rani et.al.|[2601.19387](http://arxiv.org/abs/2601.19387)|null|
+|**2026-01-27**|**MIRAGE: Enabling Real-Time Automotive Mediated Reality**|Pascal Jansen et.al.|[2601.19385](http://arxiv.org/abs/2601.19385)|null|
+|**2026-01-27**|**Teaching Machine Learning Fundamentals with LEGO Robotics**|Viacheslav Sydora et.al.|[2601.19376](http://arxiv.org/abs/2601.19376)|null|
+|**2026-01-27**|**CommSense: Facilitating Bias-Aware and Reflective Navigation of Online Comments for Rational Judgment**|Yang Ouyang et.al.|[2601.19347](http://arxiv.org/abs/2601.19347)|null|
+|**2026-01-27**|**The Psychological Science of Artificial Intelligence: A Rapidly Emerging Field of Psychology**|Zheng Yan et.al.|[2601.19338](http://arxiv.org/abs/2601.19338)|null|
 |**2026-01-26**|**MEGnifying Emotion: Sentiment Analysis from Annotated Brain Data**|Brian Liu et.al.|[2601.18792](http://arxiv.org/abs/2601.18792)|null|
 |**2026-01-26**|**Design Techniques for LLM-Powered Interactive Storytelling: A Case Study of the Dramamancer System**|Tiffany Wang et.al.|[2601.18785](http://arxiv.org/abs/2601.18785)|null|
 |**2026-01-26**|**Are Conversational AI Agents the Way Out? Co-Designing Reader-Oriented News Experiences with Immigrants and Journalists**|Yongle Zhang et.al.|[2601.18772](http://arxiv.org/abs/2601.18772)|null|
@@ -1261,7 +1273,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260127>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260128>back to top</a>)</p>
 
 Notes: 
 
