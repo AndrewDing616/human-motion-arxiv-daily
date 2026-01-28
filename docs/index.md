@@ -1646,6 +1646,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-27**|**How Does Delegation in Social Interaction Evolve Over Time? Navigation with a Robot for Blind People**|Rayna Hata et.al.|[2601.19851](http://arxiv.org/abs/2601.19851)|null|
+|**2026-01-27**|**HARMONI: Multimodal Personalization of Multi-User Human-Robot Interactions with LLMs**|Jeanne Malécot et.al.|[2601.19839](http://arxiv.org/abs/2601.19839)|null|
+|**2026-01-27**|**Whether We Care, How We Reason: The Dual Role of Anthropomorphism and Moral Foundations in Robot Abuse**|Fan Yang et.al.|[2601.19826](http://arxiv.org/abs/2601.19826)|null|
+|**2026-01-27**|**An Interpretable Recommendation Model for Psychometric Data, With an Application to Gerontological Primary Care**|Andre Paulino de Lima et.al.|[2601.19824](http://arxiv.org/abs/2601.19824)|null|
+|**2026-01-27**|**LVLMs and Humans Ground Differently in Referential Communication**|Peter Zeng et.al.|[2601.19792](http://arxiv.org/abs/2601.19792)|null|
 |**2026-01-27**|**Putting Privacy to the Test: Introducing Red Teaming for Research Data Anonymization**|Luisa Jansen et.al.|[2601.19575](http://arxiv.org/abs/2601.19575)|null|
 |**2026-01-27**|**"Do I Trust the AI?" Towards Trustworthy AI-Assisted Diagnosis: Understanding User Perception in LLM-Supported Reasoning**|Yuansong Xu et.al.|[2601.19540](http://arxiv.org/abs/2601.19540)|null|
 |**2026-01-27**|**VisGuardian: A Lightweight Group-based Privacy Control Technique For Front Camera Data From AR Glasses in Home Environments**|Shuning Zhang et.al.|[2601.19502](http://arxiv.org/abs/2601.19502)|null|
