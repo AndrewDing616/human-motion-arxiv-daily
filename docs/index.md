@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.01.28
+### Automatically Updated on 2026.01.29
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-28**|**One Step Is Enough: Dispersive MeanFlow Policy Optimization**|Guowei Zou et.al.|[2601.20701](http://arxiv.org/abs/2601.20701)|null|
+|**2026-01-28**|**HINT: Hierarchical Interaction Modeling for Autoregressive Multi-Human Motion Generation**|Mengge Liu et.al.|[2601.20383](http://arxiv.org/abs/2601.20383)|null|
 |**2026-01-27**|**QuaMo: Quaternion Motions for Vision-based 3D Human Kinematics Capture**|Cuong Le et.al.|[2601.19580](http://arxiv.org/abs/2601.19580)|null|
 |**2026-01-26**|**Goal-oriented Communication for Fast and Robust Robotic Fault Detection and Recovery**|Shutong Chen et.al.|[2601.18765](http://arxiv.org/abs/2601.18765)|null|
 |**2026-01-26**|**Splat-Portrait: Generalizing Talking Heads with Gaussian Splatting**|Tong Shi et.al.|[2601.18633](http://arxiv.org/abs/2601.18633)|null|
@@ -1646,6 +1648,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-28**|**Exploring Re-inforcement Learning via Human Feedback under User Heterogeneity**|Sarvesh Shashidhar et.al.|[2601.20760](http://arxiv.org/abs/2601.20760)|null|
+|**2026-01-28**|**ScaleFree: Dynamic KDE for Multiscale Point Cloud Exploration in VR**|Lixiang Zhao et.al.|[2601.20758](http://arxiv.org/abs/2601.20758)|null|
+|**2026-01-28**|**Learning to Live with AI: How Students Develop AI Literacy Through Naturalistic ChatGPT Interaction**|Tawfiq Ammari et.al.|[2601.20749](http://arxiv.org/abs/2601.20749)|null|
+|**2026-01-28**|**Like a Therapist, But Not: Reddit Narratives of AI in Mental Health Contexts**|Elham Aghakhani et.al.|[2601.20747](http://arxiv.org/abs/2601.20747)|null|
+|**2026-01-28**|**A Human-Centred AI System for Multi-Actor Planning and Collaboration in Family Learning**|Si Chen et.al.|[2601.20737](http://arxiv.org/abs/2601.20737)|null|
+|**2026-01-28**|**Polite But Boring? Trade-offs Between Engagement and Psychological Reactance to Chatbot Feedback Styles**|Samuel Rhys Cox et.al.|[2601.20683](http://arxiv.org/abs/2601.20683)|null|
+|**2026-01-28**|**A Multi-Camera Optical Tag Neuronavigation and AR Augmentation Framework for Non-Invasive Brain Stimulation**|Xuyi Hu et.al.|[2601.20663](http://arxiv.org/abs/2601.20663)|null|
+|**2026-01-28**|**SketchDynamics: Exploring Free-Form Sketches for Dynamic Intent Expression in Animation Generation**|Boyu Li et.al.|[2601.20622](http://arxiv.org/abs/2601.20622)|null|
+|**2026-01-28**|**Beyond Literacy: Predicting Interpretation Correctness of Visualizations with User Traits, Item Difficulty, and Rasch Scores**|Davide Falessi et.al.|[2601.20544](http://arxiv.org/abs/2601.20544)|null|
+|**2026-01-28**|**Normative Equivalence in human-AI Cooperation: Behaviour, Not Identity, Drives Cooperation in Mixed-Agent Groups**|Nico Mutzner et.al.|[2601.20487](http://arxiv.org/abs/2601.20487)|null|
 |**2026-01-27**|**How Does Delegation in Social Interaction Evolve Over Time? Navigation with a Robot for Blind People**|Rayna Hata et.al.|[2601.19851](http://arxiv.org/abs/2601.19851)|null|
 |**2026-01-27**|**HARMONI: Multimodal Personalization of Multi-User Human-Robot Interactions with LLMs**|Jeanne Malécot et.al.|[2601.19839](http://arxiv.org/abs/2601.19839)|null|
 |**2026-01-27**|**Whether We Care, How We Reason: The Dual Role of Anthropomorphism and Moral Foundations in Robot Abuse**|Fan Yang et.al.|[2601.19826](http://arxiv.org/abs/2601.19826)|null|
