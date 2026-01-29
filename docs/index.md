@@ -1302,6 +1302,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-28**|**Open-Vocabulary Functional 3D Human-Scene Interaction Generation**|Jie Liu et.al.|[2601.20835](http://arxiv.org/abs/2601.20835)|null|
 |**2026-01-27**|**Dynamic Worlds, Dynamic Humans: Generating Virtual Human-Scene Interaction Motion in Dynamic Scenes**|Yin Wang et.al.|[2601.19484](http://arxiv.org/abs/2601.19484)|null|
 |**2026-01-23**|**Ar2Can: An Architect and an Artist Leveraging a Canvas for Multi-Human Generation**|Shubhankar Borse et.al.|[2511.22690](http://arxiv.org/abs/2511.22690)|null|
 |**2026-01-16**|**Generating metamers of human scene understanding**|Ritik Raina et.al.|[2601.11675](http://arxiv.org/abs/2601.11675)|null|
@@ -1648,6 +1649,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-28**|**Jurisdiction as Structural Barrier: How Privacy Policy Organization May Reduce Visibility of Substantive Disclosures**|Thomas Brackin et.al.|[2601.20792](http://arxiv.org/abs/2601.20792)|null|
 |**2026-01-28**|**Exploring Re-inforcement Learning via Human Feedback under User Heterogeneity**|Sarvesh Shashidhar et.al.|[2601.20760](http://arxiv.org/abs/2601.20760)|null|
 |**2026-01-28**|**ScaleFree: Dynamic KDE for Multiscale Point Cloud Exploration in VR**|Lixiang Zhao et.al.|[2601.20758](http://arxiv.org/abs/2601.20758)|null|
 |**2026-01-28**|**Learning to Live with AI: How Students Develop AI Literacy Through Naturalistic ChatGPT Interaction**|Tawfiq Ammari et.al.|[2601.20749](http://arxiv.org/abs/2601.20749)|null|
