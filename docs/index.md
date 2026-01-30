@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.01.29
+### Automatically Updated on 2026.01.30
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-29**|**HPTune: Hierarchical Proactive Tuning for Collision-Free Model Predictive Control**|Wei Zuo et.al.|[2601.21346](http://arxiv.org/abs/2601.21346)|null|
+|**2026-01-28**|**Log2Motion: Biomechanical Motion Synthesis from Touch Logs**|Michał Patryk Miazga et.al.|[2601.21043](http://arxiv.org/abs/2601.21043)|null|
 |**2026-01-28**|**One Step Is Enough: Dispersive MeanFlow Policy Optimization**|Guowei Zou et.al.|[2601.20701](http://arxiv.org/abs/2601.20701)|null|
 |**2026-01-28**|**HINT: Hierarchical Interaction Modeling for Autoregressive Multi-Human Motion Generation**|Mengge Liu et.al.|[2601.20383](http://arxiv.org/abs/2601.20383)|null|
 |**2026-01-27**|**QuaMo: Quaternion Motions for Vision-based 3D Human Kinematics Capture**|Cuong Le et.al.|[2601.19580](http://arxiv.org/abs/2601.19580)|null|
@@ -1649,6 +1651,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-29**|**When Life Gives You AI, Will You Turn It Into A Market for Lemons? Understanding How Information Asymmetries About AI System Capabilities Affect Market Outcomes and Adoption**|Alexander Erlei et.al.|[2601.21650](http://arxiv.org/abs/2601.21650)|null|
+|**2026-01-29**|**CAF-Mamba: Mamba-Based Cross-Modal Adaptive Attention Fusion for Multimodal Depression Detection**|Bowen Zhou et.al.|[2601.21648](http://arxiv.org/abs/2601.21648)|null|
+|**2026-01-29**|**Age Matters: Analyzing Age-Related Discussions in App Reviews**|Shashiwadana Nirmania et.al.|[2601.21605](http://arxiv.org/abs/2601.21605)|null|
+|**2026-01-29**|**A Unified SPD Token Transformer Framework for EEG Classification: Systematic Comparison of Geometric Embeddings**|Chi-Sheng Chen et.al.|[2601.21521](http://arxiv.org/abs/2601.21521)|null|
+|**2026-01-29**|**From Vulnerable to Resilient: Examining Parent and Teen Perceptions on How to Respond to Unwanted Cybergrooming Advances**|Xinyi Zhang et.al.|[2601.21518](http://arxiv.org/abs/2601.21518)|null|
+|**2026-01-29**|**The Effectiveness of Style Vectors for Steering Large Language Models: A Human Evaluation**|Diaoulé Diallo et.al.|[2601.21505](http://arxiv.org/abs/2601.21505)|null|
+|**2026-01-29**|**Organizational Practices and Socio-Technical Design of Human-Centered AI**|Thomas Herrmann et.al.|[2601.21492](http://arxiv.org/abs/2601.21492)|null|
+|**2026-01-29**|**Are they just delegating? Cross-Sample Predictions on University Students' & Teachers' Use of AI**|Fabian Albers et.al.|[2601.21490](http://arxiv.org/abs/2601.21490)|null|
+|**2026-01-29**|**Tell Me What I Missed: Tell Me What I Missed: Interacting with GPT during Recalling of One-Time Witnessed Events**|Suifang Zhou et.al.|[2601.21460](http://arxiv.org/abs/2601.21460)|null|
+|**2026-01-29**|**Dynamic Framework for Collaborative Learning: Leveraging Advanced LLM with Adaptive Feedback Mechanisms**|Hassam Tahir et.al.|[2601.21344](http://arxiv.org/abs/2601.21344)|null|
 |**2026-01-28**|**Jurisdiction as Structural Barrier: How Privacy Policy Organization May Reduce Visibility of Substantive Disclosures**|Thomas Brackin et.al.|[2601.20792](http://arxiv.org/abs/2601.20792)|null|
 |**2026-01-28**|**Exploring Re-inforcement Learning via Human Feedback under User Heterogeneity**|Sarvesh Shashidhar et.al.|[2601.20760](http://arxiv.org/abs/2601.20760)|null|
 |**2026-01-28**|**ScaleFree: Dynamic KDE for Multiscale Point Cloud Exploration in VR**|Lixiang Zhao et.al.|[2601.20758](http://arxiv.org/abs/2601.20758)|null|
