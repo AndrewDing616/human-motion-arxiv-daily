@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.02.01
+### Automatically Updated on 2026.02.02
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-30**|**RoboStriker: Hierarchical Decision-Making for Autonomous Humanoid Boxing**|Kangning Yin et.al.|[2601.22517](http://arxiv.org/abs/2601.22517)|null|
 |**2026-01-29**|**EditYourself: Audio-Driven Generation and Manipulation of Talking Head Videos with Diffusion Transformers**|John Flynn et.al.|[2601.22127](http://arxiv.org/abs/2601.22127)|null|
 |**2026-01-29**|**Beyond Global Alignment: Fine-Grained Motion-Language Retrieval via Pyramidal Shapley-Taylor Learning**|Hanmo Chen et.al.|[2601.21904](http://arxiv.org/abs/2601.21904)|null|
 |**2026-01-29**|**Embodied Task Planning via Graph-Informed Action Generation with Large Lanaguage Model**|Xiang Li et.al.|[2601.21841](http://arxiv.org/abs/2601.21841)|null|
@@ -358,7 +359,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260201>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260202>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -496,7 +497,7 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260201>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260202>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
@@ -709,12 +710,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260201>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260202>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-30**|**Exploring Sidewalk Sheds in New York City through Chatbot Surveys and Human Computer Interaction**|Junyi Li et.al.|[2601.23095](http://arxiv.org/abs/2601.23095)|null|
+|**2026-01-30**|**Integrating Multi-Label Classification and Generative AI for Scalable Analysis of User Feedback**|Sandra Loop et.al.|[2601.23018](http://arxiv.org/abs/2601.23018)|null|
+|**2026-01-30**|**Eroding the Truth-Default: A Causal Analysis of Human Susceptibility to Foundation Model Hallucinations and Disinformation in the Wild**|Alexander Loth et.al.|[2601.22871](http://arxiv.org/abs/2601.22871)|null|
+|**2026-01-30**|**μTouch: Enabling Accurate, Lightweight Self-Touch Sensing with Passive Magnets**|Siyuan Wang et.al.|[2601.22864](http://arxiv.org/abs/2601.22864)|null|
+|**2026-01-30**|**Toward Pluralizing Reflection in HCI through Daoism**|Aaron Pengyu Zhu et.al.|[2601.22831](http://arxiv.org/abs/2601.22831)|null|
+|**2026-01-30**|**Stable Personas: Dual-Assessment of Temporal Stability in LLM-Based Human Simulation**|Jana Gonnermann-Müller et.al.|[2601.22812](http://arxiv.org/abs/2601.22812)|null|
+|**2026-01-30**|**FACET: Multi-Agent AI Supporting Teachers in Scaling Differentiated Learning for Diverse Students**|Jana Gonnermann-Müller et.al.|[2601.22788](http://arxiv.org/abs/2601.22788)|null|
+|**2026-01-30**|**Qualitative Evaluation of LLM-Designed GUI**|Bartosz Sawicki et.al.|[2601.22759](http://arxiv.org/abs/2601.22759)|null|
+|**2026-01-30**|**Assistive Robots and Reasonable Work Assignment Reduce Perceived Stigma toward Persons with Disabilities**|Stina Klein et.al.|[2601.22689](http://arxiv.org/abs/2601.22689)|null|
+|**2026-01-30**|**Human-Centered Explainability in AI-Enhanced UI Security Interfaces: Designing Trustworthy Copilots for Cybersecurity Analysts**|Mona Rajhans et.al.|[2601.22653](http://arxiv.org/abs/2601.22653)|null|
 |**2026-01-29**|**Auditorily Embodied Conversational Agents: Effects of Spatialization and Situated Audio Cues on Presence and Social Perception**|Yi Fei Cheng et.al.|[2601.22082](http://arxiv.org/abs/2601.22082)|null|
 |**2026-01-29**|**Accessibility-Driven Information Transformations in Mixed-Visual Ability Work Teams**|Yichun Zhao et.al.|[2601.22081](http://arxiv.org/abs/2601.22081)|null|
 |**2026-01-29**|**Vidmento: Creating Video Stories Through Context-Aware Expansion With Generative Video**|Catherine Yeh et.al.|[2601.22013](http://arxiv.org/abs/2601.22013)|null|
@@ -1315,7 +1326,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260201>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260202>back to top</a>)</p>
 
 Notes: 
 
