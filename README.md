@@ -365,7 +365,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-01-28**|**Open-Vocabulary Functional 3D Human-Scene Interaction Generation**|Jie Liu et.al.|[2601.20835](http://arxiv.org/abs/2601.20835)|null|
+|**2026-01-30**|**Open-Vocabulary Functional 3D Human-Scene Interaction Generation**|Jie Liu et.al.|[2601.20835](http://arxiv.org/abs/2601.20835)|null|
 |**2026-01-27**|**Dynamic Worlds, Dynamic Humans: Generating Virtual Human-Scene Interaction Motion in Dynamic Scenes**|Yin Wang et.al.|[2601.19484](http://arxiv.org/abs/2601.19484)|null|
 |**2026-01-23**|**Ar2Can: An Architect and an Artist Leveraging a Canvas for Multi-Human Generation**|Shubhankar Borse et.al.|[2511.22690](http://arxiv.org/abs/2511.22690)|null|
 |**2026-01-16**|**Generating metamers of human scene understanding**|Ritik Raina et.al.|[2601.11675](http://arxiv.org/abs/2601.11675)|null|
@@ -716,6 +716,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-30**|**End-to-end Optimization of Belief and Policy Learning in Shared Autonomy Paradigms**|MH Farhadi et.al.|[2601.23285](http://arxiv.org/abs/2601.23285)|null|
+|**2026-01-30**|**Evaluating the Viability of Additive Models to Predict Task Completion Time for 3D Interactions in Augmented Reality**|Logan Lane et.al.|[2601.23209](http://arxiv.org/abs/2601.23209)|null|
+|**2026-01-30**|**"I Choose to Live, for Life Itself": Understanding Agency of Home-Based Care Patients Through Information Practices and Relational Dynamics in Care Networks**|Sung-In Kim et.al.|[2601.23127](http://arxiv.org/abs/2601.23127)|null|
 |**2026-01-30**|**Exploring Sidewalk Sheds in New York City through Chatbot Surveys and Human Computer Interaction**|Junyi Li et.al.|[2601.23095](http://arxiv.org/abs/2601.23095)|null|
 |**2026-01-30**|**Integrating Multi-Label Classification and Generative AI for Scalable Analysis of User Feedback**|Sandra Loop et.al.|[2601.23018](http://arxiv.org/abs/2601.23018)|null|
 |**2026-01-30**|**Eroding the Truth-Default: A Causal Analysis of Human Susceptibility to Foundation Model Hallucinations and Disinformation in the Wild**|Alexander Loth et.al.|[2601.22871](http://arxiv.org/abs/2601.22871)|null|
