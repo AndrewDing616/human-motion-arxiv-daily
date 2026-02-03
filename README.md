@@ -14,6 +14,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-02**|**TIC-VLA: A Think-in-Control Vision-Language-Action Model for Robot Navigation in Dynamic Environments**|Zhiyu Huang et.al.|[2602.02459](http://arxiv.org/abs/2602.02459)|null|
+|**2026-02-02**|**Superman: Unifying Skeleton and Vision for Human Motion Perception and Generation**|Xinshun Wang et.al.|[2602.02401](http://arxiv.org/abs/2602.02401)|null|
+|**2026-02-02**|**VQ-Style: Disentangling Style and Content in Motion with Residual Quantized Representations**|Fatemeh Zargarbashi et.al.|[2602.02334](http://arxiv.org/abs/2602.02334)|null|
+|**2026-02-02**|**A Closed-Form Geometric Retargeting Solver for Upper Body Humanoid Robot Teleoperation**|Chuizheng Kong et.al.|[2602.01632](http://arxiv.org/abs/2602.01632)|null|
+|**2026-02-02**|**Making Avatars Interact: Towards Text-Driven Human-Object Interaction for Controllable Talking Avatars**|Youliang Zhang et.al.|[2602.01538](http://arxiv.org/abs/2602.01538)|null|
+|**2026-02-01**|**T2M Mamba: Motion Periodicity-Saliency Coupling Approach for Stable Text-Driven Motion Generation**|Xingzu Zhan et.al.|[2602.01352](http://arxiv.org/abs/2602.01352)|null|
+|**2026-02-01**|**Latent Reasoning VLA: Latent Thinking and Prediction for Vision-Language-Action Models**|Shuanghao Bai et.al.|[2602.01166](http://arxiv.org/abs/2602.01166)|null|
+|**2026-02-01**|**StreamVLA: Breaking the Reason-Act Cycle via Completion-State Gating**|Hang Wu et.al.|[2602.01100](http://arxiv.org/abs/2602.01100)|null|
+|**2026-02-01**|**A Systematic Study of Data Modalities and Strategies for Co-training Large Behavior Models for Robot Manipulation**|Fanqi Lin et.al.|[2602.01067](http://arxiv.org/abs/2602.01067)|null|
 |**2026-01-30**|**RoboStriker: Hierarchical Decision-Making for Autonomous Humanoid Boxing**|Kangning Yin et.al.|[2601.22517](http://arxiv.org/abs/2601.22517)|null|
 |**2026-01-29**|**EditYourself: Audio-Driven Generation and Manipulation of Talking Head Videos with Diffusion Transformers**|John Flynn et.al.|[2601.22127](http://arxiv.org/abs/2601.22127)|null|
 |**2026-01-29**|**Beyond Global Alignment: Fine-Grained Motion-Language Retrieval via Pyramidal Shapley-Taylor Learning**|Hanmo Chen et.al.|[2601.21904](http://arxiv.org/abs/2601.21904)|null|
@@ -503,6 +512,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-02**|**Making Avatars Interact: Towards Text-Driven Human-Object Interaction for Controllable Talking Avatars**|Youliang Zhang et.al.|[2602.01538](http://arxiv.org/abs/2602.01538)|null|
 |**2026-01-31**|**JoyAvatar: Unlocking Highly Expressive Avatars via Harmonized Text-Audio Conditioning**|Ruikui Wang et.al.|[2602.00702](http://arxiv.org/abs/2602.00702)|null|
 |**2026-01-22**|**Skywork UniPic 3.0: Unified Multi-Image Composition via Sequence Modeling**|Hongyang Wei et.al.|[2601.15664](http://arxiv.org/abs/2601.15664)|null|
 |**2026-01-21**|**Human detectors are surprisingly powerful reward models**|Kumar Ashutosh et.al.|[2601.14037](http://arxiv.org/abs/2601.14037)|null|
@@ -717,6 +727,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-02**|**Talking Inspiration: A Discourse Analysis of Data Visualization Podcasts**|Ali Baigelenov et.al.|[2602.02397](http://arxiv.org/abs/2602.02397)|null|
+|**2026-02-02**|**The hybrid confirmation tree: A robust strategy for hybrid intelligence**|Julian Berger et.al.|[2602.02375](http://arxiv.org/abs/2602.02375)|null|
+|**2026-02-02**|**When more precision is worse: Do people recognize inadequate scene representations in concept-based explainable AI?**|Romy Müller et.al.|[2602.02298](http://arxiv.org/abs/2602.02298)|null|
+|**2026-02-02**|**CHOMP: Multimodal Chewing Side Detection with Earphones**|Jonas Hummel et.al.|[2602.02233](http://arxiv.org/abs/2602.02233)|null|
+|**2026-02-02**|**Neurophysiological effects of museum modalities on emotional engagement with real artworks**|Chen Feng et.al.|[2602.02086](http://arxiv.org/abs/2602.02086)|null|
+|**2026-02-02**|**See2Refine: Vision-Language Feedback Improves LLM-Based eHMI Action Designers**|Ding Xia et.al.|[2602.02063](http://arxiv.org/abs/2602.02063)|null|
+|**2026-02-02**|**Are Semantic Networks Associated with Idea Originality in Artificial Creativity? A Comparison with Human Agents**|Umberto Domanti et.al.|[2602.02048](http://arxiv.org/abs/2602.02048)|null|
+|**2026-02-02**|**Situated Brushing and Linking in Virtual and Augmented Reality**|Carlos Quijano-Chavez et.al.|[2602.02023](http://arxiv.org/abs/2602.02023)|null|
+|**2026-02-02**|**Belief Updating and Delegation in Multi-Task Human-AI Interaction: Evidence from Controlled Simulations**|Shreyan Biswas et.al.|[2602.01986](http://arxiv.org/abs/2602.01986)|null|
+|**2026-02-02**|**Hacking Flow: From Lived Practices to Innovation**|Fabio Stano et.al.|[2602.01979](http://arxiv.org/abs/2602.01979)|null|
 |**2026-02-01**|**Exploration of Radar-based Obstacle Visualizations to Support Safety and Presence in Camera-Free Outdoor VR**|Avinash Ajit Nargund et.al.|[2602.00973](http://arxiv.org/abs/2602.00973)|null|
 |**2026-01-31**|**Sensing What Surveys Miss: Understanding and Personalizing Proactive LLM Support by User Modeling**|Ailin Liu et.al.|[2602.00880](http://arxiv.org/abs/2602.00880)|null|
 |**2026-01-31**|**SpeechLess: Micro-utterance with Personalized Spatial Memory-aware Assistant in Everyday Augmented Reality**|Yoonsang Kim et.al.|[2602.00793](http://arxiv.org/abs/2602.00793)|null|
