@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.02.02
+### Automatically Updated on 2026.02.03
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1444,6 +1444,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-31**|**JoyAvatar: Unlocking Highly Expressive Avatars via Harmonized Text-Audio Conditioning**|Ruikui Wang et.al.|[2602.00702](http://arxiv.org/abs/2602.00702)|null|
 |**2026-01-22**|**Skywork UniPic 3.0: Unified Multi-Image Composition via Sequence Modeling**|Hongyang Wei et.al.|[2601.15664](http://arxiv.org/abs/2601.15664)|null|
 |**2026-01-21**|**Human detectors are surprisingly powerful reward models**|Kumar Ashutosh et.al.|[2601.14037](http://arxiv.org/abs/2601.14037)|null|
 |**2026-01-17**|**DAOS: A Multimodal In-cabin Behavior Monitoring with Driver Action-Object Synergy Dataset**|Yiming Li et.al.|[2601.11990](http://arxiv.org/abs/2601.11990)|null|
@@ -1655,6 +1656,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-01**|**Exploration of Radar-based Obstacle Visualizations to Support Safety and Presence in Camera-Free Outdoor VR**|Avinash Ajit Nargund et.al.|[2602.00973](http://arxiv.org/abs/2602.00973)|null|
+|**2026-01-31**|**Sensing What Surveys Miss: Understanding and Personalizing Proactive LLM Support by User Modeling**|Ailin Liu et.al.|[2602.00880](http://arxiv.org/abs/2602.00880)|null|
+|**2026-01-31**|**SpeechLess: Micro-utterance with Personalized Spatial Memory-aware Assistant in Everyday Augmented Reality**|Yoonsang Kim et.al.|[2602.00793](http://arxiv.org/abs/2602.00793)|null|
+|**2026-01-31**|**"Please, don't kill the only model that still feels human": Understanding the #Keep4o Backlash**|Huiqian Lai et.al.|[2602.00773](http://arxiv.org/abs/2602.00773)|null|
+|**2026-01-31**|**WordCraft: Scaffolding the Keyword Method for L2 Vocabulary Learning with Multimodal LLMs**|Yuheng Shao et.al.|[2602.00762](http://arxiv.org/abs/2602.00762)|null|
+|**2026-01-31**|**Iconix: Controlling Semantics and Style in Progressive Icon Grids Generation**|Zhida Sun et.al.|[2602.00738](http://arxiv.org/abs/2602.00738)|null|
+|**2026-01-31**|**Augmenting Clinical Decision-Making with an Interactive and Interpretable AI Copilot: A Real-World User Study with Clinicians in Nephrology and Obstetrics**|Yinghao Zhu et.al.|[2602.00726](http://arxiv.org/abs/2602.00726)|null|
+|**2026-01-31**|**Revising Bloom's Taxonomy for Dual-Mode Cognition in Human-AI Systems: The Augmented Cognition Framework**|Kayode P. Ayodele et.al.|[2602.00697](http://arxiv.org/abs/2602.00697)|null|
+|**2026-01-31**|**Factored Reasoning with Inner Speech and Persistent Memory for Evidence-Grounded Human-Robot Interaction**|Valerio Belcamino et.al.|[2602.00675](http://arxiv.org/abs/2602.00675)|null|
+|**2026-01-31**|**NCP: Neighborhood-Preserving Non-Uniform Circle Packing for Visualization**|Duan Li et.al.|[2602.00668](http://arxiv.org/abs/2602.00668)|null|
 |**2026-01-30**|**End-to-end Optimization of Belief and Policy Learning in Shared Autonomy Paradigms**|MH Farhadi et.al.|[2601.23285](http://arxiv.org/abs/2601.23285)|null|
 |**2026-01-30**|**Evaluating the Viability of Additive Models to Predict Task Completion Time for 3D Interactions in Augmented Reality**|Logan Lane et.al.|[2601.23209](http://arxiv.org/abs/2601.23209)|null|
 |**2026-01-30**|**"I Choose to Live, for Life Itself": Understanding Agency of Home-Based Care Patients Through Information Practices and Relational Dynamics in Care Networks**|Sung-In Kim et.al.|[2601.23127](http://arxiv.org/abs/2601.23127)|null|
