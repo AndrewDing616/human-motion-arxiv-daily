@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.02.03
+### Automatically Updated on 2026.02.04
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-03**|**Hierarchical Proportion Models for Motion Generation via Integration of Motion Primitives**|Yu-Han Shu et.al.|[2602.03188](http://arxiv.org/abs/2602.03188)|null|
 |**2026-02-02**|**TIC-VLA: A Think-in-Control Vision-Language-Action Model for Robot Navigation in Dynamic Environments**|Zhiyu Huang et.al.|[2602.02459](http://arxiv.org/abs/2602.02459)|null|
 |**2026-02-02**|**Superman: Unifying Skeleton and Vision for Human Motion Perception and Generation**|Xinshun Wang et.al.|[2602.02401](http://arxiv.org/abs/2602.02401)|null|
 |**2026-02-02**|**VQ-Style: Disentangling Style and Content in Motion with Residual Quantized Representations**|Fatemeh Zargarbashi et.al.|[2602.02334](http://arxiv.org/abs/2602.02334)|null|
@@ -1453,6 +1454,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-03**|**HUSKY: Humanoid Skateboarding System via Physics-Aware Whole-Body Control**|Jinrui Han et.al.|[2602.03205](http://arxiv.org/abs/2602.03205)|null|
 |**2026-02-02**|**Making Avatars Interact: Towards Text-Driven Human-Object Interaction for Controllable Talking Avatars**|Youliang Zhang et.al.|[2602.01538](http://arxiv.org/abs/2602.01538)|null|
 |**2026-01-31**|**JoyAvatar: Unlocking Highly Expressive Avatars via Harmonized Text-Audio Conditioning**|Ruikui Wang et.al.|[2602.00702](http://arxiv.org/abs/2602.00702)|null|
 |**2026-01-22**|**Skywork UniPic 3.0: Unified Multi-Image Composition via Sequence Modeling**|Hongyang Wei et.al.|[2601.15664](http://arxiv.org/abs/2601.15664)|null|
@@ -1666,6 +1668,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-03**|**TactDeform: Finger Pad Deformation Inspired Spatial Tactile Feedback for Virtual Geometry Exploration**|Yihao Dong et.al.|[2602.03476](http://arxiv.org/abs/2602.03476)|null|
+|**2026-02-03**|**Reading Between the Code Lines: On the Use of Self-Admitted Technical Debt for Security Analysis**|Nicolás E. Díaz Ferreyra et.al.|[2602.03470](http://arxiv.org/abs/2602.03470)|null|
+|**2026-02-03**|**The Dual Role of Abstracting over the Irrelevant in Symbolic Explanations: Cognitive Effort vs. Understanding**|Zeynep G. Saribatur et.al.|[2602.03467](http://arxiv.org/abs/2602.03467)|null|
+|**2026-02-03**|**DiscoverLLM: From Executing Intents to Discovering Them**|Tae Soo Kim et.al.|[2602.03429](http://arxiv.org/abs/2602.03429)|null|
+|**2026-02-03**|**Origin Lens: A Privacy-First Mobile Framework for Cryptographic Image Provenance and AI Detection**|Alexander Loth et.al.|[2602.03423](http://arxiv.org/abs/2602.03423)|null|
+|**2026-02-03**|**How do people watch AI-generated videos of physical scenes?**|Danqing Shi et.al.|[2602.03374](http://arxiv.org/abs/2602.03374)|null|
+|**2026-02-03**|**Exploring the Role of Tracing in AI-Supported Planning for Algorithmic Reasoning**|Yoshee Jain et.al.|[2602.03197](http://arxiv.org/abs/2602.03197)|null|
+|**2026-02-03**|**Is It Possible to Make Chatbots Virtuous? Investigating a Virtue-Based Design Methodology Applied to LLMs**|Matthew P. Lad et.al.|[2602.03155](http://arxiv.org/abs/2602.03155)|null|
+|**2026-02-03**|**Intelligent Front-End Personalization: AI-Driven UI Adaptation**|Mona Rajhans et.al.|[2602.03154](http://arxiv.org/abs/2602.03154)|null|
+|**2026-02-03**|**Behind the Feed: A Taxonomy of User-Facing Cues for Algorithmic Transparency in Social Media**|Haoze Guo et.al.|[2602.03121](http://arxiv.org/abs/2602.03121)|null|
 |**2026-02-02**|**Talking Inspiration: A Discourse Analysis of Data Visualization Podcasts**|Ali Baigelenov et.al.|[2602.02397](http://arxiv.org/abs/2602.02397)|null|
 |**2026-02-02**|**The hybrid confirmation tree: A robust strategy for hybrid intelligence**|Julian Berger et.al.|[2602.02375](http://arxiv.org/abs/2602.02375)|null|
 |**2026-02-02**|**When more precision is worse: Do people recognize inadequate scene representations in concept-based explainable AI?**|Romy Müller et.al.|[2602.02298](http://arxiv.org/abs/2602.02298)|null|
