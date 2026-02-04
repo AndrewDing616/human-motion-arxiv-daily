@@ -959,6 +959,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-03**|**3D-Aware Implicit Motion Control for View-Adaptive Human Video Generation**|Zhixue Fang et.al.|[2602.03796](http://arxiv.org/abs/2602.03796)|null|
+|**2026-02-03**|**Mitigating Conversational Inertia in Multi-Turn Agents**|Yang Wan et.al.|[2602.03664](http://arxiv.org/abs/2602.03664)|null|
 |**2026-02-03**|**Hierarchical Proportion Models for Motion Generation via Integration of Motion Primitives**|Yu-Han Shu et.al.|[2602.03188](http://arxiv.org/abs/2602.03188)|null|
 |**2026-02-02**|**TIC-VLA: A Think-in-Control Vision-Language-Action Model for Robot Navigation in Dynamic Environments**|Zhiyu Huang et.al.|[2602.02459](http://arxiv.org/abs/2602.02459)|null|
 |**2026-02-02**|**Superman: Unifying Skeleton and Vision for Human Motion Perception and Generation**|Xinshun Wang et.al.|[2602.02401](http://arxiv.org/abs/2602.02401)|null|
@@ -1668,6 +1670,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-03**|**PrevizWhiz: Combining Rough 3D Scenes and 2D Video to Guide Generative Video Previsualization**|Erzhen Hu et.al.|[2602.03838](http://arxiv.org/abs/2602.03838)|null|
+|**2026-02-03**|**Occlusion-Free Conformal Lensing for Spatiotemporal Visualization in 3D Urban Analytics**|Roberta Mota et.al.|[2602.03743](http://arxiv.org/abs/2602.03743)|null|
+|**2026-02-03**|**MM-SCALE: Grounded Multimodal Moral Reasoning via Scalar Judgment and Listwise Alignment**|Eunkyu Park et.al.|[2602.03665](http://arxiv.org/abs/2602.03665)|null|
+|**2026-02-03**|**EarResp-ANS : Audio-Based On-Device Respiration Rate Estimation on Earphones with Adaptive Noise Suppression**|Michael Küttner et.al.|[2602.03549](http://arxiv.org/abs/2602.03549)|null|
+|**2026-02-03**|**Investigating the Influence of Spatial Ability in Augmented Reality-assisted Robot Programming**|Nicolas Leins et.al.|[2602.03544](http://arxiv.org/abs/2602.03544)|null|
 |**2026-02-03**|**TactDeform: Finger Pad Deformation Inspired Spatial Tactile Feedback for Virtual Geometry Exploration**|Yihao Dong et.al.|[2602.03476](http://arxiv.org/abs/2602.03476)|null|
 |**2026-02-03**|**Reading Between the Code Lines: On the Use of Self-Admitted Technical Debt for Security Analysis**|Nicolás E. Díaz Ferreyra et.al.|[2602.03470](http://arxiv.org/abs/2602.03470)|null|
 |**2026-02-03**|**The Dual Role of Abstracting over the Irrelevant in Symbolic Explanations: Cognitive Effort vs. Understanding**|Zeynep G. Saribatur et.al.|[2602.03467](http://arxiv.org/abs/2602.03467)|null|
