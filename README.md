@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.02.04
+### Automatically Updated on 2026.02.05
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-04**|**A Unified Complementarity-based Approach for Rigid-Body Manipulation and Motion Prediction**|Bingkun Huang et.al.|[2602.04522](http://arxiv.org/abs/2602.04522)|null|
+|**2026-02-04**|**Event-T2M: Event-level Conditioning for Complex Text-to-Motion Synthesis**|Seong-Eun Hong et.al.|[2602.04292](http://arxiv.org/abs/2602.04292)|null|
+|**2026-02-04**|**DiMo: Discrete Diffusion Modeling for Motion Generation and Understanding**|Ning Zhang et.al.|[2602.04188](http://arxiv.org/abs/2602.04188)|null|
+|**2026-02-03**|**VLS: Steering Pretrained Robot Policies via Vision-Language Models**|Shuo Liu et.al.|[2602.03973](http://arxiv.org/abs/2602.03973)|null|
 |**2026-02-03**|**3D-Aware Implicit Motion Control for View-Adaptive Human Video Generation**|Zhixue Fang et.al.|[2602.03796](http://arxiv.org/abs/2602.03796)|null|
 |**2026-02-03**|**Mitigating Conversational Inertia in Multi-Turn Agents**|Yang Wan et.al.|[2602.03664](http://arxiv.org/abs/2602.03664)|null|
 |**2026-02-03**|**Hierarchical Proportion Models for Motion Generation via Integration of Motion Primitives**|Yu-Han Shu et.al.|[2602.03188](http://arxiv.org/abs/2602.03188)|null|
@@ -371,7 +375,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260204>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260205>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -509,12 +513,13 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260204>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260205>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-04**|**A labeled dataset of simulated phlebotomy procedures for medical AI: polygon annotations for object detection and human-object interaction**|Raúl Jiménez Cruz et.al.|[2602.04624](http://arxiv.org/abs/2602.04624)|null|
 |**2026-02-03**|**HUSKY: Humanoid Skateboarding System via Physics-Aware Whole-Body Control**|Jinrui Han et.al.|[2602.03205](http://arxiv.org/abs/2602.03205)|null|
 |**2026-02-02**|**Making Avatars Interact: Towards Text-Driven Human-Object Interaction for Controllable Talking Avatars**|Youliang Zhang et.al.|[2602.01538](http://arxiv.org/abs/2602.01538)|null|
 |**2026-01-31**|**JoyAvatar: Unlocking Highly Expressive Avatars via Harmonized Text-Audio Conditioning**|Ruikui Wang et.al.|[2602.00702](http://arxiv.org/abs/2602.00702)|null|
@@ -725,12 +730,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260204>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260205>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-04**|**Investigating Disability Representations in Text-to-Image Models**|Yang Yian et.al.|[2602.04687](http://arxiv.org/abs/2602.04687)|null|
+|**2026-02-04**|**Discussing Your Needs in VR: A Novel Approach through Persona-based Stakeholder Role-Playing**|Yi Wang et.al.|[2602.04632](http://arxiv.org/abs/2602.04632)|null|
+|**2026-02-04**|**VRARE: Using Virtual Reality to Understand Accessibility Requirements of Color Blindness and Weakness**|Yi Wang et.al.|[2602.04621](http://arxiv.org/abs/2602.04621)|null|
+|**2026-02-04**|**A Human-Centered Privacy Approach (HCP) to AI**|Luyi Sun et.al.|[2602.04616](http://arxiv.org/abs/2602.04616)|null|
+|**2026-02-04**|**AI in Education Beyond Learning Outcomes: Cognition, Agency, Emotion, and Ethics**|Lucile Favero et.al.|[2602.04598](http://arxiv.org/abs/2602.04598)|null|
+|**2026-02-04**|**PersoPilot: An Adaptive AI-Copilot for Transparent Contextualized Persona Classification and Personalized Response Generation**|Saleh Afzoon et.al.|[2602.04540](http://arxiv.org/abs/2602.04540)|null|
+|**2026-02-04**|**PersoDPO: Scalable Preference Optimization for Instruction-Adherent, Persona-Grounded Dialogue via Multi-LLM Evaluation**|Saleh Afzoon et.al.|[2602.04493](http://arxiv.org/abs/2602.04493)|null|
+|**2026-02-04**|**The Supportiveness-Safety Tradeoff in LLM Well-Being Agents**|Himanshi Lalwani et.al.|[2602.04487](http://arxiv.org/abs/2602.04487)|null|
+|**2026-02-04**|**Proactive Agents, Long-term User Context, VLM Annotation, Privacy Protection, Human-Computer Interaction**|Yuanbo Tang et.al.|[2602.04482](http://arxiv.org/abs/2602.04482)|null|
+|**2026-02-04**|**Informing Robot Wellbeing Coach Design through Longitudinal Analysis of Human-AI Dialogue**|Keya Shah et.al.|[2602.04478](http://arxiv.org/abs/2602.04478)|null|
 |**2026-02-03**|**PrevizWhiz: Combining Rough 3D Scenes and 2D Video to Guide Generative Video Previsualization**|Erzhen Hu et.al.|[2602.03838](http://arxiv.org/abs/2602.03838)|null|
 |**2026-02-03**|**Occlusion-Free Conformal Lensing for Spatiotemporal Visualization in 3D Urban Analytics**|Roberta Mota et.al.|[2602.03743](http://arxiv.org/abs/2602.03743)|null|
 |**2026-02-03**|**MM-SCALE: Grounded Multimodal Moral Reasoning via Scalar Judgment and Listwise Alignment**|Eunkyu Park et.al.|[2602.03665](http://arxiv.org/abs/2602.03665)|null|
@@ -1379,7 +1394,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260204>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260205>back to top</a>)</p>
 
 Notes: 
 

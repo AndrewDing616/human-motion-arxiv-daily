@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.02.04
+### Automatically Updated on 2026.02.05
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-04**|**A Unified Complementarity-based Approach for Rigid-Body Manipulation and Motion Prediction**|Bingkun Huang et.al.|[2602.04522](http://arxiv.org/abs/2602.04522)|null|
+|**2026-02-04**|**Event-T2M: Event-level Conditioning for Complex Text-to-Motion Synthesis**|Seong-Eun Hong et.al.|[2602.04292](http://arxiv.org/abs/2602.04292)|null|
+|**2026-02-04**|**DiMo: Discrete Diffusion Modeling for Motion Generation and Understanding**|Ning Zhang et.al.|[2602.04188](http://arxiv.org/abs/2602.04188)|null|
+|**2026-02-03**|**VLS: Steering Pretrained Robot Policies via Vision-Language Models**|Shuo Liu et.al.|[2602.03973](http://arxiv.org/abs/2602.03973)|null|
 |**2026-02-03**|**3D-Aware Implicit Motion Control for View-Adaptive Human Video Generation**|Zhixue Fang et.al.|[2602.03796](http://arxiv.org/abs/2602.03796)|null|
 |**2026-02-03**|**Mitigating Conversational Inertia in Multi-Turn Agents**|Yang Wan et.al.|[2602.03664](http://arxiv.org/abs/2602.03664)|null|
 |**2026-02-03**|**Hierarchical Proportion Models for Motion Generation via Integration of Motion Primitives**|Yu-Han Shu et.al.|[2602.03188](http://arxiv.org/abs/2602.03188)|null|
@@ -1456,6 +1460,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-04**|**A labeled dataset of simulated phlebotomy procedures for medical AI: polygon annotations for object detection and human-object interaction**|Raúl Jiménez Cruz et.al.|[2602.04624](http://arxiv.org/abs/2602.04624)|null|
 |**2026-02-03**|**HUSKY: Humanoid Skateboarding System via Physics-Aware Whole-Body Control**|Jinrui Han et.al.|[2602.03205](http://arxiv.org/abs/2602.03205)|null|
 |**2026-02-02**|**Making Avatars Interact: Towards Text-Driven Human-Object Interaction for Controllable Talking Avatars**|Youliang Zhang et.al.|[2602.01538](http://arxiv.org/abs/2602.01538)|null|
 |**2026-01-31**|**JoyAvatar: Unlocking Highly Expressive Avatars via Harmonized Text-Audio Conditioning**|Ruikui Wang et.al.|[2602.00702](http://arxiv.org/abs/2602.00702)|null|
@@ -1670,6 +1675,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-04**|**Investigating Disability Representations in Text-to-Image Models**|Yang Yian et.al.|[2602.04687](http://arxiv.org/abs/2602.04687)|null|
+|**2026-02-04**|**Discussing Your Needs in VR: A Novel Approach through Persona-based Stakeholder Role-Playing**|Yi Wang et.al.|[2602.04632](http://arxiv.org/abs/2602.04632)|null|
+|**2026-02-04**|**VRARE: Using Virtual Reality to Understand Accessibility Requirements of Color Blindness and Weakness**|Yi Wang et.al.|[2602.04621](http://arxiv.org/abs/2602.04621)|null|
+|**2026-02-04**|**A Human-Centered Privacy Approach (HCP) to AI**|Luyi Sun et.al.|[2602.04616](http://arxiv.org/abs/2602.04616)|null|
+|**2026-02-04**|**AI in Education Beyond Learning Outcomes: Cognition, Agency, Emotion, and Ethics**|Lucile Favero et.al.|[2602.04598](http://arxiv.org/abs/2602.04598)|null|
+|**2026-02-04**|**PersoPilot: An Adaptive AI-Copilot for Transparent Contextualized Persona Classification and Personalized Response Generation**|Saleh Afzoon et.al.|[2602.04540](http://arxiv.org/abs/2602.04540)|null|
+|**2026-02-04**|**PersoDPO: Scalable Preference Optimization for Instruction-Adherent, Persona-Grounded Dialogue via Multi-LLM Evaluation**|Saleh Afzoon et.al.|[2602.04493](http://arxiv.org/abs/2602.04493)|null|
+|**2026-02-04**|**The Supportiveness-Safety Tradeoff in LLM Well-Being Agents**|Himanshi Lalwani et.al.|[2602.04487](http://arxiv.org/abs/2602.04487)|null|
+|**2026-02-04**|**Proactive Agents, Long-term User Context, VLM Annotation, Privacy Protection, Human-Computer Interaction**|Yuanbo Tang et.al.|[2602.04482](http://arxiv.org/abs/2602.04482)|null|
+|**2026-02-04**|**Informing Robot Wellbeing Coach Design through Longitudinal Analysis of Human-AI Dialogue**|Keya Shah et.al.|[2602.04478](http://arxiv.org/abs/2602.04478)|null|
 |**2026-02-03**|**PrevizWhiz: Combining Rough 3D Scenes and 2D Video to Guide Generative Video Previsualization**|Erzhen Hu et.al.|[2602.03838](http://arxiv.org/abs/2602.03838)|null|
 |**2026-02-03**|**Occlusion-Free Conformal Lensing for Spatiotemporal Visualization in 3D Urban Analytics**|Roberta Mota et.al.|[2602.03743](http://arxiv.org/abs/2602.03743)|null|
 |**2026-02-03**|**MM-SCALE: Grounded Multimodal Moral Reasoning via Scalar Judgment and Listwise Alignment**|Eunkyu Park et.al.|[2602.03665](http://arxiv.org/abs/2602.03665)|null|
