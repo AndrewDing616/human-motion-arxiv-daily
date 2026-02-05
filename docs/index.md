@@ -959,6 +959,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-04**|**PDF-HR: Pose Distance Fields for Humanoid Robots**|Yi Gu et.al.|[2602.04851](http://arxiv.org/abs/2602.04851)|null|
 |**2026-02-04**|**A Unified Complementarity-based Approach for Rigid-Body Manipulation and Motion Prediction**|Bingkun Huang et.al.|[2602.04522](http://arxiv.org/abs/2602.04522)|null|
 |**2026-02-04**|**Event-T2M: Event-level Conditioning for Complex Text-to-Motion Synthesis**|Seong-Eun Hong et.al.|[2602.04292](http://arxiv.org/abs/2602.04292)|null|
 |**2026-02-04**|**DiMo: Discrete Diffusion Modeling for Motion Generation and Understanding**|Ning Zhang et.al.|[2602.04188](http://arxiv.org/abs/2602.04188)|null|
@@ -1675,6 +1676,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-04**|**Vivifying LIME: Visual Interactive Testbed for LIME Analysis**|Jeongmin Rhee et.al.|[2602.04841](http://arxiv.org/abs/2602.04841)|null|
+|**2026-02-04**|**PuppetAI: A Customizable Platform for Designing Tactile-Rich Affective Robot Interaction**|Jiaye Li et.al.|[2602.04787](http://arxiv.org/abs/2602.04787)|null|
+|**2026-02-04**|**How to Stop Playing Whack-a-Mole: Mapping the Ecosystem of Technologies Facilitating AI-Generated Non-Consensual Intimate Images**|Michelle L. Ding et.al.|[2602.04759](http://arxiv.org/abs/2602.04759)|null|
+|**2026-02-04**|**Alignment Drift in Multimodal LLMs: A Two-Phase, Longitudinal Evaluation of Harm Across Eight Model Releases**|Casey Ford et.al.|[2602.04739](http://arxiv.org/abs/2602.04739)|null|
+|**2026-02-04**|**Adaptive Prompt Elicitation for Text-to-Image Generation**|Xinyi Wen et.al.|[2602.04713](http://arxiv.org/abs/2602.04713)|null|
 |**2026-02-04**|**Investigating Disability Representations in Text-to-Image Models**|Yang Yian et.al.|[2602.04687](http://arxiv.org/abs/2602.04687)|null|
 |**2026-02-04**|**Discussing Your Needs in VR: A Novel Approach through Persona-based Stakeholder Role-Playing**|Yi Wang et.al.|[2602.04632](http://arxiv.org/abs/2602.04632)|null|
 |**2026-02-04**|**VRARE: Using Virtual Reality to Understand Accessibility Requirements of Color Blindness and Weakness**|Yi Wang et.al.|[2602.04621](http://arxiv.org/abs/2602.04621)|null|
