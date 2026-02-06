@@ -527,6 +527,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-05**|**InterPrior: Scaling Generative Control for Physics-Based Human-Object Interactions**|Sirui Xu et.al.|[2602.06035](http://arxiv.org/abs/2602.06035)|null|
 |**2026-02-04**|**A labeled dataset of simulated phlebotomy procedures for medical AI: polygon annotations for object detection and human-object interaction**|Raúl Jiménez Cruz et.al.|[2602.04624](http://arxiv.org/abs/2602.04624)|null|
 |**2026-02-03**|**HUSKY: Humanoid Skateboarding System via Physics-Aware Whole-Body Control**|Jinrui Han et.al.|[2602.03205](http://arxiv.org/abs/2602.03205)|null|
 |**2026-02-02**|**Making Avatars Interact: Towards Text-Driven Human-Object Interaction for Controllable Talking Avatars**|Youliang Zhang et.al.|[2602.01538](http://arxiv.org/abs/2602.01538)|null|
@@ -744,6 +745,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-05**|**From Human-Human Collaboration to Human-Agent Collaboration: A Vision, Design Philosophy, and an Empirical Framework for Achieving Successful Partnerships Between Humans and LLM Agents**|Bingsheng Yao et.al.|[2602.05987](http://arxiv.org/abs/2602.05987)|null|
+|**2026-02-05**|**Agent2Agent Threats in Safety-Critical LLM Assistants: A Human-Centric Taxonomy**|Lukas Stappen et.al.|[2602.05877](http://arxiv.org/abs/2602.05877)|null|
 |**2026-02-05**|**Prompting Destiny: Negotiating Socialization and Growth in an LLM-Mediated Speculative Gameworld**|Mandi Yang et.al.|[2602.05864](http://arxiv.org/abs/2602.05864)|null|
 |**2026-02-05**|**"It Talks Like a Patient, But Feels Different": Co-Designing AI Standardized Patients with Medical Learners**|Zhiqi Gao et.al.|[2602.05856](http://arxiv.org/abs/2602.05856)|null|
 |**2026-02-05**|**DuoDrama: Supporting Screenplay Refinement Through LLM-Assisted Human Reflection**|Yuying Tang et.al.|[2602.05854](http://arxiv.org/abs/2602.05854)|null|
