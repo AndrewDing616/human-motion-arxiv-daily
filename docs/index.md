@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.02.05
+### Automatically Updated on 2026.02.06
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-05**|**UniSurg: A Video-Native Foundation Model for Universal Understanding of Surgical Videos**|Jinlin Wu et.al.|[2602.05638](http://arxiv.org/abs/2602.05638)|null|
+|**2026-02-05**|**HiCrowd: Hierarchical Crowd Flow Alignment for Dense Human Environments**|Yufei Zhu et.al.|[2602.05608](http://arxiv.org/abs/2602.05608)|null|
+|**2026-02-05**|**ShapeGaussian: High-Fidelity 4D Human Reconstruction in Monocular Videos via Vision Priors**|Zhenxiao Liang et.al.|[2602.05572](http://arxiv.org/abs/2602.05572)|null|
+|**2026-02-05**|**TaSA: Two-Phased Deep Predictive Learning of Tactile Sensory Attenuation for Improving In-Grasp Manipulation**|Pranav Ponnivalavan et.al.|[2602.05468](http://arxiv.org/abs/2602.05468)|null|
+|**2026-02-05**|**Wi-Fi Radar via Over-the-Air Referencing: Bridging Wi-Fi Sensing and Bistatic Radar**|Koji Yamamoto et.al.|[2602.05344](http://arxiv.org/abs/2602.05344)|null|
+|**2026-02-05**|**Learning Soccer Skills for Humanoid Robots: A Progressive Perception-Action Framework**|Jipeng Kong et.al.|[2602.05310](http://arxiv.org/abs/2602.05310)|null|
 |**2026-02-04**|**PDF-HR: Pose Distance Fields for Humanoid Robots**|Yi Gu et.al.|[2602.04851](http://arxiv.org/abs/2602.04851)|null|
 |**2026-02-04**|**A Unified Complementarity-based Approach for Rigid-Body Manipulation and Motion Prediction**|Bingkun Huang et.al.|[2602.04522](http://arxiv.org/abs/2602.04522)|null|
 |**2026-02-04**|**Event-T2M: Event-level Conditioning for Complex Text-to-Motion Synthesis**|Seong-Eun Hong et.al.|[2602.04292](http://arxiv.org/abs/2602.04292)|null|
@@ -1325,6 +1331,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-05**|**PoseGaussian: Pose-Driven Novel View Synthesis for Robust 3D Human Reconstruction**|Ju Shen et.al.|[2602.05190](http://arxiv.org/abs/2602.05190)|null|
 |**2026-01-30**|**Open-Vocabulary Functional 3D Human-Scene Interaction Generation**|Jie Liu et.al.|[2601.20835](http://arxiv.org/abs/2601.20835)|null|
 |**2026-01-27**|**Dynamic Worlds, Dynamic Humans: Generating Virtual Human-Scene Interaction Motion in Dynamic Scenes**|Yin Wang et.al.|[2601.19484](http://arxiv.org/abs/2601.19484)|null|
 |**2026-01-23**|**Ar2Can: An Architect and an Artist Leveraging a Canvas for Multi-Human Generation**|Shubhankar Borse et.al.|[2511.22690](http://arxiv.org/abs/2511.22690)|null|
@@ -1676,6 +1683,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-05**|**Prompting Destiny: Negotiating Socialization and Growth in an LLM-Mediated Speculative Gameworld**|Mandi Yang et.al.|[2602.05864](http://arxiv.org/abs/2602.05864)|null|
+|**2026-02-05**|**"It Talks Like a Patient, But Feels Different": Co-Designing AI Standardized Patients with Medical Learners**|Zhiqi Gao et.al.|[2602.05856](http://arxiv.org/abs/2602.05856)|null|
+|**2026-02-05**|**DuoDrama: Supporting Screenplay Refinement Through LLM-Assisted Human Reflection**|Yuying Tang et.al.|[2602.05854](http://arxiv.org/abs/2602.05854)|null|
+|**2026-02-05**|**Large Data Acquisition and Analytics at Synchrotron Radiation Facilities**|Aashish Panta et.al.|[2602.05837](http://arxiv.org/abs/2602.05837)|null|
+|**2026-02-05**|**Whispers of the Butterfly: A Research-through-Design Exploration of In-Situ Conversational AI Guidance in Large-Scale Outdoor MR Exhibitions**|Dongyijie Primo Pan et.al.|[2602.05826](http://arxiv.org/abs/2602.05826)|null|
+|**2026-02-05**|**ToMigo: Interpretable Design Concept Graphs for Aligning Generative AI with Creative Intent**|Lena Hegemann et.al.|[2602.05825](http://arxiv.org/abs/2602.05825)|null|
+|**2026-02-05**|**Authorship Drift: How Self-Efficacy and Trust Evolve During LLM-Assisted Writing**|Yeon Su Park et.al.|[2602.05819](http://arxiv.org/abs/2602.05819)|null|
+|**2026-02-05**|**Task-Oriented Robot-Human Handovers on Legged Manipulators**|Andreea Tulbure et.al.|[2602.05760](http://arxiv.org/abs/2602.05760)|null|
+|**2026-02-05**|**Exploring AI-Augmented Sensemaking of Patient-Generated Health Data: A Mixed-Method Study with Healthcare Professionals in Cardiac Risk Reduction**|Pavithren V S Pakianathan et.al.|[2602.05687](http://arxiv.org/abs/2602.05687)|null|
+|**2026-02-05**|**(Computer) Vision in Action: Comparing Remote Sighted Assistance and a Multimodal Voice Agent in Inspection Sequences**|Damien Rudaz et.al.|[2602.05671](http://arxiv.org/abs/2602.05671)|null|
 |**2026-02-04**|**Vivifying LIME: Visual Interactive Testbed for LIME Analysis**|Jeongmin Rhee et.al.|[2602.04841](http://arxiv.org/abs/2602.04841)|null|
 |**2026-02-04**|**PuppetAI: A Customizable Platform for Designing Tactile-Rich Affective Robot Interaction**|Jiaye Li et.al.|[2602.04787](http://arxiv.org/abs/2602.04787)|null|
 |**2026-02-04**|**How to Stop Playing Whack-a-Mole: Mapping the Ecosystem of Technologies Facilitating AI-Generated Non-Consensual Intimate Images**|Michelle L. Ding et.al.|[2602.04759](http://arxiv.org/abs/2602.04759)|null|
