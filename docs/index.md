@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.02.08
+### Automatically Updated on 2026.02.09
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-06**|**DynaRetarget: Dynamically-Feasible Retargeting using Sampling-Based Trajectory Optimization**|Victor Dhedin et.al.|[2602.06827](http://arxiv.org/abs/2602.06827)|null|
+|**2026-02-06**|**Humanoid Manipulation Interface: Humanoid Whole-Body Manipulation from Robot-Free Demonstrations**|Ruiqian Nai et.al.|[2602.06643](http://arxiv.org/abs/2602.06643)|null|
+|**2026-02-06**|**The Law of Task-Achieving Body Motion: Axiomatizing Success of Robot Manipulation Actions**|Malte Huerkamp et.al.|[2602.06572](http://arxiv.org/abs/2602.06572)|null|
+|**2026-02-06**|**A High-Fidelity Robotic Manipulator Teleoperation Framework for Human-Centered Augmented Reality Evaluation**|Harsh Chhajed et.al.|[2602.06273](http://arxiv.org/abs/2602.06273)|null|
 |**2026-02-05**|**UniSurg: A Video-Native Foundation Model for Universal Understanding of Surgical Videos**|Jinlin Wu et.al.|[2602.05638](http://arxiv.org/abs/2602.05638)|null|
 |**2026-02-05**|**HiCrowd: Hierarchical Crowd Flow Alignment for Dense Human Environments**|Yufei Zhu et.al.|[2602.05608](http://arxiv.org/abs/2602.05608)|null|
 |**2026-02-05**|**ShapeGaussian: High-Fidelity 4D Human Reconstruction in Monocular Videos via Vision Priors**|Zhenxiao Liang et.al.|[2602.05572](http://arxiv.org/abs/2602.05572)|null|
@@ -1684,6 +1688,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-06**|**Understanding Workplace Relatedness Support among Healthcare Professionals: A Four-Layer Model and Implications for Technology Design**|Zheyuan Zhang et.al.|[2602.06916](http://arxiv.org/abs/2602.06916)|null|
+|**2026-02-06**|**Directing Space: Rehearsing Architecture as Performer with Explainable AI**|Pavlos Panagiotidis et.al.|[2602.06915](http://arxiv.org/abs/2602.06915)|null|
+|**2026-02-06**|**Redundant is Not Redundant: Automating Efficient Categorical Palette Design Unifying Color & Shape Encodings with CatPAW**|Chin Tseng et.al.|[2602.06792](http://arxiv.org/abs/2602.06792)|null|
+|**2026-02-06**|**Revisiting Emotions Representation for Recognition in the Wild**|Joao Baptista Cardia Neto et.al.|[2602.06778](http://arxiv.org/abs/2602.06778)|null|
+|**2026-02-06**|**"Tab, Tab, Bug'': Security Pitfalls of Next Edit Suggestions in AI-Integrated IDEs**|Yunlong Lyu et.al.|[2602.06759](http://arxiv.org/abs/2602.06759)|null|
+|**2026-02-06**|**ClassAid: A Real-time Instructor-AI-Student Orchestration System for Classroom Programming Activities**|Gefei Zhang et.al.|[2602.06734](http://arxiv.org/abs/2602.06734)|null|
+|**2026-02-06**|**PrefIx: Understand and Adapt to User Preference in Human-Agent Interaction**|Jialin Li et.al.|[2602.06714](http://arxiv.org/abs/2602.06714)|null|
+|**2026-02-06**|**Beyond Judgment: Exploring LLM as a Support System for Maternal Mental Health**|Shayla Sharmin et.al.|[2602.06678](http://arxiv.org/abs/2602.06678)|null|
+|**2026-02-06**|**CytoCrowd: A Multi-Annotator Benchmark Dataset for Cytology Image Analysis**|Yonghao Si et.al.|[2602.06674](http://arxiv.org/abs/2602.06674)|null|
+|**2026-02-06**|**Git for Sketches: An Intelligent Tracking System for Capturing Design Evolution**|Sankar B et.al.|[2602.06047](http://arxiv.org/abs/2602.06047)|null|
 |**2026-02-05**|**From Human-Human Collaboration to Human-Agent Collaboration: A Vision, Design Philosophy, and an Empirical Framework for Achieving Successful Partnerships Between Humans and LLM Agents**|Bingsheng Yao et.al.|[2602.05987](http://arxiv.org/abs/2602.05987)|null|
 |**2026-02-05**|**Agent2Agent Threats in Safety-Critical LLM Assistants: A Human-Centric Taxonomy**|Lukas Stappen et.al.|[2602.05877](http://arxiv.org/abs/2602.05877)|null|
 |**2026-02-05**|**Prompting Destiny: Negotiating Socialization and Growth in an LLM-Mediated Speculative Gameworld**|Mandi Yang et.al.|[2602.05864](http://arxiv.org/abs/2602.05864)|null|
