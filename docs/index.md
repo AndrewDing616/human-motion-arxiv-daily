@@ -959,6 +959,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-09**|**Dexterous Manipulation Policies from RGB Human Videos via 4D Hand-Object Trajectory Reconstruction**|Hongyi Chen et.al.|[2602.09013](http://arxiv.org/abs/2602.09013)|null|
+|**2026-02-09**|**TriC-Motion: Tri-Domain Causal Modeling Grounded Text-to-Motion Generation**|Yiyang Cao et.al.|[2602.08462](http://arxiv.org/abs/2602.08462)|null|
+|**2026-02-09**|**Language-Guided Transformer Tokenizer for Human Motion Generation**|Sheng Yan et.al.|[2602.08337](http://arxiv.org/abs/2602.08337)|null|
+|**2026-02-08**|**MIND: Benchmarking Memory Consistency and Action Control in World Models**|Yixuan Ye et.al.|[2602.08025](http://arxiv.org/abs/2602.08025)|null|
+|**2026-02-08**|**EasyTune: Efficient Step-Aware Fine-Tuning for Diffusion-Based Motion Generation**|Xiaofeng Tan et.al.|[2602.07967](http://arxiv.org/abs/2602.07967)|null|
+|**2026-02-08**|**Integrating Specialized and Generic Agent Motion Prediction with Dynamic Occupancy Grid Maps**|Rabbia Asghar et.al.|[2602.07938](http://arxiv.org/abs/2602.07938)|null|
 |**2026-02-07**|**Debugging code world models**|Babak Rahmani et.al.|[2602.07672](http://arxiv.org/abs/2602.07672)|null|
 |**2026-02-07**|**Proximal Action Replacement for Behavior Cloning Actor-Critic in Offline Reinforcement Learning**|Jinzong Dong et.al.|[2602.07441](http://arxiv.org/abs/2602.07441)|null|
 |**2026-02-07**|**TextOp: Real-time Interactive Text-Driven Humanoid Robot Motion Generation and Control**|Weiji Xie et.al.|[2602.07439](http://arxiv.org/abs/2602.07439)|null|
@@ -1341,11 +1347,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-09**|**Generating metamers of human scene understanding**|Ritik Raina et.al.|[2601.11675](http://arxiv.org/abs/2601.11675)|null|
 |**2026-02-05**|**PoseGaussian: Pose-Driven Novel View Synthesis for Robust 3D Human Reconstruction**|Ju Shen et.al.|[2602.05190](http://arxiv.org/abs/2602.05190)|null|
 |**2026-01-30**|**Open-Vocabulary Functional 3D Human-Scene Interaction Generation**|Jie Liu et.al.|[2601.20835](http://arxiv.org/abs/2601.20835)|null|
 |**2026-01-27**|**Dynamic Worlds, Dynamic Humans: Generating Virtual Human-Scene Interaction Motion in Dynamic Scenes**|Yin Wang et.al.|[2601.19484](http://arxiv.org/abs/2601.19484)|null|
 |**2026-01-23**|**Ar2Can: An Architect and an Artist Leveraging a Canvas for Multi-Human Generation**|Shubhankar Borse et.al.|[2511.22690](http://arxiv.org/abs/2511.22690)|null|
-|**2026-01-16**|**Generating metamers of human scene understanding**|Ritik Raina et.al.|[2601.11675](http://arxiv.org/abs/2601.11675)|null|
 |**2026-01-04**|**AHA! Animating Human Avatars in Diverse Scenes with Gaussian Splatting**|Aymen Mir et.al.|[2511.09827](http://arxiv.org/abs/2511.09827)|null|
 |**2025-12-22**|**BRIC: Bridging Kinematic Plans and Physical Control at Test Time**|Dohun Lim et.al.|[2511.20431](http://arxiv.org/abs/2511.20431)|null|
 |**2025-12-21**|**CRISP: Contact-Guided Real2Sim from Monocular Video with Planar Scene Primitives**|Zihan Wang et.al.|[2512.14696](http://arxiv.org/abs/2512.14696)|null|
@@ -1694,6 +1700,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-09**|**Rhythms of Recovery: Patient-Centered Virtual Reality Exergame for Physical Rehabilitation in the Intensive Care Unit**|Sangjun Eom et.al.|[2602.08994](http://arxiv.org/abs/2602.08994)|null|
+|**2026-02-09**|**PPG as a Bridge: Cross-Device Authentication for Smart Wearables with Photoplethysmography**|Jiacheng Liu et.al.|[2602.08972](http://arxiv.org/abs/2602.08972)|null|
+|**2026-02-09**|**pixelLOG: Logging of Online Gameplay for Cognitive Research**|Zeyu Lu et.al.|[2602.08941](http://arxiv.org/abs/2602.08941)|null|
+|**2026-02-09**|**How University Disability Services Professionals Write Image Descriptions for HCI Figures Using Generative AI**|Muhammad Raees et.al.|[2602.08937](http://arxiv.org/abs/2602.08937)|null|
+|**2026-02-09**|**"I Don't Trust Any Professional Research Tool": A Re-Imagination of Knowledge Production Workflows by, with, and for Blind and Low-Vision Researchers**|Omar Khan et.al.|[2602.08925](http://arxiv.org/abs/2602.08925)|null|
+|**2026-02-09**|**Gesturing Toward Abstraction: Multimodal Convention Formation in Collaborative Physical Tasks**|Kiyosu Maeda et.al.|[2602.08914](http://arxiv.org/abs/2602.08914)|null|
+|**2026-02-09**|**Designing Multi-Robot Ground Video Sensemaking with Public Safety Professionals**|Puqi Zhou et.al.|[2602.08882](http://arxiv.org/abs/2602.08882)|null|
+|**2026-02-09**|**Glow with the Flow: AI-Assisted Creation of Ambient Lightscapes for Music Videos**|Frederic Anthony Robinson et.al.|[2602.08838](http://arxiv.org/abs/2602.08838)|null|
+|**2026-02-09**|**Enhancing Generative AI Image Refinement with Scribbles and Annotations: A Comparative Study of Multimodal Prompts**|Hyerim Park et.al.|[2602.08830](http://arxiv.org/abs/2602.08830)|null|
+|**2026-02-09**|**Belief Offloading in Human-AI Interaction**|Rose E. Guingrich et.al.|[2602.08754](http://arxiv.org/abs/2602.08754)|null|
 |**2026-02-08**|**Orchestrating Attention: Bringing Harmony to the 'Chaos' of Neurodivergent Learning States**|Satyam Kumar Navneet et.al.|[2602.07865](http://arxiv.org/abs/2602.07865)|null|
 |**2026-02-08**|**Beyond Expertise: Stable Individual Differences in Predictive Eye-Hand Coordination**|Emiko Shishido et.al.|[2602.07816](http://arxiv.org/abs/2602.07816)|null|
 |**2026-02-08**|**TouchScribe: Augmenting Non-Visual Hand-Object Interactions with Automated Live Visual Descriptions**|Ruei-Che Chang et.al.|[2602.07802](http://arxiv.org/abs/2602.07802)|null|
