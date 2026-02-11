@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.02.10
+### Automatically Updated on 2026.02.11
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-10**|**BagelVLA: Enhancing Long-Horizon Manipulation via Interleaved Vision-Language-Action Generation**|Yucheng Hu et.al.|[2602.09849](http://arxiv.org/abs/2602.09849)|null|
+|**2026-02-10**|**TeleGate: Whole-Body Humanoid Teleoperation via Gated Expert Selection with Motion Prior**|Jie Li et.al.|[2602.09628](http://arxiv.org/abs/2602.09628)|null|
 |**2026-02-09**|**Dexterous Manipulation Policies from RGB Human Videos via 4D Hand-Object Trajectory Reconstruction**|Hongyi Chen et.al.|[2602.09013](http://arxiv.org/abs/2602.09013)|null|
 |**2026-02-09**|**TriC-Motion: Tri-Domain Causal Modeling Grounded Text-to-Motion Generation**|Yiyang Cao et.al.|[2602.08462](http://arxiv.org/abs/2602.08462)|null|
 |**2026-02-09**|**Language-Guided Transformer Tokenizer for Human Motion Generation**|Sheng Yan et.al.|[2602.08337](http://arxiv.org/abs/2602.08337)|null|
@@ -1484,6 +1486,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-10**|**VideoAfford: Grounding 3D Affordance from Human-Object-Interaction Videos via Multimodal Large Language Model**|Hanqing Wang et.al.|[2602.09638](http://arxiv.org/abs/2602.09638)|null|
 |**2026-02-05**|**InterPrior: Scaling Generative Control for Physics-Based Human-Object Interactions**|Sirui Xu et.al.|[2602.06035](http://arxiv.org/abs/2602.06035)|null|
 |**2026-02-04**|**A labeled dataset of simulated phlebotomy procedures for medical AI: polygon annotations for object detection and human-object interaction**|Raúl Jiménez Cruz et.al.|[2602.04624](http://arxiv.org/abs/2602.04624)|null|
 |**2026-02-03**|**HUSKY: Humanoid Skateboarding System via Physics-Aware Whole-Body Control**|Jinrui Han et.al.|[2602.03205](http://arxiv.org/abs/2602.03205)|null|
@@ -1700,6 +1703,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-10**|**BabyMamba-HAR: Lightweight Selective State Space Models for Efficient Human Activity Recognition on Resource Constrained Devices**|Mridankan Mandal et.al.|[2602.09872](http://arxiv.org/abs/2602.09872)|null|
+|**2026-02-10**|**Code2World: A GUI World Model via Renderable Code Generation**|Yuhao Zheng et.al.|[2602.09856](http://arxiv.org/abs/2602.09856)|null|
+|**2026-02-10**|**An open-source implementation of a closed-loop electrocorticographic Brain-Computer Interface using Micromed, FieldTrip, and PsychoPy**|Bob Van Dyck et.al.|[2602.09735](http://arxiv.org/abs/2602.09735)|null|
+|**2026-02-10**|**A Multiliteracy Model for Interactive Visualization Literacy: Definitions, Literacies, and Steps for Future Research**|Gabriela Molina León et.al.|[2602.09631](http://arxiv.org/abs/2602.09631)|null|
+|**2026-02-10**|**Stop Testing Attacks, Start Diagnosing Defenses: The Four-Checkpoint Framework Reveals Where LLM Safety Breaks**|Hayfa Dhabhi et.al.|[2602.09629](http://arxiv.org/abs/2602.09629)|null|
+|**2026-02-10**|**Earinter: A Closed-Loop System for Eating Pace Regulation with Just-in-Time Intervention Using Commodity Earbuds**|Jun Fang et.al.|[2602.09522](http://arxiv.org/abs/2602.09522)|null|
+|**2026-02-10**|**Jokeasy: Exploring Human-AI Collaboration in Thematic Joke Generation**|Yate Ge et.al.|[2602.09496](http://arxiv.org/abs/2602.09496)|null|
+|**2026-02-10**|**Beyond Input-Output: Rethinking Creativity through Design-by-Analogy in Human-AI Collaboration**|Xuechen Li et.al.|[2602.09423](http://arxiv.org/abs/2602.09423)|null|
+|**2026-02-10**|**Scaffolding Metacognition with GenAI: Exploring Design Opportunities to Support Task Management for University Students with ADHD**|Zihao Zhu et.al.|[2602.09381](http://arxiv.org/abs/2602.09381)|null|
+|**2026-02-10**|**Understanding Remote Mental Health Supporters' Help-Seeking in Online Communities**|Tuan-He Lee et.al.|[2602.09353](http://arxiv.org/abs/2602.09353)|null|
 |**2026-02-09**|**Rhythms of Recovery: Patient-Centered Virtual Reality Exergame for Physical Rehabilitation in the Intensive Care Unit**|Sangjun Eom et.al.|[2602.08994](http://arxiv.org/abs/2602.08994)|null|
 |**2026-02-09**|**PPG as a Bridge: Cross-Device Authentication for Smart Wearables with Photoplethysmography**|Jiacheng Liu et.al.|[2602.08972](http://arxiv.org/abs/2602.08972)|null|
 |**2026-02-09**|**pixelLOG: Logging of Online Gameplay for Cognitive Research**|Zeyu Lu et.al.|[2602.08941](http://arxiv.org/abs/2602.08941)|null|
