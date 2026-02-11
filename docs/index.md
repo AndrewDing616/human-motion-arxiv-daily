@@ -959,6 +959,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-10**|**ST4VLA: Spatially Guided Training for Vision-Language-Action Models**|Jinhui Ye et.al.|[2602.10109](http://arxiv.org/abs/2602.10109)|null|
+|**2026-02-10**|**EgoHumanoid: Unlocking In-the-Wild Loco-Manipulation with Robot-Free Egocentric Demonstration**|Modi Shi et.al.|[2602.10106](http://arxiv.org/abs/2602.10106)|null|
 |**2026-02-10**|**BagelVLA: Enhancing Long-Horizon Manipulation via Interleaved Vision-Language-Action Generation**|Yucheng Hu et.al.|[2602.09849](http://arxiv.org/abs/2602.09849)|null|
 |**2026-02-10**|**TeleGate: Whole-Body Humanoid Teleoperation via Gated Expert Selection with Motion Prior**|Jie Li et.al.|[2602.09628](http://arxiv.org/abs/2602.09628)|null|
 |**2026-02-09**|**Dexterous Manipulation Policies from RGB Human Videos via 4D Hand-Object Trajectory Reconstruction**|Hongyi Chen et.al.|[2602.09013](http://arxiv.org/abs/2602.09013)|null|
@@ -1703,6 +1705,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-10**|**AIDED: Augmenting Interior Design with Human Experience Data for Designer-AI Co-Design**|Yang Chen Lin et.al.|[2602.10054](http://arxiv.org/abs/2602.10054)|null|
+|**2026-02-10**|**Discovering High Level Patterns from Simulation Traces**|Sean Memery et.al.|[2602.10009](http://arxiv.org/abs/2602.10009)|null|
+|**2026-02-10**|**Human-AI Synergy Supports Collective Creative Search**|Chenyi Li et.al.|[2602.10001](http://arxiv.org/abs/2602.10001)|null|
+|**2026-02-10**|**Self-Regulated Reading with AI Support: An Eight-Week Study with Students**|Yue Fu et.al.|[2602.09907](http://arxiv.org/abs/2602.09907)|null|
+|**2026-02-10**|**Safeguarding Privacy: Privacy-Preserving Detection of Mind Wandering and Disengagement Using Federated Learning in Online Education**|Anna Bodonhelyi et.al.|[2602.09904](http://arxiv.org/abs/2602.09904)|null|
 |**2026-02-10**|**BabyMamba-HAR: Lightweight Selective State Space Models for Efficient Human Activity Recognition on Resource Constrained Devices**|Mridankan Mandal et.al.|[2602.09872](http://arxiv.org/abs/2602.09872)|null|
 |**2026-02-10**|**Code2World: A GUI World Model via Renderable Code Generation**|Yuhao Zheng et.al.|[2602.09856](http://arxiv.org/abs/2602.09856)|null|
 |**2026-02-10**|**An open-source implementation of a closed-loop electrocorticographic Brain-Computer Interface using Micromed, FieldTrip, and PsychoPy**|Bob Van Dyck et.al.|[2602.09735](http://arxiv.org/abs/2602.09735)|null|
