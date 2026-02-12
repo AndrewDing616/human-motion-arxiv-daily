@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.02.11
+### Automatically Updated on 2026.02.12
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,9 +959,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-11**|**RADAR: Benchmarking Vision-Language-Action Generalization via Real-World Dynamics, Spatial-Physical Intelligence, and Autonomous Evaluation**|Yuhao Chen et.al.|[2602.10980](http://arxiv.org/abs/2602.10980)|null|
+|**2026-02-11**|**Multimodal Priors-Augmented Text-Driven 3D Human-Object Interaction Generation**|Yin Wang et.al.|[2602.10659](http://arxiv.org/abs/2602.10659)|null|
+|**2026-02-11**|**Morphogenetic Assembly and Adaptive Control for Heterogeneous Modular Robots**|Chongxi Meng et.al.|[2602.10561](http://arxiv.org/abs/2602.10561)|null|
+|**2026-02-11**|**3DXTalker: Unifying Identity, Lip Sync, Emotion, and Spatial Dynamics in Expressive 3D Talking Avatars**|Zhongju Wang et.al.|[2602.10516](http://arxiv.org/abs/2602.10516)|null|
+|**2026-02-11**|**BagelVLA: Enhancing Long-Horizon Manipulation via Interleaved Vision-Language-Action Generation**|Yucheng Hu et.al.|[2602.09849](http://arxiv.org/abs/2602.09849)|null|
 |**2026-02-10**|**ST4VLA: Spatially Guided Training for Vision-Language-Action Models**|Jinhui Ye et.al.|[2602.10109](http://arxiv.org/abs/2602.10109)|null|
 |**2026-02-10**|**EgoHumanoid: Unlocking In-the-Wild Loco-Manipulation with Robot-Free Egocentric Demonstration**|Modi Shi et.al.|[2602.10106](http://arxiv.org/abs/2602.10106)|null|
-|**2026-02-10**|**BagelVLA: Enhancing Long-Horizon Manipulation via Interleaved Vision-Language-Action Generation**|Yucheng Hu et.al.|[2602.09849](http://arxiv.org/abs/2602.09849)|null|
 |**2026-02-10**|**TeleGate: Whole-Body Humanoid Teleoperation via Gated Expert Selection with Motion Prior**|Jie Li et.al.|[2602.09628](http://arxiv.org/abs/2602.09628)|null|
 |**2026-02-09**|**Dexterous Manipulation Policies from RGB Human Videos via 4D Hand-Object Trajectory Reconstruction**|Hongyi Chen et.al.|[2602.09013](http://arxiv.org/abs/2602.09013)|null|
 |**2026-02-09**|**TriC-Motion: Tri-Domain Causal Modeling Grounded Text-to-Motion Generation**|Yiyang Cao et.al.|[2602.08462](http://arxiv.org/abs/2602.08462)|null|
@@ -1488,6 +1492,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-11**|**Multimodal Priors-Augmented Text-Driven 3D Human-Object Interaction Generation**|Yin Wang et.al.|[2602.10659](http://arxiv.org/abs/2602.10659)|null|
 |**2026-02-10**|**VideoAfford: Grounding 3D Affordance from Human-Object-Interaction Videos via Multimodal Large Language Model**|Hanqing Wang et.al.|[2602.09638](http://arxiv.org/abs/2602.09638)|null|
 |**2026-02-05**|**InterPrior: Scaling Generative Control for Physics-Based Human-Object Interactions**|Sirui Xu et.al.|[2602.06035](http://arxiv.org/abs/2602.06035)|null|
 |**2026-02-04**|**A labeled dataset of simulated phlebotomy procedures for medical AI: polygon annotations for object detection and human-object interaction**|Raúl Jiménez Cruz et.al.|[2602.04624](http://arxiv.org/abs/2602.04624)|null|
@@ -1705,6 +1710,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-11**|**Design, Development, and Use of Maya Robot as an Assistant for the Therapy/Education of Children with Cancer: a Pilot Study**|Alireza Taheri et.al.|[2602.10942](http://arxiv.org/abs/2602.10942)|null|
+|**2026-02-11**|**What do people want to fact-check?**|Bijean Ghafouri et.al.|[2602.10935](http://arxiv.org/abs/2602.10935)|null|
+|**2026-02-11**|**Viewpoint Recommendation for Point Cloud Labeling through Interaction Cost Modeling**|Yu Zhang et.al.|[2602.10871](http://arxiv.org/abs/2602.10871)|null|
+|**2026-02-11**|**The Effect of Design Thinking on Creative & Innovation Processes: An Empirical Study Across Different Design Experience Levels**|Yuxin Zhang et.al.|[2602.10827](http://arxiv.org/abs/2602.10827)|null|
+|**2026-02-11**|**Don't blame me: How Intelligent Support Affects Moral Responsibility in Human Oversight**|Cedric Faas et.al.|[2602.10701](http://arxiv.org/abs/2602.10701)|null|
+|**2026-02-11**|**Privacy Control in Conversational LLM Platforms: A Walkthrough Study**|Zhuoyang Li et.al.|[2602.10684](http://arxiv.org/abs/2602.10684)|null|
+|**2026-02-11**|**From Interaction to Demonstration Quality in Virtual Reality: Effects of Interaction Modality and Visual Representation on Everyday Tasks**|Robin Beierling et.al.|[2602.10618](http://arxiv.org/abs/2602.10618)|null|
+|**2026-02-11**|**Labor, Capital, and Machine: Toward a Labor Process Theory for HCI**|Yigang Qin et.al.|[2602.10548](http://arxiv.org/abs/2602.10548)|null|
+|**2026-02-11**|**Exploring the Interplay Between Voice, Personality, and Gender in Human-Agent Interactions**|Kai Alexander Hackney et.al.|[2602.10535](http://arxiv.org/abs/2602.10535)|null|
+|**2026-02-11**|**Division of Labor and Collaboration Between Parents in Family Education**|Ziyi Wang et.al.|[2602.10501](http://arxiv.org/abs/2602.10501)|null|
 |**2026-02-10**|**AIDED: Augmenting Interior Design with Human Experience Data for Designer-AI Co-Design**|Yang Chen Lin et.al.|[2602.10054](http://arxiv.org/abs/2602.10054)|null|
 |**2026-02-10**|**Discovering High Level Patterns from Simulation Traces**|Sean Memery et.al.|[2602.10009](http://arxiv.org/abs/2602.10009)|null|
 |**2026-02-10**|**Human-AI Synergy Supports Collective Creative Search**|Chenyi Li et.al.|[2602.10001](http://arxiv.org/abs/2602.10001)|null|
