@@ -959,6 +959,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-11**|**HairWeaver: Few-Shot Photorealistic Hair Motion Synthesis with Sim-to-Real Guided Video Diffusion**|Di Chang et.al.|[2602.11117](http://arxiv.org/abs/2602.11117)|null|
+|**2026-02-11**|**Motion Capture is Not the Target Domain: Scaling Synthetic Data for Learning Motion Representations**|Firas Darwish et.al.|[2602.11064](http://arxiv.org/abs/2602.11064)|null|
 |**2026-02-11**|**RADAR: Benchmarking Vision-Language-Action Generalization via Real-World Dynamics, Spatial-Physical Intelligence, and Autonomous Evaluation**|Yuhao Chen et.al.|[2602.10980](http://arxiv.org/abs/2602.10980)|null|
 |**2026-02-11**|**Multimodal Priors-Augmented Text-Driven 3D Human-Object Interaction Generation**|Yin Wang et.al.|[2602.10659](http://arxiv.org/abs/2602.10659)|null|
 |**2026-02-11**|**Morphogenetic Assembly and Adaptive Control for Heterogeneous Modular Robots**|Chongxi Meng et.al.|[2602.10561](http://arxiv.org/abs/2602.10561)|null|
@@ -1710,6 +1712,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-11**|**LCIP: Loss-Controlled Inverse Projection of High-Dimensional Image Data**|Yu Wang et.al.|[2602.11141](http://arxiv.org/abs/2602.11141)|null|
+|**2026-02-11**|**AI Sensing and Intervention in Higher Education: Student Perceptions of Learning Impacts, Affective Responses, and Ethical Priorities**|Bingyi Han et.al.|[2602.11074](http://arxiv.org/abs/2602.11074)|null|
+|**2026-02-11**|**GenFaceUI: Meta-Design of Generative Personalized Facial Expression Interfaces for Intelligent Agents**|Yate Ge et.al.|[2602.11055](http://arxiv.org/abs/2602.11055)|null|
+|**2026-02-11**|**GraphSeek: Next-Generation Graph Analytics with LLMs**|Maciej Besta et.al.|[2602.11052](http://arxiv.org/abs/2602.11052)|null|
+|**2026-02-11**|**Normalized Surveillance in the Datafied Car: How Autonomous Vehicle Users Rationalize Privacy Trade-offs**|Yehuda Perry et.al.|[2602.11026](http://arxiv.org/abs/2602.11026)|null|
+|**2026-02-11**|**Reality Copilot: Voice-First Human-AI Collaboration in Mixed Reality Using Large Multimodal Models**|Liuchuan Yu et.al.|[2602.11025](http://arxiv.org/abs/2602.11025)|null|
 |**2026-02-11**|**Design, Development, and Use of Maya Robot as an Assistant for the Therapy/Education of Children with Cancer: a Pilot Study**|Alireza Taheri et.al.|[2602.10942](http://arxiv.org/abs/2602.10942)|null|
 |**2026-02-11**|**What do people want to fact-check?**|Bijean Ghafouri et.al.|[2602.10935](http://arxiv.org/abs/2602.10935)|null|
 |**2026-02-11**|**Viewpoint Recommendation for Point Cloud Labeling through Interaction Cost Modeling**|Yu Zhang et.al.|[2602.10871](http://arxiv.org/abs/2602.10871)|null|
