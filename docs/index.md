@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.02.12
+### Automatically Updated on 2026.02.13
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**DynaHOI: Benchmarking Hand-Object Interaction for Dynamic Target**|BoCheng Hu et.al.|[2602.11919](http://arxiv.org/abs/2602.11919)|null|
+|**2026-02-12**|**ReaDy-Go: Real-to-Sim Dynamic 3D Gaussian Splatting Simulation for Environment-Specific Visual Navigation with Moving Obstacles**|Seungyeon Yoo et.al.|[2602.11575](http://arxiv.org/abs/2602.11575)|null|
+|**2026-02-12**|**LUVE : Latent-Cascaded Ultra-High-Resolution Video Generation with Dual Frequency Experts**|Chen Zhao et.al.|[2602.11564](http://arxiv.org/abs/2602.11564)|null|
+|**2026-02-11**|**Human Preference Modeling Using Visual Motion Prediction Improves Robot Skill Learning from Egocentric Human Video**|Mrinal Verghese et.al.|[2602.11393](http://arxiv.org/abs/2602.11393)|null|
+|**2026-02-11**|**ExtremControl: Low-Latency Humanoid Teleoperation with Direct Extremity Control**|Ziyan Xiong et.al.|[2602.11321](http://arxiv.org/abs/2602.11321)|null|
 |**2026-02-11**|**HairWeaver: Few-Shot Photorealistic Hair Motion Synthesis with Sim-to-Real Guided Video Diffusion**|Di Chang et.al.|[2602.11117](http://arxiv.org/abs/2602.11117)|null|
 |**2026-02-11**|**Motion Capture is Not the Target Domain: Scaling Synthetic Data for Learning Motion Representations**|Firas Darwish et.al.|[2602.11064](http://arxiv.org/abs/2602.11064)|null|
 |**2026-02-11**|**RADAR: Benchmarking Vision-Language-Action Generalization via Real-World Dynamics, Spatial-Physical Intelligence, and Autonomous Evaluation**|Yuhao Chen et.al.|[2602.10980](http://arxiv.org/abs/2602.10980)|null|
@@ -1494,6 +1499,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**HAIC: Humanoid Agile Object Interaction Control via Dynamics-Aware World Model**|Dongting Li et.al.|[2602.11758](http://arxiv.org/abs/2602.11758)|null|
+|**2026-02-12**|**What if Agents Could Imagine? Reinforcing Open-Vocabulary HOI Comprehension through Generation**|Zhenlong Yuan et.al.|[2602.11499](http://arxiv.org/abs/2602.11499)|null|
 |**2026-02-11**|**Multimodal Priors-Augmented Text-Driven 3D Human-Object Interaction Generation**|Yin Wang et.al.|[2602.10659](http://arxiv.org/abs/2602.10659)|null|
 |**2026-02-10**|**VideoAfford: Grounding 3D Affordance from Human-Object-Interaction Videos via Multimodal Large Language Model**|Hanqing Wang et.al.|[2602.09638](http://arxiv.org/abs/2602.09638)|null|
 |**2026-02-05**|**InterPrior: Scaling Generative Control for Physics-Based Human-Object Interactions**|Sirui Xu et.al.|[2602.06035](http://arxiv.org/abs/2602.06035)|null|
@@ -1712,6 +1719,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**Choose Your Agent: Tradeoffs in Adopting AI Advisors, Coaches, and Delegates in Multi-Party Negotiation**|Kehang Zhu et.al.|[2602.12089](http://arxiv.org/abs/2602.12089)|null|
+|**2026-02-12**|**Wisdom of the LLM Crowd: A Large Scale Benchmark of Multi-Label U.S. Election-Related Harmful Social Media Content**|Qile Wang et.al.|[2602.11962](http://arxiv.org/abs/2602.11962)|null|
+|**2026-02-12**|**Who Does What? Archetypes of Roles Assigned to LLMs During Human-AI Decision-Making**|Shreya Chappidi et.al.|[2602.11924](http://arxiv.org/abs/2602.11924)|null|
+|**2026-02-12**|**Decision Support System for Technology Opportunity Discovery: An Application of the Schwartz Theory of Basic Values**|Ayato Kitadai et.al.|[2602.11855](http://arxiv.org/abs/2602.11855)|null|
+|**2026-02-12**|**V-SHiNE: A Virtual Smart Home Framework for Explainability Evaluation**|Mersedeh Sadeghi et.al.|[2602.11775](http://arxiv.org/abs/2602.11775)|null|
+|**2026-02-12**|**Building Intelligent User Interfaces for Human-AI Alignment**|Danqing Shi et.al.|[2602.11753](http://arxiv.org/abs/2602.11753)|null|
+|**2026-02-12**|**AmbiBench: Benchmarking Mobile GUI Agents Beyond One-Shot Instructions in the Wild**|Jiazheng Sun et.al.|[2602.11750](http://arxiv.org/abs/2602.11750)|null|
+|**2026-02-12**|**Mapping the Landscape of Affective Extended Reality: A Scoping Review of Biodata-Driven Systems for Understanding and Sharing Emotions**|Zhidian Lin et.al.|[2602.11710](http://arxiv.org/abs/2602.11710)|null|
+|**2026-02-12**|**PatientHub: A Unified Framework for Patient Simulation**|Sahand Sabour et.al.|[2602.11684](http://arxiv.org/abs/2602.11684)|null|
+|**2026-02-12**|**"I Was Told to Come Back and Share This": Social Media-Based Near-Death Experience Disclosures as Expressions of Spiritual Beliefs**|Yifan Zhao et.al.|[2602.11663](http://arxiv.org/abs/2602.11663)|null|
 |**2026-02-11**|**LCIP: Loss-Controlled Inverse Projection of High-Dimensional Image Data**|Yu Wang et.al.|[2602.11141](http://arxiv.org/abs/2602.11141)|null|
 |**2026-02-11**|**AI Sensing and Intervention in Higher Education: Student Perceptions of Learning Impacts, Affective Responses, and Ethical Priorities**|Bingyi Han et.al.|[2602.11074](http://arxiv.org/abs/2602.11074)|null|
 |**2026-02-11**|**GenFaceUI: Meta-Design of Generative Personalized Facial Expression Interfaces for Intelligent Agents**|Yate Ge et.al.|[2602.11055](http://arxiv.org/abs/2602.11055)|null|
