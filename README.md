@@ -780,6 +780,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-12**|**A technical curriculum on language-oriented artificial intelligence in translation and specialised communication**|Ralph Krüger et.al.|[2602.12251](http://arxiv.org/abs/2602.12251)|null|
+|**2026-02-12**|**VIRENA: Virtual Arena for Research, Education, and Democratic Innovation**|Emma Hoes et.al.|[2602.12207](http://arxiv.org/abs/2602.12207)|null|
+|**2026-02-12**|**Embodied AI Agents for Team Collaboration in Co-located Blue-Collar Work**|Kaisa Vaananen et.al.|[2602.12136](http://arxiv.org/abs/2602.12136)|null|
+|**2026-02-12**|**Value Alignment Tax: Measuring Value Trade-offs in LLM Alignment**|Jiajun Chen et.al.|[2602.12134](http://arxiv.org/abs/2602.12134)|null|
+|**2026-02-12**|**Neutral Prompts, Non-Neutral People: Quantifying Gender and Skin-Tone Bias in Gemini Flash 2.5 Image and GPT Image 1.5**|Roberto Balestri et.al.|[2602.12133](http://arxiv.org/abs/2602.12133)|null|
 |**2026-02-12**|**Choose Your Agent: Tradeoffs in Adopting AI Advisors, Coaches, and Delegates in Multi-Party Negotiation**|Kehang Zhu et.al.|[2602.12089](http://arxiv.org/abs/2602.12089)|null|
 |**2026-02-12**|**Wisdom of the LLM Crowd: A Large Scale Benchmark of Multi-Label U.S. Election-Related Harmful Social Media Content**|Qile Wang et.al.|[2602.11962](http://arxiv.org/abs/2602.11962)|null|
 |**2026-02-12**|**Who Does What? Archetypes of Roles Assigned to LLMs During Human-AI Decision-Making**|Shreya Chappidi et.al.|[2602.11924](http://arxiv.org/abs/2602.11924)|null|
