@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.02.15
+### Automatically Updated on 2026.02.16
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-13**|**Represent Micro-Doppler Signature in Orders**|Weicheng Gao et.al.|[2602.12985](http://arxiv.org/abs/2602.12985)|null|
+|**2026-02-13**|**Xiaomi-Robotics-0: An Open-Sourced Vision-Language-Action Model with Real-Time Execution**|Rui Cai et.al.|[2602.12684](http://arxiv.org/abs/2602.12684)|null|
+|**2026-02-13**|**PMG: Parameterized Motion Generator for Human-like Locomotion Control**|Chenxi Han et.al.|[2602.12656](http://arxiv.org/abs/2602.12656)|null|
+|**2026-02-12**|**LLaMo: Scaling Pretrained Language Models for Unified Motion Understanding and Generation with Continuous Autoregressive Tokens**|Zekun Li et.al.|[2602.12370](http://arxiv.org/abs/2602.12370)|null|
 |**2026-02-12**|**DynaHOI: Benchmarking Hand-Object Interaction for Dynamic Target**|BoCheng Hu et.al.|[2602.11919](http://arxiv.org/abs/2602.11919)|null|
 |**2026-02-12**|**ReaDy-Go: Real-to-Sim Dynamic 3D Gaussian Splatting Simulation for Environment-Specific Visual Navigation with Moving Obstacles**|Seungyeon Yoo et.al.|[2602.11575](http://arxiv.org/abs/2602.11575)|null|
 |**2026-02-12**|**LUVE : Latent-Cascaded Ultra-High-Resolution Video Generation with Dual Frequency Experts**|Chen Zhao et.al.|[2602.11564](http://arxiv.org/abs/2602.11564)|null|
@@ -1719,6 +1723,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-13**|**The Fuzzy Front Ends: Reflections on the Never-Ending Story of Visualization Co-Design**|Wei Wei et.al.|[2602.13182](http://arxiv.org/abs/2602.13182)|null|
+|**2026-02-13**|**Preference-Guided Prompt Optimization for Text-to-Image Generation**|Zhipeng Li et.al.|[2602.13131](http://arxiv.org/abs/2602.13131)|null|
+|**2026-02-13**|**Automating UI Optimization through Multi-Agentic Reasoning**|Zhipeng Li et.al.|[2602.13126](http://arxiv.org/abs/2602.13126)|null|
+|**2026-02-13**|**"It's More of a Lifestyle'': Design Considerations for Supporting Everyday Practices in Community-Based Farming**|Minghe Lu et.al.|[2602.13119](http://arxiv.org/abs/2602.13119)|null|
+|**2026-02-13**|**Resource-Efficient Gesture Recognition through Convexified Attention**|Daniel Schwartz et.al.|[2602.13030](http://arxiv.org/abs/2602.13030)|null|
+|**2026-02-13**|**GroundLink: Exploring How Contextual Meeting Snippets Can Close Common Ground Gaps in Editing 3D Scenes for Virtual Production**|Gun Woo et.al.|[2602.12987](http://arxiv.org/abs/2602.12987)|null|
+|**2026-02-13**|**Human Tool: An MCP-Style Framework for Human-Agent Collaboration**|Yuanrong Tang et.al.|[2602.12953](http://arxiv.org/abs/2602.12953)|null|
+|**2026-02-13**|**Never say never: Exploring the effects of available knowledge on agent persuasiveness in controlled physiotherapy motivation dialogues**|Stephan Vonschallen et.al.|[2602.12924](http://arxiv.org/abs/2602.12924)|null|
+|**2026-02-13**|**Comparative Study of Ultrasound Shape Completion and CBCT-Based AR Workflows for Spinal Needle Interventions**|Tianyu Song et.al.|[2602.12920](http://arxiv.org/abs/2602.12920)|null|
+|**2026-02-13**|**Reflection at Design Actualization (RDA) : A Tool and Process For Research Through Game Design**|Prabhav Bhatnagar et.al.|[2602.12887](http://arxiv.org/abs/2602.12887)|null|
 |**2026-02-12**|**A technical curriculum on language-oriented artificial intelligence in translation and specialised communication**|Ralph Krüger et.al.|[2602.12251](http://arxiv.org/abs/2602.12251)|null|
 |**2026-02-12**|**VIRENA: Virtual Arena for Research, Education, and Democratic Innovation**|Emma Hoes et.al.|[2602.12207](http://arxiv.org/abs/2602.12207)|null|
 |**2026-02-12**|**Embodied AI Agents for Team Collaboration in Co-located Blue-Collar Work**|Kaisa Vaananen et.al.|[2602.12136](http://arxiv.org/abs/2602.12136)|null|
