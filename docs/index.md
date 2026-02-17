@@ -959,6 +959,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-16**|**MoRL: Reinforced Reasoning for Unified Motion Understanding and Generation**|Hongpeng Wang et.al.|[2602.14534](http://arxiv.org/abs/2602.14534)|null|
 |**2026-02-15**|**Rethinking RSSI for WiFi Sensing**|Zhongqin Wang et.al.|[2602.14004](http://arxiv.org/abs/2602.14004)|null|
 |**2026-02-14**|**RPGD: RANSAC-P3P Gradient Descent for Extrinsic Calibration in 3D Human Pose Estimation**|Zhanyu Tuo et.al.|[2602.13901](http://arxiv.org/abs/2602.13901)|null|
 |**2026-02-14**|**Mean Flow Policy with Instantaneous Velocity Constraint for One-step Action Generation**|Guojian Zhan et.al.|[2602.13810](http://arxiv.org/abs/2602.13810)|null|
@@ -1733,6 +1734,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-16**|**TouchFusion: Multimodal Wristband Sensing for Ubiquitous Touch Interactions**|Eric Whitmire et.al.|[2602.15011](http://arxiv.org/abs/2602.15011)|null|
+|**2026-02-16**|**Sovereign Agents: Towards Infrastructural Sovereignty and Diffused Accountability in Decentralized AI**|Botao Amber Hu et.al.|[2602.14951](http://arxiv.org/abs/2602.14951)|null|
+|**2026-02-16**|**Kami of the Commons: Towards Designing Agentic AI to Steward the Commons**|Botao Amber Hu et.al.|[2602.14940](http://arxiv.org/abs/2602.14940)|null|
+|**2026-02-16**|**Web-Scale Multimodal Summarization using CLIP-Based Semantic Alignment**|Mounvik K et.al.|[2602.14889](http://arxiv.org/abs/2602.14889)|null|
+|**2026-02-16**|**Robot-Wearable Conversation Hand-off for Navigation**|Dániel Szabó et.al.|[2602.14831](http://arxiv.org/abs/2602.14831)|null|
+|**2026-02-16**|**Multi-Agent Comedy Club: Investigating Community Discussion Effects on LLM Humor Generation**|Shiwei Hong et.al.|[2602.14770](http://arxiv.org/abs/2602.14770)|null|
+|**2026-02-16**|**More than Decision Support: Exploring Patients' Longitudinal Usage of Large Language Models in Real-World Healthcare-Seeking Journeys**|Yancheng Cao et.al.|[2602.14733](http://arxiv.org/abs/2602.14733)|null|
+|**2026-02-16**|**Before the Vicious Cycle Starts: Preventing Burnout Across SOC Roles Through Flow-Aligned Design**|Kashyap Thimmaraju et.al.|[2602.14598](http://arxiv.org/abs/2602.14598)|null|
+|**2026-02-16**|**Patient-Made Knowledge Networks: Long COVID Discourse, Epistemic Injustice, and Online Community Formation**|Tawfiq Ammari et.al.|[2602.14528](http://arxiv.org/abs/2602.14528)|null|
+|**2026-02-16**|**When OpenClaw AI Agents Teach Each Other: Peer Learning Patterns in the Moltbook Community**|Eason Chen et.al.|[2602.14477](http://arxiv.org/abs/2602.14477)|null|
 |**2026-02-15**|**GPT-5 vs Other LLMs in Long Short-Context Performance**|Nima Esmi et.al.|[2602.14188](http://arxiv.org/abs/2602.14188)|null|
 |**2026-02-15**|**Exploring a Multimodal Chatbot as a Facilitator in Therapeutic Art Activity**|Le Lin et.al.|[2602.14183](http://arxiv.org/abs/2602.14183)|null|
 |**2026-02-15**|**DALL: Data Labeling via Data Programming and Active Learning Enhanced by Large Language Models**|Guozheng Li et.al.|[2602.14102](http://arxiv.org/abs/2602.14102)|null|
