@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.02.16
+### Automatically Updated on 2026.02.17
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-15**|**Rethinking RSSI for WiFi Sensing**|Zhongqin Wang et.al.|[2602.14004](http://arxiv.org/abs/2602.14004)|null|
+|**2026-02-14**|**RPGD: RANSAC-P3P Gradient Descent for Extrinsic Calibration in 3D Human Pose Estimation**|Zhanyu Tuo et.al.|[2602.13901](http://arxiv.org/abs/2602.13901)|null|
+|**2026-02-14**|**Mean Flow Policy with Instantaneous Velocity Constraint for One-step Action Generation**|Guojian Zhan et.al.|[2602.13810](http://arxiv.org/abs/2602.13810)|null|
+|**2026-02-14**|**Skeleton2Stage: Reward-Guided Fine-Tuning for Physically Plausible Dance Generation**|Jidong Jia et.al.|[2602.13778](http://arxiv.org/abs/2602.13778)|null|
+|**2026-02-14**|**MOTIF: Learning Action Motifs for Few-shot Cross-Embodiment Transfer**|Heng Zhi et.al.|[2602.13764](http://arxiv.org/abs/2602.13764)|null|
+|**2026-02-14**|**T2MBench: A Benchmark for Out-of-Distribution Text-to-Motion Generation**|Bin Yang et.al.|[2602.13751](http://arxiv.org/abs/2602.13751)|null|
+|**2026-02-14**|**HybridFlow: A Two-Step Generative Policy for Robotic Manipulation**|Zhenchen Dong et.al.|[2602.13718](http://arxiv.org/abs/2602.13718)|null|
+|**2026-02-14**|**HBVLA: Pushing 1-Bit Post-Training Quantization for Vision-Language-Action Models**|Xin Yan et.al.|[2602.13710](http://arxiv.org/abs/2602.13710)|null|
+|**2026-02-14**|**A Kung Fu Athlete Bot That Can Do It All Day: Highly Dynamic, Balance-Challenging Motion Dataset and Autonomous Fall-Resilient Tracking**|Zhongxiang Lei et.al.|[2602.13656](http://arxiv.org/abs/2602.13656)|null|
 |**2026-02-13**|**Represent Micro-Doppler Signature in Orders**|Weicheng Gao et.al.|[2602.12985](http://arxiv.org/abs/2602.12985)|null|
 |**2026-02-13**|**Xiaomi-Robotics-0: An Open-Sourced Vision-Language-Action Model with Real-Time Execution**|Rui Cai et.al.|[2602.12684](http://arxiv.org/abs/2602.12684)|null|
 |**2026-02-13**|**PMG: Parameterized Motion Generator for Human-like Locomotion Control**|Chenxi Han et.al.|[2602.12656](http://arxiv.org/abs/2602.12656)|null|
@@ -1507,6 +1516,7 @@ layout: default
 |**2026-02-12**|**What if Agents Could Imagine? Reinforcing Open-Vocabulary HOI Comprehension through Generation**|Zhenlong Yuan et.al.|[2602.11499](http://arxiv.org/abs/2602.11499)|null|
 |**2026-02-11**|**Multimodal Priors-Augmented Text-Driven 3D Human-Object Interaction Generation**|Yin Wang et.al.|[2602.10659](http://arxiv.org/abs/2602.10659)|null|
 |**2026-02-10**|**VideoAfford: Grounding 3D Affordance from Human-Object-Interaction Videos via Multimodal Large Language Model**|Hanqing Wang et.al.|[2602.09638](http://arxiv.org/abs/2602.09638)|null|
+|**2026-02-08**|**AGORA: Agentic Green Orchestration Architecture for Beyond 5G Networks**|Rodrigo Moreira et.al.|[2602.13290](http://arxiv.org/abs/2602.13290)|null|
 |**2026-02-05**|**InterPrior: Scaling Generative Control for Physics-Based Human-Object Interactions**|Sirui Xu et.al.|[2602.06035](http://arxiv.org/abs/2602.06035)|null|
 |**2026-02-04**|**A labeled dataset of simulated phlebotomy procedures for medical AI: polygon annotations for object detection and human-object interaction**|Raúl Jiménez Cruz et.al.|[2602.04624](http://arxiv.org/abs/2602.04624)|null|
 |**2026-02-03**|**HUSKY: Humanoid Skateboarding System via Physics-Aware Whole-Body Control**|Jinrui Han et.al.|[2602.03205](http://arxiv.org/abs/2602.03205)|null|
@@ -1723,6 +1733,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-15**|**GPT-5 vs Other LLMs in Long Short-Context Performance**|Nima Esmi et.al.|[2602.14188](http://arxiv.org/abs/2602.14188)|null|
+|**2026-02-15**|**Exploring a Multimodal Chatbot as a Facilitator in Therapeutic Art Activity**|Le Lin et.al.|[2602.14183](http://arxiv.org/abs/2602.14183)|null|
+|**2026-02-15**|**DALL: Data Labeling via Data Programming and Active Learning Enhanced by Large Language Models**|Guozheng Li et.al.|[2602.14102](http://arxiv.org/abs/2602.14102)|null|
+|**2026-02-15**|**Audience in the Loop: Viewer Feedback-Driven Content Creation in Micro-drama Production on Social Media**|Gengchen Cao et.al.|[2602.14045](http://arxiv.org/abs/2602.14045)|null|
+|**2026-02-15**|**Customer Service Operations: A Gatekeeper Framework**|Maqbool Dada et.al.|[2602.13998](http://arxiv.org/abs/2602.13998)|null|
+|**2026-02-15**|**A System of Care, Not Control: Co-Designing Online Safety and Wellbeing Solutions with Guardians ad Litem for Youth in Child Welfare**|Johanna Olesk et.al.|[2602.13989](http://arxiv.org/abs/2602.13989)|null|
+|**2026-02-15**|**Avoiding Social Judgment, Seeking Privacy: Investigating why Mothers Shift from Facebook Groups to Large Language Models**|Shayla Sharmin et.al.|[2602.13941](http://arxiv.org/abs/2602.13941)|null|
+|**2026-02-14**|**Not Seeing the Whole Picture: Challenges and Opportunities in Using AI for Co-Making Physical DIY-AT for People with Visual Impairments**|Ben Kosa et.al.|[2602.13874](http://arxiv.org/abs/2602.13874)|null|
+|**2026-02-14**|**What happens when reviewers receive AI feedback in their reviews?**|Shiping Chen et.al.|[2602.13817](http://arxiv.org/abs/2602.13817)|null|
+|**2026-02-14**|**Ontological grounding for sound and natural robot explanations via large language models**|Alberto Olivares-Alarcos et.al.|[2602.13800](http://arxiv.org/abs/2602.13800)|null|
 |**2026-02-13**|**The Fuzzy Front Ends: Reflections on the Never-Ending Story of Visualization Co-Design**|Wei Wei et.al.|[2602.13182](http://arxiv.org/abs/2602.13182)|null|
 |**2026-02-13**|**Preference-Guided Prompt Optimization for Text-to-Image Generation**|Zhipeng Li et.al.|[2602.13131](http://arxiv.org/abs/2602.13131)|null|
 |**2026-02-13**|**Automating UI Optimization through Multi-Agentic Reasoning**|Zhipeng Li et.al.|[2602.13126](http://arxiv.org/abs/2602.13126)|null|
