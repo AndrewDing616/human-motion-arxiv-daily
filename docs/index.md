@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.02.19
+### Automatically Updated on 2026.02.20
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1740,6 +1740,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-19**|**The Effectiveness of a Virtual Reality-Based Training Program for Improving Body Awareness in Children with Attention Deficit and Hyperactivity Disorder**|Aya Abdelnaem El-Basha et.al.|[2602.17649](http://arxiv.org/abs/2602.17649)|null|
+|**2026-02-19**|**Modeling Distinct Human Interaction in Web Agents**|Faria Huq et.al.|[2602.17588](http://arxiv.org/abs/2602.17588)|null|
+|**2026-02-19**|**What Do LLMs Associate with Your Name? A Human-Centered Black-Box Audit of Personal Data**|Dimitri Staufer et.al.|[2602.17483](http://arxiv.org/abs/2602.17483)|null|
+|**2026-02-19**|**ShadAR: LLM-driven shader generation to transform visual perception in Augmented Reality**|Yanni Mei et.al.|[2602.17481](http://arxiv.org/abs/2602.17481)|null|
+|**2026-02-19**|**Auditing Reciprocal Sentiment Alignment: Inversion Risk, Dialect Representation and Intent Misalignment in Transformers**|Nusrat Jahan Lia et.al.|[2602.17469](http://arxiv.org/abs/2602.17469)|null|
+|**2026-02-19**|**Do Hackers Dream of Electric Teachers?: A Large-Scale, In-Situ Evaluation of Cybersecurity Student Behaviors and Performance with AI Tutors**|Michael Tompkins et.al.|[2602.17448](http://arxiv.org/abs/2602.17448)|null|
+|**2026-02-19**|**PersonaMail: Learning and Adapting Personal Communication Preferences for Context-Aware Email Writing**|Rui Yao et.al.|[2602.17340](http://arxiv.org/abs/2602.17340)|null|
+|**2026-02-19**|**NotebookRAG: Retrieving Multiple Notebooks to Augment the Generation of EDA Notebooks for Crowd-Wisdom**|Yi Shan et.al.|[2602.17215](http://arxiv.org/abs/2602.17215)|null|
+|**2026-02-19**|**The Bots of Persuasion: Examining How Conversational Agents' Linguistic Expressions of Personality Affect User Perceptions and Decisions**|Uğur Genç et.al.|[2602.17185](http://arxiv.org/abs/2602.17185)|null|
+|**2026-02-19**|**Understanding Nature Engagement Experiences of Blind People**|Mengjie Tang et.al.|[2602.17093](http://arxiv.org/abs/2602.17093)|null|
 |**2026-02-18**|**From Latent to Observable Position-Based Click Models in Carousel Interfaces**|Santiago de Leon-Martinez et.al.|[2602.16541](http://arxiv.org/abs/2602.16541)|null|
 |**2026-02-18**|**Wearable AR for Restorative Breaks: How Interactive Narrative Experiences Support Relaxation for Young Adults**|Jindu Wang et.al.|[2602.16323](http://arxiv.org/abs/2602.16323)|null|
 |**2026-02-18**|**Generative AI Usage of University Students: Navigating Between Education and Business**|Fabian Walke et.al.|[2602.16307](http://arxiv.org/abs/2602.16307)|null|
