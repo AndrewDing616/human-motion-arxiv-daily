@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.02.22
+### Automatically Updated on 2026.02.23
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-20**|**Robo-Saber: Generating and Simulating Virtual Reality Players**|Nam Hee Kim et.al.|[2602.18319](http://arxiv.org/abs/2602.18319)|null|
+|**2026-02-20**|**A Self-Supervised Approach on Motion Calibration for Enhancing Physical Plausibility in Text-to-Motion**|Gahyeon Shim et.al.|[2602.18199](http://arxiv.org/abs/2602.18199)|null|
+|**2026-02-20**|**Temporal Consistency-Aware Text-to-Motion Generation**|Hongsong Wang et.al.|[2602.18057](http://arxiv.org/abs/2602.18057)|null|
+|**2026-02-20**|**UAOR: Uncertainty-aware Observation Reinjection for Vision-Language-Action Models**|Jiabing Yang et.al.|[2602.18020](http://arxiv.org/abs/2602.18020)|null|
+|**2026-02-19**|**CLUTCH: Contextualized Language model for Unlocking Text-Conditioned Hand motion modelling in the wild**|Balamurugan Thambiraja et.al.|[2602.17770](http://arxiv.org/abs/2602.17770)|null|
+|**2026-02-19**|**KPM-Bench: A Kinematic Parsing Motion Benchmark for Fine-grained Motion-centric Video Understanding**|Boda Lin et.al.|[2602.17768](http://arxiv.org/abs/2602.17768)|null|
 |**2026-02-18**|**EgoScale: Scaling Dexterous Manipulation with Diverse Egocentric Human Data**|Ruijie Zheng et.al.|[2602.16710](http://arxiv.org/abs/2602.16710)|null|
 |**2026-02-18**|**Reactive Motion Generation With Particle-Based Perception in Dynamic Environments**|Xiyuan Zhao et.al.|[2602.16462](http://arxiv.org/abs/2602.16462)|null|
 |**2026-02-17**|**Perceptive Humanoid Parkour: Chaining Dynamic Human Skills via Motion Matching**|Zhen Wu et.al.|[2602.15827](http://arxiv.org/abs/2602.15827)|null|
@@ -1740,6 +1746,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-20**|**AI-Wrapped: Participatory, Privacy-Preserving Measurement of Longitudinal LLM Use In-the-Wild**|Cathy Mengying Fang et.al.|[2602.18415](http://arxiv.org/abs/2602.18415)|null|
+|**2026-02-20**|**"How Do I ...?": Procedural Questions Predominate Student-LLM Chatbot Conversations**|Alexandra Neagu et.al.|[2602.18372](http://arxiv.org/abs/2602.18372)|null|
+|**2026-02-20**|**Qualitative Coding Analysis through Open-Source Large Language Models: A User Study and Design Recommendations**|Tung T. Ngo et.al.|[2602.18352](http://arxiv.org/abs/2602.18352)|null|
+|**2026-02-20**|**Robo-Saber: Generating and Simulating Virtual Reality Players**|Nam Hee Kim et.al.|[2602.18319](http://arxiv.org/abs/2602.18319)|null|
+|**2026-02-20**|**Aurora: Neuro-Symbolic AI Driven Advising Agent**|Lorena Amanda Quincoso Lugones et.al.|[2602.17999](http://arxiv.org/abs/2602.17999)|null|
+|**2026-02-20**|**DuoTouch: Passive Two-Footprint Attachments Using Binary Sequences to Extend Touch Interaction**|Kaori Ikematsu et.al.|[2602.17961](http://arxiv.org/abs/2602.17961)|null|
+|**2026-02-20**|**How Well Can 3D Accessibility Guidelines Support XR Development? An Interview Study with XR Practitioners in Industry**|Daniel Killough et.al.|[2602.17939](http://arxiv.org/abs/2602.17939)|null|
+|**2026-02-20**|**Growing With the Condition: Co-Designing Pediatric Technologies that Adapt Across Developmental Stages**|Neda Barbazi et.al.|[2602.17925](http://arxiv.org/abs/2602.17925)|null|
+|**2026-02-20**|**Visual Anthropomorphism Shifts Evaluations of Gendered AI Managers**|Ruiqing Han et.al.|[2602.17919](http://arxiv.org/abs/2602.17919)|null|
+|**2026-02-20**|**Games That Teach, Chats That Convince: Comparing Interactive and Static Formats for Persuasive Learning**|Seyed Hossein Alavi et.al.|[2602.17905](http://arxiv.org/abs/2602.17905)|null|
 |**2026-02-19**|**The Effectiveness of a Virtual Reality-Based Training Program for Improving Body Awareness in Children with Attention Deficit and Hyperactivity Disorder**|Aya Abdelnaem El-Basha et.al.|[2602.17649](http://arxiv.org/abs/2602.17649)|null|
 |**2026-02-19**|**Modeling Distinct Human Interaction in Web Agents**|Faria Huq et.al.|[2602.17588](http://arxiv.org/abs/2602.17588)|null|
 |**2026-02-19**|**What Do LLMs Associate with Your Name? A Human-Centered Black-Box Audit of Personal Data**|Dimitri Staufer et.al.|[2602.17483](http://arxiv.org/abs/2602.17483)|null|
