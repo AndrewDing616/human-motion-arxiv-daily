@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-23**|**AdaWorldPolicy: World-Model-Driven Diffusion Policy with Online Adaptive Learning for Robotic Manipulation**|Ge Yuan et.al.|[2602.20057](http://arxiv.org/abs/2602.20057)|null|
+|**2026-02-22**|**Seeing Farther and Smarter: Value-Guided Multi-Path Reflection for VLM Policy Optimization**|Yanting Yang et.al.|[2602.19372](http://arxiv.org/abs/2602.19372)|null|
 |**2026-02-22**|**VLM-Guided Group Preference Alignment for Diffusion-based Human Mesh Recovery**|Wenhao Shen et.al.|[2602.19180](http://arxiv.org/abs/2602.19180)|null|
 |**2026-02-22**|**Reasoning Capabilities of Large Language Models. Lessons Learned from General Game Playing**|Maciej Świechowski et.al.|[2602.19160](http://arxiv.org/abs/2602.19160)|null|
 |**2026-02-21**|**BiMotion: B-spline Motion for Text-guided Dynamic 3D Character Generation**|Miaowei Wang et.al.|[2602.18873](http://arxiv.org/abs/2602.18873)|null|
@@ -586,6 +588,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-23**|**TeHOR: Text-Guided 3D Human and Object Reconstruction with Textures**|Hyeongjin Nam et.al.|[2602.19679](http://arxiv.org/abs/2602.19679)|null|
 |**2026-02-16**|**Zero-shot HOI Detection with MLLM-based Detector-agnostic Interaction Recognition**|Shiyu Xuan et.al.|[2602.15124](http://arxiv.org/abs/2602.15124)|null|
 |**2026-02-12**|**HAIC: Humanoid Agile Object Interaction Control via Dynamics-Aware World Model**|Dongting Li et.al.|[2602.11758](http://arxiv.org/abs/2602.11758)|null|
 |**2026-02-12**|**What if Agents Could Imagine? Reinforcing Open-Vocabulary HOI Comprehension through Generation**|Zhenlong Yuan et.al.|[2602.11499](http://arxiv.org/abs/2602.11499)|null|
@@ -810,6 +813,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-23**|**Align When They Want, Complement When They Need! Human-Centered Ensembles for Adaptive Human-AI Collaboration**|Hasan Amin et.al.|[2602.20104](http://arxiv.org/abs/2602.20104)|null|
+|**2026-02-23**|**Studying the Separability of Visual Channel Pairs in Symbol Maps**|Poorna Talkad Sukumar et.al.|[2602.20022](http://arxiv.org/abs/2602.20022)|null|
+|**2026-02-23**|**Protecting and Promoting Human Agency in Education in the Age of Artificial Intelligence**|Olga Viberg et.al.|[2602.20014](http://arxiv.org/abs/2602.20014)|null|
+|**2026-02-23**|**GazeFlow: Personalized Ambient Soundscape Generation for Passive Strabismus Self-Monitoring**|Joydeep Chandra et.al.|[2602.19966](http://arxiv.org/abs/2602.19966)|null|
+|**2026-02-23**|**Assessing Risks of Large Language Models in Mental Health Support: A Framework for Automated Clinical AI Red Teaming**|Ian Steenstra et.al.|[2602.19948](http://arxiv.org/abs/2602.19948)|null|
+|**2026-02-23**|**Progressive Value Reading: The Use of Motion to Gradually Examine Data Involving Large Magnitudes**|Leni Yang et.al.|[2602.19853](http://arxiv.org/abs/2602.19853)|null|
+|**2026-02-23**|**Ambient Analytics: Calm Technology for Immersive Visualization and Sensemaking**|Sebastian Hubenschmid et.al.|[2602.19809](http://arxiv.org/abs/2602.19809)|null|
+|**2026-02-23**|**Unfolding Ordered Matrices into BioFabric Motifs**|Jules Wulms et.al.|[2602.19745](http://arxiv.org/abs/2602.19745)|null|
+|**2026-02-23**|**Git Takes Two: Split-View Awareness for Collaborative Learning of Distributed Workflows in Git**|Joel Bucher et.al.|[2602.19714](http://arxiv.org/abs/2602.19714)|null|
+|**2026-02-23**|**A Three-stage Neuro-symbolic Recommendation Pipeline for Cultural Heritage Knowledge Graphs**|Krzysztof Kutt et.al.|[2602.19711](http://arxiv.org/abs/2602.19711)|null|
 |**2026-02-22**|**Safe and Interpretable Multimodal Path Planning for Multi-Agent Cooperation**|Haojun Shi et.al.|[2602.19304](http://arxiv.org/abs/2602.19304)|null|
 |**2026-02-22**|**The Path to Conversational AI Tutors: Integrating Tutoring Best Practices and Targeted Technologies to Produce Scalable AI Agents**|Kirk Vanacore et.al.|[2602.19303](http://arxiv.org/abs/2602.19303)|null|
 |**2026-02-22**|**A Causal Framework for Estimating Heterogeneous Effects of On-Demand Tutoring**|Kirk Vanacore et.al.|[2602.19296](http://arxiv.org/abs/2602.19296)|null|
