@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.02.23
+### Automatically Updated on 2026.02.24
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-22**|**VLM-Guided Group Preference Alignment for Diffusion-based Human Mesh Recovery**|Wenhao Shen et.al.|[2602.19180](http://arxiv.org/abs/2602.19180)|null|
+|**2026-02-22**|**Reasoning Capabilities of Large Language Models. Lessons Learned from General Game Playing**|Maciej Świechowski et.al.|[2602.19160](http://arxiv.org/abs/2602.19160)|null|
+|**2026-02-21**|**BiMotion: B-spline Motion for Text-guided Dynamic 3D Character Generation**|Miaowei Wang et.al.|[2602.18873](http://arxiv.org/abs/2602.18873)|null|
 |**2026-02-20**|**Robo-Saber: Generating and Simulating Virtual Reality Players**|Nam Hee Kim et.al.|[2602.18319](http://arxiv.org/abs/2602.18319)|null|
 |**2026-02-20**|**A Self-Supervised Approach on Motion Calibration for Enhancing Physical Plausibility in Text-to-Motion**|Gahyeon Shim et.al.|[2602.18199](http://arxiv.org/abs/2602.18199)|null|
 |**2026-02-20**|**Temporal Consistency-Aware Text-to-Motion Generation**|Hongsong Wang et.al.|[2602.18057](http://arxiv.org/abs/2602.18057)|null|
@@ -1746,6 +1749,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-22**|**Safe and Interpretable Multimodal Path Planning for Multi-Agent Cooperation**|Haojun Shi et.al.|[2602.19304](http://arxiv.org/abs/2602.19304)|null|
+|**2026-02-22**|**The Path to Conversational AI Tutors: Integrating Tutoring Best Practices and Targeted Technologies to Produce Scalable AI Agents**|Kirk Vanacore et.al.|[2602.19303](http://arxiv.org/abs/2602.19303)|null|
+|**2026-02-22**|**A Causal Framework for Estimating Heterogeneous Effects of On-Demand Tutoring**|Kirk Vanacore et.al.|[2602.19296](http://arxiv.org/abs/2602.19296)|null|
+|**2026-02-22**|**As Content and Layout Co-Evolve: TangibleSite for Scaffolding Blind People's Webpage Design through Multimodal Interaction**|Jiasheng Li et.al.|[2602.19243](http://arxiv.org/abs/2602.19243)|null|
+|**2026-02-22**|**A Comparative Analysis of Peer Support in Forum-based and Chat-based Mental Health Communities: Technical-Structural-Functional Model of Social Support**|Han Li et.al.|[2602.19232](http://arxiv.org/abs/2602.19232)|null|
+|**2026-02-22**|**Sycophantic Chatbots Cause Delusional Spiraling, Even in Ideal Bayesians**|Kartik Chandra et.al.|[2602.19141](http://arxiv.org/abs/2602.19141)|null|
+|**2026-02-22**|**The Neural-Wave Quick Escape Manual 2036: A Field Guide to Adversarial Living in the Era of "Empathic" AIoT**|Boyuan Gu et.al.|[2602.19139](http://arxiv.org/abs/2602.19139)|null|
+|**2026-02-22**|**Dark and Bright Side of Participatory Red-Teaming with Targets of Stereotyping for Eliciting Harmful Behaviors from Large Language Models**|Sieun Kim et.al.|[2602.19124](http://arxiv.org/abs/2602.19124)|null|
+|**2026-02-22**|**A User-driven Design Framework for Robotaxi**|Yue Deng et.al.|[2602.19107](http://arxiv.org/abs/2602.19107)|null|
+|**2026-02-22**|**To Slide or Not to Slide: Exploring Techniques for Comparing Immersive Videos**|Xizi Wang et.al.|[2602.19048](http://arxiv.org/abs/2602.19048)|null|
 |**2026-02-20**|**AI-Wrapped: Participatory, Privacy-Preserving Measurement of Longitudinal LLM Use In-the-Wild**|Cathy Mengying Fang et.al.|[2602.18415](http://arxiv.org/abs/2602.18415)|null|
 |**2026-02-20**|**"How Do I ...?": Procedural Questions Predominate Student-LLM Chatbot Conversations**|Alexandra Neagu et.al.|[2602.18372](http://arxiv.org/abs/2602.18372)|null|
 |**2026-02-20**|**Qualitative Coding Analysis through Open-Source Large Language Models: A User Study and Design Recommendations**|Tung T. Ngo et.al.|[2602.18352](http://arxiv.org/abs/2602.18352)|null|

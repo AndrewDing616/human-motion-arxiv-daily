@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.02.23
+### Automatically Updated on 2026.02.24
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-22**|**VLM-Guided Group Preference Alignment for Diffusion-based Human Mesh Recovery**|Wenhao Shen et.al.|[2602.19180](http://arxiv.org/abs/2602.19180)|null|
+|**2026-02-22**|**Reasoning Capabilities of Large Language Models. Lessons Learned from General Game Playing**|Maciej Świechowski et.al.|[2602.19160](http://arxiv.org/abs/2602.19160)|null|
+|**2026-02-21**|**BiMotion: B-spline Motion for Text-guided Dynamic 3D Character Generation**|Miaowei Wang et.al.|[2602.18873](http://arxiv.org/abs/2602.18873)|null|
 |**2026-02-20**|**Robo-Saber: Generating and Simulating Virtual Reality Players**|Nam Hee Kim et.al.|[2602.18319](http://arxiv.org/abs/2602.18319)|null|
 |**2026-02-20**|**A Self-Supervised Approach on Motion Calibration for Enhancing Physical Plausibility in Text-to-Motion**|Gahyeon Shim et.al.|[2602.18199](http://arxiv.org/abs/2602.18199)|null|
 |**2026-02-20**|**Temporal Consistency-Aware Text-to-Motion Generation**|Hongsong Wang et.al.|[2602.18057](http://arxiv.org/abs/2602.18057)|null|
@@ -438,7 +441,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260224>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -577,7 +580,7 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260224>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
@@ -801,12 +804,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260224>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-22**|**Safe and Interpretable Multimodal Path Planning for Multi-Agent Cooperation**|Haojun Shi et.al.|[2602.19304](http://arxiv.org/abs/2602.19304)|null|
+|**2026-02-22**|**The Path to Conversational AI Tutors: Integrating Tutoring Best Practices and Targeted Technologies to Produce Scalable AI Agents**|Kirk Vanacore et.al.|[2602.19303](http://arxiv.org/abs/2602.19303)|null|
+|**2026-02-22**|**A Causal Framework for Estimating Heterogeneous Effects of On-Demand Tutoring**|Kirk Vanacore et.al.|[2602.19296](http://arxiv.org/abs/2602.19296)|null|
+|**2026-02-22**|**As Content and Layout Co-Evolve: TangibleSite for Scaffolding Blind People's Webpage Design through Multimodal Interaction**|Jiasheng Li et.al.|[2602.19243](http://arxiv.org/abs/2602.19243)|null|
+|**2026-02-22**|**A Comparative Analysis of Peer Support in Forum-based and Chat-based Mental Health Communities: Technical-Structural-Functional Model of Social Support**|Han Li et.al.|[2602.19232](http://arxiv.org/abs/2602.19232)|null|
+|**2026-02-22**|**Sycophantic Chatbots Cause Delusional Spiraling, Even in Ideal Bayesians**|Kartik Chandra et.al.|[2602.19141](http://arxiv.org/abs/2602.19141)|null|
+|**2026-02-22**|**The Neural-Wave Quick Escape Manual 2036: A Field Guide to Adversarial Living in the Era of "Empathic" AIoT**|Boyuan Gu et.al.|[2602.19139](http://arxiv.org/abs/2602.19139)|null|
+|**2026-02-22**|**Dark and Bright Side of Participatory Red-Teaming with Targets of Stereotyping for Eliciting Harmful Behaviors from Large Language Models**|Sieun Kim et.al.|[2602.19124](http://arxiv.org/abs/2602.19124)|null|
+|**2026-02-22**|**A User-driven Design Framework for Robotaxi**|Yue Deng et.al.|[2602.19107](http://arxiv.org/abs/2602.19107)|null|
+|**2026-02-22**|**To Slide or Not to Slide: Exploring Techniques for Comparing Immersive Videos**|Xizi Wang et.al.|[2602.19048](http://arxiv.org/abs/2602.19048)|null|
 |**2026-02-20**|**AI-Wrapped: Participatory, Privacy-Preserving Measurement of Longitudinal LLM Use In-the-Wild**|Cathy Mengying Fang et.al.|[2602.18415](http://arxiv.org/abs/2602.18415)|null|
 |**2026-02-20**|**"How Do I ...?": Procedural Questions Predominate Student-LLM Chatbot Conversations**|Alexandra Neagu et.al.|[2602.18372](http://arxiv.org/abs/2602.18372)|null|
 |**2026-02-20**|**Qualitative Coding Analysis through Open-Source Large Language Models: A User Study and Design Recommendations**|Tung T. Ngo et.al.|[2602.18352](http://arxiv.org/abs/2602.18352)|null|
@@ -1628,7 +1641,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260224>back to top</a>)</p>
 
 Notes: 
 
