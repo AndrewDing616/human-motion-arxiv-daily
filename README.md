@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-25**|**Learning to Drive is a Free Gift: Large-Scale Label-Free Autonomy Pretraining from Unposed In-The-Wild Videos**|Matthew Strong et.al.|[2602.22091](http://arxiv.org/abs/2602.22091)|null|
 |**2026-02-25**|**World Guidance: World Modeling in Condition Space for Action Generation**|Yue Su et.al.|[2602.22010](http://arxiv.org/abs/2602.22010)|null|
 |**2026-02-25**|**Humanizing Robot Gaze Shifts: A Framework for Natural Gaze Shifts in Humanoid Robots**|Jingchao Wei et.al.|[2602.21983](http://arxiv.org/abs/2602.21983)|null|
 |**2026-02-25**|**Primary-Fine Decoupling for Action Generation in Robotic Imitation**|Xiaohan Lei et.al.|[2602.21684](http://arxiv.org/abs/2602.21684)|null|
@@ -828,6 +829,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-25**|**Codesigning Ripplet: an LLM-Assisted Assessment Authoring System Grounded in a Conceptual Model of Teachers' Workflows**|Yuan Cui et.al.|[2602.22186](http://arxiv.org/abs/2602.22186)|null|
+|**2026-02-25**|**A Taxonomy of Human--MLLM Interaction in Early-Stage Sketch-Based Design Ideation**|Weiayn Shi et.al.|[2602.22171](http://arxiv.org/abs/2602.22171)|null|
+|**2026-02-25**|**Dynamic Personality Adaptation in Large Language Models via State Machines**|Leon Pielage et.al.|[2602.22157](http://arxiv.org/abs/2602.22157)|null|
+|**2026-02-25**|**When AI Writes, Whose Voice Remains? Quantifying Cultural Marker Erasure Across World English Varieties in Large Language Models**|Satyam Kumar Navneet et.al.|[2602.22145](http://arxiv.org/abs/2602.22145)|null|
+|**2026-02-25**|**Speculating for Epiplexity: How to Learn the Most from Speculative Design?**|Botao Amber Hu et.al.|[2602.22132](http://arxiv.org/abs/2602.22132)|null|
+|**2026-02-25**|**Giving Meaning to Movements: Challenges and Opportunities in Expanding Communication by Pairing Unaided AAC with Speech Generated Messages**|Imran Kabir et.al.|[2602.22131](http://arxiv.org/abs/2602.22131)|null|
+|**2026-02-25**|**SocialPulse: On-Device Detection of Social Interactions in Naturalistic Settings Using Smartwatch Multimodal Sensing**|Md Sabbir Ahmed et.al.|[2602.22085](http://arxiv.org/abs/2602.22085)|null|
+|**2026-02-25**|**ViSTAR: Virtual Skill Training with Augmented Reality with 3D Avatars and LLM coaching agent**|Chunggi Lee et.al.|[2602.22077](http://arxiv.org/abs/2602.22077)|null|
+|**2026-02-25**|**A Critical Reflection on the Values and Assumptions in Data Visualization**|Shehryar Saharan et.al.|[2602.22051](http://arxiv.org/abs/2602.22051)|null|
+|**2026-02-25**|**SPGen: Stochastic scanpath generation for paintings using unsupervised domain adaptation**|Mohamed Amine Kerkouri et.al.|[2602.22049](http://arxiv.org/abs/2602.22049)|null|
 |**2026-02-25**|**Detecting UX smells in Visual Studio Code using LLMs**|Andrés Rodriguez et.al.|[2602.22020](http://arxiv.org/abs/2602.22020)|null|
 |**2026-02-25**|**The Governance of Intimacy: A Preliminary Policy Analysis of Romantic AI Platforms**|Xiao Zhan et.al.|[2602.22000](http://arxiv.org/abs/2602.22000)|null|
 |**2026-02-25**|**Interactive Augmented Reality-enabled Outdoor Scene Visualization For Enhanced Real-time Disaster Response**|Dimitrios Apostolakis et.al.|[2602.21874](http://arxiv.org/abs/2602.21874)|null|
