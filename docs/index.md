@@ -1775,6 +1775,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**Understanding Usage and Engagement in AI-Powered Scientific Research Tools: The Asta Interaction Dataset**|Dany Haddad et.al.|[2602.23335](http://arxiv.org/abs/2602.23335)|null|
+|**2026-02-26**|**LLM Novice Uplift on Dual-Use, In Silico Biology Tasks**|Chen Bo Calvin Zhang et.al.|[2602.23329](http://arxiv.org/abs/2602.23329)|null|
+|**2026-02-26**|**Evaluating Zero-Shot and One-Shot Adaptation of Small Language Models in Leader-Follower Interaction**|Rafael R. Baptista et.al.|[2602.23312](http://arxiv.org/abs/2602.23312)|null|
+|**2026-02-26**|**BRIDGE: Borderless Reconfiguration for Inclusive and Diverse Gameplay Experience via Embodiment Transformation**|Hayato Saiki et.al.|[2602.23288](http://arxiv.org/abs/2602.23288)|null|
 |**2026-02-26**|**VRSL:Exploring the Comprehensibility of 360-Degree Camera Feeds for Sign Language Communication in Virtual Reality**|Gauri Umesh Rajmane et.al.|[2602.23265](http://arxiv.org/abs/2602.23265)|null|
 |**2026-02-26**|**FuturePrism: Supporting Adolescence in Collaborative Storytelling to Cope with Future Uncertainty**|Yonglin Chen et.al.|[2602.23108](http://arxiv.org/abs/2602.23108)|null|
 |**2026-02-26**|**TaleBot: A Tangible AI Companion to Support Children in Co-creative Storytelling for Resilience Cultivation**|Yonglin Chen et.al.|[2602.23095](http://arxiv.org/abs/2602.23095)|null|
