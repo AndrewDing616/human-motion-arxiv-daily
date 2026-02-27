@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.02.26
+### Automatically Updated on 2026.02.27
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**EmbodMocap: In-the-Wild 4D Human-Scene Reconstruction for Embodied Agents**|Wenjia Wang et.al.|[2602.23205](http://arxiv.org/abs/2602.23205)|null|
+|**2026-02-26**|**DyaDiT: A Multi-Modal Diffusion Transformer for Socially Favorable Dyadic Gesture Generation**|Yichen Peng et.al.|[2602.23165](http://arxiv.org/abs/2602.23165)|null|
+|**2026-02-26**|**InCoM: Intent-Driven Perception and Structured Coordination for Whole-Body Mobile Manipulation**|Jiahao Liu et.al.|[2602.23024](http://arxiv.org/abs/2602.23024)|null|
+|**2026-02-26**|**ProjFlow: Projection Sampling with Flow Matching for Zero-Shot Exact Spatial Motion Control**|Akihisa Watanabe et.al.|[2602.22742](http://arxiv.org/abs/2602.22742)|null|
+|**2026-02-26**|**Causal Motion Diffusion Models for Autoregressive Motion Generation**|Qing Yu et.al.|[2602.22594](http://arxiv.org/abs/2602.22594)|null|
 |**2026-02-25**|**Learning to Drive is a Free Gift: Large-Scale Label-Free Autonomy Pretraining from Unposed In-The-Wild Videos**|Matthew Strong et.al.|[2602.22091](http://arxiv.org/abs/2602.22091)|null|
 |**2026-02-25**|**World Guidance: World Modeling in Condition Space for Action Generation**|Yue Su et.al.|[2602.22010](http://arxiv.org/abs/2602.22010)|null|
 |**2026-02-25**|**Humanizing Robot Gaze Shifts: A Framework for Natural Gaze Shifts in Humanoid Robots**|Jingchao Wei et.al.|[2602.21983](http://arxiv.org/abs/2602.21983)|null|
@@ -1406,6 +1411,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**EmbodMocap: In-the-Wild 4D Human-Scene Reconstruction for Embodied Agents**|Wenjia Wang et.al.|[2602.23205](http://arxiv.org/abs/2602.23205)|null|
 |**2026-02-24**|**SceMoS: Scene-Aware 3D Human Motion Synthesis by Planning with Geometry-Grounded Tokens**|Anindita Ghosh et.al.|[2602.20476](http://arxiv.org/abs/2602.20476)|null|
 |**2026-02-24**|**Generating metamers of human scene understanding**|Ritik Raina et.al.|[2601.11675](http://arxiv.org/abs/2601.11675)|null|
 |**2026-02-05**|**PoseGaussian: Pose-Driven Novel View Synthesis for Robust 3D Human Reconstruction**|Ju Shen et.al.|[2602.05190](http://arxiv.org/abs/2602.05190)|null|
@@ -1544,6 +1550,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**EmbodMocap: In-the-Wild 4D Human-Scene Reconstruction for Embodied Agents**|Wenjia Wang et.al.|[2602.23205](http://arxiv.org/abs/2602.23205)|null|
 |**2026-02-24**|**VAGNet: Grounding 3D Affordance from Human-Object Interactions in Videos**|Aihua Mao et.al.|[2602.20608](http://arxiv.org/abs/2602.20608)|null|
 |**2026-02-23**|**TeHOR: Text-Guided 3D Human and Object Reconstruction with Textures**|Hyeongjin Nam et.al.|[2602.19679](http://arxiv.org/abs/2602.19679)|null|
 |**2026-02-16**|**Zero-shot HOI Detection with MLLM-based Detector-agnostic Interaction Recognition**|Shiyu Xuan et.al.|[2602.15124](http://arxiv.org/abs/2602.15124)|null|
@@ -1768,6 +1775,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**VRSL:Exploring the Comprehensibility of 360-Degree Camera Feeds for Sign Language Communication in Virtual Reality**|Gauri Umesh Rajmane et.al.|[2602.23265](http://arxiv.org/abs/2602.23265)|null|
+|**2026-02-26**|**FuturePrism: Supporting Adolescence in Collaborative Storytelling to Cope with Future Uncertainty**|Yonglin Chen et.al.|[2602.23108](http://arxiv.org/abs/2602.23108)|null|
+|**2026-02-26**|**TaleBot: A Tangible AI Companion to Support Children in Co-creative Storytelling for Resilience Cultivation**|Yonglin Chen et.al.|[2602.23095](http://arxiv.org/abs/2602.23095)|null|
+|**2026-02-26**|**Beyond Faders: Understanding 6DoF Gesture Ecologies in Music Mixing**|Jeremy Wertheim Co Chen et.al.|[2602.23090](http://arxiv.org/abs/2602.23090)|null|
+|**2026-02-26**|**Understanding Older Adults' Experiences of Support, Concerns, and Risks from Kinship-Role AI-Generated Influencers**|Tianqi Song et.al.|[2602.22993](http://arxiv.org/abs/2602.22993)|null|
+|**2026-02-26**|**TableTale: Reviving the Narrative Interplay Between Data Tables and Text in Scientific Papers**|Liangwei Wang et.al.|[2602.22908](http://arxiv.org/abs/2602.22908)|null|
+|**2026-02-26**|**InfoAlign: A Human-AI Co-Creation System for Storytelling with Infographics**|Jielin Feng et.al.|[2602.22901](http://arxiv.org/abs/2602.22901)|null|
+|**2026-02-26**|**They Think AI Can Do More Than It Actually Can: Practices, Challenges, & Opportunities of AI-Supported Reporting In Local Journalism**|Besjon Cifliku et.al.|[2602.22887](http://arxiv.org/abs/2602.22887)|null|
+|**2026-02-26**|**When Should an AI Act? A Human-Centered Model of Scene, Context, and Behavior for Agentic AI Design**|Soyoung Jung et.al.|[2602.22814](http://arxiv.org/abs/2602.22814)|null|
+|**2026-02-26**|**Input-Envelope-Output: Auditable Generative Music Rewards in Sensory-Sensitive Contexts**|Cong Ye et.al.|[2602.22813](http://arxiv.org/abs/2602.22813)|null|
 |**2026-02-25**|**Codesigning Ripplet: an LLM-Assisted Assessment Authoring System Grounded in a Conceptual Model of Teachers' Workflows**|Yuan Cui et.al.|[2602.22186](http://arxiv.org/abs/2602.22186)|null|
 |**2026-02-25**|**A Taxonomy of Human--MLLM Interaction in Early-Stage Sketch-Based Design Ideation**|Weiayn Shi et.al.|[2602.22171](http://arxiv.org/abs/2602.22171)|null|
 |**2026-02-25**|**Dynamic Personality Adaptation in Large Language Models via State Machines**|Leon Pielage et.al.|[2602.22157](http://arxiv.org/abs/2602.22157)|null|
