@@ -838,6 +838,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-27**|**Beyond the Click: A Framework for Inferring Cognitive Traces in Search**|Saber Zerhoudi et.al.|[2602.24265](http://arxiv.org/abs/2602.24265)|null|
+|**2026-02-27**|**From Efficiency to Meaning: Adolescents' Envisioned Role of AI in Health Management**|Jamie Lee et.al.|[2602.24249](http://arxiv.org/abs/2602.24249)|null|
+|**2026-02-27**|**UXSim: Towards a Hybrid User Search Simulation**|Saber Zerhoudi et.al.|[2602.24241](http://arxiv.org/abs/2602.24241)|null|
 |**2026-02-27**|**Colour Contrast on the Web: A WCAG 2.1 Level AA Compliance Audit of Common Crawl's Top 500 Domains**|Thom Vaughan et.al.|[2602.24067](http://arxiv.org/abs/2602.24067)|null|
 |**2026-02-27**|**Designing AI Tutors for Interest-Based Learning: Insights from Human Instructors**|Abhishek Kulkarni et.al.|[2602.24036](http://arxiv.org/abs/2602.24036)|null|
 |**2026-02-27**|**Ask don't tell: Reducing sycophancy in large language models**|Magda Dubois et.al.|[2602.23971](http://arxiv.org/abs/2602.23971)|null|
