@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.03.01
+### Automatically Updated on 2026.03.02
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-27**|**OmniTrack: General Motion Tracking via Physics-Consistent Reference**|Yuhan Li et.al.|[2602.23832](http://arxiv.org/abs/2602.23832)|null|
+|**2026-02-27**|**U-Mind: A Unified Framework for Real-Time Multimodal Interaction with Audiovisual Generation**|Xiang Deng et.al.|[2602.23739](http://arxiv.org/abs/2602.23739)|null|
 |**2026-02-26**|**EmbodMocap: In-the-Wild 4D Human-Scene Reconstruction for Embodied Agents**|Wenjia Wang et.al.|[2602.23205](http://arxiv.org/abs/2602.23205)|null|
 |**2026-02-26**|**DyaDiT: A Multi-Modal Diffusion Transformer for Socially Favorable Dyadic Gesture Generation**|Yichen Peng et.al.|[2602.23165](http://arxiv.org/abs/2602.23165)|null|
 |**2026-02-26**|**InCoM: Intent-Driven Perception and Structured Coordination for Whole-Body Mobile Manipulation**|Jiahao Liu et.al.|[2602.23024](http://arxiv.org/abs/2602.23024)|null|
@@ -462,7 +464,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260301>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260302>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -603,7 +605,7 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260301>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260302>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
@@ -830,12 +832,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260301>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260302>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-27**|**Colour Contrast on the Web: A WCAG 2.1 Level AA Compliance Audit of Common Crawl's Top 500 Domains**|Thom Vaughan et.al.|[2602.24067](http://arxiv.org/abs/2602.24067)|null|
+|**2026-02-27**|**Designing AI Tutors for Interest-Based Learning: Insights from Human Instructors**|Abhishek Kulkarni et.al.|[2602.24036](http://arxiv.org/abs/2602.24036)|null|
+|**2026-02-27**|**Ask don't tell: Reducing sycophancy in large language models**|Magda Dubois et.al.|[2602.23971](http://arxiv.org/abs/2602.23971)|null|
+|**2026-02-27**|**The Moment of Capture: How the First Seconds of a Speaker's Nonverbal and Verbal Performance Shapes Audience Judgments**|Ralf Schmälzle et.al.|[2602.23920](http://arxiv.org/abs/2602.23920)|null|
+|**2026-02-27**|**The Topology of Recovery: Using Persistent Homology to Map Individual Mental Health Journeys in Online Communities**|Joydeep Chandra et.al.|[2602.23886](http://arxiv.org/abs/2602.23886)|null|
+|**2026-02-27**|**Human-Centered Multimodal Fusion for Sexism Detection in Memes with Eye-Tracking, Heart Rate, and EEG Signals**|Iván Arcos et.al.|[2602.23862](http://arxiv.org/abs/2602.23862)|null|
+|**2026-02-27**|**Feelings, Not Feel: Affective Audio-Visual Pseudo-Haptics in Hand-Tracked XR**|Kristian Paolo David et.al.|[2602.23747](http://arxiv.org/abs/2602.23747)|null|
+|**2026-02-27**|**Shape vs. Context: Examining Human--AI Gaps in Ambiguous Japanese Character Recognition**|Daichi Haraguchi et.al.|[2602.23746](http://arxiv.org/abs/2602.23746)|null|
+|**2026-02-27**|**From Continuous sEMG Signals to Discrete Muscle State Tokens: A Robust and Interpretable Representation Framework**|Yuepeng Chen et.al.|[2602.23738](http://arxiv.org/abs/2602.23738)|null|
+|**2026-02-27**|**Does Personalized Nudging Wear Off? A Longitudinal Study of AI Self-Modeling for Behavioral Engagement**|Qing He et.al.|[2602.23688](http://arxiv.org/abs/2602.23688)|null|
 |**2026-02-26**|**Understanding Usage and Engagement in AI-Powered Scientific Research Tools: The Asta Interaction Dataset**|Dany Haddad et.al.|[2602.23335](http://arxiv.org/abs/2602.23335)|null|
 |**2026-02-26**|**LLM Novice Uplift on Dual-Use, In Silico Biology Tasks**|Chen Bo Calvin Zhang et.al.|[2602.23329](http://arxiv.org/abs/2602.23329)|null|
 |**2026-02-26**|**Evaluating Zero-Shot and One-Shot Adaptation of Small Language Models in Leader-Follower Interaction**|Rafael R. Baptista et.al.|[2602.23312](http://arxiv.org/abs/2602.23312)|null|
@@ -1723,7 +1735,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260301>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260302>back to top</a>)</p>
 
 Notes: 
 
