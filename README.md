@@ -14,6 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-02**|**Sketch2Colab: Sketch-Conditioned Multi-Human Animation via Controllable Flow Distillation**|Divyanshu Daiya et.al.|[2603.02190](http://arxiv.org/abs/2603.02190)|null|
+|**2026-03-02**|**Stereo-Inertial Poser: Towards Metric-Accurate Shape-Aware Motion Capture Using Sparse IMUs and a Single Stereo Camera**|Tutian Tang et.al.|[2603.02130](http://arxiv.org/abs/2603.02130)|null|
+|**2026-03-02**|**Closed-Loop Action Chunks with Dynamic Corrections for Training-Free Diffusion Policy**|Pengyuan Wu et.al.|[2603.01953](http://arxiv.org/abs/2603.01953)|null|
+|**2026-03-02**|**Mean-Flow based One-Step Vision-Language-Action**|Yang Chen et.al.|[2603.01469](http://arxiv.org/abs/2603.01469)|null|
+|**2026-03-02**|**Unifying Language-Action Understanding and Generation for Autonomous Driving**|Xinyang Wang et.al.|[2603.01441](http://arxiv.org/abs/2603.01441)|null|
 |**2026-02-27**|**OmniTrack: General Motion Tracking via Physics-Consistent Reference**|Yuhan Li et.al.|[2602.23832](http://arxiv.org/abs/2602.23832)|null|
 |**2026-02-27**|**U-Mind: A Unified Framework for Real-Time Multimodal Interaction with Audiovisual Generation**|Xiang Deng et.al.|[2602.23739](http://arxiv.org/abs/2602.23739)|null|
 |**2026-02-26**|**EmbodMocap: In-the-Wild 4D Human-Scene Reconstruction for Embodied Agents**|Wenjia Wang et.al.|[2602.23205](http://arxiv.org/abs/2602.23205)|null|
@@ -470,6 +475,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-01**|**CRISP: Contact-Guided Real2Sim from Monocular Video with Planar Scene Primitives**|Zihan Wang et.al.|[2512.14696](http://arxiv.org/abs/2512.14696)|null|
 |**2026-02-26**|**EmbodMocap: In-the-Wild 4D Human-Scene Reconstruction for Embodied Agents**|Wenjia Wang et.al.|[2602.23205](http://arxiv.org/abs/2602.23205)|null|
 |**2026-02-24**|**SceMoS: Scene-Aware 3D Human Motion Synthesis by Planning with Geometry-Grounded Tokens**|Anindita Ghosh et.al.|[2602.20476](http://arxiv.org/abs/2602.20476)|null|
 |**2026-02-24**|**Generating metamers of human scene understanding**|Ritik Raina et.al.|[2601.11675](http://arxiv.org/abs/2601.11675)|null|
@@ -479,7 +485,6 @@
 |**2026-01-23**|**Ar2Can: An Architect and an Artist Leveraging a Canvas for Multi-Human Generation**|Shubhankar Borse et.al.|[2511.22690](http://arxiv.org/abs/2511.22690)|null|
 |**2026-01-04**|**AHA! Animating Human Avatars in Diverse Scenes with Gaussian Splatting**|Aymen Mir et.al.|[2511.09827](http://arxiv.org/abs/2511.09827)|null|
 |**2025-12-22**|**BRIC: Bridging Kinematic Plans and Physical Control at Test Time**|Dohun Lim et.al.|[2511.20431](http://arxiv.org/abs/2511.20431)|null|
-|**2025-12-21**|**CRISP: Contact-Guided Real2Sim from Monocular Video with Planar Scene Primitives**|Zihan Wang et.al.|[2512.14696](http://arxiv.org/abs/2512.14696)|null|
 |**2025-12-19**|**Dexterous World Models**|Byungjun Kim et.al.|[2512.17907](http://arxiv.org/abs/2512.17907)|null|
 |**2025-12-17**|**Seeing is Believing (and Predicting): Context-Aware Multi-Human Behavior Prediction with Vision Language Models**|Utsav Panchal et.al.|[2512.15957](http://arxiv.org/abs/2512.15957)|null|
 |**2025-12-09**|**HuPrior3R: Incorporating Human Priors for Better 3D Dynamic Reconstruction from Monocular Videos**|Weitao Xiong et.al.|[2512.06368](http://arxiv.org/abs/2512.06368)|null|
@@ -611,6 +616,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-02**|**Sketch2Colab: Sketch-Conditioned Multi-Human Animation via Controllable Flow Distillation**|Divyanshu Daiya et.al.|[2603.02190](http://arxiv.org/abs/2603.02190)|null|
 |**2026-02-28**|**UniHM: Unified Dexterous Hand Manipulation with Vision Language Model**|Zhenhao Zhang et.al.|[2603.00732](http://arxiv.org/abs/2603.00732)|null|
 |**2026-02-26**|**EmbodMocap: In-the-Wild 4D Human-Scene Reconstruction for Embodied Agents**|Wenjia Wang et.al.|[2602.23205](http://arxiv.org/abs/2602.23205)|null|
 |**2026-02-24**|**VAGNet: Grounding 3D Affordance from Human-Object Interactions in Videos**|Aihua Mao et.al.|[2602.20608](http://arxiv.org/abs/2602.20608)|null|
@@ -839,6 +845,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-02**|**Sketch2Colab: Sketch-Conditioned Multi-Human Animation via Controllable Flow Distillation**|Divyanshu Daiya et.al.|[2603.02190](http://arxiv.org/abs/2603.02190)|null|
+|**2026-03-02**|**When an AI Judges Your Work: The Hidden Costs of Algorithmic Assessment**|David Almog et.al.|[2603.02076](http://arxiv.org/abs/2603.02076)|null|
+|**2026-03-02**|**Cognitive Prosthetic: An AI-Enabled Multimodal System for Episodic Recall in Knowledge Work**|Lawrence Obiuwevwi et.al.|[2603.02072](http://arxiv.org/abs/2603.02072)|null|
+|**2026-03-02**|**Exploring Plan Space through Conversation: An Agentic Framework for LLM-Mediated Explanations in Planning**|Guilhem Fouilhé et.al.|[2603.02070](http://arxiv.org/abs/2603.02070)|null|
+|**2026-03-02**|**A Resource-Rational Principle for Modeling Visual Attention Control**|Yunpeng Bai et.al.|[2603.02056](http://arxiv.org/abs/2603.02056)|null|
+|**2026-03-02**|**Strategic Advice in the Age of Personal AI**|Yueyang Liu et.al.|[2603.02055](http://arxiv.org/abs/2603.02055)|null|
+|**2026-03-02**|**Teen Vigilance: Navigating Risky Social Interactions on Discord**|Elena Koung et.al.|[2603.02052](http://arxiv.org/abs/2603.02052)|null|
+|**2026-03-02**|**"When to Hand Off, When to Work Together": Expanding Human-Agent Co-Creative Collaboration through Concurrent Interaction**|Kihoon Son et.al.|[2603.02050](http://arxiv.org/abs/2603.02050)|null|
+|**2026-03-02**|**Does Travel Stage Matter? How Leisure Travellers Perceive Their Privacy Attitudes Towards Personal Data Sharing Before, During, and After Travel**|Haiyue Yuan et.al.|[2603.01992](http://arxiv.org/abs/2603.01992)|null|
+|**2026-03-02**|**TactileWalk: Dynamic Electrotactile Patterns for Fingertip-Based Interaction During Walking**|Vedika Nimbalkar et.al.|[2603.01974](http://arxiv.org/abs/2603.01974)|null|
 |**2026-03-01**|**From OCR to Analysis: Tracking Correction Provenance in Digital Humanities Pipelines**|Haoze Guo et.al.|[2603.00884](http://arxiv.org/abs/2603.00884)|null|
 |**2026-03-01**|**Constructing Everyday Well-Being: Insights from God-Saeng for Personal Informatics**|Inhwa Song et.al.|[2603.00847](http://arxiv.org/abs/2603.00847)|null|
 |**2026-02-28**|**From Dyads to Groups: Rethinking Emotional Support with Conversational AI**|Yuqing Hu et.al.|[2603.00797](http://arxiv.org/abs/2603.00797)|null|
