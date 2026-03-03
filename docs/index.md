@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.03.02
+### Automatically Updated on 2026.03.03
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1552,6 +1552,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-28**|**UniHM: Unified Dexterous Hand Manipulation with Vision Language Model**|Zhenhao Zhang et.al.|[2603.00732](http://arxiv.org/abs/2603.00732)|null|
 |**2026-02-26**|**EmbodMocap: In-the-Wild 4D Human-Scene Reconstruction for Embodied Agents**|Wenjia Wang et.al.|[2602.23205](http://arxiv.org/abs/2602.23205)|null|
 |**2026-02-24**|**VAGNet: Grounding 3D Affordance from Human-Object Interactions in Videos**|Aihua Mao et.al.|[2602.20608](http://arxiv.org/abs/2602.20608)|null|
 |**2026-02-23**|**TeHOR: Text-Guided 3D Human and Object Reconstruction with Textures**|Hyeongjin Nam et.al.|[2602.19679](http://arxiv.org/abs/2602.19679)|null|
@@ -1777,6 +1778,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-01**|**From OCR to Analysis: Tracking Correction Provenance in Digital Humanities Pipelines**|Haoze Guo et.al.|[2603.00884](http://arxiv.org/abs/2603.00884)|null|
+|**2026-03-01**|**Constructing Everyday Well-Being: Insights from God-Saeng for Personal Informatics**|Inhwa Song et.al.|[2603.00847](http://arxiv.org/abs/2603.00847)|null|
+|**2026-02-28**|**From Dyads to Groups: Rethinking Emotional Support with Conversational AI**|Yuqing Hu et.al.|[2603.00797](http://arxiv.org/abs/2603.00797)|null|
+|**2026-02-28**|**Structure Matters: Evaluating Multi-Agents Orchestration in Generative Therapeutic Chatbots**|Sina Elahimanesh et.al.|[2603.00774](http://arxiv.org/abs/2603.00774)|null|
+|**2026-02-28**|**Towards Non-Latin Text and Layout Personalization for Enhanced Readability**|Rina Buoy et.al.|[2603.00688](http://arxiv.org/abs/2603.00688)|null|
+|**2026-02-28**|**SSKG Hub: An Expert-Guided Platform for LLM-Empowered Sustainability Standards Knowledge Graphs**|Chaoyue He et.al.|[2603.00669](http://arxiv.org/abs/2603.00669)|null|
+|**2026-02-28**|**WristPP: A Wrist-Worn System for Hand Pose And Pressure Estimation**|Ziheng Xi et.al.|[2603.00606](http://arxiv.org/abs/2603.00606)|null|
+|**2026-02-28**|**PlantWhisperer: Designing Conversational AI to Support Plant Care**|Daniel Mejer Christensen et.al.|[2603.00598](http://arxiv.org/abs/2603.00598)|null|
+|**2026-02-28**|**SIAgent: Spatial Interaction Agent via LLM-powered Eye-Hand Motion Intent Understanding in VR**|Zhimin Wang et.al.|[2603.00522](http://arxiv.org/abs/2603.00522)|null|
+|**2026-02-28**|**Dynamic Spatio-Temporal Graph Neural Network for Early Detection of Pornography Addiction in Adolescents Based on Electroencephalogram Signals**|Achmad Ardani Prasha et.al.|[2603.00488](http://arxiv.org/abs/2603.00488)|null|
 |**2026-02-27**|**Beyond the Click: A Framework for Inferring Cognitive Traces in Search**|Saber Zerhoudi et.al.|[2602.24265](http://arxiv.org/abs/2602.24265)|null|
 |**2026-02-27**|**From Efficiency to Meaning: Adolescents' Envisioned Role of AI in Health Management**|Jamie Lee et.al.|[2602.24249](http://arxiv.org/abs/2602.24249)|null|
 |**2026-02-27**|**UXSim: Towards a Hybrid User Search Simulation**|Saber Zerhoudi et.al.|[2602.24241](http://arxiv.org/abs/2602.24241)|null|
