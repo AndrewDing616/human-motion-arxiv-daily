@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.03.03
+### Automatically Updated on 2026.03.04
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,11 +959,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**Direct Reward Fine-Tuning on Poses for Single Image to 3D Human in the Wild**|Seunguk Do et.al.|[2603.02619](http://arxiv.org/abs/2603.02619)|null|
+|**2026-03-03**|**E2E-GNet: An End-to-End Skeleton-based Geometric Deep Neural Network for Human Motion Recognition**|Mubarak Olaoluwa et.al.|[2603.02477](http://arxiv.org/abs/2603.02477)|null|
 |**2026-03-02**|**Sketch2Colab: Sketch-Conditioned Multi-Human Animation via Controllable Flow Distillation**|Divyanshu Daiya et.al.|[2603.02190](http://arxiv.org/abs/2603.02190)|null|
 |**2026-03-02**|**Stereo-Inertial Poser: Towards Metric-Accurate Shape-Aware Motion Capture Using Sparse IMUs and a Single Stereo Camera**|Tutian Tang et.al.|[2603.02130](http://arxiv.org/abs/2603.02130)|null|
 |**2026-03-02**|**Closed-Loop Action Chunks with Dynamic Corrections for Training-Free Diffusion Policy**|Pengyuan Wu et.al.|[2603.01953](http://arxiv.org/abs/2603.01953)|null|
 |**2026-03-02**|**Mean-Flow based One-Step Vision-Language-Action**|Yang Chen et.al.|[2603.01469](http://arxiv.org/abs/2603.01469)|null|
 |**2026-03-02**|**Unifying Language-Action Understanding and Generation for Autonomous Driving**|Xinyang Wang et.al.|[2603.01441](http://arxiv.org/abs/2603.01441)|null|
+|**2026-03-01**|**Characterizing VLA Models: Identifying the Action Generation Bottleneck for Edge AI Architectures**|Manoj Vishwanathan et.al.|[2603.02271](http://arxiv.org/abs/2603.02271)|null|
 |**2026-02-27**|**OmniTrack: General Motion Tracking via Physics-Consistent Reference**|Yuhan Li et.al.|[2602.23832](http://arxiv.org/abs/2602.23832)|null|
 |**2026-02-27**|**U-Mind: A Unified Framework for Real-Time Multimodal Interaction with Audiovisual Generation**|Xiang Deng et.al.|[2602.23739](http://arxiv.org/abs/2602.23739)|null|
 |**2026-02-26**|**EmbodMocap: In-the-Wild 4D Human-Scene Reconstruction for Embodied Agents**|Wenjia Wang et.al.|[2602.23205](http://arxiv.org/abs/2602.23205)|null|
@@ -1557,6 +1560,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**Behavior-Aware Anthropometric Scene Generation for Human-Usable 3D Layouts**|Semin Jin et.al.|[2603.02662](http://arxiv.org/abs/2603.02662)|null|
 |**2026-03-02**|**Sketch2Colab: Sketch-Conditioned Multi-Human Animation via Controllable Flow Distillation**|Divyanshu Daiya et.al.|[2603.02190](http://arxiv.org/abs/2603.02190)|null|
 |**2026-02-28**|**UniHM: Unified Dexterous Hand Manipulation with Vision Language Model**|Zhenhao Zhang et.al.|[2603.00732](http://arxiv.org/abs/2603.00732)|null|
 |**2026-02-26**|**EmbodMocap: In-the-Wild 4D Human-Scene Reconstruction for Embodied Agents**|Wenjia Wang et.al.|[2602.23205](http://arxiv.org/abs/2602.23205)|null|
@@ -1784,6 +1788,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**Design Generative AI for Practitioners: Exploring Interaction Approaches Aligned with Creative Practice**|Xiaohan Peng et.al.|[2603.03074](http://arxiv.org/abs/2603.03074)|null|
+|**2026-03-03**|**An HCI Perspective on Sustainable GenAI Integration in Architectural Design Education**|Alex Binh Vinh Duc Nguyen et.al.|[2603.03059](http://arxiv.org/abs/2603.03059)|null|
+|**2026-03-03**|**Architectural HRI: Towards a Robotic Paradigm Shift in Human-Building Interaction**|Alex Binh Vinh Duc Nguyen et.al.|[2603.03052](http://arxiv.org/abs/2603.03052)|null|
+|**2026-03-03**|**Changing Pedagogical Paradigms: Integrating Generative AI in Mathematics to Enhance Digital Literacy through 'Mathematical Battles with AI'**|Maria Moskalenko et.al.|[2603.02955](http://arxiv.org/abs/2603.02955)|null|
+|**2026-03-03**|**Speech recognition assisted by large language models to command software orally -- Application to an augmented and virtual reality web app for immersive molecular graphics**|Fabio Cortes Rodriguez et.al.|[2603.02901](http://arxiv.org/abs/2603.02901)|null|
+|**2026-03-03**|**"It's Messy...But I Feel Balanced": Unpacking Flexible Workers' Rhythm-Making Practices Using an Asset-Based Approach**|Tse Pei Ng et.al.|[2603.02841](http://arxiv.org/abs/2603.02841)|null|
+|**2026-03-03**|**Causal Learning Should Embrace the Wisdom of the Crowd**|Ryan Feng Lin et.al.|[2603.02678](http://arxiv.org/abs/2603.02678)|null|
+|**2026-03-03**|**Behavior-Aware Anthropometric Scene Generation for Human-Usable 3D Layouts**|Semin Jin et.al.|[2603.02662](http://arxiv.org/abs/2603.02662)|null|
+|**2026-03-03**|**How Controllable Are Large Language Models? A Unified Evaluation across Behavioral Granularities**|Ziwen Xu et.al.|[2603.02578](http://arxiv.org/abs/2603.02578)|null|
+|**2026-03-03**|**An LLM-Assisted Toolkit for Inspectable Multimodal Emotion Data Annotation**|Zheyuan Kuang et.al.|[2603.02569](http://arxiv.org/abs/2603.02569)|null|
 |**2026-03-02**|**Sketch2Colab: Sketch-Conditioned Multi-Human Animation via Controllable Flow Distillation**|Divyanshu Daiya et.al.|[2603.02190](http://arxiv.org/abs/2603.02190)|null|
 |**2026-03-02**|**When an AI Judges Your Work: The Hidden Costs of Algorithmic Assessment**|David Almog et.al.|[2603.02076](http://arxiv.org/abs/2603.02076)|null|
 |**2026-03-02**|**Cognitive Prosthetic: An AI-Enabled Multimodal System for Episodic Recall in Knowledge Work**|Lawrence Obiuwevwi et.al.|[2603.02072](http://arxiv.org/abs/2603.02072)|null|
