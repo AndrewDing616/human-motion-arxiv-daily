@@ -959,6 +959,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**SimpliHuMoN: Simplifying Human Motion Prediction**|Aadya Agrawal et.al.|[2603.04399](http://arxiv.org/abs/2603.04399)|null|
+|**2026-03-04**|**ArtHOI: Articulated Human-Object Interaction Synthesis by 4D Reconstruction from Video Priors**|Zihao Huang et.al.|[2603.04338](http://arxiv.org/abs/2603.04338)|null|
 |**2026-03-04**|**EgoPoseFormer v2: Accurate Egocentric Human Motion Estimation for AR/VR**|Zhenyu Li et.al.|[2603.04090](http://arxiv.org/abs/2603.04090)|null|
 |**2026-03-04**|**ArthroCut: Autonomous Policy Learning for Robotic Bone Resection in Knee Arthroplasty**|Xu Lu et.al.|[2603.03957](http://arxiv.org/abs/2603.03957)|null|
 |**2026-03-03**|**LiteVLA-Edge: Quantized On-Device Multimodal Control for Embedded Robotics**|Justin Williams et.al.|[2603.03380](http://arxiv.org/abs/2603.03380)|null|
@@ -1565,6 +1567,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**ArtHOI: Articulated Human-Object Interaction Synthesis by 4D Reconstruction from Video Priors**|Zihao Huang et.al.|[2603.04338](http://arxiv.org/abs/2603.04338)|null|
 |**2026-03-03**|**Behavior-Aware Anthropometric Scene Generation for Human-Usable 3D Layouts**|Semin Jin et.al.|[2603.02662](http://arxiv.org/abs/2603.02662)|null|
 |**2026-03-02**|**Sketch2Colab: Sketch-Conditioned Multi-Human Animation via Controllable Flow Distillation**|Divyanshu Daiya et.al.|[2603.02190](http://arxiv.org/abs/2603.02190)|null|
 |**2026-02-28**|**UniHM: Unified Dexterous Hand Manipulation with Vision Language Model**|Zhenhao Zhang et.al.|[2603.00732](http://arxiv.org/abs/2603.00732)|null|
@@ -1793,6 +1796,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**Scrollytelling as an Alternative Format for Privacy Policies**|Gonzalo Gabriel Méndez et.al.|[2603.04367](http://arxiv.org/abs/2603.04367)|null|
+|**2026-03-04**|**LikeThis! Empowering App Users to Submit UI Improvement Suggestions Instead of Complaints**|Jialiang Wei et.al.|[2603.04245](http://arxiv.org/abs/2603.04245)|null|
+|**2026-03-04**|**FeedAIde: Guiding App Users to Submit Rich Feedback Reports by Asking Context-Aware Follow-Up Questions**|Ali Ebrahimi Pourasad et.al.|[2603.04244](http://arxiv.org/abs/2603.04244)|null|
+|**2026-03-04**|**Real Eyes Realize Faster: Gaze Stability and Pupil Novelty for Efficient Egocentric Learning**|Ajan Subramanian et.al.|[2603.04098](http://arxiv.org/abs/2603.04098)|null|
 |**2026-03-04**|**EgoPoseFormer v2: Accurate Egocentric Human Motion Estimation for AR/VR**|Zhenyu Li et.al.|[2603.04090](http://arxiv.org/abs/2603.04090)|null|
 |**2026-03-04**|**The Empty Quadrant: AI Teammates for Embodied Field Learning**|Hyein Kim et.al.|[2603.04034](http://arxiv.org/abs/2603.04034)|null|
 |**2026-03-04**|**IROSA: Interactive Robot Skill Adaptation using Natural Language**|Markus Knauer et.al.|[2603.03897](http://arxiv.org/abs/2603.03897)|null|
