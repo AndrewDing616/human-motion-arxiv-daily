@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.03.04
+### Automatically Updated on 2026.03.05
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-04**|**EgoPoseFormer v2: Accurate Egocentric Human Motion Estimation for AR/VR**|Zhenyu Li et.al.|[2603.04090](http://arxiv.org/abs/2603.04090)|null|
+|**2026-03-04**|**ArthroCut: Autonomous Policy Learning for Robotic Bone Resection in Knee Arthroplasty**|Xu Lu et.al.|[2603.03957](http://arxiv.org/abs/2603.03957)|null|
+|**2026-03-03**|**LiteVLA-Edge: Quantized On-Device Multimodal Control for Embedded Robotics**|Justin Williams et.al.|[2603.03380](http://arxiv.org/abs/2603.03380)|null|
+|**2026-03-03**|**DuoMo: Dual Motion Diffusion for World-Space Human Reconstruction**|Yufu Wang et.al.|[2603.03265](http://arxiv.org/abs/2603.03265)|null|
+|**2026-03-03**|**Kling-MotionControl Technical Report**|Kling Team et.al.|[2603.03160](http://arxiv.org/abs/2603.03160)|null|
 |**2026-03-03**|**Direct Reward Fine-Tuning on Poses for Single Image to 3D Human in the Wild**|Seunguk Do et.al.|[2603.02619](http://arxiv.org/abs/2603.02619)|null|
 |**2026-03-03**|**E2E-GNet: An End-to-End Skeleton-based Geometric Deep Neural Network for Human Motion Recognition**|Mubarak Olaoluwa et.al.|[2603.02477](http://arxiv.org/abs/2603.02477)|null|
 |**2026-03-02**|**Sketch2Colab: Sketch-Conditioned Multi-Human Animation via Controllable Flow Distillation**|Divyanshu Daiya et.al.|[2603.02190](http://arxiv.org/abs/2603.02190)|null|
@@ -472,7 +477,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260304>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260305>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -613,7 +618,7 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260304>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260305>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
@@ -843,12 +848,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260304>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260305>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-04**|**EgoPoseFormer v2: Accurate Egocentric Human Motion Estimation for AR/VR**|Zhenyu Li et.al.|[2603.04090](http://arxiv.org/abs/2603.04090)|null|
+|**2026-03-04**|**The Empty Quadrant: AI Teammates for Embodied Field Learning**|Hyein Kim et.al.|[2603.04034](http://arxiv.org/abs/2603.04034)|null|
+|**2026-03-04**|**IROSA: Interactive Robot Skill Adaptation using Natural Language**|Markus Knauer et.al.|[2603.03897](http://arxiv.org/abs/2603.03897)|null|
+|**2026-03-04**|**On the Suitability of LLM-Driven Agents for Dark Pattern Audits**|Chen Sun et.al.|[2603.03881](http://arxiv.org/abs/2603.03881)|null|
+|**2026-03-04**|**Understanding Parents' Desires in Moderating Children's Interactions with GenAI Chatbots through LLM-Generated Probes**|John Driscoll et.al.|[2603.03727](http://arxiv.org/abs/2603.03727)|null|
+|**2026-03-04**|**UrbanHuRo: A Two-Layer Human-Robot Collaboration Framework for the Joint Optimization of Heterogeneous Urban Services**|Tonmoy Dey et.al.|[2603.03701](http://arxiv.org/abs/2603.03701)|null|
+|**2026-03-04**|**Echoes of Norms: Investigating Counterspeech Bots' Influence on Bystanders in Online Communities**|Mengyao Wang et.al.|[2603.03687](http://arxiv.org/abs/2603.03687)|null|
+|**2026-03-04**|**Inclusive Mobile Learning: How Technology-Enabled Language Choice Supports Multilingual Students**|Phenyo Phemelo Moletsane et.al.|[2603.03675](http://arxiv.org/abs/2603.03675)|null|
+|**2026-03-04**|**Bridging Pedagogy and Play: Introducing a Language Mapping Interface for Human-AI Co-Creation in Educational Game Design**|Daijin Yang et.al.|[2603.03644](http://arxiv.org/abs/2603.03644)|null|
+|**2026-03-04**|**Modelling Visuo-Haptic Perception Change in Size Estimation Tasks**|Jian Zhang et.al.|[2603.03614](http://arxiv.org/abs/2603.03614)|null|
 |**2026-03-03**|**Design Generative AI for Practitioners: Exploring Interaction Approaches Aligned with Creative Practice**|Xiaohan Peng et.al.|[2603.03074](http://arxiv.org/abs/2603.03074)|null|
 |**2026-03-03**|**An HCI Perspective on Sustainable GenAI Integration in Architectural Design Education**|Alex Binh Vinh Duc Nguyen et.al.|[2603.03059](http://arxiv.org/abs/2603.03059)|null|
 |**2026-03-03**|**Architectural HRI: Towards a Robotic Paradigm Shift in Human-Building Interaction**|Alex Binh Vinh Duc Nguyen et.al.|[2603.03052](http://arxiv.org/abs/2603.03052)|null|
@@ -1779,7 +1794,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260304>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260305>back to top</a>)</p>
 
 Notes: 
 

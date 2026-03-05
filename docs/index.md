@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.03.04
+### Automatically Updated on 2026.03.05
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**EgoPoseFormer v2: Accurate Egocentric Human Motion Estimation for AR/VR**|Zhenyu Li et.al.|[2603.04090](http://arxiv.org/abs/2603.04090)|null|
+|**2026-03-04**|**ArthroCut: Autonomous Policy Learning for Robotic Bone Resection in Knee Arthroplasty**|Xu Lu et.al.|[2603.03957](http://arxiv.org/abs/2603.03957)|null|
+|**2026-03-03**|**LiteVLA-Edge: Quantized On-Device Multimodal Control for Embedded Robotics**|Justin Williams et.al.|[2603.03380](http://arxiv.org/abs/2603.03380)|null|
+|**2026-03-03**|**DuoMo: Dual Motion Diffusion for World-Space Human Reconstruction**|Yufu Wang et.al.|[2603.03265](http://arxiv.org/abs/2603.03265)|null|
+|**2026-03-03**|**Kling-MotionControl Technical Report**|Kling Team et.al.|[2603.03160](http://arxiv.org/abs/2603.03160)|null|
 |**2026-03-03**|**Direct Reward Fine-Tuning on Poses for Single Image to 3D Human in the Wild**|Seunguk Do et.al.|[2603.02619](http://arxiv.org/abs/2603.02619)|null|
 |**2026-03-03**|**E2E-GNet: An End-to-End Skeleton-based Geometric Deep Neural Network for Human Motion Recognition**|Mubarak Olaoluwa et.al.|[2603.02477](http://arxiv.org/abs/2603.02477)|null|
 |**2026-03-02**|**Sketch2Colab: Sketch-Conditioned Multi-Human Animation via Controllable Flow Distillation**|Divyanshu Daiya et.al.|[2603.02190](http://arxiv.org/abs/2603.02190)|null|
@@ -1788,6 +1793,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**EgoPoseFormer v2: Accurate Egocentric Human Motion Estimation for AR/VR**|Zhenyu Li et.al.|[2603.04090](http://arxiv.org/abs/2603.04090)|null|
+|**2026-03-04**|**The Empty Quadrant: AI Teammates for Embodied Field Learning**|Hyein Kim et.al.|[2603.04034](http://arxiv.org/abs/2603.04034)|null|
+|**2026-03-04**|**IROSA: Interactive Robot Skill Adaptation using Natural Language**|Markus Knauer et.al.|[2603.03897](http://arxiv.org/abs/2603.03897)|null|
+|**2026-03-04**|**On the Suitability of LLM-Driven Agents for Dark Pattern Audits**|Chen Sun et.al.|[2603.03881](http://arxiv.org/abs/2603.03881)|null|
+|**2026-03-04**|**Understanding Parents' Desires in Moderating Children's Interactions with GenAI Chatbots through LLM-Generated Probes**|John Driscoll et.al.|[2603.03727](http://arxiv.org/abs/2603.03727)|null|
+|**2026-03-04**|**UrbanHuRo: A Two-Layer Human-Robot Collaboration Framework for the Joint Optimization of Heterogeneous Urban Services**|Tonmoy Dey et.al.|[2603.03701](http://arxiv.org/abs/2603.03701)|null|
+|**2026-03-04**|**Echoes of Norms: Investigating Counterspeech Bots' Influence on Bystanders in Online Communities**|Mengyao Wang et.al.|[2603.03687](http://arxiv.org/abs/2603.03687)|null|
+|**2026-03-04**|**Inclusive Mobile Learning: How Technology-Enabled Language Choice Supports Multilingual Students**|Phenyo Phemelo Moletsane et.al.|[2603.03675](http://arxiv.org/abs/2603.03675)|null|
+|**2026-03-04**|**Bridging Pedagogy and Play: Introducing a Language Mapping Interface for Human-AI Co-Creation in Educational Game Design**|Daijin Yang et.al.|[2603.03644](http://arxiv.org/abs/2603.03644)|null|
+|**2026-03-04**|**Modelling Visuo-Haptic Perception Change in Size Estimation Tasks**|Jian Zhang et.al.|[2603.03614](http://arxiv.org/abs/2603.03614)|null|
 |**2026-03-03**|**Design Generative AI for Practitioners: Exploring Interaction Approaches Aligned with Creative Practice**|Xiaohan Peng et.al.|[2603.03074](http://arxiv.org/abs/2603.03074)|null|
 |**2026-03-03**|**An HCI Perspective on Sustainable GenAI Integration in Architectural Design Education**|Alex Binh Vinh Duc Nguyen et.al.|[2603.03059](http://arxiv.org/abs/2603.03059)|null|
 |**2026-03-03**|**Architectural HRI: Towards a Robotic Paradigm Shift in Human-Building Interaction**|Alex Binh Vinh Duc Nguyen et.al.|[2603.03052](http://arxiv.org/abs/2603.03052)|null|
