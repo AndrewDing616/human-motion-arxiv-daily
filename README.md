@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.03.05
+### Automatically Updated on 2026.03.06
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-05**|**cuRoboV2: Dynamics-Aware Motion Generation with Depth-Fused Distance Fields for High-DoF Robots**|Balakumar Sundaralingam et.al.|[2603.05493](http://arxiv.org/abs/2603.05493)|null|
+|**2026-03-05**|**LBM: Hierarchical Large Auto-Bidding Model via Reasoning and Acting**|Yewen Li et.al.|[2603.05134](http://arxiv.org/abs/2603.05134)|null|
+|**2026-03-05**|**VPWEM: Non-Markovian Visuomotor Policy with Working and Episodic Memory**|Yuheng Lei et.al.|[2603.04910](http://arxiv.org/abs/2603.04910)|null|
+|**2026-03-05**|**Diffusion Policy through Conditional Proximal Policy Optimization**|Ben Liu et.al.|[2603.04790](http://arxiv.org/abs/2603.04790)|null|
+|**2026-03-05**|**Selecting Spots by Explicitly Predicting Intention from Motion History Improves Performance in Autonomous Parking**|Long Kiu Chung et.al.|[2603.04695](http://arxiv.org/abs/2603.04695)|null|
 |**2026-03-04**|**SimpliHuMoN: Simplifying Human Motion Prediction**|Aadya Agrawal et.al.|[2603.04399](http://arxiv.org/abs/2603.04399)|null|
 |**2026-03-04**|**ArtHOI: Articulated Human-Object Interaction Synthesis by 4D Reconstruction from Video Priors**|Zihao Huang et.al.|[2603.04338](http://arxiv.org/abs/2603.04338)|null|
 |**2026-03-04**|**EgoPoseFormer v2: Accurate Egocentric Human Motion Estimation for AR/VR**|Zhenyu Li et.al.|[2603.04090](http://arxiv.org/abs/2603.04090)|null|
@@ -479,7 +484,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260305>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260306>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -620,7 +625,7 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260305>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260306>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
@@ -851,12 +856,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260305>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260306>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-05**|**Ailed: A Psyche-Driven Chess Engine with Dynamic Emotional Modulation**|Diego Armando Resendez Prado et.al.|[2603.05352](http://arxiv.org/abs/2603.05352)|null|
+|**2026-03-05**|**AttentiveLearn: Personalized Post-Lecture Support for Gaze-Aware Immersive Learning**|Shi Liu et.al.|[2603.05324](http://arxiv.org/abs/2603.05324)|null|
+|**2026-03-05**|**Designing for Adolescent Voice in Health Decisions: Embodied Conversational Agents for HPV Vaccination**|Ian Steenstra et.al.|[2603.05321](http://arxiv.org/abs/2603.05321)|null|
+|**2026-03-05**|**Oral to Web: Digitizing 'Zero Resource'Languages of Bangladesh**|Mohammad Mamun Or Rashid et.al.|[2603.05272](http://arxiv.org/abs/2603.05272)|null|
+|**2026-03-05**|**Not All Trust is the Same: Effects of Decision Workflow and Explanations in Human-AI Decision Making**|Laura Spillner et.al.|[2603.05229](http://arxiv.org/abs/2603.05229)|null|
+|**2026-03-05**|**Cognitive Warfare: Definition, Framework, and Case Study**|Bonnie Rushing et.al.|[2603.05222](http://arxiv.org/abs/2603.05222)|null|
+|**2026-03-05**|**Wire Your Way: Hardware-Contextualized Guidance and In-situ Tests for Personalized Circuit Prototyping**|Punn Lertjaturaphat et.al.|[2603.05085](http://arxiv.org/abs/2603.05085)|null|
+|**2026-03-05**|**Jagarin: A Three-Layer Architecture for Hibernating Personal Duty Agents on Mobile**|Ravi Kiran Kadaboina et.al.|[2603.05069](http://arxiv.org/abs/2603.05069)|null|
+|**2026-03-05**|**Haptics in Cognition: Disruptor or Enabler of Memory?**|Bibeg Limbu et.al.|[2603.05019](http://arxiv.org/abs/2603.05019)|null|
+|**2026-03-05**|**Auto-Generating Personas from User Reviews in VR App Stores**|Yi Wang et.al.|[2603.04985](http://arxiv.org/abs/2603.04985)|null|
 |**2026-03-04**|**Scrollytelling as an Alternative Format for Privacy Policies**|Gonzalo Gabriel Méndez et.al.|[2603.04367](http://arxiv.org/abs/2603.04367)|null|
 |**2026-03-04**|**LikeThis! Empowering App Users to Submit UI Improvement Suggestions Instead of Complaints**|Jialiang Wei et.al.|[2603.04245](http://arxiv.org/abs/2603.04245)|null|
 |**2026-03-04**|**FeedAIde: Guiding App Users to Submit Rich Feedback Reports by Asking Context-Aware Follow-Up Questions**|Ali Ebrahimi Pourasad et.al.|[2603.04244](http://arxiv.org/abs/2603.04244)|null|
@@ -1801,7 +1816,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260305>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260306>back to top</a>)</p>
 
 Notes: 
 
