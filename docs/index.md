@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.03.08
+### Automatically Updated on 2026.03.09
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-06**|**Towards Motion Turing Test: Evaluating Human-Likeness in Humanoid Robots**|Mingzhe Li et.al.|[2603.06181](http://arxiv.org/abs/2603.06181)|null|
+|**2026-03-06**|**Restoring Linguistic Grounding in VLA Models via Train-Free Attention Recalibration**|Ninghao Zhang et.al.|[2603.06001](http://arxiv.org/abs/2603.06001)|null|
+|**2026-03-06**|**Moving Through Clutter: Scaling Data Collection and Benchmarking for 3D Scene-Aware Humanoid Locomotion via Virtual Reality**|Beichen Wang et.al.|[2603.05993](http://arxiv.org/abs/2603.05993)|null|
 |**2026-03-05**|**cuRoboV2: Dynamics-Aware Motion Generation with Depth-Fused Distance Fields for High-DoF Robots**|Balakumar Sundaralingam et.al.|[2603.05493](http://arxiv.org/abs/2603.05493)|null|
 |**2026-03-05**|**LBM: Hierarchical Large Auto-Bidding Model via Reasoning and Acting**|Yewen Li et.al.|[2603.05134](http://arxiv.org/abs/2603.05134)|null|
 |**2026-03-05**|**VPWEM: Non-Markovian Visuomotor Policy with Working and Episodic Memory**|Yuheng Lei et.al.|[2603.04910](http://arxiv.org/abs/2603.04910)|null|
@@ -1801,6 +1804,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-06**|**The Pen: Episodic Cognitive Assistance via an Ear-Worn Interface**|Yonatan Tussa et.al.|[2603.06564](http://arxiv.org/abs/2603.06564)|null|
+|**2026-03-06**|**Capability at a Glance: Design Guidelines for Intuitive Avatars Communicating Augmented Actions in Virtual Reality**|Yang Lu et.al.|[2603.06556](http://arxiv.org/abs/2603.06556)|null|
+|**2026-03-06**|**Structured Exploration vs. Generative Flexibility: A Field Study Comparing Bandit and LLM Architectures for Personalised Health Behaviour Interventions**|Dominik P. Hofer et.al.|[2603.06330](http://arxiv.org/abs/2603.06330)|null|
+|**2026-03-06**|**Exploring Socially Assistive Peer Mediation Robots for Teaching Conflict Resolution to Elementary School Students**|Kaleen Shrestha et.al.|[2603.06255](http://arxiv.org/abs/2603.06255)|null|
+|**2026-03-06**|**Skill-Adaptive Ghost Instructors: Enhancing Retention and Reducing Over-Reliance in VR Piano Learning**|Tzu-Hsin Hsieh et.al.|[2603.06253](http://arxiv.org/abs/2603.06253)|null|
+|**2026-03-06**|**Beyond Scores: Explainable Intelligent Assessment Strengthens Pre-service Teachers' Assessment Literacy**|Yuang Wei et.al.|[2603.06059](http://arxiv.org/abs/2603.06059)|null|
+|**2026-03-06**|**Is it Me? Toward Self-Extension to AI Avatars in Virtual Reality**|Jieying Zhang et.al.|[2603.06030](http://arxiv.org/abs/2603.06030)|null|
+|**2026-03-06**|**Hierarchical Resource Rationality Explains Human Reading Behavior**|Yunpeng Bai et.al.|[2603.06006](http://arxiv.org/abs/2603.06006)|null|
+|**2026-03-06**|**Who We Are, Where We Are: Mental Health at the Intersection of Person, Situation, and Large Language Models**|Nikita Soni et.al.|[2603.05953](http://arxiv.org/abs/2603.05953)|null|
+|**2026-03-06**|**Addressing the Ecological Fallacy in Larger LMs with Human Context**|Nikita Soni et.al.|[2603.05928](http://arxiv.org/abs/2603.05928)|null|
 |**2026-03-05**|**Ailed: A Psyche-Driven Chess Engine with Dynamic Emotional Modulation**|Diego Armando Resendez Prado et.al.|[2603.05352](http://arxiv.org/abs/2603.05352)|null|
 |**2026-03-05**|**AttentiveLearn: Personalized Post-Lecture Support for Gaze-Aware Immersive Learning**|Shi Liu et.al.|[2603.05324](http://arxiv.org/abs/2603.05324)|null|
 |**2026-03-05**|**Designing for Adolescent Voice in Health Decisions: Embodied Conversational Agents for HPV Vaccination**|Ian Steenstra et.al.|[2603.05321](http://arxiv.org/abs/2603.05321)|null|
