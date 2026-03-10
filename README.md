@@ -14,6 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-09**|**Context-free Self-Conditioned GAN for Trajectory Forecasting**|Tiago Rodrigues de Almeida et.al.|[2603.08658](http://arxiv.org/abs/2603.08658)|null|
+|**2026-03-09**|**PRISM: Streaming Human Motion Generation with Per-Joint Latent Decomposition**|Zeyu Ling et.al.|[2603.08590](http://arxiv.org/abs/2603.08590)|null|
+|**2026-03-09**|**MetaWorld-X: Hierarchical World Modeling via VLM-Orchestrated Experts for Humanoid Loco-Manipulation**|Yutong Shen et.al.|[2603.08572](http://arxiv.org/abs/2603.08572)|null|
+|**2026-03-09**|**3PoinTr: 3D Point Tracks for Robot Manipulation Pretraining from Casual Videos**|Adam Hung et.al.|[2603.08485](http://arxiv.org/abs/2603.08485)|null|
+|**2026-03-09**|**A Hierarchical Error-Corrective Graph Framework for Autonomous Agents with LLM-Based Action Generation**|Cong Cao et.al.|[2603.08388](http://arxiv.org/abs/2603.08388)|null|
+|**2026-03-09**|**$Δ$ VLA: Prior-Guided Vision-Language-Action Models via World Knowledge Variation**|Yijie Zhu et.al.|[2603.08361](http://arxiv.org/abs/2603.08361)|null|
+|**2026-03-09**|**Why Learn What Physics Already Knows? Realizing Agile mmWave-based Human Pose Estimation via Physics-Guided Preprocessing**|Shuntian Zheng et.al.|[2603.08236](http://arxiv.org/abs/2603.08236)|null|
 |**2026-03-09**|**Fusion-Poly: A Polyhedral Framework Based on Spatial-Temporal Fusion for 3D Multi-Object Tracking**|Xian Wu et.al.|[2603.08199](http://arxiv.org/abs/2603.08199)|null|
 |**2026-03-09**|**Controllable Complex Human Motion Video Generation via Text-to-Skeleton Cascades**|Ashkan Taghipour et.al.|[2603.08028](http://arxiv.org/abs/2603.08028)|null|
 |**2026-03-09**|**Not Like Transformers: Drop the Beat Representation for Dance Generation with Mamba-Based Diffusion Model**|Sangjune Park et.al.|[2603.08023](http://arxiv.org/abs/2603.08023)|null|
@@ -877,6 +884,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-09**|**Clarity and Computational Efficiency of Orbital Boundary Labeling**|Markus Wallinger et.al.|[2603.08657](http://arxiv.org/abs/2603.08657)|null|
+|**2026-03-09**|**What to Make Sense of in the Era of LLM? A Perspective from the Structure and Efforts in Sensemaking**|Tianyi Li et.al.|[2603.08604](http://arxiv.org/abs/2603.08604)|null|
+|**2026-03-09**|**DiverXplorer: Stock Image Exploration via Diversity Adjustment for Graphic Design**|Antonio Tejero-de-Pablos et.al.|[2603.08584](http://arxiv.org/abs/2603.08584)|null|
+|**2026-03-09**|**LoopLens: Supporting Search as Creation in Loop-Based Music Composition**|Sheng Long et.al.|[2603.08571](http://arxiv.org/abs/2603.08571)|null|
+|**2026-03-09**|**Galaw at Gunita: Extended Reality Murals for Experiencing Filipino Art**|Jomar Delos Reyes et.al.|[2603.08557](http://arxiv.org/abs/2603.08557)|null|
+|**2026-03-09**|**TUMSphere: Turning a University Curriculum into Playable VR Challenges**|Santiago Berrezueta-Guzman et.al.|[2603.08525](http://arxiv.org/abs/2603.08525)|null|
+|**2026-03-09**|**A prospective clinical feasibility study of a conversational diagnostic AI in an ambulatory primary care clinic**|Peter Brodeur et.al.|[2603.08448](http://arxiv.org/abs/2603.08448)|null|
+|**2026-03-09**|**IronEngine: Towards General AI Assistant**|Xi Mo et.al.|[2603.08425](http://arxiv.org/abs/2603.08425)|null|
+|**2026-03-09**|**Human-Aware Robot Behaviour in Self-Driving Labs**|Satheeshkumar Veeramani et.al.|[2603.08420](http://arxiv.org/abs/2603.08420)|null|
+|**2026-03-09**|**Sandpiper: Orchestrated AI-Annotation for Educational Discourse at Scale**|Daryl Hedley et.al.|[2603.08406](http://arxiv.org/abs/2603.08406)|null|
 |**2026-03-09**|**Re-evaluating Position and Velocity Decoding for Hand Pose Estimation with Surface Electromyography**|Nima Hadidi et.al.|[2603.08212](http://arxiv.org/abs/2603.08212)|null|
 |**2026-03-09**|**The Differential Effects of Agreeableness and Extraversion on Older Adults' Perceptions of Conversational AI Explanations in Assistive Settings**|Niharika Mathur et.al.|[2603.08164](http://arxiv.org/abs/2603.08164)|null|
 |**2026-03-09**|**Toward Governing Perception in Safety-Critical Mediated Reality on the Move**|Pascal Jansen et.al.|[2603.08138](http://arxiv.org/abs/2603.08138)|null|
