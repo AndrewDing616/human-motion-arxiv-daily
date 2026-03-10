@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.03.09
+### Automatically Updated on 2026.03.10
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-09**|**Fusion-Poly: A Polyhedral Framework Based on Spatial-Temporal Fusion for 3D Multi-Object Tracking**|Xian Wu et.al.|[2603.08199](http://arxiv.org/abs/2603.08199)|null|
+|**2026-03-09**|**Controllable Complex Human Motion Video Generation via Text-to-Skeleton Cascades**|Ashkan Taghipour et.al.|[2603.08028](http://arxiv.org/abs/2603.08028)|null|
+|**2026-03-09**|**Not Like Transformers: Drop the Beat Representation for Dance Generation with Mamba-Based Diffusion Model**|Sangjune Park et.al.|[2603.08023](http://arxiv.org/abs/2603.08023)|null|
+|**2026-03-09**|**NaviDriveVLM: Decoupling High-Level Reasoning and Motion Planning for Autonomous Driving**|Ximeng Tao et.al.|[2603.07901](http://arxiv.org/abs/2603.07901)|null|
+|**2026-03-08**|**Toward Global Intent Inference for Human Motion by Inverse Reinforcement Learning**|Sarmad Mehrdad et.al.|[2603.07797](http://arxiv.org/abs/2603.07797)|null|
+|**2026-03-08**|**Learning Context-Adaptive Motion Priors for Masked Motion Diffusion Models with Efficient Kinematic Attention Aggregation**|Junkun Jiang et.al.|[2603.07697](http://arxiv.org/abs/2603.07697)|null|
+|**2026-03-07**|**Towards Scalable Probabilistic Human Motion Prediction with Gaussian Processes for Safe Human-Robot Collaboration**|Jinger Chong et.al.|[2603.07096](http://arxiv.org/abs/2603.07096)|null|
+|**2026-03-06**|**Joint MDPs and Reinforcement Learning in Coupled-Dynamics Environments**|Ege C. Kaya et.al.|[2603.06946](http://arxiv.org/abs/2603.06946)|null|
+|**2026-03-06**|**HybridMimic: Hybrid RL-Centroidal Control for Humanoid Motion Mimicking**|Ludwig Chee-Ying Tay et.al.|[2603.06775](http://arxiv.org/abs/2603.06775)|null|
+|**2026-03-06**|**Stability-Guided Exploration for Diverse Motion Generation**|Eckart Cobo-Briesewitz et.al.|[2603.06773](http://arxiv.org/abs/2603.06773)|null|
 |**2026-03-06**|**Towards Motion Turing Test: Evaluating Human-Likeness in Humanoid Robots**|Mingzhe Li et.al.|[2603.06181](http://arxiv.org/abs/2603.06181)|null|
 |**2026-03-06**|**Restoring Linguistic Grounding in VLA Models via Train-Free Attention Recalibration**|Ninghao Zhang et.al.|[2603.06001](http://arxiv.org/abs/2603.06001)|null|
 |**2026-03-06**|**Moving Through Clutter: Scaling Data Collection and Benchmarking for 3D Scene-Aware Humanoid Locomotion via Virtual Reality**|Beichen Wang et.al.|[2603.05993](http://arxiv.org/abs/2603.05993)|null|
@@ -1575,6 +1585,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-09**|**TeamHOI: Learning a Unified Policy for Cooperative Human-Object Interactions with Any Team Size**|Stefan Lionar et.al.|[2603.07988](http://arxiv.org/abs/2603.07988)|null|
+|**2026-03-08**|**InterReal: A Unified Physics-Based Imitation Framework for Learning Human-Object Interaction Skills**|Dayang Liang et.al.|[2603.07516](http://arxiv.org/abs/2603.07516)|null|
 |**2026-03-04**|**ArtHOI: Articulated Human-Object Interaction Synthesis by 4D Reconstruction from Video Priors**|Zihao Huang et.al.|[2603.04338](http://arxiv.org/abs/2603.04338)|null|
 |**2026-03-03**|**Behavior-Aware Anthropometric Scene Generation for Human-Usable 3D Layouts**|Semin Jin et.al.|[2603.02662](http://arxiv.org/abs/2603.02662)|null|
 |**2026-03-02**|**Sketch2Colab: Sketch-Conditioned Multi-Human Animation via Controllable Flow Distillation**|Divyanshu Daiya et.al.|[2603.02190](http://arxiv.org/abs/2603.02190)|null|
@@ -1804,6 +1816,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-09**|**Re-evaluating Position and Velocity Decoding for Hand Pose Estimation with Surface Electromyography**|Nima Hadidi et.al.|[2603.08212](http://arxiv.org/abs/2603.08212)|null|
+|**2026-03-09**|**The Differential Effects of Agreeableness and Extraversion on Older Adults' Perceptions of Conversational AI Explanations in Assistive Settings**|Niharika Mathur et.al.|[2603.08164](http://arxiv.org/abs/2603.08164)|null|
+|**2026-03-09**|**Toward Governing Perception in Safety-Critical Mediated Reality on the Move**|Pascal Jansen et.al.|[2603.08138](http://arxiv.org/abs/2603.08138)|null|
+|**2026-03-09**|**''I don't want to break it'': An Exploration of Perceived Fragility in Shape-Changing Interfaces**|Eva Mackamul et.al.|[2603.08107](http://arxiv.org/abs/2603.08107)|null|
+|**2026-03-09**|**The AI Amplifier Effect: Defining Human-AI Intimacy and Romantic Relationships with Conversational AI**|Ching Christie Pang et.al.|[2603.08084](http://arxiv.org/abs/2603.08084)|null|
+|**2026-03-09**|**MRDrive: An Open Source Mixed Reality Driving Simulator for Automotive User Research**|Patrick Ebel et.al.|[2603.08080](http://arxiv.org/abs/2603.08080)|null|
+|**2026-03-09**|**CinemaWorld: Generative Augmented Reality with LLMs and 3D Scene Generation for Movie Augmentation**|Keiichi Ihara et.al.|[2603.08060](http://arxiv.org/abs/2603.08060)|null|
+|**2026-03-09**|**Rendering Forces With a Modular Cable System, Motors, and Brakes**|Jan Ulrich Bartels et.al.|[2603.08054](http://arxiv.org/abs/2603.08054)|null|
+|**2026-03-09**|**Alignment--Process--Outcome: Rethinking How AIs and Humans Collaborate**|Haichang Li et.al.|[2603.08017](http://arxiv.org/abs/2603.08017)|null|
+|**2026-03-09**|**Extend Your Horizon: A Device-Agnostic Surgical Tool Tracking Framework with Multi-View Optimization for Augmented Reality**|Jiaming Zhang et.al.|[2603.07981](http://arxiv.org/abs/2603.07981)|null|
 |**2026-03-06**|**The Pen: Episodic Cognitive Assistance via an Ear-Worn Interface**|Yonatan Tussa et.al.|[2603.06564](http://arxiv.org/abs/2603.06564)|null|
 |**2026-03-06**|**Capability at a Glance: Design Guidelines for Intuitive Avatars Communicating Augmented Actions in Virtual Reality**|Yang Lu et.al.|[2603.06556](http://arxiv.org/abs/2603.06556)|null|
 |**2026-03-06**|**Structured Exploration vs. Generative Flexibility: A Field Study Comparing Bandit and LLM Architectures for Personalised Health Behaviour Interventions**|Dominik P. Hofer et.al.|[2603.06330](http://arxiv.org/abs/2603.06330)|null|
