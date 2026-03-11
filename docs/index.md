@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.03.10
+### Automatically Updated on 2026.03.11
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,8 +959,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**Fine-grained Motion Retrieval via Joint-Angle Motion Images and Token-Patch Late Interaction**|Yao Zhang et.al.|[2603.09930](http://arxiv.org/abs/2603.09930)|null|
+|**2026-03-10**|**Stepping VLMs onto the Court: Benchmarking Spatial Intelligence in Sports**|Yuchen Yang et.al.|[2603.09896](http://arxiv.org/abs/2603.09896)|null|
+|**2026-03-10**|**Improving 3D Foot Motion Reconstruction in Markerless Monocular Human Motion Capture**|Tom Wehrbein et.al.|[2603.09681](http://arxiv.org/abs/2603.09681)|null|
+|**2026-03-10**|**ParTY: Part-Guidance for Expressive Text-to-Motion Synthesis**|KunHo Heo et.al.|[2603.09611](http://arxiv.org/abs/2603.09611)|null|
+|**2026-03-10**|**Embodied Human Simulation for Quantitative Design and Analysis of Interactive Robotics**|Chenhui Zuo et.al.|[2603.09218](http://arxiv.org/abs/2603.09218)|null|
+|**2026-03-10**|**ZeroWBC: Learning Natural Visuomotor Humanoid Control Directly from Human Egocentric Video**|Haoran Yang et.al.|[2603.09170](http://arxiv.org/abs/2603.09170)|null|
+|**2026-03-10**|**Training-free Motion Factorization for Compositional Video Generation**|Zixuan Wang et.al.|[2603.09104](http://arxiv.org/abs/2603.09104)|null|
+|**2026-03-10**|**PRISM: Streaming Human Motion Generation with Per-Joint Latent Decomposition**|Zeyu Ling et.al.|[2603.08590](http://arxiv.org/abs/2603.08590)|null|
 |**2026-03-09**|**Context-free Self-Conditioned GAN for Trajectory Forecasting**|Tiago Rodrigues de Almeida et.al.|[2603.08658](http://arxiv.org/abs/2603.08658)|null|
-|**2026-03-09**|**PRISM: Streaming Human Motion Generation with Per-Joint Latent Decomposition**|Zeyu Ling et.al.|[2603.08590](http://arxiv.org/abs/2603.08590)|null|
 |**2026-03-09**|**MetaWorld-X: Hierarchical World Modeling via VLM-Orchestrated Experts for Humanoid Loco-Manipulation**|Yutong Shen et.al.|[2603.08572](http://arxiv.org/abs/2603.08572)|null|
 |**2026-03-09**|**3PoinTr: 3D Point Tracks for Robot Manipulation Pretraining from Casual Videos**|Adam Hung et.al.|[2603.08485](http://arxiv.org/abs/2603.08485)|null|
 |**2026-03-09**|**A Hierarchical Error-Corrective Graph Framework for Autonomous Agents with LLM-Based Action Generation**|Cong Cao et.al.|[2603.08388](http://arxiv.org/abs/2603.08388)|null|
@@ -1592,6 +1599,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**DISPLAY: Directable Human-Object Interaction Video Generation via Sparse Motion Guidance and Multi-Task Auxiliary**|Jiazhi Guan et.al.|[2603.09883](http://arxiv.org/abs/2603.09883)|null|
+|**2026-03-10**|**ENIGMA-360: An Ego-Exo Dataset for Human Behavior Understanding in Industrial Scenarios**|Francesco Ragusa et.al.|[2603.09741](http://arxiv.org/abs/2603.09741)|null|
 |**2026-03-09**|**TeamHOI: Learning a Unified Policy for Cooperative Human-Object Interactions with Any Team Size**|Stefan Lionar et.al.|[2603.07988](http://arxiv.org/abs/2603.07988)|null|
 |**2026-03-08**|**InterReal: A Unified Physics-Based Imitation Framework for Learning Human-Object Interaction Skills**|Dayang Liang et.al.|[2603.07516](http://arxiv.org/abs/2603.07516)|null|
 |**2026-03-04**|**ArtHOI: Articulated Human-Object Interaction Synthesis by 4D Reconstruction from Video Priors**|Zihao Huang et.al.|[2603.04338](http://arxiv.org/abs/2603.04338)|null|
@@ -1823,6 +1832,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**Understanding the Use of a Large Language Model-Powered Guide to Make Virtual Reality Accessible for Blind and Low Vision People**|Jazmin Collins et.al.|[2603.09964](http://arxiv.org/abs/2603.09964)|null|
+|**2026-03-10**|**Prompt-Driven Color Accessibility Evaluation in Diffusion-based Image Generation Models**|Xinyao Zhuang et.al.|[2603.09832](http://arxiv.org/abs/2603.09832)|null|
+|**2026-03-10**|**The Richest Paradigm You're Not Using: Commercial Videogames at the Intersection of Human-Computer Interaction and Cognitive Science**|Jaap Munneke et.al.|[2603.09753](http://arxiv.org/abs/2603.09753)|null|
+|**2026-03-10**|**Dynamic Multimodal Expression Generation for LLM-Driven Pedagogical Agents: From User Experience Perspective**|Ninghao Wan et.al.|[2603.09536](http://arxiv.org/abs/2603.09536)|null|
+|**2026-03-10**|**PixelConfig: Longitudinal Measurement and Reverse-Engineering of Meta Pixel Configurations**|Abdullah Ghani et.al.|[2603.09380](http://arxiv.org/abs/2603.09380)|null|
+|**2026-03-10**|**Reading the Mood Behind Words: Integrating Prosody-Derived Emotional Context into Socially Responsive VR Agents**|SangYeop Jeong et.al.|[2603.09324](http://arxiv.org/abs/2603.09324)|null|
+|**2026-03-10**|**Entangling Like Mycorrhizae: Mixing Realities Through Touch in "FungiSync"**|Botao Amber Hu et.al.|[2603.09272](http://arxiv.org/abs/2603.09272)|null|
+|**2026-03-10**|**From Perception to Cognition: How Latency Affects Interaction Fluency and Social Presence in VR Conferencing**|Jiarun Song et.al.|[2603.09261](http://arxiv.org/abs/2603.09261)|null|
+|**2026-03-10**|**A Text-Native Interface for Generative Video Authoring**|Xingyu Bruce Liu et.al.|[2603.09072](http://arxiv.org/abs/2603.09072)|null|
+|**2026-03-10**|**Tracing Everyday AI Literacy Discussions at Scale: How Online Creative Communities Make Sense of Generative AI**|Haidan Liu et.al.|[2603.09055](http://arxiv.org/abs/2603.09055)|null|
 |**2026-03-09**|**Clarity and Computational Efficiency of Orbital Boundary Labeling**|Markus Wallinger et.al.|[2603.08657](http://arxiv.org/abs/2603.08657)|null|
 |**2026-03-09**|**What to Make Sense of in the Era of LLM? A Perspective from the Structure and Efforts in Sensemaking**|Tianyi Li et.al.|[2603.08604](http://arxiv.org/abs/2603.08604)|null|
 |**2026-03-09**|**DiverXplorer: Stock Image Exploration via Diversity Adjustment for Graphic Design**|Antonio Tejero-de-Pablos et.al.|[2603.08584](http://arxiv.org/abs/2603.08584)|null|
