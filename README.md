@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.03.11
+### Automatically Updated on 2026.03.12
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-11**|**DynVLA: Learning World Dynamics for Action Reasoning in Autonomous Driving**|Shuyao Shang et.al.|[2603.11041](http://arxiv.org/abs/2603.11041)|null|
+|**2026-03-10**|**Perceptive Hierarchical-Task MPC for Sequential Mobile Manipulation in Unstructured Semi-Static Environments**|Xintong Du et.al.|[2603.10227](http://arxiv.org/abs/2603.10227)|null|
+|**2026-03-10**|**AR-VLA: True Autoregressive Action Expert for Vision-Language-Action Models**|Yutong Hu et.al.|[2603.10126](http://arxiv.org/abs/2603.10126)|null|
 |**2026-03-10**|**Fine-grained Motion Retrieval via Joint-Angle Motion Images and Token-Patch Late Interaction**|Yao Zhang et.al.|[2603.09930](http://arxiv.org/abs/2603.09930)|null|
 |**2026-03-10**|**Stepping VLMs onto the Court: Benchmarking Spatial Intelligence in Sports**|Yuchen Yang et.al.|[2603.09896](http://arxiv.org/abs/2603.09896)|null|
 |**2026-03-10**|**Improving 3D Foot Motion Reconstruction in Markerless Monocular Human Motion Capture**|Tom Wehrbein et.al.|[2603.09681](http://arxiv.org/abs/2603.09681)|null|
@@ -511,7 +514,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260312>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -652,14 +655,14 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260312>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-11**|**ENIGMA-360: An Ego-Exo Dataset for Human Behavior Understanding in Industrial Scenarios**|Francesco Ragusa et.al.|[2603.09741](http://arxiv.org/abs/2603.09741)|null|
 |**2026-03-10**|**DISPLAY: Directable Human-Object Interaction Video Generation via Sparse Motion Guidance and Multi-Task Auxiliary**|Jiazhi Guan et.al.|[2603.09883](http://arxiv.org/abs/2603.09883)|null|
-|**2026-03-10**|**ENIGMA-360: An Ego-Exo Dataset for Human Behavior Understanding in Industrial Scenarios**|Francesco Ragusa et.al.|[2603.09741](http://arxiv.org/abs/2603.09741)|null|
 |**2026-03-09**|**TeamHOI: Learning a Unified Policy for Cooperative Human-Object Interactions with Any Team Size**|Stefan Lionar et.al.|[2603.07988](http://arxiv.org/abs/2603.07988)|null|
 |**2026-03-08**|**InterReal: A Unified Physics-Based Imitation Framework for Learning Human-Object Interaction Skills**|Dayang Liang et.al.|[2603.07516](http://arxiv.org/abs/2603.07516)|null|
 |**2026-03-04**|**ArtHOI: Articulated Human-Object Interaction Synthesis by 4D Reconstruction from Video Priors**|Zihao Huang et.al.|[2603.04338](http://arxiv.org/abs/2603.04338)|null|
@@ -887,12 +890,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260312>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-11**|**Chasing RATs: Tracing Reading for and as Creative Activity**|Sophia Liu et.al.|[2603.11031](http://arxiv.org/abs/2603.11031)|null|
+|**2026-03-11**|**Task-Aware Delegation Cues for LLM Agents**|Xingrui Gu et.al.|[2603.11011](http://arxiv.org/abs/2603.11011)|null|
+|**2026-03-11**|**World Mouse: Exploring Interactions with a Cross-Reality Cursor**|Esen K. Tütüncü et.al.|[2603.10984](http://arxiv.org/abs/2603.10984)|null|
+|**2026-03-11**|**Nurture-First Agent Development: Building Domain-Expert AI Agents Through Conversational Knowledge Crystallization**|Linghao Zhang et.al.|[2603.10808](http://arxiv.org/abs/2603.10808)|null|
+|**2026-03-11**|**AI-Generated Rubric Interfaces: K-12 Teachers' Perceptions and Practices**|Bahare Riahi et.al.|[2603.10773](http://arxiv.org/abs/2603.10773)|null|
+|**2026-03-11**|**Believing vs. Achieving -- The Disconnect between Efficacy Beliefs and Collaborative Outcomes**|Philipp Spitzer et.al.|[2603.10708](http://arxiv.org/abs/2603.10708)|null|
+|**2026-03-11**|**Proceedings of CHIdeology 2026: CHI Workshop on Disentangling the fragmented politics, values and imaginaries of Human-Computer Interaction through ideologies**|Felix Anand Epp et.al.|[2603.10681](http://arxiv.org/abs/2603.10681)|null|
+|**2026-03-11**|**A Platform-Agnostic Multimodal Digital Human Modelling Framework: Neurophysiological Sensing in Game-Based Interaction**|Daniel J. Buxton et.al.|[2603.10680](http://arxiv.org/abs/2603.10680)|null|
+|**2026-03-11**|**Terminal Is All You Need: Design Properties for Human-AI Agent Collaboration**|Alexandre De Masi et.al.|[2603.10664](http://arxiv.org/abs/2603.10664)|null|
+|**2026-03-11**|**CUAAudit: Meta-Evaluation of Vision-Language Models as Auditors of Autonomous Computer-Use Agents**|Marta Sumyk et.al.|[2603.10577](http://arxiv.org/abs/2603.10577)|null|
 |**2026-03-10**|**Understanding the Use of a Large Language Model-Powered Guide to Make Virtual Reality Accessible for Blind and Low Vision People**|Jazmin Collins et.al.|[2603.09964](http://arxiv.org/abs/2603.09964)|null|
 |**2026-03-10**|**Prompt-Driven Color Accessibility Evaluation in Diffusion-based Image Generation Models**|Xinyao Zhuang et.al.|[2603.09832](http://arxiv.org/abs/2603.09832)|null|
 |**2026-03-10**|**The Richest Paradigm You're Not Using: Commercial Videogames at the Intersection of Human-Computer Interaction and Cognitive Science**|Jaap Munneke et.al.|[2603.09753](http://arxiv.org/abs/2603.09753)|null|
@@ -1887,7 +1900,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260312>back to top</a>)</p>
 
 Notes: 
 
