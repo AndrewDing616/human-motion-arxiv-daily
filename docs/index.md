@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.03.12
+### Automatically Updated on 2026.03.13
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-12**|**HumDex:Humanoid Dexterous Manipulation Made Easy**|Liang Heng et.al.|[2603.12260](http://arxiv.org/abs/2603.12260)|null|
+|**2026-03-12**|**LaMoGen: Language to Motion Generation Through LLM-Guided Symbolic Inference**|Junkun Jiang et.al.|[2603.11605](http://arxiv.org/abs/2603.11605)|null|
+|**2026-03-12**|**SPARK: Skeleton-Parameter Aligned Retargeting on Humanoid Robots with Kinodynamic Trajectory Optimization**|Hanwen Wang et.al.|[2603.11480](http://arxiv.org/abs/2603.11480)|null|
+|**2026-03-11**|**Learning to Assist: Physics-Grounded Human-Human Control via Multi-Agent Reinforcement Learning**|Yuto Shibata et.al.|[2603.11346](http://arxiv.org/abs/2603.11346)|null|
 |**2026-03-11**|**DynVLA: Learning World Dynamics for Action Reasoning in Autonomous Driving**|Shuyao Shang et.al.|[2603.11041](http://arxiv.org/abs/2603.11041)|null|
 |**2026-03-10**|**Perceptive Hierarchical-Task MPC for Sequential Mobile Manipulation in Unstructured Semi-Static Environments**|Xintong Du et.al.|[2603.10227](http://arxiv.org/abs/2603.10227)|null|
 |**2026-03-10**|**AR-VLA: True Autoregressive Action Expert for Vision-Language-Action Models**|Yutong Hu et.al.|[2603.10126](http://arxiv.org/abs/2603.10126)|null|
@@ -1602,6 +1606,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-12**|**Hoi3DGen: Generating High-Quality Human-Object-Interactions in 3D**|Agniv Sharma et.al.|[2603.12126](http://arxiv.org/abs/2603.12126)|null|
 |**2026-03-11**|**ENIGMA-360: An Ego-Exo Dataset for Human Behavior Understanding in Industrial Scenarios**|Francesco Ragusa et.al.|[2603.09741](http://arxiv.org/abs/2603.09741)|null|
 |**2026-03-10**|**DISPLAY: Directable Human-Object Interaction Video Generation via Sparse Motion Guidance and Multi-Task Auxiliary**|Jiazhi Guan et.al.|[2603.09883](http://arxiv.org/abs/2603.09883)|null|
 |**2026-03-09**|**TeamHOI: Learning a Unified Policy for Cooperative Human-Object Interactions with Any Team Size**|Stefan Lionar et.al.|[2603.07988](http://arxiv.org/abs/2603.07988)|null|
@@ -1835,6 +1840,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-12**|**UniMotion: Self-Supervised Learning for Cross-Domain IMU Motion Recognition**|Prerna Khanna et.al.|[2603.12218](http://arxiv.org/abs/2603.12218)|null|
+|**2026-03-12**|**Human-Centred LLM Privacy Audits: Findings and Frictions**|Dimitri Staufer et.al.|[2603.12094](http://arxiv.org/abs/2603.12094)|null|
+|**2026-03-12**|**An Intent of Collaboration: On Agencies between Designers and Emerging (Intelligent) Technologies**|Pei-Ying Lin et.al.|[2603.12018](http://arxiv.org/abs/2603.12018)|null|
+|**2026-03-12**|**Credibility Matters: Motivations, Characteristics, and Influence Mechanisms of Crypto Key Opinion Leaders**|Alexander Kropiunig et.al.|[2603.12000](http://arxiv.org/abs/2603.12000)|null|
+|**2026-03-12**|**ConvScale: Conversational Interviews for Scale-Aligned Measurement**|Peinuan Qin et.al.|[2603.11988](http://arxiv.org/abs/2603.11988)|null|
+|**2026-03-12**|**Design Exploration of Lightweight Interactions for Awareness-Supporting Technologies in Hybrid Work**|Lu Liu et.al.|[2603.11977](http://arxiv.org/abs/2603.11977)|null|
+|**2026-03-12**|**Stuck on Suggestions: Automation Bias, the Anchoring Effect, and the Factors That Shape Them in Computational Pathology**|Emely Rosbach et.al.|[2603.11821](http://arxiv.org/abs/2603.11821)|null|
+|**2026-03-12**|**HiSync: Spatio-Temporally Aligning Hand Motion from Wearable IMU and On-Robot Camera for Command Source Identification in Long-Range HRI**|Chengwen Zhang et.al.|[2603.11809](http://arxiv.org/abs/2603.11809)|null|
+|**2026-03-12**|**Modeling Trial-and-Error Navigation With a Sequential Decision Model of Information Scent**|Xiaofu Jin et.al.|[2603.11759](http://arxiv.org/abs/2603.11759)|null|
+|**2026-03-12**|**PhiPlot: A Web-Based Interactive EDA Environment for Atmospherically Relevant Molecules**|Matias Loukojärvi et.al.|[2603.11751](http://arxiv.org/abs/2603.11751)|null|
 |**2026-03-11**|**Chasing RATs: Tracing Reading for and as Creative Activity**|Sophia Liu et.al.|[2603.11031](http://arxiv.org/abs/2603.11031)|null|
 |**2026-03-11**|**Task-Aware Delegation Cues for LLM Agents**|Xingrui Gu et.al.|[2603.11011](http://arxiv.org/abs/2603.11011)|null|
 |**2026-03-11**|**World Mouse: Exploring Interactions with a Cross-Reality Cursor**|Esen K. Tütüncü et.al.|[2603.10984](http://arxiv.org/abs/2603.10984)|null|
