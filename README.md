@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.03.16
+### Automatically Updated on 2026.03.17
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-16**|**AutoMoT: A Unified Vision-Language-Action Model with Asynchronous Mixture-of-Transformers for End-to-End Autonomous Driving**|Wenhui Huang et.al.|[2603.14851](http://arxiv.org/abs/2603.14851)|null|
+|**2026-03-16**|**Visual Confused Deputy: Exploiting and Defending Perception Failures in Computer-Using Agents**|Xunzhuo Liu et.al.|[2603.14707](http://arxiv.org/abs/2603.14707)|null|
+|**2026-03-15**|**End-to-End Spatial-Temporal Transformer for Real-time 4D HOI Reconstruction**|Haoyu Zhang et.al.|[2603.14435](http://arxiv.org/abs/2603.14435)|null|
+|**2026-03-15**|**Nonholonomic constraints at finite temperature**|Eduardo A. Jagla et.al.|[2603.14424](http://arxiv.org/abs/2603.14424)|null|
+|**2026-03-15**|**OxyGen: Unified KV Cache Management for Vision-Language-Action Models under Multi-Task Parallelism**|Xiangyu Li et.al.|[2603.14371](http://arxiv.org/abs/2603.14371)|null|
+|**2026-03-14**|**TransDex: Pre-training Visuo-Tactile Policy with Point Cloud Reconstruction for Dexterous Manipulation of Transparent Objects**|Fengguan Li et.al.|[2603.13869](http://arxiv.org/abs/2603.13869)|null|
+|**2026-03-13**|**LingoMotion: An Interpretable and Unambiguous Symbolic Representation for Human Motion**|Yao Zhang et.al.|[2603.13578](http://arxiv.org/abs/2603.13578)|null|
+|**2026-03-13**|**Exploring Human-AI Collaboration in E-Textile Design: A Case Study on Flex Sensor Placement for Shoulder Motion Detection**|Zhuchenyang Liu et.al.|[2603.13575](http://arxiv.org/abs/2603.13575)|null|
+|**2026-03-13**|**ActionPlan: Future-Aware Streaming Motion Synthesis via Frame-Level Action Planning**|Eric Nazarenus et.al.|[2603.13500](http://arxiv.org/abs/2603.13500)|null|
 |**2026-03-13**|**PhysMoDPO: Physically-Plausible Humanoid Motion with Preference Optimization**|Yangsong Zhang et.al.|[2603.13228](http://arxiv.org/abs/2603.13228)|null|
 |**2026-03-13**|**Geometry-Guided Camera Motion Understanding in VideoLLMs**|Haoan Feng et.al.|[2603.13119](http://arxiv.org/abs/2603.13119)|null|
 |**2026-03-13**|**InterEdit: Navigating Text-Guided Multi-Human 3D Motion Editing**|Yebin Yang et.al.|[2603.13082](http://arxiv.org/abs/2603.13082)|null|
@@ -526,13 +535,14 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260316>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260317>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2026-03-13**|**Coherent Human-Scene Reconstruction from Multi-Person Multi-View Video in a Single Pass**|Sangmin Kim et.al.|[2603.12789](http://arxiv.org/abs/2603.12789)|null|
+|**2026-03-09**|**Int3DNet: Scene-Motion Cross Attention Network for 3D Intention Prediction in Mixed Reality**|Taewook Ha et.al.|[2603.13355](http://arxiv.org/abs/2603.13355)|null|
 |**2026-03-01**|**CRISP: Contact-Guided Real2Sim from Monocular Video with Planar Scene Primitives**|Zihan Wang et.al.|[2512.14696](http://arxiv.org/abs/2512.14696)|null|
 |**2026-02-26**|**EmbodMocap: In-the-Wild 4D Human-Scene Reconstruction for Embodied Agents**|Wenjia Wang et.al.|[2602.23205](http://arxiv.org/abs/2602.23205)|null|
 |**2026-02-24**|**SceMoS: Scene-Aware 3D Human Motion Synthesis by Planning with Geometry-Grounded Tokens**|Anindita Ghosh et.al.|[2602.20476](http://arxiv.org/abs/2602.20476)|null|
@@ -668,12 +678,16 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260316>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260317>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-16**|**MVHOI: Bridge Multi-view Condition to Complex Human-Object Interaction Video Reenactment via 3D Foundation Model**|Jinguang Tong et.al.|[2603.14686](http://arxiv.org/abs/2603.14686)|null|
+|**2026-03-15**|**End-to-End Spatial-Temporal Transformer for Real-time 4D HOI Reconstruction**|Haoyu Zhang et.al.|[2603.14435](http://arxiv.org/abs/2603.14435)|null|
+|**2026-03-14**|**Human-like Object Grouping in Self-supervised Vision Transformers**|Hossein Adeli et.al.|[2603.13994](http://arxiv.org/abs/2603.13994)|null|
+|**2026-03-13**|**Egocentric World Model for Photorealistic Hand-Object Interaction Synthesis**|Dayou Li et.al.|[2603.13615](http://arxiv.org/abs/2603.13615)|null|
 |**2026-03-12**|**Hoi3DGen: Generating High-Quality Human-Object-Interactions in 3D**|Agniv Sharma et.al.|[2603.12126](http://arxiv.org/abs/2603.12126)|null|
 |**2026-03-11**|**ENIGMA-360: An Ego-Exo Dataset for Human Behavior Understanding in Industrial Scenarios**|Francesco Ragusa et.al.|[2603.09741](http://arxiv.org/abs/2603.09741)|null|
 |**2026-03-10**|**DISPLAY: Directable Human-Object Interaction Video Generation via Sparse Motion Guidance and Multi-Task Auxiliary**|Jiazhi Guan et.al.|[2603.09883](http://arxiv.org/abs/2603.09883)|null|
@@ -904,12 +918,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260316>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260317>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-16**|**Customizing ChatGPT for Second Language Speaking Practice: Genuine Support or Just a Marketing Gimmick?**|Fanfei Meng et.al.|[2603.14884](http://arxiv.org/abs/2603.14884)|null|
+|**2026-03-16**|**Knowledge Activation: AI Skills as the Institutional Knowledge Primitive for Agentic Software Development**|Gal Bakal et.al.|[2603.14805](http://arxiv.org/abs/2603.14805)|null|
+|**2026-03-16**|**Zero-Shot Reconstruction of Animatable 3D Avatars with Cloth Dynamics from a Single Image**|Joohyun Kwon et.al.|[2603.14772](http://arxiv.org/abs/2603.14772)|null|
+|**2026-03-15**|**ViDscribe: Multimodal AI for Customizing Audio Description and Question Answering in Online Videos**|Maryam Cheema et.al.|[2603.14662](http://arxiv.org/abs/2603.14662)|null|
+|**2026-03-15**|**The Scenic Route to Deception: Dark Patterns and Explainability Pitfalls in Conversational Navigation**|Ilya Ilyankou et.al.|[2603.14586](http://arxiv.org/abs/2603.14586)|null|
+|**2026-03-15**|**Inclusive AI for Group Interactions: Predicting Gaze-Direction Behaviors in People with Intellectual and Developmental Disabilities**|Giulia Huang et.al.|[2603.14460](http://arxiv.org/abs/2603.14460)|null|
+|**2026-03-15**|**Tap-to-Adapt: Learning User-Aligned Response Timing for Speech Agents**|Zihong He et.al.|[2603.14449](http://arxiv.org/abs/2603.14449)|null|
+|**2026-03-15**|**What Are You Really Asking For? A Comparative 5W1H Analysis of Learner Questioning in CPR Training with IVAs in Screen-based and Augmented Reality Environments**|Hyerim Park et.al.|[2603.14299](http://arxiv.org/abs/2603.14299)|null|
+|**2026-03-15**|**Gamifying Compassion: Mitigating Dialect Prejudice Through An AI-Driven Serious Game**|Sicheng Lu et.al.|[2603.14260](http://arxiv.org/abs/2603.14260)|null|
+|**2026-03-15**|**I'm Not Reading All of That: Understanding Software Engineers' Level of Cognitive Engagement with Agentic Coding Assistants**|Carlos Rafael Catalan et.al.|[2603.14225](http://arxiv.org/abs/2603.14225)|null|
 |**2026-03-13**|**Navig-AI-tion: Navigation by Contextual AI and Spatial Audio**|Mathias N. Lystbæk et.al.|[2603.13200](http://arxiv.org/abs/2603.13200)|null|
 |**2026-03-13**|**Memory Printer: Exploring Everyday Reminiscing by Combining Slow Design with Generative AI-based Image Creation**|Zhou Fang et.al.|[2603.13116](http://arxiv.org/abs/2603.13116)|null|
 |**2026-03-13**|**InterEdit: Navigating Text-Guided Multi-Human 3D Motion Editing**|Yebin Yang et.al.|[2603.13082](http://arxiv.org/abs/2603.13082)|null|
@@ -1934,7 +1958,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260316>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260317>back to top</a>)</p>
 
 Notes: 
 
