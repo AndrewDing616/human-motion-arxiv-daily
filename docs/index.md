@@ -959,6 +959,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-16**|**Look Before Acting: Enhancing Vision Foundation Representations for Vision-Language-Action Models**|Yulin Luo et.al.|[2603.15618](http://arxiv.org/abs/2603.15618)|null|
+|**2026-03-16**|**HSImul3R: Physics-in-the-Loop Reconstruction of Simulation-Ready Human-Scene Interactions**|Yukang Cao et.al.|[2603.15612](http://arxiv.org/abs/2603.15612)|null|
+|**2026-03-16**|**Kimodo: Scaling Controllable Human Motion Generation**|Davis Rempe et.al.|[2603.15546](http://arxiv.org/abs/2603.15546)|null|
+|**2026-03-16**|**NavThinker: Action-Conditioned World Models for Coupled Prediction and Planning in Social Navigation**|Tianshuai Hu et.al.|[2603.15359](http://arxiv.org/abs/2603.15359)|null|
+|**2026-03-16**|**MoE-ACT: Scaling Multi-Task Bimanual Manipulation with Sparse Language-Conditioned Mixture-of-Experts Transformers**|Kangjun Guo et.al.|[2603.15265](http://arxiv.org/abs/2603.15265)|null|
+|**2026-03-16**|**HapticVLA: Contact-Rich Manipulation via Vision-Language-Action Model without Inference-Time Tactile Sensing**|Konstantin Gubernatorov et.al.|[2603.15257](http://arxiv.org/abs/2603.15257)|null|
+|**2026-03-16**|**Iterative Learning Control-Informed Reinforcement Learning for Batch Process Control**|Runze Lin et.al.|[2603.15180](http://arxiv.org/abs/2603.15180)|null|
+|**2026-03-16**|**ReactMotion: Generating Reactive Listener Motions from Speaker Utterance**|Cheng Luo et.al.|[2603.15083](http://arxiv.org/abs/2603.15083)|null|
+|**2026-03-16**|**Riemannian Motion Generation: A Unified Framework for Human Motion Representation and Generation via Riemannian Flow Matching**|Fangran Miao et.al.|[2603.15016](http://arxiv.org/abs/2603.15016)|null|
 |**2026-03-16**|**AutoMoT: A Unified Vision-Language-Action Model with Asynchronous Mixture-of-Transformers for End-to-End Autonomous Driving**|Wenhui Huang et.al.|[2603.14851](http://arxiv.org/abs/2603.14851)|null|
 |**2026-03-16**|**Visual Confused Deputy: Exploiting and Defending Perception Failures in Computer-Using Agents**|Xunzhuo Liu et.al.|[2603.14707](http://arxiv.org/abs/2603.14707)|null|
 |**2026-03-15**|**End-to-End Spatial-Temporal Transformer for Real-time 4D HOI Reconstruction**|Haoyu Zhang et.al.|[2603.14435](http://arxiv.org/abs/2603.14435)|null|
@@ -1484,6 +1493,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-16**|**HSImul3R: Physics-in-the-Loop Reconstruction of Simulation-Ready Human-Scene Interactions**|Yukang Cao et.al.|[2603.15612](http://arxiv.org/abs/2603.15612)|null|
 |**2026-03-13**|**Coherent Human-Scene Reconstruction from Multi-Person Multi-View Video in a Single Pass**|Sangmin Kim et.al.|[2603.12789](http://arxiv.org/abs/2603.12789)|null|
 |**2026-03-09**|**Int3DNet: Scene-Motion Cross Attention Network for 3D Intention Prediction in Mixed Reality**|Taewook Ha et.al.|[2603.13355](http://arxiv.org/abs/2603.13355)|null|
 |**2026-03-01**|**CRISP: Contact-Guided Real2Sim from Monocular Video with Planar Scene Primitives**|Zihan Wang et.al.|[2512.14696](http://arxiv.org/abs/2512.14696)|null|
@@ -1863,6 +1873,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-16**|**Do Metrics for Counterfactual Explanations Align with User Perception?**|Felix Liedeker et.al.|[2603.15607](http://arxiv.org/abs/2603.15607)|null|
+|**2026-03-16**|**Can LLMs Model Incorrect Student Reasoning? A Case Study on Distractor Generation**|Yanick Zengaffinen et.al.|[2603.15547](http://arxiv.org/abs/2603.15547)|null|
+|**2026-03-16**|**Clinically Aware Synthetic Image Generation for Concept Coverage in Chest X-ray Models**|Amy Rafferty et.al.|[2603.15525](http://arxiv.org/abs/2603.15525)|null|
+|**2026-03-16**|**iDaVIE v1.0: A virtual reality tool for interactive analysis of astronomical data cubes**|Alexander Sivitilli et.al.|[2603.15490](http://arxiv.org/abs/2603.15490)|null|
+|**2026-03-16**|**The Social Sycophancy Scale: A psychometrically validated measure of sycophancy**|Jean Rehani et.al.|[2603.15448](http://arxiv.org/abs/2603.15448)|null|
+|**2026-03-16**|**Exploring Human Quadruped Locomotion for Exergames**|Shamit Ahmed et.al.|[2603.15428](http://arxiv.org/abs/2603.15428)|null|
+|**2026-03-16**|**Multimodal Cyber-physical Interaction in XR: Hybrid Doctoral Thesis Defense**|Ahmad Alhilal et.al.|[2603.15392](http://arxiv.org/abs/2603.15392)|null|
+|**2026-03-16**|**To be FAIR or RIGHT? Methodological [R]esearch [I]ntegrity [G]iven [H]uman-facing [T]echnologies using the example of Learning Technologies**|Julian Dehne et.al.|[2603.15366](http://arxiv.org/abs/2603.15366)|null|
+|**2026-03-16**|**Intelligent Co-Design: An Interactive LLM Framework for Interior Spatial Design via Multi-Modal Agents**|Ren Jian Lim et.al.|[2603.15341](http://arxiv.org/abs/2603.15341)|null|
+|**2026-03-16**|**The Impact of AI-Assisted Development on Software Security: A Study of Gemini and Developer Experience**|Nadine Jost et.al.|[2603.15298](http://arxiv.org/abs/2603.15298)|null|
 |**2026-03-16**|**Customizing ChatGPT for Second Language Speaking Practice: Genuine Support or Just a Marketing Gimmick?**|Fanfei Meng et.al.|[2603.14884](http://arxiv.org/abs/2603.14884)|null|
 |**2026-03-16**|**Knowledge Activation: AI Skills as the Institutional Knowledge Primitive for Agentic Software Development**|Gal Bakal et.al.|[2603.14805](http://arxiv.org/abs/2603.14805)|null|
 |**2026-03-16**|**Zero-Shot Reconstruction of Animatable 3D Avatars with Cloth Dynamics from a Single Image**|Joohyun Kwon et.al.|[2603.14772](http://arxiv.org/abs/2603.14772)|null|
