@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.03.17
+### Automatically Updated on 2026.03.18
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,7 +959,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-03-16**|**Look Before Acting: Enhancing Vision Foundation Representations for Vision-Language-Action Models**|Yulin Luo et.al.|[2603.15618](http://arxiv.org/abs/2603.15618)|null|
+|**2026-03-17**|**Ground Reaction Inertial Poser: Physics-based Human Motion Capture from Sparse IMUs and Insole Pressure Sensors**|Ryosuke Hori et.al.|[2603.16233](http://arxiv.org/abs/2603.16233)|null|
+|**2026-03-17**|**PanguMotion: Continuous Driving Motion Forecasting with Pangu Transformers**|Quanhao Ren et.al.|[2603.16196](http://arxiv.org/abs/2603.16196)|null|
+|**2026-03-17**|**ECHO: Edge-Cloud Humanoid Orchestration for Language-to-Motion Control**|Haozhe Jia et.al.|[2603.16188](http://arxiv.org/abs/2603.16188)|null|
+|**2026-03-17**|**SE(3)-LIO: Smooth IMU Propagation With Jointly Distributed Poses on SE(3) Manifold for Accurate and Robust LiDAR-Inertial Odometry**|Gunhee Shin et.al.|[2603.16118](http://arxiv.org/abs/2603.16118)|null|
+|**2026-03-17**|**Look Before Acting: Enhancing Vision Foundation Representations for Vision-Language-Action Models**|Yulin Luo et.al.|[2603.15618](http://arxiv.org/abs/2603.15618)|null|
+|**2026-03-16**|**Safety Case Patterns for VLA-based driving systems: Insights from SimLingo**|Gerhard Yu et.al.|[2603.16013](http://arxiv.org/abs/2603.16013)|null|
+|**2026-03-16**|**UMO: Unified In-Context Learning Unlocks Motion Foundation Model Priors**|Xiaoyan Cong et.al.|[2603.15975](http://arxiv.org/abs/2603.15975)|null|
 |**2026-03-16**|**HSImul3R: Physics-in-the-Loop Reconstruction of Simulation-Ready Human-Scene Interactions**|Yukang Cao et.al.|[2603.15612](http://arxiv.org/abs/2603.15612)|null|
 |**2026-03-16**|**Kimodo: Scaling Controllable Human Motion Generation**|Davis Rempe et.al.|[2603.15546](http://arxiv.org/abs/2603.15546)|null|
 |**2026-03-16**|**NavThinker: Action-Conditioned World Models for Coupled Prediction and Planning in Social Navigation**|Tianshuai Hu et.al.|[2603.15359](http://arxiv.org/abs/2603.15359)|null|
@@ -1635,6 +1641,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-17**|**Learning Human-Object Interaction for 3D Human Pose Estimation from LiDAR Point Clouds**|Daniel Sungho Jung et.al.|[2603.16343](http://arxiv.org/abs/2603.16343)|null|
+|**2026-03-17**|**Large Reward Models: Generalizable Online Robot Reward Generation with Vision-Language Models**|Yanru Wu et.al.|[2603.16065](http://arxiv.org/abs/2603.16065)|null|
 |**2026-03-16**|**MVHOI: Bridge Multi-view Condition to Complex Human-Object Interaction Video Reenactment via 3D Foundation Model**|Jinguang Tong et.al.|[2603.14686](http://arxiv.org/abs/2603.14686)|null|
 |**2026-03-15**|**End-to-End Spatial-Temporal Transformer for Real-time 4D HOI Reconstruction**|Haoyu Zhang et.al.|[2603.14435](http://arxiv.org/abs/2603.14435)|null|
 |**2026-03-14**|**Human-like Object Grouping in Self-supervised Vision Transformers**|Hossein Adeli et.al.|[2603.13994](http://arxiv.org/abs/2603.13994)|null|
@@ -1873,6 +1881,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-17**|**Real-Time Decoding of Movement Onset and Offset for Brain-Controlled Rehabilitation Exoskeleton**|Kanishka Mitra et.al.|[2603.16825](http://arxiv.org/abs/2603.16825)|null|
+|**2026-03-17**|**Beyond Cybathlon: On-demand Quadrupedal Assistance for People with Limited Mobility**|Carmen Scheidemann et.al.|[2603.16772](http://arxiv.org/abs/2603.16772)|null|
+|**2026-03-17**|**Thermopneumatic Pixels for Fast, Localized, Low-Voltage Touch Feedback**|Max Linnander et.al.|[2603.16750](http://arxiv.org/abs/2603.16750)|null|
+|**2026-03-17**|**SpecMoE: Spectral Mixture-of-Experts Foundation Model for Cross-Species EEG Decoding**|D. Darankoum et.al.|[2603.16739](http://arxiv.org/abs/2603.16739)|null|
+|**2026-03-17**|**When Openclaw Agents Learn from Each Other: Insights from Emergent AI Agent Communities for Human-AI Partnership in Education**|Eason Chen et.al.|[2603.16663](http://arxiv.org/abs/2603.16663)|null|
+|**2026-03-17**|**Whose Knowledge Counts? Co-Designing Community-Centered AI Auditing Tools with Educators in Hawai`i**|Dora Zhao et.al.|[2603.16646](http://arxiv.org/abs/2603.16646)|null|
+|**2026-03-17**|**Why We Need to Destroy the Illusion of Speaking to A Human: Critical Reflections On Ethics at the Front-End for LLMs**|Sarah Diefenbach et.al.|[2603.16633](http://arxiv.org/abs/2603.16633)|null|
+|**2026-03-17**|**CoEmpaTeam: Enhancing Cognitive Empathy using LLM-based Avatars and Dynamic Role Play in Virtual Reality**|Dehui Kong et.al.|[2603.16614](http://arxiv.org/abs/2603.16614)|null|
+|**2026-03-17**|**Designing for Disagreement: Front-End Guardrails for Assistance Allocation in LLM-Enabled Robots**|Carmen Ng et.al.|[2603.16537](http://arxiv.org/abs/2603.16537)|null|
+|**2026-03-17**|**Follow the Clues, Frame the Truth: Hybrid-evidential Deductive Reasoning in Open-Vocabulary Multimodal Emotion Recognition**|Yu Liu et.al.|[2603.16463](http://arxiv.org/abs/2603.16463)|null|
 |**2026-03-16**|**Do Metrics for Counterfactual Explanations Align with User Perception?**|Felix Liedeker et.al.|[2603.15607](http://arxiv.org/abs/2603.15607)|null|
 |**2026-03-16**|**Can LLMs Model Incorrect Student Reasoning? A Case Study on Distractor Generation**|Yanick Zengaffinen et.al.|[2603.15547](http://arxiv.org/abs/2603.15547)|null|
 |**2026-03-16**|**Clinically Aware Synthetic Image Generation for Concept Coverage in Chest X-ray Models**|Amy Rafferty et.al.|[2603.15525](http://arxiv.org/abs/2603.15525)|null|
