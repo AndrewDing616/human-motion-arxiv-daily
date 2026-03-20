@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.03.19
+### Automatically Updated on 2026.03.20
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,8 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-19**|**Not All Features Are Created Equal: A Mechanistic Study of Vision-Language-Action Models**|Bryce Grant et.al.|[2603.19233](http://arxiv.org/abs/2603.19233)|null|
+|**2026-03-19**|**Bridging Semantic and Kinematic Conditions with Diffusion-based Discrete Motion Tokenizer**|Chenyang Gu et.al.|[2603.19227](http://arxiv.org/abs/2603.19227)|null|
+|**2026-03-19**|**OmniVTA: Visuo-Tactile World Modeling for Contact-Rich Robotic Manipulation**|Yuhang Zheng et.al.|[2603.19201](http://arxiv.org/abs/2603.19201)|null|
+|**2026-03-19**|**Reconstruction Matters: Learning Geometry-Aligned BEV Representation through 3D Gaussian Splatting**|Yiren Lu et.al.|[2603.19193](http://arxiv.org/abs/2603.19193)|null|
+|**2026-03-19**|**Empathetic Motion Generation for Humanoid Educational Robots via Reasoning-Guided Vision--Language--Motion Diffusion Architecture**|Fuze Sun et.al.|[2603.18771](http://arxiv.org/abs/2603.18771)|null|
+|**2026-03-19**|**CSSDF-Net: Safe Motion Planning Based on Neural Implicit Representations of Configuration Space Distance Field**|Haohua Chen et.al.|[2603.18669](http://arxiv.org/abs/2603.18669)|null|
+|**2026-03-19**|**OpenT2M: No-frill Motion Generation with Open-source,Large-scale, High-quality Data**|Bin Cao et.al.|[2603.18623](http://arxiv.org/abs/2603.18623)|null|
+|**2026-03-19**|**NymeriaPlus: Enriching Nymeria Dataset with Additional Annotations and Data**|Daniel DeTone et.al.|[2603.18496](http://arxiv.org/abs/2603.18496)|null|
+|**2026-03-19**|**RoboForge: Physically Optimized Text-guided Whole-Body Locomotion for Humanoids**|Xichen Yuan et.al.|[2603.17927](http://arxiv.org/abs/2603.17927)|null|
 |**2026-03-18**|**GMT: Goal-Conditioned Multimodal Transformer for 6-DOF Object Trajectory Synthesis in 3D Scenes**|Huajian Zeng et.al.|[2603.17993](http://arxiv.org/abs/2603.17993)|null|
-|**2026-03-18**|**RoboForge: Physically Optimized Text-guided Whole-Body Locomotion for Humanoids**|Xichen Yuan et.al.|[2603.17927](http://arxiv.org/abs/2603.17927)|null|
 |**2026-03-18**|**RPMS: Enhancing LLM-Based Embodied Planning through Rule-Augmented Memory Synergy**|Zhenhang Yuan et.al.|[2603.17831](http://arxiv.org/abs/2603.17831)|null|
 |**2026-03-18**|**DancingBox: A Lightweight MoCap System for Character Animation from Physical Proxies**|Haocheng Yuan et.al.|[2603.17704](http://arxiv.org/abs/2603.17704)|null|
 |**2026-03-18**|**Large-Scale 3D Ground-Motion Synthesis with Physics-Inspired Latent Operator Flow Matching**|Yaozhong Shi et.al.|[2603.17403](http://arxiv.org/abs/2603.17403)|null|
@@ -557,7 +565,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260320>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -701,7 +709,7 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260320>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
@@ -944,12 +952,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260320>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-19**|**$R$ -equivalence on Cubic Surfaces I: Existing Cases with Non-Trivial Universal Equivalence**|Dimitri Kanevsky et.al.|[2603.19215](http://arxiv.org/abs/2603.19215)|null|
+|**2026-03-19**|**Constitutive vs. Corrective: A Causal Taxonomy of Human Runtime Involvement in AI Systems**|Kevin Baum et.al.|[2603.19213](http://arxiv.org/abs/2603.19213)|null|
+|**2026-03-19**|**Exploring the Role of Interaction Data to Empower End-User Decision-Making In UI Personalization**|Sérgio Alves et.al.|[2603.19196](http://arxiv.org/abs/2603.19196)|null|
+|**2026-03-19**|**Introducing M: A Modular, Modifiable Social Robot**|Victor Nikhil Antony et.al.|[2603.19134](http://arxiv.org/abs/2603.19134)|null|
+|**2026-03-19**|**LLMs Aren't Human: A Critical Perspective on LLM Personality**|Kim Zierahn et.al.|[2603.19030](http://arxiv.org/abs/2603.19030)|null|
+|**2026-03-19**|**SVLAT: Scientific Visualization Literacy Assessment Test**|Patrick Phuoc Do et.al.|[2603.19000](http://arxiv.org/abs/2603.19000)|null|
+|**2026-03-19**|**Book your room in the Turing Hotel! A symmetric and distributed Turing Test with multiple AIs and humans**|Christian Di Maio et.al.|[2603.18981](http://arxiv.org/abs/2603.18981)|null|
+|**2026-03-19**|**Sketch2Topo: Using Hand-Drawn Inputs for Diffusion-Based Topology Optimization**|Shuyue Feng et.al.|[2603.18960](http://arxiv.org/abs/2603.18960)|null|
+|**2026-03-19**|**What We Talk About When We Talk About Frameworks in HCI**|Shitao Fang et.al.|[2603.18950](http://arxiv.org/abs/2603.18950)|null|
+|**2026-03-19**|**From Accuracy to Readiness: Metrics and Benchmarks for Human-AI Decision-Making**|Min Hun Lee et.al.|[2603.18895](http://arxiv.org/abs/2603.18895)|null|
 |**2026-03-18**|**Augmenting Scholarly Reading with Cross-Media Annotations**|Qi Xu et.al.|[2603.17957](http://arxiv.org/abs/2603.17957)|null|
 |**2026-03-18**|**AI-Assisted Goal Setting Improves Goal Progress Through Social Accountability**|Michel Schimpf et.al.|[2603.17887](http://arxiv.org/abs/2603.17887)|null|
 |**2026-03-18**|**Building a "-Sensitive Design" Methodology from Political Philosophies or Ideologies**|Anthony Maocheia-Ricci et.al.|[2603.17806](http://arxiv.org/abs/2603.17806)|null|
@@ -2014,7 +2032,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260320>back to top</a>)</p>
 
 Notes: 
 
