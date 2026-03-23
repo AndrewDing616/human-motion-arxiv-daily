@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.03.22
+### Automatically Updated on 2026.03.23
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-20**|**MuSteerNet: Human Reaction Generation from Videos via Observation-Reaction Mutual Steering**|Yuan Zhou et.al.|[2603.20187](http://arxiv.org/abs/2603.20187)|null|
+|**2026-03-20**|**Uncertainty Matters: Structured Probabilistic Online Mapping for Motion Prediction in Autonomous Driving**|Pritom Gogoi et.al.|[2603.20076](http://arxiv.org/abs/2603.20076)|null|
+|**2026-03-20**|**Investigating a Policy-Based Formulation for Endoscopic Camera Pose Recovery**|Jan Emily Mangulabnan et.al.|[2603.20045](http://arxiv.org/abs/2603.20045)|null|
+|**2026-03-20**|**RAM: Recover Any 3D Human Motion in-the-Wild**|Sen Jia et.al.|[2603.19929](http://arxiv.org/abs/2603.19929)|null|
+|**2026-03-20**|**Controllable Text-to-Motion Generation via Modular Body-Part Phase Control**|Minyue Dai et.al.|[2603.19795](http://arxiv.org/abs/2603.19795)|null|
+|**2026-03-20**|**FlashCap: Millisecond-Accurate Human Motion Capture via Flashing LEDs and Event-Based Vision**|Zekai Wu et.al.|[2603.19770](http://arxiv.org/abs/2603.19770)|null|
+|**2026-03-20**|**PCSTracker: Long-Term Scene Flow Estimation for Point Cloud Sequences**|Min Lin et.al.|[2603.19762](http://arxiv.org/abs/2603.19762)|null|
+|**2026-03-19**|**VAMPO: Policy Optimization for Improving Visual Dynamics in Video Action Models**|Zirui Ge et.al.|[2603.19370](http://arxiv.org/abs/2603.19370)|null|
 |**2026-03-19**|**Not All Features Are Created Equal: A Mechanistic Study of Vision-Language-Action Models**|Bryce Grant et.al.|[2603.19233](http://arxiv.org/abs/2603.19233)|null|
 |**2026-03-19**|**Bridging Semantic and Kinematic Conditions with Diffusion-based Discrete Motion Tokenizer**|Chenyang Gu et.al.|[2603.19227](http://arxiv.org/abs/2603.19227)|null|
 |**2026-03-19**|**OmniVTA: Visuo-Tactile World Modeling for Contact-Rich Robotic Manipulation**|Yuhang Zheng et.al.|[2603.19201](http://arxiv.org/abs/2603.19201)|null|
@@ -565,7 +573,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260322>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260323>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -709,7 +717,7 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260322>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260323>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
@@ -952,12 +960,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260322>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260323>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-20**|**Demonstration of Adapt4Me: An Uncertainty-Aware Authoring Environment for Personalizing Automatic Speech Recognition to Non-normative Speech**|Niclas Pokel et.al.|[2603.20112](http://arxiv.org/abs/2603.20112)|null|
+|**2026-03-20**|**Promoting Critical Thinking With Domain-Specific Generative AI Provocations**|Thomas Şerban von Davier et.al.|[2603.19975](http://arxiv.org/abs/2603.19975)|null|
+|**2026-03-20**|**Sense4HRI: A ROS 2 HRI Framework for Physiological Sensor Integration and Synchronized Logging**|Manuel Scheibl et.al.|[2603.19914](http://arxiv.org/abs/2603.19914)|null|
+|**2026-03-20**|**Beyond Words: Measuring User Experience through Speech Analysis in Voice User Interfaces**|Yong Ma et.al.|[2603.19904](http://arxiv.org/abs/2603.19904)|null|
+|**2026-03-20**|**GazePrinter: Visualizing Expert Gaze to Guide Novices in a New Codebase**|Peng Kuang et.al.|[2603.19855](http://arxiv.org/abs/2603.19855)|null|
+|**2026-03-20**|**Overreliance on AI in Information-seeking from Video Content**|Anders Giovanni Møller et.al.|[2603.19843](http://arxiv.org/abs/2603.19843)|null|
+|**2026-03-20**|**ConSearcher: Supporting Conversational Information Seeking in Online Communities with Member Personas**|Shiwei Wu et.al.|[2603.19747](http://arxiv.org/abs/2603.19747)|null|
+|**2026-03-20**|**Abstraction Beats Realism: Physiological Visualizations Enhance Arousal Synchrony in VR Concert Recreations**|Xiaru Meng et.al.|[2603.19730](http://arxiv.org/abs/2603.19730)|null|
+|**2026-03-20**|**Sensing Your Vocals: Exploring the Activity of Vocal Cord Muscles for Pitch Assessment Using Electromyography and Ultrasonography**|Kanyu Chen et.al.|[2603.19698](http://arxiv.org/abs/2603.19698)|null|
+|**2026-03-20**|**MetaCues: Enabling Critical Engagement with Generative AI for Information Seeking and Sensemaking**|Anjali Singh et.al.|[2603.19634](http://arxiv.org/abs/2603.19634)|null|
 |**2026-03-19**|**$R$ -equivalence on Cubic Surfaces I: Existing Cases with Non-Trivial Universal Equivalence**|Dimitri Kanevsky et.al.|[2603.19215](http://arxiv.org/abs/2603.19215)|null|
 |**2026-03-19**|**Constitutive vs. Corrective: A Causal Taxonomy of Human Runtime Involvement in AI Systems**|Kevin Baum et.al.|[2603.19213](http://arxiv.org/abs/2603.19213)|null|
 |**2026-03-19**|**Exploring the Role of Interaction Data to Empower End-User Decision-Making In UI Personalization**|Sérgio Alves et.al.|[2603.19196](http://arxiv.org/abs/2603.19196)|null|
@@ -2032,7 +2050,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260322>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260323>back to top</a>)</p>
 
 Notes: 
 

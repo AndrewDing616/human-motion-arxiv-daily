@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-> Updated on 2026.03.22
+> Updated on 2026.03.23
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -850,7 +850,7 @@
 - 2020-08-29, **"It took me almost 30 minutes to practice this". Performance and Production Practices in Dance Challenge Videos on TikTok**, Daniel Klug et.al., Paper: [http://arxiv.org/abs/2008.13040](http://arxiv.org/abs/2008.13040)
 - 2025-09-22, **"I don't like my avatar": Investigating Human Digital Doubles**, Siyi Liu et.al., Paper: [http://arxiv.org/abs/2509.17748](http://arxiv.org/abs/2509.17748)
 
-<p align=right>(<a href=#updated-on-20260322>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260323>back to top</a>)</p>
 
 ## Image Animation
 
@@ -962,7 +962,7 @@
 - 2022-03-25, **3D GAN Inversion for Controllable Portrait Image Animation**, Connor Z. Lin et.al., Paper: [http://arxiv.org/abs/2203.13441](http://arxiv.org/abs/2203.13441)
 - 2023-03-10, **3D Cinemagraphy from a Single Image**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2303.05724](http://arxiv.org/abs/2303.05724)
 
-<p align=right>(<a href=#updated-on-20260322>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260323>back to top</a>)</p>
 
 ## Motion Generation
 
@@ -998,6 +998,7 @@
 - 2026-02-03, **VLS: Steering Pretrained Robot Policies via Vision-Language Models**, Shuo Liu et.al., Paper: [http://arxiv.org/abs/2602.03973](http://arxiv.org/abs/2602.03973)
 - 2026-02-22, **VLM-Guided Group Preference Alignment for Diffusion-based Human Mesh Recovery**, Wenhao Shen et.al., Paper: [http://arxiv.org/abs/2602.19180](http://arxiv.org/abs/2602.19180)
 - 2026-02-24, **VGGDrive: Empowering Vision-Language Models with Cross-View Geometric Grounding for Autonomous Driving**, Jie Wang et.al., Paper: [http://arxiv.org/abs/2602.20794](http://arxiv.org/abs/2602.20794)
+- 2026-03-19, **VAMPO: Policy Optimization for Improving Visual Dynamics in Video Action Models**, Zirui Ge et.al., Paper: [http://arxiv.org/abs/2603.19370](http://arxiv.org/abs/2603.19370)
 - 2025-12-19, **VAIR: Visual Analytics for Injury Risk Exploration in Sports**, Chunggi Lee et.al., Paper: [http://arxiv.org/abs/2512.17446](http://arxiv.org/abs/2512.17446)
 - 2026-03-02, **Unifying Language-Action Understanding and Generation for Autonomous Driving**, Xinyang Wang et.al., Paper: [http://arxiv.org/abs/2603.01441](http://arxiv.org/abs/2603.01441)
 - 2025-11-06, **Unified Multimodal Diffusion Forcing for Forceful Manipulation**, Zixuan Huang et.al., Paper: [http://arxiv.org/abs/2511.04812](http://arxiv.org/abs/2511.04812)
@@ -1010,6 +1011,7 @@
 - 2025-12-30, **UniAct: Unified Motion Generation and Action Streaming for Humanoid Robots**, Nan Jiang et.al., Paper: [http://arxiv.org/abs/2512.24321](http://arxiv.org/abs/2512.24321)
 - 2025-11-05, **Unconscious and Intentional Human Motion Cues for Expressive Robot-Arm Motion Design**, Taito Tashiro et.al., Paper: [http://arxiv.org/abs/2511.03676](http://arxiv.org/abs/2511.03676)
 - 2026-02-24, **Uncertainty-Aware Diffusion Model for Multimodal Highway Trajectory Prediction via DDIM Sampling**, Marion Neumeier et.al., Paper: [http://arxiv.org/abs/2602.21319](http://arxiv.org/abs/2602.21319)
+- 2026-03-20, **Uncertainty Matters: Structured Probabilistic Online Mapping for Motion Prediction in Autonomous Driving**, Pritom Gogoi et.al., Paper: [http://arxiv.org/abs/2603.20076](http://arxiv.org/abs/2603.20076)
 - 2025-11-05, **UnCLe: Towards Scalable Dynamic Causal Discovery in Non-linear Temporal Systems**, Tingzhu Bi et.al., Paper: [http://arxiv.org/abs/2511.03168](http://arxiv.org/abs/2511.03168)
 - 2025-11-19, **UltraDP: Generalizable Carotid Ultrasound Scanning with Force-Aware Diffusion Policy**, Ruoqu Chen et.al., Paper: [http://arxiv.org/abs/2511.15550](http://arxiv.org/abs/2511.15550)
 - 2025-12-05, **USV: Unified Sparsification for Accelerating Video Diffusion Models**, Xinjian Wu et.al., Paper: [http://arxiv.org/abs/2512.05754](http://arxiv.org/abs/2512.05754)
@@ -1132,6 +1134,7 @@
 - 2026-03-18, **RPMS: Enhancing LLM-Based Embodied Planning through Rule-Augmented Memory Synergy**, Zhenhang Yuan et.al., Paper: [http://arxiv.org/abs/2603.17831](http://arxiv.org/abs/2603.17831)
 - 2026-02-14, **RPGD: RANSAC-P3P Gradient Descent for Extrinsic Calibration in 3D Human Pose Estimation**, Zhanyu Tuo et.al., Paper: [http://arxiv.org/abs/2602.13901](http://arxiv.org/abs/2602.13901)
 - 2025-12-03, **RELIC: Interactive Video World Model with Long-Horizon Memory**, Yicong Hong et.al., Paper: [http://arxiv.org/abs/2512.04040](http://arxiv.org/abs/2512.04040)
+- 2026-03-20, **RAM: Recover Any 3D Human Motion in-the-Wild**, Sen Jia et.al., Paper: [http://arxiv.org/abs/2603.19929](http://arxiv.org/abs/2603.19929)
 - 2026-02-11, **RADAR: Benchmarking Vision-Language-Action Generalization via Real-World Dynamics, Spatial-Physical Intelligence, and Autonomous Evaluation**, Yuhao Chen et.al., Paper: [http://arxiv.org/abs/2602.10980](http://arxiv.org/abs/2602.10980)
 - 2026-01-12, **R-LAM: Reproducibility-Constrained Large Action Models for Scientific Workflow Automation**, Suriya Sureshkumar et.al., Paper: [http://arxiv.org/abs/2601.09749](http://arxiv.org/abs/2601.09749)
 - 2025-11-28, **Quadratic Forms, Real Zeros and Echoes of the Spectral Action**, Alain Connes et.al., Paper: [http://arxiv.org/abs/2511.23257](http://arxiv.org/abs/2511.23257)
@@ -1159,6 +1162,7 @@
 - 2026-03-10, **PRISM: Streaming Human Motion Generation with Per-Joint Latent Decomposition**, Zeyu Ling et.al., Paper: [http://arxiv.org/abs/2603.08590](http://arxiv.org/abs/2603.08590)
 - 2026-02-13, **PMG: Parameterized Motion Generator for Human-like Locomotion Control**, Chenxi Han et.al., Paper: [http://arxiv.org/abs/2602.12656](http://arxiv.org/abs/2602.12656)
 - 2026-02-04, **PDF-HR: Pose Distance Fields for Humanoid Robots**, Yi Gu et.al., Paper: [http://arxiv.org/abs/2602.04851](http://arxiv.org/abs/2602.04851)
+- 2026-03-20, **PCSTracker: Long-Term Scene Flow Estimation for Point Cloud Sequences**, Min Lin et.al., Paper: [http://arxiv.org/abs/2603.19762](http://arxiv.org/abs/2603.19762)
 - 2026-03-15, **OxyGen: Unified KV Cache Management for Vision-Language-Action Models under Multi-Task Parallelism**, Xiangyu Li et.al., Paper: [http://arxiv.org/abs/2603.14371](http://arxiv.org/abs/2603.14371)
 - 2025-12-22, **Optimal-coupling-observer AV motion control securing comfort in the presence of cyber attacks**, Farzam Tajdari et.al., Paper: [http://arxiv.org/abs/2512.19679](http://arxiv.org/abs/2512.19679)
 - 2026-03-19, **OpenT2M: No-frill Motion Generation with Open-source,Large-scale, High-quality Data**, Bin Cao et.al., Paper: [http://arxiv.org/abs/2603.18623](http://arxiv.org/abs/2603.18623)
@@ -1186,6 +1190,7 @@
 - 2024-05-27, **Multi-Track Timeline Control for Text-Driven 3D Human Motion Generation**, Mathis Petrovich et.al., Paper: [http://arxiv.org/abs/2401.08559](http://arxiv.org/abs/2401.08559)
 - 2025-11-21, **Multi-Agent Pointer Transformer: Seq-to-Seq Reinforcement Learning for Multi-Vehicle Dynamic Pickup-Delivery Problems**, Zengyu Zou et.al., Paper: [http://arxiv.org/abs/2511.17435](http://arxiv.org/abs/2511.17435)
 - 2025-10-27, **Multi-Agent Conditional Diffusion Model with Mean Field Communication as Wireless Resource Allocation Planner**, Kechen Meng et.al., Paper: [http://arxiv.org/abs/2510.22969](http://arxiv.org/abs/2510.22969)
+- 2026-03-20, **MuSteerNet: Human Reaction Generation from Videos via Observation-Reaction Mutual Steering**, Yuan Zhou et.al., Paper: [http://arxiv.org/abs/2603.20187](http://arxiv.org/abs/2603.20187)
 - 2025-11-21, **Moving superfluids in the rotating universe**, Jose Beltrán Jiménez et.al., Paper: [http://arxiv.org/abs/2511.17472](http://arxiv.org/abs/2511.17472)
 - 2026-03-06, **Moving Through Clutter: Scaling Data Collection and Benchmarking for 3D Scene-Aware Humanoid Locomotion via Virtual Reality**, Beichen Wang et.al., Paper: [http://arxiv.org/abs/2603.05993](http://arxiv.org/abs/2603.05993)
 - 2025-11-13, **Motivations and Actions of Human-Building Interactions from Environmental Momentary Assessments**, Maharshi Pathak et.al., Paper: [http://arxiv.org/abs/2511.10467](http://arxiv.org/abs/2511.10467)
@@ -1277,6 +1282,7 @@
 - 2025-12-04, **Joint 3D Geometry Reconstruction and Motion Generation for 4D Synthesis from a Single Image**, Yanran Zhang et.al., Paper: [http://arxiv.org/abs/2512.05044](http://arxiv.org/abs/2512.05044)
 - 2026-03-16, **Iterative Learning Control-Informed Reinforcement Learning for Batch Process Control**, Runze Lin et.al., Paper: [http://arxiv.org/abs/2603.15180](http://arxiv.org/abs/2603.15180)
 - 2026-02-25, **Iterative Closed-Loop Motion Synthesis for Scaling the Capabilities of Humanoid Control**, Weisheng Xu et.al., Paper: [http://arxiv.org/abs/2602.21599](http://arxiv.org/abs/2602.21599)
+- 2026-03-20, **Investigating a Policy-Based Formulation for Endoscopic Camera Pose Recovery**, Jan Emily Mangulabnan et.al., Paper: [http://arxiv.org/abs/2603.20045](http://arxiv.org/abs/2603.20045)
 - 2025-11-20, **InternData-A1: Pioneering High-Fidelity Synthetic Data for Pre-training Generalist Policy**, Yang Tian et.al., Paper: [http://arxiv.org/abs/2511.16651](http://arxiv.org/abs/2511.16651)
 - 2025-12-14, **InteracTalker: Prompt-Based Human-Object Interaction with Co-Speech Gesture Generation**, Sreehari Rajan et.al., Paper: [http://arxiv.org/abs/2512.12664](http://arxiv.org/abs/2512.12664)
 - 2025-11-17, **InterMoE: Individual-Specific 3D Human Interaction Generation via Dynamic Temporal-Selective MoE**, Lipeng Wang et.al., Paper: [http://arxiv.org/abs/2511.13488](http://arxiv.org/abs/2511.13488)
@@ -1346,6 +1352,7 @@
 - 2025-12-18, **Flowing from Reasoning to Motion: Learning 3D Hand Trajectory Prediction from Egocentric Human Interaction Videos**, Mingfei Chen et.al., Paper: [http://arxiv.org/abs/2512.16907](http://arxiv.org/abs/2512.16907)
 - 2025-11-20, **Flow and Depth Assisted Video Prediction with Latent Transformer**, Eliyas Suleyman et.al., Paper: [http://arxiv.org/abs/2511.16484](http://arxiv.org/abs/2511.16484)
 - 2025-12-05, **Floer sections in multisymplectic geometry**, Ronen Brilleslijper et.al., Paper: [http://arxiv.org/abs/2512.05797](http://arxiv.org/abs/2512.05797)
+- 2026-03-20, **FlashCap: Millisecond-Accurate Human Motion Capture via Flashing LEDs and Event-Based Vision**, Zekai Wu et.al., Paper: [http://arxiv.org/abs/2603.19770](http://arxiv.org/abs/2603.19770)
 - 2026-03-10, **Fine-grained Motion Retrieval via Joint-Angle Motion Images and Token-Patch Late Interaction**, Yao Zhang et.al., Paper: [http://arxiv.org/abs/2603.09930](http://arxiv.org/abs/2603.09930)
 - 2025-10-31, **Fine-Tuning Open Video Generators for Cinematic Scene Synthesis: A Small-Data Pipeline with LoRA and Wan2.1 I2V**, Meftun Akarsu et.al., Paper: [http://arxiv.org/abs/2510.27364](http://arxiv.org/abs/2510.27364)
 - 2025-12-17, **Few-Shot Inference of Human Perceptions of Robot Performance in Social Navigation Scenarios**, Qiping Zhang et.al., Paper: [http://arxiv.org/abs/2512.16019](http://arxiv.org/abs/2512.16019)
@@ -1427,6 +1434,7 @@
 - 2026-01-22, **Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning**, Moo Jin Kim et.al., Paper: [http://arxiv.org/abs/2601.16163](http://arxiv.org/abs/2601.16163)
 - 2025-12-05, **Correspondence-Oriented Imitation Learning: Flexible Visuomotor Control with 3D Conditioning**, Yunhao Cao et.al., Paper: [http://arxiv.org/abs/2512.05953](http://arxiv.org/abs/2512.05953)
 - 2025-11-24, **Cook and Clean Together: Teaching Embodied Agents for Parallel Task Execution**, Dingkang Liang et.al., Paper: [http://arxiv.org/abs/2511.19430](http://arxiv.org/abs/2511.19430)
+- 2026-03-20, **Controllable Text-to-Motion Generation via Modular Body-Part Phase Control**, Minyue Dai et.al., Paper: [http://arxiv.org/abs/2603.19795](http://arxiv.org/abs/2603.19795)
 - 2025-12-04, **Controllable Long-term Motion Generation with Extended Joint Targets**, Eunjong Lee et.al., Paper: [http://arxiv.org/abs/2512.04487](http://arxiv.org/abs/2512.04487)
 - 2026-03-09, **Controllable Complex Human Motion Video Generation via Text-to-Skeleton Cascades**, Ashkan Taghipour et.al., Paper: [http://arxiv.org/abs/2603.08028](http://arxiv.org/abs/2603.08028)
 - 2026-01-02, **Contractive Diffusion Policies: Robust Action Diffusion via Contractive Score-Based Sampling with Differential Equations**, Amin Abyaneh et.al., Paper: [http://arxiv.org/abs/2601.01003](http://arxiv.org/abs/2601.01003)
@@ -1517,7 +1525,7 @@
 - 2026-03-09, **$Δ$ VLA: Prior-Guided Vision-Language-Action Models via World Knowledge Variation**, Yijie Zhu et.al., Paper: [http://arxiv.org/abs/2603.08361](http://arxiv.org/abs/2603.08361)
 - 2025-11-20, **$c=-2$ conformal field theory in quadratic band touching**, Rintaro Masaoka et.al., Paper: [http://arxiv.org/abs/2511.16496](http://arxiv.org/abs/2511.16496)
 
-<p align=right>(<a href=#updated-on-20260322>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260323>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -1659,7 +1667,7 @@
 - 2025-11-13, **A Study on Enhancing the Generalization Ability of Visuomotor Policies via Data Augmentation**, Hanwen Wang et.al., Paper: [http://arxiv.org/abs/2511.09932](http://arxiv.org/abs/2511.09932)
 - 2025-12-05, **2K-Characters-10K-Stories: A Quality-Gated Stylized Narrative Dataset with Disentangled Control and Sequence Consistency**, Xingxi Yin et.al., Paper: [http://arxiv.org/abs/2512.05557](http://arxiv.org/abs/2512.05557)
 
-<p align=right>(<a href=#updated-on-20260322>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260323>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
@@ -1900,7 +1908,7 @@
 - 2025-12-05, **A Hyperspectral Imaging Guided Robotic Grasping System**, Zheng Sun et.al., Paper: [http://arxiv.org/abs/2512.05578](http://arxiv.org/abs/2512.05578)
 - 2025-11-26, **A Customer Journey in the Land of Oz: Leveraging the Wizard of Oz Technique to Model Emotions in Customer Service Interactions**, Sofie Labat et.al., Paper: [http://arxiv.org/abs/2511.21909](http://arxiv.org/abs/2511.21909)
 
-<p align=right>(<a href=#updated-on-20260322>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260323>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
@@ -2149,7 +2157,9 @@
 - 2025-12-19, **ShareChat: A Dataset of Chatbot Conversations in the Wild**, Yueru Yan et.al., Paper: [http://arxiv.org/abs/2512.17843](http://arxiv.org/abs/2512.17843)
 - 2026-02-27, **Shape vs. Context: Examining Human--AI Gaps in Ambiguous Japanese Character Recognition**, Daichi Haraguchi et.al., Paper: [http://arxiv.org/abs/2602.23746](http://arxiv.org/abs/2602.23746)
 - 2026-02-19, **ShadAR: LLM-driven shader generation to transform visual perception in Augmented Reality**, Yanni Mei et.al., Paper: [http://arxiv.org/abs/2602.17481](http://arxiv.org/abs/2602.17481)
+- 2026-03-20, **Sensing Your Vocals: Exploring the Activity of Vocal Cord Muscles for Pitch Assessment Using Electromyography and Ultrasonography**, Kanyu Chen et.al., Paper: [http://arxiv.org/abs/2603.19698](http://arxiv.org/abs/2603.19698)
 - 2026-01-31, **Sensing What Surveys Miss: Understanding and Personalizing Proactive LLM Support by User Modeling**, Ailin Liu et.al., Paper: [http://arxiv.org/abs/2602.00880](http://arxiv.org/abs/2602.00880)
+- 2026-03-20, **Sense4HRI: A ROS 2 HRI Framework for Physiological Sensor Integration and Synchronized Logging**, Manuel Scheibl et.al., Paper: [http://arxiv.org/abs/2603.19914](http://arxiv.org/abs/2603.19914)
 - 2025-12-09, **SensHRPS: Sensing Comfortable Human-Robot Proxemics and Personal Space With Eye-Tracking**, Nadezhda Kushina et.al., Paper: [http://arxiv.org/abs/2512.08518](http://arxiv.org/abs/2512.08518)
 - 2025-12-08, **SemanticTours: A Conceptual Framework for Non-Linear, Knowledge Graph-Driven Data Tours**, Daniel Fürst et.al., Paper: [http://arxiv.org/abs/2512.07483](http://arxiv.org/abs/2512.07483)
 - 2025-11-26, **Self-Transparency Failures in Expert-Persona LLMs: A Large-Scale Behavioral Audit**, Alex Diep et.al., Paper: [http://arxiv.org/abs/2511.21569](http://arxiv.org/abs/2511.21569)
@@ -2235,6 +2245,7 @@
 - 2026-02-23, **Protecting and Promoting Human Agency in Education in the Age of Artificial Intelligence**, Olga Viberg et.al., Paper: [http://arxiv.org/abs/2602.20014](http://arxiv.org/abs/2602.20014)
 - 2026-02-05, **Prompting Destiny: Negotiating Socialization and Growth in an LLM-Mediated Speculative Gameworld**, Mandi Yang et.al., Paper: [http://arxiv.org/abs/2602.05864](http://arxiv.org/abs/2602.05864)
 - 2026-03-10, **Prompt-Driven Color Accessibility Evaluation in Diffusion-based Image Generation Models**, Xinyao Zhuang et.al., Paper: [http://arxiv.org/abs/2603.09832](http://arxiv.org/abs/2603.09832)
+- 2026-03-20, **Promoting Critical Thinking With Domain-Specific Generative AI Provocations**, Thomas Şerban von Davier et.al., Paper: [http://arxiv.org/abs/2603.19975](http://arxiv.org/abs/2603.19975)
 - 2026-01-16, **ProjecTA: A Semi-Humanoid Robotic Teaching Assistant with In-Situ Projection for Guided Tours**, Hanqing Zhou et.al., Paper: [http://arxiv.org/abs/2601.11328](http://arxiv.org/abs/2601.11328)
 - 2026-02-23, **Progressive Value Reading: The Use of Motion to Gradually Examine Data Involving Large Magnitudes**, Leni Yang et.al., Paper: [http://arxiv.org/abs/2602.19853](http://arxiv.org/abs/2602.19853)
 - 2026-01-01, **Progressive Ideation using an Agentic AI Framework for Human-AI Co-Creation**, Sankar B et.al., Paper: [http://arxiv.org/abs/2601.00475](http://arxiv.org/abs/2601.00475)
@@ -2285,6 +2296,7 @@
 - 2026-02-24, **PaperTrail: A Claim-Evidence Interface for Grounding Provenance in LLM-based Scholarly Q&A**, Anna Martin-Boyle et.al., Paper: [http://arxiv.org/abs/2602.21045](http://arxiv.org/abs/2602.21045)
 - 2026-01-20, **PREFAB: PREFerence-based Affective Modeling for Low-Budget Self-Annotation**, Jaeyoung Moon et.al., Paper: [http://arxiv.org/abs/2601.13904](http://arxiv.org/abs/2601.13904)
 - 2026-02-09, **PPG as a Bridge: Cross-Device Authentication for Smart Wearables with Photoplethysmography**, Jiacheng Liu et.al., Paper: [http://arxiv.org/abs/2602.08972](http://arxiv.org/abs/2602.08972)
+- 2026-03-20, **Overreliance on AI in Information-seeking from Video Content**, Anders Giovanni Møller et.al., Paper: [http://arxiv.org/abs/2603.19843](http://arxiv.org/abs/2603.19843)
 - 2026-02-03, **Origin Lens: A Privacy-First Mobile Framework for Cryptographic Image Provenance and AI Detection**, Alexander Loth et.al., Paper: [http://arxiv.org/abs/2602.03423](http://arxiv.org/abs/2602.03423)
 - 2026-01-29, **Organizational Practices and Socio-Technical Design of Human-Centered AI**, Thomas Herrmann et.al., Paper: [http://arxiv.org/abs/2601.21492](http://arxiv.org/abs/2601.21492)
 - 2026-02-08, **Orchestrating Attention: Bringing Harmony to the 'Chaos' of Neurodivergent Learning States**, Satyam Kumar Navneet et.al., Paper: [http://arxiv.org/abs/2602.07865](http://arxiv.org/abs/2602.07865)
@@ -2351,6 +2363,7 @@
 - 2025-12-12, **Mirror Skin: In Situ Visualization of Robot Touch Intent on Robotic Skin**, David Wagmann et.al., Paper: [http://arxiv.org/abs/2512.11472](http://arxiv.org/abs/2512.11472)
 - 2025-12-18, **Mind the Gaze: Improving the Usability of Dwell Input by Adapting Gaze Targets Based on Viewing Distance**, Omar Namnakani et.al., Paper: [http://arxiv.org/abs/2512.16366](http://arxiv.org/abs/2512.16366)
 - 2026-01-14, **Mikasa: A Character-Driven Emotional AI Companion Inspired by Japanese Oshi Culture**, Miki Ueno et.al., Paper: [http://arxiv.org/abs/2601.09208](http://arxiv.org/abs/2601.09208)
+- 2026-03-20, **MetaCues: Enabling Critical Engagement with Generative AI for Information Seeking and Sensemaking**, Anjali Singh et.al., Paper: [http://arxiv.org/abs/2603.19634](http://arxiv.org/abs/2603.19634)
 - 2026-01-03, **MentalGame: Predicting Personality-Job Fitness for Software Developers Using Multi-Genre Games and Machine Learning Approaches**, Soroush Elyasi et.al., Paper: [http://arxiv.org/abs/2601.01206](http://arxiv.org/abs/2601.01206)
 - 2026-03-13, **Memory Printer: Exploring Everyday Reminiscing by Combining Slow Design with Generative AI-based Image Creation**, Zhou Fang et.al., Paper: [http://arxiv.org/abs/2603.13116](http://arxiv.org/abs/2603.13116)
 - 2025-11-20, **Mem-MLP: Real-Time 3D Human Motion Generation from Sparse Inputs**, Sinan Mutlu et.al., Paper: [http://arxiv.org/abs/2511.16264](http://arxiv.org/abs/2511.16264)
@@ -2538,6 +2551,7 @@
 - 2025-12-10, **Generate-Then-Validate: A Novel Question Generation Approach Using Small Language Models**, Yumou Wei et.al., Paper: [http://arxiv.org/abs/2512.10110](http://arxiv.org/abs/2512.10110)
 - 2026-02-11, **GenFaceUI: Meta-Design of Generative Personalized Facial Expression Interfaces for Intelligent Agents**, Yate Ge et.al., Paper: [http://arxiv.org/abs/2602.11055](http://arxiv.org/abs/2602.11055)
 - 2025-11-27, **GazeTrack: High-Precision Eye Tracking Based on Regularization and Spatial Computing**, Xiaoyin Yang et.al., Paper: [http://arxiv.org/abs/2511.22607](http://arxiv.org/abs/2511.22607)
+- 2026-03-20, **GazePrinter: Visualizing Expert Gaze to Guide Novices in a New Codebase**, Peng Kuang et.al., Paper: [http://arxiv.org/abs/2603.19855](http://arxiv.org/abs/2603.19855)
 - 2025-11-20, **GazeInterpreter: Parsing Eye Gaze to Generate Eye-Body-Coordinated Narrations**, Qing Chang et.al., Paper: [http://arxiv.org/abs/2511.16245](http://arxiv.org/abs/2511.16245)
 - 2026-02-23, **GazeFlow: Personalized Ambient Soundscape Generation for Passive Strabismus Self-Monitoring**, Joydeep Chandra et.al., Paper: [http://arxiv.org/abs/2602.19966](http://arxiv.org/abs/2602.19966)
 - 2025-12-17, **GazeBlend: Exploring Paired Gaze-Based Input Techniques for Navigation and Selection Tasks on Mobile Devices**, Omar Namnakani et.al., Paper: [http://arxiv.org/abs/2512.15491](http://arxiv.org/abs/2512.15491)
@@ -2717,6 +2731,7 @@
 - 2026-01-26, **Design Techniques for LLM-Powered Interactive Storytelling: A Case Study of the Dramamancer System**, Tiffany Wang et.al., Paper: [http://arxiv.org/abs/2601.18785](http://arxiv.org/abs/2601.18785)
 - 2026-03-03, **Design Generative AI for Practitioners: Exploring Interaction Approaches Aligned with Creative Practice**, Xiaohan Peng et.al., Paper: [http://arxiv.org/abs/2603.03074](http://arxiv.org/abs/2603.03074)
 - 2026-03-12, **Design Exploration of Lightweight Interactions for Awareness-Supporting Technologies in Hybrid Work**, Lu Liu et.al., Paper: [http://arxiv.org/abs/2603.11977](http://arxiv.org/abs/2603.11977)
+- 2026-03-20, **Demonstration of Adapt4Me: An Uncertainty-Aware Authoring Environment for Personalizing Automatic Speech Recognition to Non-normative Speech**, Niclas Pokel et.al., Paper: [http://arxiv.org/abs/2603.20112](http://arxiv.org/abs/2603.20112)
 - 2025-12-30, **Deletion Considered Harmful**, Paul Englefield et.al., Paper: [http://arxiv.org/abs/2512.23907](http://arxiv.org/abs/2512.23907)
 - 2025-12-04, **Deep infant brain segmentation from multi-contrast MRI**, Malte Hoffmann et.al., Paper: [http://arxiv.org/abs/2512.05114](http://arxiv.org/abs/2512.05114)
 - 2025-12-05, **Deep Learning-Based Real-Time Sequential Facial Expression Analysis Using Geometric Features**, Talha Enes Koksal et.al., Paper: [http://arxiv.org/abs/2512.05669](http://arxiv.org/abs/2512.05669)
@@ -2755,6 +2770,7 @@
 - 2026-03-01, **Constructing Everyday Well-Being: Insights from God-Saeng for Personal Informatics**, Inhwa Song et.al., Paper: [http://arxiv.org/abs/2603.00847](http://arxiv.org/abs/2603.00847)
 - 2026-03-19, **Constitutive vs. Corrective: A Causal Taxonomy of Human Runtime Involvement in AI Systems**, Kevin Baum et.al., Paper: [http://arxiv.org/abs/2603.19213](http://arxiv.org/abs/2603.19213)
 - 2025-12-26, **Conserved active information**, Yanchen Chen et.al., Paper: [http://arxiv.org/abs/2512.21834](http://arxiv.org/abs/2512.21834)
+- 2026-03-20, **ConSearcher: Supporting Conversational Information Seeking in Online Communities with Member Personas**, Shiwei Wu et.al., Paper: [http://arxiv.org/abs/2603.19747](http://arxiv.org/abs/2603.19747)
 - 2025-11-19, **Computer-Use Agents as Judges for Generative User Interface**, Kevin Qinghong Lin et.al., Paper: [http://arxiv.org/abs/2511.15567](http://arxiv.org/abs/2511.15567)
 - 2025-12-23, **Competing or Collaborating? The Role of Hackathon Formats in Shaping Team Dynamics and Project Choices**, Sadia Nasrin Tisha et.al., Paper: [http://arxiv.org/abs/2512.20181](http://arxiv.org/abs/2512.20181)
 - 2026-02-13, **Comparative Study of Ultrasound Shape Completion and CBCT-Based AR Workflows for Spinal Needle Interventions**, Tianyu Song et.al., Paper: [http://arxiv.org/abs/2602.12920](http://arxiv.org/abs/2602.12920)
@@ -2815,6 +2831,7 @@
 - 2025-11-18, **Biased Minds Meet Biased AI: How Class Imbalance Shapes Appropriate Reliance and Interacts with Human Base Rate Neglect**, Nick von Felten et.al., Paper: [http://arxiv.org/abs/2511.14591](http://arxiv.org/abs/2511.14591)
 - 2025-11-21, **BiFingerPose: Bimodal Finger Pose Estimation for Touch Devices**, Xiongjun Guan et.al., Paper: [http://arxiv.org/abs/2511.17306](http://arxiv.org/abs/2511.17306)
 - 2026-02-27, **Beyond the Click: A Framework for Inferring Cognitive Traces in Search**, Saber Zerhoudi et.al., Paper: [http://arxiv.org/abs/2602.24265](http://arxiv.org/abs/2602.24265)
+- 2026-03-20, **Beyond Words: Measuring User Experience through Speech Analysis in Voice User Interfaces**, Yong Ma et.al., Paper: [http://arxiv.org/abs/2603.19904](http://arxiv.org/abs/2603.19904)
 - 2026-03-06, **Beyond Scores: Explainable Intelligent Assessment Strengthens Pre-service Teachers' Assessment Literacy**, Yuang Wei et.al., Paper: [http://arxiv.org/abs/2603.06059](http://arxiv.org/abs/2603.06059)
 - 2026-01-28, **Beyond Literacy: Predicting Interpretation Correctness of Visualizations with User Traits, Item Difficulty, and Rasch Scores**, Davide Falessi et.al., Paper: [http://arxiv.org/abs/2601.20544](http://arxiv.org/abs/2601.20544)
 - 2026-02-17, **Beyond Labels: Information-Efficient Human-in-the-Loop Learning using Ranking and Selection Queries**, Belén Martín-Urcelay et.al., Paper: [http://arxiv.org/abs/2602.15738](http://arxiv.org/abs/2602.15738)
@@ -2897,6 +2914,7 @@
 - 2025-12-03, **Adaptive Parameter Control Using AAN for Lower Limb Rehabilitation Exoskeletons**, Zheng Sun et.al., Paper: [http://arxiv.org/abs/2512.03871](http://arxiv.org/abs/2512.03871)
 - 2025-12-10, **Adaptive Optimal Control for Avatar-Guided Motor Rehabilitation in Virtual Reality**, Francesco De Lellis et.al., Paper: [http://arxiv.org/abs/2512.09667](http://arxiv.org/abs/2512.09667)
 - 2026-01-29, **Accessibility-Driven Information Transformations in Mixed-Visual Ability Work Teams**, Yichun Zhao et.al., Paper: [http://arxiv.org/abs/2601.22081](http://arxiv.org/abs/2601.22081)
+- 2026-03-20, **Abstraction Beats Realism: Physiological Visualizations Enhance Arousal Synchrony in VR Concert Recreations**, Xiaru Meng et.al., Paper: [http://arxiv.org/abs/2603.19730](http://arxiv.org/abs/2603.19730)
 - 2026-02-18, **ASPEN: Spectral-Temporal Fusion for Cross-Subject Brain Decoding**, Megan Lee et.al., Paper: [http://arxiv.org/abs/2602.16147](http://arxiv.org/abs/2602.16147)
 - 2025-12-04, **ARM-Thinker: Reinforcing Multimodal Generative Reward Models with Agentic Tool Use and Visual Reasoning**, Shengyuan Ding et.al., Paper: [http://arxiv.org/abs/2512.05111](http://arxiv.org/abs/2512.05111)
 - 2026-02-10, **AIDED: Augmenting Interior Design with Human Experience Data for Designer-AI Co-Design**, Yang Chen Lin et.al., Paper: [http://arxiv.org/abs/2602.10054](http://arxiv.org/abs/2602.10054)
@@ -2978,7 +2996,7 @@
 - 2026-01-16, **"Can You Tell Me?": Designing Copilots to Support Human Judgement in Online Information Seeking**, Markus Bink et.al., Paper: [http://arxiv.org/abs/2601.11284](http://arxiv.org/abs/2601.11284)
 - 2026-02-24, **"Are You Sure?": An Empirical Study of Human Perception Vulnerability in LLM-Driven Agentic Systems**, Xinfeng Li et.al., Paper: [http://arxiv.org/abs/2602.21127](http://arxiv.org/abs/2602.21127)
 
-<p align=right>(<a href=#updated-on-20260322>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260323>back to top</a>)</p>
 
 Notes: 
 

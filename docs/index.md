@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.03.22
+### Automatically Updated on 2026.03.23
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-20**|**MuSteerNet: Human Reaction Generation from Videos via Observation-Reaction Mutual Steering**|Yuan Zhou et.al.|[2603.20187](http://arxiv.org/abs/2603.20187)|null|
+|**2026-03-20**|**Uncertainty Matters: Structured Probabilistic Online Mapping for Motion Prediction in Autonomous Driving**|Pritom Gogoi et.al.|[2603.20076](http://arxiv.org/abs/2603.20076)|null|
+|**2026-03-20**|**Investigating a Policy-Based Formulation for Endoscopic Camera Pose Recovery**|Jan Emily Mangulabnan et.al.|[2603.20045](http://arxiv.org/abs/2603.20045)|null|
+|**2026-03-20**|**RAM: Recover Any 3D Human Motion in-the-Wild**|Sen Jia et.al.|[2603.19929](http://arxiv.org/abs/2603.19929)|null|
+|**2026-03-20**|**Controllable Text-to-Motion Generation via Modular Body-Part Phase Control**|Minyue Dai et.al.|[2603.19795](http://arxiv.org/abs/2603.19795)|null|
+|**2026-03-20**|**FlashCap: Millisecond-Accurate Human Motion Capture via Flashing LEDs and Event-Based Vision**|Zekai Wu et.al.|[2603.19770](http://arxiv.org/abs/2603.19770)|null|
+|**2026-03-20**|**PCSTracker: Long-Term Scene Flow Estimation for Point Cloud Sequences**|Min Lin et.al.|[2603.19762](http://arxiv.org/abs/2603.19762)|null|
+|**2026-03-19**|**VAMPO: Policy Optimization for Improving Visual Dynamics in Video Action Models**|Zirui Ge et.al.|[2603.19370](http://arxiv.org/abs/2603.19370)|null|
 |**2026-03-19**|**Not All Features Are Created Equal: A Mechanistic Study of Vision-Language-Action Models**|Bryce Grant et.al.|[2603.19233](http://arxiv.org/abs/2603.19233)|null|
 |**2026-03-19**|**Bridging Semantic and Kinematic Conditions with Diffusion-based Discrete Motion Tokenizer**|Chenyang Gu et.al.|[2603.19227](http://arxiv.org/abs/2603.19227)|null|
 |**2026-03-19**|**OmniVTA: Visuo-Tactile World Modeling for Contact-Rich Robotic Manipulation**|Yuhang Zheng et.al.|[2603.19201](http://arxiv.org/abs/2603.19201)|null|
@@ -1897,6 +1905,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-20**|**Demonstration of Adapt4Me: An Uncertainty-Aware Authoring Environment for Personalizing Automatic Speech Recognition to Non-normative Speech**|Niclas Pokel et.al.|[2603.20112](http://arxiv.org/abs/2603.20112)|null|
+|**2026-03-20**|**Promoting Critical Thinking With Domain-Specific Generative AI Provocations**|Thomas Şerban von Davier et.al.|[2603.19975](http://arxiv.org/abs/2603.19975)|null|
+|**2026-03-20**|**Sense4HRI: A ROS 2 HRI Framework for Physiological Sensor Integration and Synchronized Logging**|Manuel Scheibl et.al.|[2603.19914](http://arxiv.org/abs/2603.19914)|null|
+|**2026-03-20**|**Beyond Words: Measuring User Experience through Speech Analysis in Voice User Interfaces**|Yong Ma et.al.|[2603.19904](http://arxiv.org/abs/2603.19904)|null|
+|**2026-03-20**|**GazePrinter: Visualizing Expert Gaze to Guide Novices in a New Codebase**|Peng Kuang et.al.|[2603.19855](http://arxiv.org/abs/2603.19855)|null|
+|**2026-03-20**|**Overreliance on AI in Information-seeking from Video Content**|Anders Giovanni Møller et.al.|[2603.19843](http://arxiv.org/abs/2603.19843)|null|
+|**2026-03-20**|**ConSearcher: Supporting Conversational Information Seeking in Online Communities with Member Personas**|Shiwei Wu et.al.|[2603.19747](http://arxiv.org/abs/2603.19747)|null|
+|**2026-03-20**|**Abstraction Beats Realism: Physiological Visualizations Enhance Arousal Synchrony in VR Concert Recreations**|Xiaru Meng et.al.|[2603.19730](http://arxiv.org/abs/2603.19730)|null|
+|**2026-03-20**|**Sensing Your Vocals: Exploring the Activity of Vocal Cord Muscles for Pitch Assessment Using Electromyography and Ultrasonography**|Kanyu Chen et.al.|[2603.19698](http://arxiv.org/abs/2603.19698)|null|
+|**2026-03-20**|**MetaCues: Enabling Critical Engagement with Generative AI for Information Seeking and Sensemaking**|Anjali Singh et.al.|[2603.19634](http://arxiv.org/abs/2603.19634)|null|
 |**2026-03-19**|**$R$ -equivalence on Cubic Surfaces I: Existing Cases with Non-Trivial Universal Equivalence**|Dimitri Kanevsky et.al.|[2603.19215](http://arxiv.org/abs/2603.19215)|null|
 |**2026-03-19**|**Constitutive vs. Corrective: A Causal Taxonomy of Human Runtime Involvement in AI Systems**|Kevin Baum et.al.|[2603.19213](http://arxiv.org/abs/2603.19213)|null|
 |**2026-03-19**|**Exploring the Role of Interaction Data to Empower End-User Decision-Making In UI Personalization**|Sérgio Alves et.al.|[2603.19196](http://arxiv.org/abs/2603.19196)|null|
