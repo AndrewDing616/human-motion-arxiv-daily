@@ -959,6 +959,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-23**|**UniMotion: A Unified Framework for Motion-Text-Vision Understanding and Generation**|Ziyi Wang et.al.|[2603.22282](http://arxiv.org/abs/2603.22282)|null|
+|**2026-03-23**|**Do World Action Models Generalize Better than VLAs? A Robustness Study**|Zhanguang Zhang et.al.|[2603.22078](http://arxiv.org/abs/2603.22078)|null|
 |**2026-03-22**|**EmoTaG: Emotion-Aware Talking Head Synthesis on Gaussian Splatting with Few-Shot Personalization**|Haolan Xu et.al.|[2603.21332](http://arxiv.org/abs/2603.21332)|null|
 |**2026-03-22**|**KHMP: Frequency-Domain Kalman Refinement for High-Fidelity Human Motion Prediction**|Wenhan Wu et.al.|[2603.21327](http://arxiv.org/abs/2603.21327)|null|
 |**2026-03-20**|**MuSteerNet: Human Reaction Generation from Videos via Observation-Reaction Mutual Steering**|Yuan Zhou et.al.|[2603.20187](http://arxiv.org/abs/2603.20187)|null|
@@ -1909,6 +1911,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-23**|**ShapDBM: Exploring Decision Boundary Maps in Shapley Space**|Luke Watkin et.al.|[2603.22235](http://arxiv.org/abs/2603.22235)|null|
+|**2026-03-23**|**Dyadic: A Scalable Platform for Human-Human and Human-AI Conversation Research**|David M. Markowitz et.al.|[2603.22227](http://arxiv.org/abs/2603.22227)|null|
+|**2026-03-23**|**Feasibility of Augmented Reality-Guided Robotic Ultrasound with Cone-Beam CT Integration for Spine Procedures**|Tianyu Song et.al.|[2603.22174](http://arxiv.org/abs/2603.22174)|null|
+|**2026-03-23**|**More Isn't Always Better: Balancing Decision Accuracy and Conformity Pressures in Multi-AI Advice**|Yuta Tsuchiya et.al.|[2603.22152](http://arxiv.org/abs/2603.22152)|null|
+|**2026-03-23**|**Designing Medical Chatbots where Accuracy and Acceptability are in Conflict: An Exploratory, Vignette-based Study in Urban India**|Ananditha Raghunath et.al.|[2603.22115](http://arxiv.org/abs/2603.22115)|null|
 |**2026-03-23**|**Surfacing and Applying Meaning: Supporting Hermeneutical Autonomy for LGBTQ+ People in Taiwan**|Yi-Tong Chen et.al.|[2603.21990](http://arxiv.org/abs/2603.21990)|null|
 |**2026-03-23**|**AnkleType: A Hands- and Eyes-free Foot-based Text Entry Technique in Virtual Reality**|Xiyun Luo et.al.|[2603.21915](http://arxiv.org/abs/2603.21915)|null|
 |**2026-03-23**|**From Scores to Strategies: Towards Gaze-Informed Diagnostic Assessment for Visualization Literacy**|Kathrin Schnizer et.al.|[2603.21898](http://arxiv.org/abs/2603.21898)|null|
