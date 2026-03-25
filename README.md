@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.03.24
+### Automatically Updated on 2026.03.25
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-24**|**TRAP: Hijacking VLA CoT-Reasoning via Adversarial Patches**|Zhengxian Huang et.al.|[2603.23117](http://arxiv.org/abs/2603.23117)|null|
+|**2026-03-24**|**A Synchronized Audio-Visual Multi-View Capture System**|Xiangwei Shi et.al.|[2603.23089](http://arxiv.org/abs/2603.23089)|null|
 |**2026-03-23**|**UniMotion: A Unified Framework for Motion-Text-Vision Understanding and Generation**|Ziyi Wang et.al.|[2603.22282](http://arxiv.org/abs/2603.22282)|null|
 |**2026-03-23**|**Do World Action Models Generalize Better than VLAs? A Robustness Study**|Zhanguang Zhang et.al.|[2603.22078](http://arxiv.org/abs/2603.22078)|null|
 |**2026-03-22**|**EmoTaG: Emotion-Aware Talking Head Synthesis on Gaussian Splatting with Few-Shot Personalization**|Haolan Xu et.al.|[2603.21332](http://arxiv.org/abs/2603.21332)|null|
@@ -577,7 +579,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260324>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260325>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -722,7 +724,7 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260324>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260325>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
@@ -966,12 +968,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260324>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260325>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-24**|**MRATTS: An MR-Based Acupoint Therapy Training System with Real-Time Acupoint Detection and Evaluation Standards**|Jiacheng Liu et.al.|[2603.23445](http://arxiv.org/abs/2603.23445)|null|
+|**2026-03-24**|**Biased Error Attribution in Multi-Agent Human-AI Systems Under Delayed Feedback**|Teerthaa Parakh et.al.|[2603.23419](http://arxiv.org/abs/2603.23419)|null|
+|**2026-03-24**|**Beyond Preset Identities: How Agents Form Stances and Boundaries in Generative Societies**|Hanzhong Zhang et.al.|[2603.23406](http://arxiv.org/abs/2603.23406)|null|
+|**2026-03-24**|**"I Might be Using His... But It is Also Mine!": Ownership and Control in Accounts Designed for Sharing**|Ji Eun Song et.al.|[2603.23391](http://arxiv.org/abs/2603.23391)|null|
+|**2026-03-24**|**Design Space and Implementation of RAG-Based Avatars for Virtual Archaeology**|Wilhelm Kerle-Malcharek et.al.|[2603.23353](http://arxiv.org/abs/2603.23353)|null|
+|**2026-03-24**|**Unilateral Relationship Revision Power in Human-AI Companion Interaction**|Benjamin Lange et.al.|[2603.23315](http://arxiv.org/abs/2603.23315)|null|
+|**2026-03-24**|**PoseDriver: A Unified Approach to Multi-Category Skeleton Detection for Autonomous Driving**|Yasamin Borhani et.al.|[2603.23215](http://arxiv.org/abs/2603.23215)|null|
+|**2026-03-24**|**Who Is in the Room? Stakeholder Perspectives on AI Recording in Pediatric Emergency Care**|Alexandre De Masi et.al.|[2603.23187](http://arxiv.org/abs/2603.23187)|null|
+|**2026-03-24**|**Between Rules and Reality: On the Context Sensitivity of LLM Moral Judgment**|Adrian Sauter et.al.|[2603.23114](http://arxiv.org/abs/2603.23114)|null|
+|**2026-03-24**|**Good for the Planet, Bad for Me? Intended and Unintended Consequences of AI Energy Consumption Disclosure**|Michael Klesel et.al.|[2603.23075](http://arxiv.org/abs/2603.23075)|null|
 |**2026-03-23**|**ShapDBM: Exploring Decision Boundary Maps in Shapley Space**|Luke Watkin et.al.|[2603.22235](http://arxiv.org/abs/2603.22235)|null|
 |**2026-03-23**|**Dyadic: A Scalable Platform for Human-Human and Human-AI Conversation Research**|David M. Markowitz et.al.|[2603.22227](http://arxiv.org/abs/2603.22227)|null|
 |**2026-03-23**|**Feasibility of Augmented Reality-Guided Robotic Ultrasound with Cone-Beam CT Integration for Spine Procedures**|Tianyu Song et.al.|[2603.22174](http://arxiv.org/abs/2603.22174)|null|
@@ -2071,7 +2083,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260324>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260325>back to top</a>)</p>
 
 Notes: 
 
