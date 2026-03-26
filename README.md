@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.03.25
+### Automatically Updated on 2026.03.26
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-25**|**Teacher-Student Diffusion Model for Text-Driven 3D Hand Motion Generation**|Ching-Lam Cheng et.al.|[2603.24407](http://arxiv.org/abs/2603.24407)|null|
+|**2026-03-25**|**ViHOI: Human-Object Interaction Synthesis with Visual Priors**|Songjin Cai et.al.|[2603.24383](http://arxiv.org/abs/2603.24383)|null|
+|**2026-03-25**|**B-MoE: A Body-Part-Aware Mixture-of-Experts "All Parts Matter" Approach to Micro-Action Recognition**|Nishit Poddar et.al.|[2603.24245](http://arxiv.org/abs/2603.24245)|null|
+|**2026-03-25**|**LaDy: Lagrangian-Dynamic Informed Network for Skeleton-based Action Segmentation via Spatial-Temporal Modulation**|Haoyu Ji et.al.|[2603.24097](http://arxiv.org/abs/2603.24097)|null|
+|**2026-03-25**|**QuadFM: Foundational Text-Driven Quadruped Motion Dataset for Generation and Control**|Li Gao et.al.|[2603.24021](http://arxiv.org/abs/2603.24021)|null|
+|**2026-03-25**|**6D Movable Antenna for Internet of Vehicles: CSI-Free Dynamic Antenna Configuration**|Maoxin Ji et.al.|[2603.23991](http://arxiv.org/abs/2603.23991)|null|
+|**2026-03-25**|**SafeFlow: Real-Time Text-Driven Humanoid Whole-Body Control via Physics-Guided Rectified Flow and Selective Safety Gating**|Hanbyel Cho et.al.|[2603.23983](http://arxiv.org/abs/2603.23983)|null|
+|**2026-03-24**|**M3T: Discrete Multi-Modal Motion Tokens for Sign Language Production**|Alexandre Symeonidis-Herzig et.al.|[2603.23617](http://arxiv.org/abs/2603.23617)|null|
 |**2026-03-24**|**TRAP: Hijacking VLA CoT-Reasoning via Adversarial Patches**|Zhengxian Huang et.al.|[2603.23117](http://arxiv.org/abs/2603.23117)|null|
 |**2026-03-24**|**A Synchronized Audio-Visual Multi-View Capture System**|Xiangwei Shi et.al.|[2603.23089](http://arxiv.org/abs/2603.23089)|null|
 |**2026-03-23**|**UniMotion: A Unified Framework for Motion-Text-Vision Understanding and Generation**|Ziyi Wang et.al.|[2603.22282](http://arxiv.org/abs/2603.22282)|null|
@@ -579,7 +587,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -724,12 +732,14 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-25**|**ViHOI: Human-Object Interaction Synthesis with Visual Priors**|Songjin Cai et.al.|[2603.24383](http://arxiv.org/abs/2603.24383)|null|
+|**2026-03-25**|**Event-Driven Proactive Assistive Manipulation with Grounded Vision-Language Planning**|Fengkai Liu et.al.|[2603.23950](http://arxiv.org/abs/2603.23950)|null|
 |**2026-03-23**|**Benchmarking Recurrent Event-Based Object Detection for Industrial Multi-Class Recognition on MTEvent**|Lokeshwaran Manohar et.al.|[2603.21787](http://arxiv.org/abs/2603.21787)|null|
 |**2026-03-22**|**Large Reward Models: Generalizable Online Robot Reward Generation with Vision-Language Models**|Yanru Wu et.al.|[2603.16065](http://arxiv.org/abs/2603.16065)|null|
 |**2026-03-18**|**GMT: Goal-Conditioned Multimodal Transformer for 6-DOF Object Trajectory Synthesis in 3D Scenes**|Huajian Zeng et.al.|[2603.17993](http://arxiv.org/abs/2603.17993)|null|
@@ -968,12 +978,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-25**|**Vibe Coding XR: Accelerating AI + XR Prototyping with XR Blocks and Gemini**|Ruofei Du et.al.|[2603.24591](http://arxiv.org/abs/2603.24591)|null|
+|**2026-03-25**|**Robust Multilingual Text-to-Pictogram Mapping for Scalable Reading Rehabilitation**|Soufiane Jhilal et.al.|[2603.24536](http://arxiv.org/abs/2603.24536)|null|
+|**2026-03-25**|**Positive-First Most Ambiguous: A Simple Active Learning Criterion for Interactive Retrieval of Rare Categories**|Kawtar Zaher et.al.|[2603.24480](http://arxiv.org/abs/2603.24480)|null|
+|**2026-03-25**|**Integrating Causal Machine Learning into Clinical Decision Support Systems: Insights from Literature and Practice**|Domenique Zipperling et.al.|[2603.24448](http://arxiv.org/abs/2603.24448)|null|
+|**2026-03-25**|**Gendered Prompting and LLM Code Review: How Gender Cues in the Prompt Shape Code Quality and Evaluation**|Lynn Janzen et.al.|[2603.24359](http://arxiv.org/abs/2603.24359)|null|
+|**2026-03-25**|**A Neuro-Symbolic System for Interpretable Multimodal Physiological Signals Integration in Human Fatigue Detection**|Mohammadreza Jamalifard et.al.|[2603.24358](http://arxiv.org/abs/2603.24358)|null|
+|**2026-03-25**|**Honey, I shrunk the scientist -- Evaluating 2D, 3D, and VR interfaces for navigating samples under the microscope**|Jan Tiemann et.al.|[2603.24337](http://arxiv.org/abs/2603.24337)|null|
+|**2026-03-25**|**Human Factors in Detecting AI-Generated Portraits: Age, Sex, Device, and Confidence**|Sunwhi Kim et.al.|[2603.24048](http://arxiv.org/abs/2603.24048)|null|
+|**2026-03-25**|**SemLayer: Semantic-aware Generative Segmentation and Layer Construction for Abstract Icons**|Haiyang Xu et.al.|[2603.24039](http://arxiv.org/abs/2603.24039)|null|
+|**2026-03-25**|**Skewed Dual Normal Distribution Model: Predicting Touch Pointing Success Rates for Targets Near Screen Edges and Corners**|Nobuhito Kasahara et.al.|[2603.23865](http://arxiv.org/abs/2603.23865)|null|
 |**2026-03-24**|**MRATTS: An MR-Based Acupoint Therapy Training System with Real-Time Acupoint Detection and Evaluation Standards**|Jiacheng Liu et.al.|[2603.23445](http://arxiv.org/abs/2603.23445)|null|
 |**2026-03-24**|**Biased Error Attribution in Multi-Agent Human-AI Systems Under Delayed Feedback**|Teerthaa Parakh et.al.|[2603.23419](http://arxiv.org/abs/2603.23419)|null|
 |**2026-03-24**|**Beyond Preset Identities: How Agents Form Stances and Boundaries in Generative Societies**|Hanzhong Zhang et.al.|[2603.23406](http://arxiv.org/abs/2603.23406)|null|
@@ -2083,7 +2103,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
 
 Notes: 
 
