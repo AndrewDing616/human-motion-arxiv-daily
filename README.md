@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.03.26
+### Automatically Updated on 2026.03.27
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-26**|**LILAC: Language-Conditioned Object-Centric Optical Flow for Open-Loop Trajectory Generation**|Motonari Kambara et.al.|[2603.25481](http://arxiv.org/abs/2603.25481)|null|
+|**2026-03-26**|**UMBRELLA: Uncertainty-aware Multi-robot Reactive Coordination under Dynamic Temporal Logic Tasks**|Qisheng Zhao et.al.|[2603.25395](http://arxiv.org/abs/2603.25395)|null|
+|**2026-03-26**|**Bilingual Text-to-Motion Generation: A New Benchmark and Baselines**|Wanjiang Weng et.al.|[2603.25178](http://arxiv.org/abs/2603.25178)|null|
+|**2026-03-26**|**GDPO-Listener: Expressive Interactive Head Generation via Auto-Regressive Flow Matching and Group reward-Decoupled Policy Optimization**|Zhangyu Jin et.al.|[2603.25020](http://arxiv.org/abs/2603.25020)|null|
 |**2026-03-25**|**Teacher-Student Diffusion Model for Text-Driven 3D Hand Motion Generation**|Ching-Lam Cheng et.al.|[2603.24407](http://arxiv.org/abs/2603.24407)|null|
 |**2026-03-25**|**ViHOI: Human-Object Interaction Synthesis with Visual Priors**|Songjin Cai et.al.|[2603.24383](http://arxiv.org/abs/2603.24383)|null|
 |**2026-03-25**|**B-MoE: A Body-Part-Aware Mixture-of-Experts "All Parts Matter" Approach to Micro-Action Recognition**|Nishit Poddar et.al.|[2603.24245](http://arxiv.org/abs/2603.24245)|null|
@@ -587,7 +591,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260327>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -732,12 +736,13 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260327>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-26**|**Unleashing Guidance Without Classifiers for Human-Object Interaction Animation**|Ziyin Wang et.al.|[2603.25734](http://arxiv.org/abs/2603.25734)|null|
 |**2026-03-25**|**ViHOI: Human-Object Interaction Synthesis with Visual Priors**|Songjin Cai et.al.|[2603.24383](http://arxiv.org/abs/2603.24383)|null|
 |**2026-03-25**|**Event-Driven Proactive Assistive Manipulation with Grounded Vision-Language Planning**|Fengkai Liu et.al.|[2603.23950](http://arxiv.org/abs/2603.23950)|null|
 |**2026-03-23**|**Benchmarking Recurrent Event-Based Object Detection for Industrial Multi-Class Recognition on MTEvent**|Lokeshwaran Manohar et.al.|[2603.21787](http://arxiv.org/abs/2603.21787)|null|
@@ -978,12 +983,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260327>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-26**|**A Mentalistic Interface for Probing Folk-Psychological Attribution to Non-Humanoid Robots**|Giulio Pisaneschi et.al.|[2603.25646](http://arxiv.org/abs/2603.25646)|null|
+|**2026-03-26**|**Colon-Bench: An Agentic Workflow for Scalable Dense Lesion Annotation in Full-Procedure Colonoscopy Videos**|Abdullah Hamdi et.al.|[2603.25645](http://arxiv.org/abs/2603.25645)|null|
+|**2026-03-26**|**Clinician Perspectives on Type 1 Diabetes Guidelines and Glucose Data Interpretation**|Mohammed Basheikh et.al.|[2603.25631](http://arxiv.org/abs/2603.25631)|null|
+|**2026-03-26**|**Visual or Textual: Effects of Explanation Format and Personal Characteristics on the Perception of Explanations in an Educational Recommender System**|Qurat Ul Ain et.al.|[2603.25624](http://arxiv.org/abs/2603.25624)|null|
+|**2026-03-26**|**Does Structured Intent Representation Generalize? A Cross-Language, Cross-Model Empirical Study of 5W3H Prompting**|Peng Gang et.al.|[2603.25379](http://arxiv.org/abs/2603.25379)|null|
+|**2026-03-26**|**Usability of Passwordless Authentication in Wi-Fi Networks: A Comparative Study of Passkeys and Passwords in Captive Portals**|Martiño Rivera-Dourado et.al.|[2603.25290](http://arxiv.org/abs/2603.25290)|null|
+|**2026-03-26**|**Does Explanation Correctness Matter? Linking Computational XAI Evaluation to Human Understanding**|Gregor Baer et.al.|[2603.25251](http://arxiv.org/abs/2603.25251)|null|
+|**2026-03-26**|**Understanding Newcomer Persistence in Social VR: A Case Study of VRChat**|Qijia Chen et.al.|[2603.25223](http://arxiv.org/abs/2603.25223)|null|
+|**2026-03-26**|**Beyond Benchmarks: How Users Evaluate AI Chat Assistants**|Moiz Sadiq Awan et.al.|[2603.25220](http://arxiv.org/abs/2603.25220)|null|
+|**2026-03-26**|**The Competence Shadow: Theory and Bounds of AI Assistance in Safety Engineering**|Umair Siddique et.al.|[2603.25197](http://arxiv.org/abs/2603.25197)|null|
 |**2026-03-25**|**Vibe Coding XR: Accelerating AI + XR Prototyping with XR Blocks and Gemini**|Ruofei Du et.al.|[2603.24591](http://arxiv.org/abs/2603.24591)|null|
 |**2026-03-25**|**Robust Multilingual Text-to-Pictogram Mapping for Scalable Reading Rehabilitation**|Soufiane Jhilal et.al.|[2603.24536](http://arxiv.org/abs/2603.24536)|null|
 |**2026-03-25**|**Positive-First Most Ambiguous: A Simple Active Learning Criterion for Interactive Retrieval of Rare Categories**|Kawtar Zaher et.al.|[2603.24480](http://arxiv.org/abs/2603.24480)|null|
@@ -2103,7 +2118,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260327>back to top</a>)</p>
 
 Notes: 
 
