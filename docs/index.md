@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.03.28
+### Automatically Updated on 2026.03.30
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-27**|**EVERY CFT $_3$ HAS AN $ \mathcal{L}_Λw_{1+\infty}$ SYMMETRY**|Andrew Strominger et.al.|[2603.26459](http://arxiv.org/abs/2603.26459)|null|
+|**2026-03-26**|**Chasing Autonomy: Dynamic Retargeting and Control Guided RL for Performant and Controllable Humanoid Running**|Zachary Olkin et.al.|[2603.25902](http://arxiv.org/abs/2603.25902)|null|
 |**2026-03-26**|**LILAC: Language-Conditioned Object-Centric Optical Flow for Open-Loop Trajectory Generation**|Motonari Kambara et.al.|[2603.25481](http://arxiv.org/abs/2603.25481)|null|
 |**2026-03-26**|**UMBRELLA: Uncertainty-aware Multi-robot Reactive Coordination under Dynamic Temporal Logic Tasks**|Qisheng Zhao et.al.|[2603.25395](http://arxiv.org/abs/2603.25395)|null|
 |**2026-03-26**|**Bilingual Text-to-Motion Generation: A New Benchmark and Baselines**|Wanjiang Weng et.al.|[2603.25178](http://arxiv.org/abs/2603.25178)|null|
@@ -1540,6 +1542,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-27**|**The Limits of Learning from Pictures and Text: Vision-Language Models and Embodied Scene Understanding**|Gillian Rosenberg et.al.|[2603.26589](http://arxiv.org/abs/2603.26589)|null|
 |**2026-03-19**|**GraphiContact: Pose-aware Human-Scene Robust Contact Perception for Interactive Systems**|Xiaojian Lin et.al.|[2603.20310](http://arxiv.org/abs/2603.20310)|null|
 |**2026-03-18**|**Coherent Human-Scene Reconstruction from Multi-Person Multi-View Video in a Single Pass**|Sangmin Kim et.al.|[2603.12789](http://arxiv.org/abs/2603.12789)|null|
 |**2026-03-16**|**HSImul3R: Physics-in-the-Loop Reconstruction of Simulation-Ready Human-Scene Interactions**|Yukang Cao et.al.|[2603.15612](http://arxiv.org/abs/2603.15612)|null|
@@ -1928,6 +1931,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-27**|**Sticky and Magnetic: Evaluating Error Correction and User Adaptation in Gaze and Pinch Interaction**|Jazmin Collins et.al.|[2603.26608](http://arxiv.org/abs/2603.26608)|null|
+|**2026-03-27**|**Evaluating Interactive 2D Visualization as a Sample Selection Strategy for Biomedical Time-Series Data Annotation**|Einari Vaaras et.al.|[2603.26592](http://arxiv.org/abs/2603.26592)|null|
+|**2026-03-27**|**User Involvement in Robotic Wheelchair Development: A Decade of Limited Progress**|Mario Andres Chavarria et.al.|[2603.26543](http://arxiv.org/abs/2603.26543)|null|
+|**2026-03-27**|**CR-Eyes: A Computational Rational Model of Visual Sampling Behavior in Atari Games**|Martin Lorenz et.al.|[2603.26527](http://arxiv.org/abs/2603.26527)|null|
+|**2026-03-27**|**Exploring a Design Framework for Children's Agency through Participatory Design**|Boyin Yang et.al.|[2603.26523](http://arxiv.org/abs/2603.26523)|null|
+|**2026-03-27**|**Shaping Credibility Judgments in Human-GenAI Partnership via Weaker LLMs: A Transactive Memory Perspective on AI Literacy**|Md Touhidul Islam et.al.|[2603.26522](http://arxiv.org/abs/2603.26522)|null|
+|**2026-03-27**|**Characterizing Scam-Driven Human Trafficking Across Chinese Borders and Online Community Responses on RedNote**|Jiamin Zheng et.al.|[2603.26520](http://arxiv.org/abs/2603.26520)|null|
+|**2026-03-27**|**Beyond Banning AI: A First Look at GenAI Governance in Open Source Software Communities**|Wenhao Yang et.al.|[2603.26487](http://arxiv.org/abs/2603.26487)|null|
+|**2026-03-27**|**"Law at Your Fingertips": Understanding Legal Information Seeking on Video-Sharing Platforms in China**|Zhiyang Wu et.al.|[2603.26420](http://arxiv.org/abs/2603.26420)|null|
+|**2026-03-27**|**Channelling, Coordinating, Collaborating: A Three-Layer Framework for Disability-Centered Human-Agent Collaboration**|Lan Xiao et.al.|[2603.26252](http://arxiv.org/abs/2603.26252)|null|
 |**2026-03-26**|**A Mentalistic Interface for Probing Folk-Psychological Attribution to Non-Humanoid Robots**|Giulio Pisaneschi et.al.|[2603.25646](http://arxiv.org/abs/2603.25646)|null|
 |**2026-03-26**|**Colon-Bench: An Agentic Workflow for Scalable Dense Lesion Annotation in Full-Procedure Colonoscopy Videos**|Abdullah Hamdi et.al.|[2603.25645](http://arxiv.org/abs/2603.25645)|null|
 |**2026-03-26**|**Clinician Perspectives on Type 1 Diabetes Guidelines and Glucose Data Interpretation**|Mohammed Basheikh et.al.|[2603.25631](http://arxiv.org/abs/2603.25631)|null|
