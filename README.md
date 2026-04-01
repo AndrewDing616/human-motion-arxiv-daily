@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.03.31
+### Automatically Updated on 2026.04.01
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-31**|**Not All Frames Are Equal: Complexity-Aware Masked Motion Generation via Motion Spectral Descriptors**|Pengfei Zhou et.al.|[2603.29655](http://arxiv.org/abs/2603.29655)|null|
+|**2026-03-31**|**CLaD: Planning with Grounded Foresight via Cross-Modal Latent Dynamics**|Andrew Jeong et.al.|[2603.29409](http://arxiv.org/abs/2603.29409)|null|
+|**2026-03-31**|**MaskAdapt: Learning Flexible Motion Adaptation via Mask-Invariant Prior for Physics-Based Characters**|Soomin Park et.al.|[2603.29272](http://arxiv.org/abs/2603.29272)|null|
+|**2026-03-31**|**SyriSign: A Parallel Corpus for Arabic Text to Syrian Arabic Sign Language Translation**|Mohammad Amer Khalil et.al.|[2603.29219](http://arxiv.org/abs/2603.29219)|null|
+|**2026-03-30**|**LA-Sign: Looped Transformers with Geometry-aware Alignment for Skeleton-based Sign Language Recognition**|Muxin Pu et.al.|[2603.29057](http://arxiv.org/abs/2603.29057)|null|
+|**2026-03-30**|**AutoWorld: Scaling Multi-Agent Traffic Simulation with Self-Supervised World Models**|Mozhgan Pourkeshavatz et.al.|[2603.28963](http://arxiv.org/abs/2603.28963)|null|
+|**2026-03-30**|**HandX: Scaling Bimanual Motion and Interaction Generation**|Zimu Zhang et.al.|[2603.28766](http://arxiv.org/abs/2603.28766)|null|
+|**2026-03-30**|**FocusVLA: Focused Visual Utilization for Vision-Language-Action Models**|Yichi Zhang et.al.|[2603.28740](http://arxiv.org/abs/2603.28740)|null|
 |**2026-03-30**|**StreamingVLA: Streaming Vision-Language-Action Model with Action Flow Matching and Adaptive Early Observation**|Yiran Shi et.al.|[2603.28565](http://arxiv.org/abs/2603.28565)|null|
 |**2026-03-28**|**HMPDM: A Diffusion Model for Driving Video Prediction with Historical Motion Priors**|Ke Li et.al.|[2603.27371](http://arxiv.org/abs/2603.27371)|null|
 |**2026-03-28**|**TokenDance: Token-to-Token Music-to-Dance Generation with Bidirectional Mamba**|Ziyue Yang et.al.|[2603.27314](http://arxiv.org/abs/2603.27314)|null|
@@ -598,7 +606,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -745,7 +753,7 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
@@ -994,12 +1002,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-31**|**HapCompass: A Rotational Haptic Device for Contact-Rich Robotic Teleoperation**|Xiangshan Tan et.al.|[2603.30042](http://arxiv.org/abs/2603.30042)|null|
+|**2026-03-31**|**Structural Feature Engineering for Generative Engine Optimization: How Content Structure Shapes Citation Behavior**|Junwei Yu et.al.|[2603.29979](http://arxiv.org/abs/2603.29979)|null|
+|**2026-03-31**|**Structured Intent as a Protocol-Like Communication Layer: Cross-Model Robustness, Framework Comparison, and the Weak-Model Compensation Effect**|Peng Gang et.al.|[2603.29953](http://arxiv.org/abs/2603.29953)|null|
+|**2026-03-31**|**XR is XR: Rethinking MR and XR as Neutral Umbrella Terms**|Takeshi Kurata et.al.|[2603.29939](http://arxiv.org/abs/2603.29939)|null|
+|**2026-03-31**|**Beyond AI advice -- independent aggregation boosts human-AI accuracy**|Julian Berger et.al.|[2603.29866](http://arxiv.org/abs/2603.29866)|null|
+|**2026-03-31**|**'AI' and Computer Science: Contradictions Emerge between Ideologies**|Andruid Kerne et.al.|[2603.29746](http://arxiv.org/abs/2603.29746)|null|
+|**2026-03-31**|**KEditVis: A Visual Analytics System for Knowledge Editing of Large Language Models**|Zhenning Chen et.al.|[2603.29689](http://arxiv.org/abs/2603.29689)|null|
+|**2026-03-31**|**Beyond the Steeper Curve: AI-Mediated Metacognitive Decoupling and the Limits of the Dunning-Kruger Metaphor**|Christopher Koch et.al.|[2603.29681](http://arxiv.org/abs/2603.29681)|null|
+|**2026-03-31**|**Semantic Interaction for Narrative Map Sensemaking: An Insight-based Evaluation**|Brian Felipe Keith-Norambuena et.al.|[2603.29651](http://arxiv.org/abs/2603.29651)|null|
+|**2026-03-31**|**All-in-One Augmented Reality Guided Head and Neck Tumor Resection**|Yue Yang et.al.|[2603.29495](http://arxiv.org/abs/2603.29495)|null|
 |**2026-03-30**|**The Ultimate Tutorial for AI-driven Scale Development in Generative Psychometrics: Releasing AIGENIE from its Bottle**|Lara Russell-Lasalandra et.al.|[2603.28643](http://arxiv.org/abs/2603.28643)|null|
 |**2026-03-30**|**One stout to rule them all: Reconciling artificial intelligence, data science and malted alcoholic beverages**|Dmitrii Usynin et.al.|[2603.28607](http://arxiv.org/abs/2603.28607)|null|
 |**2026-03-30**|**Moving Beyond Review: Applying Language Models to Planning and Translation in Reflection**|Seyed Parsa Neshaei et.al.|[2603.28596](http://arxiv.org/abs/2603.28596)|null|
@@ -2149,7 +2167,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
 
 Notes: 
 
