@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.04.01
+### Automatically Updated on 2026.04.02
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-01**|**ReMoGen: Real-time Human Interaction-to-Reaction Generation via Modular Learning from Diverse Data**|Yaoqin Ye et.al.|[2604.01082](http://arxiv.org/abs/2604.01082)|null|
+|**2026-04-01**|**Sparkle: A Robust and Versatile Representation for Point Cloud based Human Motion Capture**|Yiming Ren et.al.|[2604.00857](http://arxiv.org/abs/2604.00857)|null|
+|**2026-04-01**|**PrivHAR-Bench: A Graduated Privacy Benchmark Dataset for Video-Based Action Recognition**|Samar Ansari et.al.|[2604.00761](http://arxiv.org/abs/2604.00761)|null|
+|**2026-03-31**|**Hierarchical Motion Planning and Control under Unknown Nonlinear Dynamics via Predicted Reachability**|Zhiquan Zhang et.al.|[2604.00320](http://arxiv.org/abs/2604.00320)|null|
+|**2026-03-31**|**DreamControl-v2: Simpler and Scalable Autonomous Humanoid Skills via Trainable Guided Diffusion Priors**|Sudarshan Harithas et.al.|[2604.00202](http://arxiv.org/abs/2604.00202)|null|
 |**2026-03-31**|**Not All Frames Are Equal: Complexity-Aware Masked Motion Generation via Motion Spectral Descriptors**|Pengfei Zhou et.al.|[2603.29655](http://arxiv.org/abs/2603.29655)|null|
 |**2026-03-31**|**CLaD: Planning with Grounded Foresight via Cross-Modal Latent Dynamics**|Andrew Jeong et.al.|[2603.29409](http://arxiv.org/abs/2603.29409)|null|
 |**2026-03-31**|**MaskAdapt: Learning Flexible Motion Adaptation via Mask-Invariant Prior for Physics-Based Characters**|Soomin Park et.al.|[2603.29272](http://arxiv.org/abs/2603.29272)|null|
@@ -1555,6 +1560,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-01**|**ReMoGen: Real-time Human Interaction-to-Reaction Generation via Modular Learning from Diverse Data**|Yaoqin Ye et.al.|[2604.01082](http://arxiv.org/abs/2604.01082)|null|
 |**2026-03-27**|**The Limits of Learning from Pictures and Text: Vision-Language Models and Embodied Scene Understanding**|Gillian Rosenberg et.al.|[2603.26589](http://arxiv.org/abs/2603.26589)|null|
 |**2026-03-20**|**Contextual inference from single objects in Vision-Language models**|Martina G. Vilas et.al.|[2603.26731](http://arxiv.org/abs/2603.26731)|null|
 |**2026-03-19**|**GraphiContact: Pose-aware Human-Scene Robust Contact Perception for Interactive Systems**|Xiaojian Lin et.al.|[2603.20310](http://arxiv.org/abs/2603.20310)|null|
@@ -1700,6 +1706,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-01**|**RegFormer: Transferable Relational Grounding for Efficient Weakly-Supervised Human-Object Interaction Detection**|Jihwan Park et.al.|[2604.00507](http://arxiv.org/abs/2604.00507)|null|
 |**2026-03-29**|**Streamlined Open-Vocabulary Human-Object Interaction Detection**|Chang Sun et.al.|[2603.27500](http://arxiv.org/abs/2603.27500)|null|
 |**2026-03-28**|**LOME: Learning Human-Object Manipulation with Action-Conditioned Egocentric World Model**|Quankai Gao et.al.|[2603.27449](http://arxiv.org/abs/2603.27449)|null|
 |**2026-03-26**|**Unleashing Guidance Without Classifiers for Human-Object Interaction Animation**|Ziyin Wang et.al.|[2603.25734](http://arxiv.org/abs/2603.25734)|null|
@@ -1947,6 +1954,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-01**|**Assessing Affective Objectives for Communicative Visualizations**|Elsie Lee-Robbins et.al.|[2604.01183](http://arxiv.org/abs/2604.01183)|null|
+|**2026-04-01**|**True (VIS) Lies: Analyzing How Generative AI Recognizes Intentionality, Rhetoric, and Misleadingness in Visualization Lies**|Graziano Blasilli et.al.|[2604.01181](http://arxiv.org/abs/2604.01181)|null|
+|**2026-04-01**|**Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators**|Griffin Pitts et.al.|[2604.01114](http://arxiv.org/abs/2604.01114)|null|
+|**2026-04-01**|**FlexAI: A Multi-modal Solution for Delivering Personalized and Adaptive Fitness Interventions**|Shivangi Agarwal et.al.|[2604.00968](http://arxiv.org/abs/2604.00968)|null|
+|**2026-04-01**|**AuraDesk: Data Physicalization through Olfaction Metaphors for Representing and Mitigating Workplace Stress**|Siying Hu et.al.|[2604.00869](http://arxiv.org/abs/2604.00869)|null|
+|**2026-04-01**|**Evaluating the Feasibility of Augmented Reality to Support Communication Access for Deaf Students in Experiential Higher Education Contexts**|Roshan Mathew et.al.|[2604.00856](http://arxiv.org/abs/2604.00856)|null|
+|**2026-04-01**|**Steering through Time: Blending Longitudinal Data with Simulation to Rethink Human-Autonomous Vehicle Interaction**|Yasaman Hakiminejad et.al.|[2604.00832](http://arxiv.org/abs/2604.00832)|null|
+|**2026-04-01**|**Revisiting Human-in-the-Loop Object Retrieval with Pre-Trained Vision Transformers**|Kawtar Zaher et.al.|[2604.00809](http://arxiv.org/abs/2604.00809)|null|
+|**2026-04-01**|**A Dual-Action Fabric-Based Soft Robotic Glove for Ergonomic Hand Rehabilitation**|Rui Chen et.al.|[2604.00768](http://arxiv.org/abs/2604.00768)|null|
+|**2026-04-01**|**A wearable haptic device for edge and surface simulation**|Rui Chen et.al.|[2604.00752](http://arxiv.org/abs/2604.00752)|null|
 |**2026-03-31**|**HapCompass: A Rotational Haptic Device for Contact-Rich Robotic Teleoperation**|Xiangshan Tan et.al.|[2603.30042](http://arxiv.org/abs/2603.30042)|null|
 |**2026-03-31**|**Structural Feature Engineering for Generative Engine Optimization: How Content Structure Shapes Citation Behavior**|Junwei Yu et.al.|[2603.29979](http://arxiv.org/abs/2603.29979)|null|
 |**2026-03-31**|**Structured Intent as a Protocol-Like Communication Layer: Cross-Model Robustness, Framework Comparison, and the Weak-Model Compensation Effect**|Peng Gang et.al.|[2603.29953](http://arxiv.org/abs/2603.29953)|null|
