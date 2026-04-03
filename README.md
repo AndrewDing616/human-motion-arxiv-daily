@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.04.02
+### Automatically Updated on 2026.04.03
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-02**|**UAV-Track VLA: Embodied Aerial Tracking via Vision-Language-Action Models**|Qiyao Zhang et.al.|[2604.02241](http://arxiv.org/abs/2604.02241)|null|
+|**2026-04-02**|**Realistic Lip Motion Generation Based on 3D Dynamic Viseme and Coarticulation Modeling for Human-Robot Interaction**|Sheng Li et.al.|[2604.01756](http://arxiv.org/abs/2604.01756)|null|
+|**2026-04-02**|**DynaVid: Learning to Generate Highly Dynamic Videos using Synthetic Motion Data**|Wonjoon Jin et.al.|[2604.01666](http://arxiv.org/abs/2604.01666)|null|
+|**2026-04-02**|**AnchorVLA: Anchored Diffusion for Efficient End-to-End Mobile Manipulation**|Jia Syuen Lim et.al.|[2604.01567](http://arxiv.org/abs/2604.01567)|null|
+|**2026-04-01**|**EgoFlow: Gradient-Guided Flow Matching for Egocentric 6DoF Object Motion Generation**|Abhishek Saroha et.al.|[2604.01421](http://arxiv.org/abs/2604.01421)|null|
 |**2026-04-01**|**ReMoGen: Real-time Human Interaction-to-Reaction Generation via Modular Learning from Diverse Data**|Yaoqin Ye et.al.|[2604.01082](http://arxiv.org/abs/2604.01082)|null|
 |**2026-04-01**|**Sparkle: A Robust and Versatile Representation for Point Cloud based Human Motion Capture**|Yiming Ren et.al.|[2604.00857](http://arxiv.org/abs/2604.00857)|null|
 |**2026-04-01**|**PrivHAR-Bench: A Graduated Privacy Benchmark Dataset for Video-Based Action Recognition**|Samar Ansari et.al.|[2604.00761](http://arxiv.org/abs/2604.00761)|null|
@@ -611,12 +616,13 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260402>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260403>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-02**|**EmbodMocap: In-the-Wild 4D Human-Scene Reconstruction for Embodied Agents**|Wenjia Wang et.al.|[2602.23205](http://arxiv.org/abs/2602.23205)|null|
 |**2026-04-01**|**ReMoGen: Real-time Human Interaction-to-Reaction Generation via Modular Learning from Diverse Data**|Yaoqin Ye et.al.|[2604.01082](http://arxiv.org/abs/2604.01082)|null|
 |**2026-03-27**|**The Limits of Learning from Pictures and Text: Vision-Language Models and Embodied Scene Understanding**|Gillian Rosenberg et.al.|[2603.26589](http://arxiv.org/abs/2603.26589)|null|
 |**2026-03-20**|**Contextual inference from single objects in Vision-Language models**|Martina G. Vilas et.al.|[2603.26731](http://arxiv.org/abs/2603.26731)|null|
@@ -625,7 +631,6 @@
 |**2026-03-16**|**HSImul3R: Physics-in-the-Loop Reconstruction of Simulation-Ready Human-Scene Interactions**|Yukang Cao et.al.|[2603.15612](http://arxiv.org/abs/2603.15612)|null|
 |**2026-03-09**|**Int3DNet: Scene-Motion Cross Attention Network for 3D Intention Prediction in Mixed Reality**|Taewook Ha et.al.|[2603.13355](http://arxiv.org/abs/2603.13355)|null|
 |**2026-03-01**|**CRISP: Contact-Guided Real2Sim from Monocular Video with Planar Scene Primitives**|Zihan Wang et.al.|[2512.14696](http://arxiv.org/abs/2512.14696)|null|
-|**2026-02-26**|**EmbodMocap: In-the-Wild 4D Human-Scene Reconstruction for Embodied Agents**|Wenjia Wang et.al.|[2602.23205](http://arxiv.org/abs/2602.23205)|null|
 |**2026-02-24**|**SceMoS: Scene-Aware 3D Human Motion Synthesis by Planning with Geometry-Grounded Tokens**|Anindita Ghosh et.al.|[2602.20476](http://arxiv.org/abs/2602.20476)|null|
 |**2026-02-24**|**Generating metamers of human scene understanding**|Ritik Raina et.al.|[2601.11675](http://arxiv.org/abs/2601.11675)|null|
 |**2026-02-05**|**PoseGaussian: Pose-Driven Novel View Synthesis for Robust 3D Human Reconstruction**|Ju Shen et.al.|[2602.05190](http://arxiv.org/abs/2602.05190)|null|
@@ -759,12 +764,14 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260402>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260403>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-02**|**Mining Instance-Centric Vision-Language Contexts for Human-Object Interaction Detection**|Soo Won Seo et.al.|[2604.02071](http://arxiv.org/abs/2604.02071)|null|
+|**2026-04-02**|**SHOE: Semantic HOI Open-Vocabulary Evaluation Metric**|Maja Noack et.al.|[2604.01586](http://arxiv.org/abs/2604.01586)|null|
 |**2026-04-01**|**RegFormer: Transferable Relational Grounding for Efficient Weakly-Supervised Human-Object Interaction Detection**|Jihwan Park et.al.|[2604.00507](http://arxiv.org/abs/2604.00507)|null|
 |**2026-03-29**|**Streamlined Open-Vocabulary Human-Object Interaction Detection**|Chang Sun et.al.|[2603.27500](http://arxiv.org/abs/2603.27500)|null|
 |**2026-03-28**|**LOME: Learning Human-Object Manipulation with Action-Conditioned Egocentric World Model**|Quankai Gao et.al.|[2603.27449](http://arxiv.org/abs/2603.27449)|null|
@@ -1009,12 +1016,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260402>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260403>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-02**|**Dark Patterns in Indian Quick Commerce Apps: A Student Perspective**|Tanish Taneja et.al.|[2604.02257](http://arxiv.org/abs/2604.02257)|null|
+|**2026-04-02**|**Impact of Multimodal and Conversational AI on Learning Outcomes and Experience**|Karan Taneja et.al.|[2604.02221](http://arxiv.org/abs/2604.02221)|null|
+|**2026-04-02**|**Visual Decoding Operators: Towards a Compositional Theory of Visualization Perception**|Sheng Long et.al.|[2604.02220](http://arxiv.org/abs/2604.02220)|null|
+|**2026-04-02**|**ViT-Explainer: An Interactive Walkthrough of the Vision Transformer Pipeline**|Juan Manuel Hernandez et.al.|[2604.02182](http://arxiv.org/abs/2604.02182)|null|
+|**2026-04-02**|**Designing Transformational Games to Support Socio-ethical Reasoning about Generative AI**|Jaemarie Solyst et.al.|[2604.02154](http://arxiv.org/abs/2604.02154)|null|
+|**2026-04-02**|**ProVega: A Grammar to Ease the Prototyping, Creation, and Reproducibility of Progressive Data Analysis and Visualization Solutions**|Matteo Filosa et.al.|[2604.02096](http://arxiv.org/abs/2604.02096)|null|
+|**2026-04-02**|**As Far as Eye See: Vergence-Pupil Coupling in Near-Far Depth Switching**|Virmarie Maquiling et.al.|[2604.01917](http://arxiv.org/abs/2604.01917)|null|
+|**2026-04-02**|**Night Eyes: A Reproducible Framework for Constellation-Based Corneal Reflection Matching**|Virmarie Maquiling et.al.|[2604.01909](http://arxiv.org/abs/2604.01909)|null|
+|**2026-04-02**|**Eyes Can't Always Tell: Fusing Eye Tracking and User Priors for User Modeling under AI Advice Conditions**|Xin Sun et.al.|[2604.01741](http://arxiv.org/abs/2604.01741)|null|
+|**2026-04-02**|**Cognitive Energy Modeling for Neuroadaptive Human-Machine Systems using EEG and WGAN-GP**|Sriram Sattiraju et.al.|[2604.01653](http://arxiv.org/abs/2604.01653)|null|
 |**2026-04-01**|**Assessing Affective Objectives for Communicative Visualizations**|Elsie Lee-Robbins et.al.|[2604.01183](http://arxiv.org/abs/2604.01183)|null|
 |**2026-04-01**|**True (VIS) Lies: Analyzing How Generative AI Recognizes Intentionality, Rhetoric, and Misleadingness in Visualization Lies**|Graziano Blasilli et.al.|[2604.01181](http://arxiv.org/abs/2604.01181)|null|
 |**2026-04-01**|**Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators**|Griffin Pitts et.al.|[2604.01114](http://arxiv.org/abs/2604.01114)|null|
@@ -2184,7 +2201,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260402>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260403>back to top</a>)</p>
 
 Notes: 
 
