@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.04.05
+### Automatically Updated on 2026.04.06
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-03**|**Joint Prediction of Human Motions and Actions in Human-Robot Collaboration**|Alessandra Bulanti et.al.|[2604.03065](http://arxiv.org/abs/2604.03065)|null|
+|**2026-04-03**|**Exploring Motion-Language Alignment for Text-driven Motion Generation**|Ruxi Gu et.al.|[2604.02973](http://arxiv.org/abs/2604.02973)|null|
+|**2026-04-03**|**GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes**|Mijeong Kim et.al.|[2604.02915](http://arxiv.org/abs/2604.02915)|null|
 |**2026-04-02**|**UAV-Track VLA: Embodied Aerial Tracking via Vision-Language-Action Models**|Qiyao Zhang et.al.|[2604.02241](http://arxiv.org/abs/2604.02241)|null|
 |**2026-04-02**|**Realistic Lip Motion Generation Based on 3D Dynamic Viseme and Coarticulation Modeling for Human-Robot Interaction**|Sheng Li et.al.|[2604.01756](http://arxiv.org/abs/2604.01756)|null|
 |**2026-04-02**|**DynaVid: Learning to Generate Highly Dynamic Videos using Synthetic Motion Data**|Wonjoon Jin et.al.|[2604.01666](http://arxiv.org/abs/2604.01666)|null|
@@ -616,7 +619,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260405>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -764,7 +767,7 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260405>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
@@ -1016,12 +1019,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260405>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-03**|**Help Converts Newcomers, Not Veterans: Generalized Reciprocity and Platform Engagement on Stack Overflow**|Lenard Strahringer et.al.|[2604.03209](http://arxiv.org/abs/2604.03209)|null|
+|**2026-04-03**|**CASCADE: A Cascading Architecture for Social Coordination with Controllable Emergence at Low Cost**|Yizhi Xu et.al.|[2604.03091](http://arxiv.org/abs/2604.03091)|null|
+|**2026-04-03**|**Same Feedback, Different Source: How AI vs. Human Feedback Attribution and Credibility Shape Learner Behavior in Computing Education**|Caitlin Morris et.al.|[2604.03075](http://arxiv.org/abs/2604.03075)|null|
+|**2026-04-03**|**MECO: A Multimodal Dataset for Emotion and Cognitive Understanding in Older Adults**|Hongbin Chen et.al.|[2604.03050](http://arxiv.org/abs/2604.03050)|null|
+|**2026-04-03**|**Comparing the Impact of Pedagogy-Informed Custom and General-Purpose GAI Chatbots on Students' Science Problem-Solving Processes and Performance Using Heterogeneous Interaction Network Analysis**|Hanyu Su et.al.|[2604.03022](http://arxiv.org/abs/2604.03022)|null|
+|**2026-04-03**|**UnrealVis: A Testing Laboratory of Optimization Techniques in Unreal Engine for Scientific Visualization**|Matteo Filosa et.al.|[2604.02980](http://arxiv.org/abs/2604.02980)|null|
+|**2026-04-03**|**SentiAvatar: Towards Expressive and Interactive Digital Humans**|Chuhao Jin et.al.|[2604.02908](http://arxiv.org/abs/2604.02908)|null|
+|**2026-04-03**|**Generative AI Use in Professional Graduate Thesis Writing: Adoption, Perceived Outcomes, and the Role of a Research-Specialized Agent**|Kenji Saito et.al.|[2604.02792](http://arxiv.org/abs/2604.02792)|null|
+|**2026-04-03**|**Disrupting Cognitive Passivity: Rethinking AI-Assisted Data Literacy through Cognitive Alignment**|Yongsu Ahn et.al.|[2604.02783](http://arxiv.org/abs/2604.02783)|null|
+|**2026-04-03**|**AI Disclosure with DAISY**|Yoana Ahmetoglu et.al.|[2604.02760](http://arxiv.org/abs/2604.02760)|null|
 |**2026-04-02**|**Dark Patterns in Indian Quick Commerce Apps: A Student Perspective**|Tanish Taneja et.al.|[2604.02257](http://arxiv.org/abs/2604.02257)|null|
 |**2026-04-02**|**Impact of Multimodal and Conversational AI on Learning Outcomes and Experience**|Karan Taneja et.al.|[2604.02221](http://arxiv.org/abs/2604.02221)|null|
 |**2026-04-02**|**Visual Decoding Operators: Towards a Compositional Theory of Visualization Perception**|Sheng Long et.al.|[2604.02220](http://arxiv.org/abs/2604.02220)|null|
@@ -2201,7 +2214,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260405>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
 
 Notes: 
 
