@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.04.06
+### Automatically Updated on 2026.04.07
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-06**|**AnyUser: Translating Sketched User Intent into Domestic Robots**|Songyuan Yang et.al.|[2604.04811](http://arxiv.org/abs/2604.04811)|null|
+|**2026-04-06**|**BiTDiff: Fine-Grained 3D Conducting Motion Generation via BiMamba-Transformer Diffusion**|Tianzhi Jia et.al.|[2604.04395](http://arxiv.org/abs/2604.04395)|null|
+|**2026-04-05**|**Dynamic Whole-Body Dancing with Humanoid Robots -- A Model-Based Control Approach**|Shibowen Zhang et.al.|[2604.03999](http://arxiv.org/abs/2604.03999)|null|
+|**2026-04-05**|**VLA-Forget: Vision-Language-Action Unlearning for Embodied Foundation Models**|Ravi Ranjan et.al.|[2604.03956](http://arxiv.org/abs/2604.03956)|null|
+|**2026-04-04**|**Next-Scale Autoregressive Models for Text-to-Motion Generation**|Zhiwei Zheng et.al.|[2604.03799](http://arxiv.org/abs/2604.03799)|null|
 |**2026-04-03**|**Joint Prediction of Human Motions and Actions in Human-Robot Collaboration**|Alessandra Bulanti et.al.|[2604.03065](http://arxiv.org/abs/2604.03065)|null|
 |**2026-04-03**|**Exploring Motion-Language Alignment for Text-driven Motion Generation**|Ruxi Gu et.al.|[2604.02973](http://arxiv.org/abs/2604.02973)|null|
 |**2026-04-03**|**GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes**|Mijeong Kim et.al.|[2604.02915](http://arxiv.org/abs/2604.02915)|null|
@@ -619,12 +624,13 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260407>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-06**|**InfBaGel: Human-Object-Scene Interaction Generation with Dynamic Perception and Iterative Refinement**|Yude Zou et.al.|[2604.04843](http://arxiv.org/abs/2604.04843)|null|
 |**2026-04-02**|**EmbodMocap: In-the-Wild 4D Human-Scene Reconstruction for Embodied Agents**|Wenjia Wang et.al.|[2602.23205](http://arxiv.org/abs/2602.23205)|null|
 |**2026-04-01**|**ReMoGen: Real-time Human Interaction-to-Reaction Generation via Modular Learning from Diverse Data**|Yaoqin Ye et.al.|[2604.01082](http://arxiv.org/abs/2604.01082)|null|
 |**2026-03-27**|**The Limits of Learning from Pictures and Text: Vision-Language Models and Embodied Scene Understanding**|Gillian Rosenberg et.al.|[2603.26589](http://arxiv.org/abs/2603.26589)|null|
@@ -767,12 +773,16 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260407>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-06**|**InfBaGel: Human-Object-Scene Interaction Generation with Dynamic Perception and Iterative Refinement**|Yude Zou et.al.|[2604.04843](http://arxiv.org/abs/2604.04843)|null|
+|**2026-04-05**|**HOIGS: Human-Object Interaction Gaussian Splatting**|Taewoo Kim et.al.|[2604.04016](http://arxiv.org/abs/2604.04016)|null|
+|**2026-04-04**|**Leveraging Gaze and Set-of-Mark in VLLMs for Human-Object Interaction Anticipation from Egocentric Videos**|Daniele Materia et.al.|[2604.03667](http://arxiv.org/abs/2604.03667)|null|
+|**2026-04-04**|**SBF: An Effective Representation to Augment Skeleton for Video-based Human Action Recognition**|Zhuoxuan Peng et.al.|[2604.03590](http://arxiv.org/abs/2604.03590)|null|
 |**2026-04-02**|**Mining Instance-Centric Vision-Language Contexts for Human-Object Interaction Detection**|Soo Won Seo et.al.|[2604.02071](http://arxiv.org/abs/2604.02071)|null|
 |**2026-04-02**|**SHOE: Semantic HOI Open-Vocabulary Evaluation Metric**|Maja Noack et.al.|[2604.01586](http://arxiv.org/abs/2604.01586)|null|
 |**2026-04-01**|**RegFormer: Transferable Relational Grounding for Efficient Weakly-Supervised Human-Object Interaction Detection**|Jihwan Park et.al.|[2604.00507](http://arxiv.org/abs/2604.00507)|null|
@@ -1019,12 +1029,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260407>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-06**|**Comprehensive List of User Deception Techniques in Emails**|Maxime Veit et.al.|[2604.04926](http://arxiv.org/abs/2604.04926)|null|
+|**2026-04-06**|**Comparing Human Oversight Strategies for Computer-Use Agents**|Chaoran Chen et.al.|[2604.04918](http://arxiv.org/abs/2604.04918)|null|
+|**2026-04-06**|**Exploring Expert Perspectives on Wearable-Triggered LLM Conversational Support for Daily Stress Management**|Poorvesh Dongre et.al.|[2604.04915](http://arxiv.org/abs/2604.04915)|null|
+|**2026-04-06**|**ClickAIXR: On-Device Multimodal Vision-Language Interaction with Real-World Objects in Extended Reality**|Dawar Khan et.al.|[2604.04905](http://arxiv.org/abs/2604.04905)|null|
+|**2026-04-06**|**Demonstrating SIMA-Play: A Serious Game for Forest Management Decision-Making through Board Game and Digital Simulation**|Arka Majhi et.al.|[2604.04904](http://arxiv.org/abs/2604.04904)|null|
+|**2026-04-06**|**When One Sensor Fails: Tolerating Dysfunction in Multi-Sensor Prototypes**|Freek Hens et.al.|[2604.04832](http://arxiv.org/abs/2604.04832)|null|
+|**2026-04-06**|**AnyUser: Translating Sketched User Intent into Domestic Robots**|Songyuan Yang et.al.|[2604.04811](http://arxiv.org/abs/2604.04811)|null|
+|**2026-04-06**|**A Multi-Agent Framework for Democratizing XR Content Creation in K-12 Classrooms**|Yuan Chang et.al.|[2604.04728](http://arxiv.org/abs/2604.04728)|null|
+|**2026-04-06**|**Bounded Autonomy: Controlling LLM Characters in Live Multiplayer Games**|Yunjia Guo et.al.|[2604.04703](http://arxiv.org/abs/2604.04703)|null|
+|**2026-04-06**|**Design Guidelines for Game-Based Refresher Training of Community Health Workers in Low-Resource Contexts**|Arka Majhi et.al.|[2604.04671](http://arxiv.org/abs/2604.04671)|null|
 |**2026-04-03**|**Help Converts Newcomers, Not Veterans: Generalized Reciprocity and Platform Engagement on Stack Overflow**|Lenard Strahringer et.al.|[2604.03209](http://arxiv.org/abs/2604.03209)|null|
 |**2026-04-03**|**CASCADE: A Cascading Architecture for Social Coordination with Controllable Emergence at Low Cost**|Yizhi Xu et.al.|[2604.03091](http://arxiv.org/abs/2604.03091)|null|
 |**2026-04-03**|**Same Feedback, Different Source: How AI vs. Human Feedback Attribution and Credibility Shape Learner Behavior in Computing Education**|Caitlin Morris et.al.|[2604.03075](http://arxiv.org/abs/2604.03075)|null|
@@ -2214,7 +2234,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260407>back to top</a>)</p>
 
 Notes: 
 
