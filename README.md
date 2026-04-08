@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.04.07
+### Automatically Updated on 2026.04.08
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-07**|**HumANDiff: Articulated Noise Diffusion for Motion-Consistent Human Video Generation**|Tao Hu et.al.|[2604.05961](http://arxiv.org/abs/2604.05961)|null|
+|**2026-04-07**|**Context-Value-Action Architecture for Value-Driven Large Language Model Agents**|TianZe Zhang et.al.|[2604.05939](http://arxiv.org/abs/2604.05939)|null|
+|**2026-04-07**|**A1: A Fully Transparent Open-Source, Adaptive and Efficient Truncated Vision-Language-Action Model**|Kaidong Zhang et.al.|[2604.05672](http://arxiv.org/abs/2604.05672)|null|
+|**2026-04-07**|**SnapFlow: One-Step Action Generation for Flow-Matching VLAs via Progressive Self-Distillation**|Wuyang Luan et.al.|[2604.05656](http://arxiv.org/abs/2604.05656)|null|
+|**2026-04-07**|**JailWAM: Jailbreaking World Action Models in Robot Control**|Hanqing Liu et.al.|[2604.05498](http://arxiv.org/abs/2604.05498)|null|
 |**2026-04-06**|**AnyUser: Translating Sketched User Intent into Domestic Robots**|Songyuan Yang et.al.|[2604.04811](http://arxiv.org/abs/2604.04811)|null|
 |**2026-04-06**|**BiTDiff: Fine-Grained 3D Conducting Motion Generation via BiMamba-Transformer Diffusion**|Tianzhi Jia et.al.|[2604.04395](http://arxiv.org/abs/2604.04395)|null|
 |**2026-04-05**|**Dynamic Whole-Body Dancing with Humanoid Robots -- A Model-Based Control Approach**|Shibowen Zhang et.al.|[2604.03999](http://arxiv.org/abs/2604.03999)|null|
@@ -624,12 +629,13 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260407>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260408>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-07**|**Human Interaction-Aware 3D Reconstruction from a Single Image**|Gwanghyun Kim et.al.|[2604.05436](http://arxiv.org/abs/2604.05436)|null|
 |**2026-04-06**|**InfBaGel: Human-Object-Scene Interaction Generation with Dynamic Perception and Iterative Refinement**|Yude Zou et.al.|[2604.04843](http://arxiv.org/abs/2604.04843)|null|
 |**2026-04-02**|**EmbodMocap: In-the-Wild 4D Human-Scene Reconstruction for Embodied Agents**|Wenjia Wang et.al.|[2602.23205](http://arxiv.org/abs/2602.23205)|null|
 |**2026-04-01**|**ReMoGen: Real-time Human Interaction-to-Reaction Generation via Modular Learning from Diverse Data**|Yaoqin Ye et.al.|[2604.01082](http://arxiv.org/abs/2604.01082)|null|
@@ -773,7 +779,7 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260407>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260408>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
@@ -1029,12 +1035,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260407>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260408>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-07**|**MAESTRO: Adapting GUIs and Guiding Navigation with User Preferences in Conversational Agents with GUIs**|Sangwook Lee et.al.|[2604.06134](http://arxiv.org/abs/2604.06134)|null|
+|**2026-04-07**|**Understanding Educators' Perceptions of AI-generated Non-consensual Intimate Imagery**|Tongxin Li et.al.|[2604.06131](http://arxiv.org/abs/2604.06131)|null|
+|**2026-04-07**|**UI Placement as a Critical Design Factor for Augmented Reality During Locomotion**|Pavel Manakhov et.al.|[2604.06102](http://arxiv.org/abs/2604.06102)|null|
+|**2026-04-07**|**Intuitive Human-Robot Interaction: Development and Evaluation of a Gesture-Based User Interface for Object Selection**|Bijan Kavousian et.al.|[2604.06073](http://arxiv.org/abs/2604.06073)|null|
+|**2026-04-07**|**Stories of Your Life as Others: A Round-Trip Evaluation of LLM-Generated Life Stories Conditioned on Rich Psychometric Profiles**|Ben Wigler et.al.|[2604.06071](http://arxiv.org/abs/2604.06071)|null|
+|**2026-04-07**|**Governance and Regulation of Artificial Intelligence in Developing Countries: A Case Study of Nigeria**|Uloma Okoro et.al.|[2604.06018](http://arxiv.org/abs/2604.06018)|null|
+|**2026-04-07**|**Designing Around Stigma: Human-Centered LLMs for Menstrual Health**|Amna Shahnawaz et.al.|[2604.06008](http://arxiv.org/abs/2604.06008)|null|
+|**2026-04-07**|**Regimes of Scale in AI Meteorology**|Anya Martin et.al.|[2604.06000](http://arxiv.org/abs/2604.06000)|null|
+|**2026-04-07**|**Context-Value-Action Architecture for Value-Driven Large Language Model Agents**|TianZe Zhang et.al.|[2604.05939](http://arxiv.org/abs/2604.05939)|null|
+|**2026-04-07**|**FEEL: Quantifying Heterogeneity in Physiological Signals for Generalizable Emotion Recognition**|Pragya Singh et.al.|[2604.05926](http://arxiv.org/abs/2604.05926)|null|
 |**2026-04-06**|**Comprehensive List of User Deception Techniques in Emails**|Maxime Veit et.al.|[2604.04926](http://arxiv.org/abs/2604.04926)|null|
 |**2026-04-06**|**Comparing Human Oversight Strategies for Computer-Use Agents**|Chaoran Chen et.al.|[2604.04918](http://arxiv.org/abs/2604.04918)|null|
 |**2026-04-06**|**Exploring Expert Perspectives on Wearable-Triggered LLM Conversational Support for Daily Stress Management**|Poorvesh Dongre et.al.|[2604.04915](http://arxiv.org/abs/2604.04915)|null|
@@ -2234,7 +2250,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260407>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260408>back to top</a>)</p>
 
 Notes: 
 
