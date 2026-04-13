@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.04.12
+### Automatically Updated on 2026.04.13
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-10**|**Envisioning the Future, One Step at a Time**|Stefan Andreas Baumann et.al.|[2604.09527](http://arxiv.org/abs/2604.09527)|null|
+|**2026-04-10**|**Adaptor: Advancing Assistive Teleoperation with Few-Shot Learning and Cross-Operator Generalization**|Yu Liu et.al.|[2604.09462](http://arxiv.org/abs/2604.09462)|null|
+|**2026-04-10**|**VAG: Dual-Stream Video-Action Generation for Embodied Data Synthesis**|Xiaolei Lang et.al.|[2604.09330](http://arxiv.org/abs/2604.09330)|null|
+|**2026-04-10**|**Advantage-Guided Diffusion for Model-Based Reinforcement Learning**|Daniele Foffano et.al.|[2604.09035](http://arxiv.org/abs/2604.09035)|null|
+|**2026-04-10**|**Efficient Hierarchical Implicit Flow Q-learning for Offline Goal-conditioned Reinforcement Learning**|Zhiqiang Dong et.al.|[2604.08960](http://arxiv.org/abs/2604.08960)|null|
+|**2026-04-10**|**Simulation of Adaptive Running with Flexible Sports Prosthesis using Reinforcement Learning of Hybrid-link System**|Yuta Shimane et.al.|[2604.08882](http://arxiv.org/abs/2604.08882)|null|
+|**2026-04-09**|**Generative Simulation for Policy Learning in Physical Human-Robot Interaction**|Junxiang Wang et.al.|[2604.08664](http://arxiv.org/abs/2604.08664)|null|
+|**2026-04-09**|**LEGO: Latent-space Exploration for Geometry-aware Optimization of Humanoid Kinematic Design**|Jihwan Yoon et.al.|[2604.08636](http://arxiv.org/abs/2604.08636)|null|
 |**2026-04-09**|**E-3DPSM: A State Machine for Event-Based Egocentric 3D Human Pose Estimation**|Mayur Deshmukh et.al.|[2604.08543](http://arxiv.org/abs/2604.08543)|null|
 |**2026-04-09**|**EMMa: End-Effector Stability-Oriented Mobile Manipulation for Tracked Rescue Robots**|Yifei Wang et.al.|[2604.08292](http://arxiv.org/abs/2604.08292)|null|
 |**2026-04-09**|**Value-Guidance MeanFlow for Offline Multi-Agent Reinforcement Learning**|Teng Pang et.al.|[2604.08174](http://arxiv.org/abs/2604.08174)|null|
@@ -638,7 +646,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260412>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260413>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -788,7 +796,7 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260412>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260413>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
@@ -1044,12 +1052,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260412>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260413>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-10**|**Demonstrably Informed Consent in Privacy Policy Flows: Evidence from a Randomized Experiment**|Qian Ma et.al.|[2604.09518](http://arxiv.org/abs/2604.09518)|null|
+|**2026-04-10**|**Many Ways to Be Fake: Benchmarking Fake News Detection Under Strategy-Driven AI Generation**|Xinyu Wang et.al.|[2604.09514](http://arxiv.org/abs/2604.09514)|null|
+|**2026-04-10**|**Silence and Noise: Self-censorship and Opinion Expression on Social Media**|Xinyu Wang et.al.|[2604.09465](http://arxiv.org/abs/2604.09465)|null|
+|**2026-04-10**|**Confidence Without Competence in AI-Assisted Knowledge Work**|Elena Eleftheriou et.al.|[2604.09444](http://arxiv.org/abs/2604.09444)|null|
+|**2026-04-10**|**Intent Lenses: Inferring Capture-Time Intent to Transform Opportunistic Photo Captures into Structured Visual Notes**|Ashwin Ram et.al.|[2604.09438](http://arxiv.org/abs/2604.09438)|null|
+|**2026-04-10**|**Three Modalities, Two Design Probes, One Prototype, and No Vision: Experience-Based Co-Design of a Multi-modal 3D Data Visualization Tool**|Sanchita S. Kamath et.al.|[2604.09426](http://arxiv.org/abs/2604.09426)|null|
+|**2026-04-10**|**Insights from Farmer-Managed Decentralized Solar Irrigation Systems**|Arnab Paul Choudhury et.al.|[2604.09395](http://arxiv.org/abs/2604.09395)|null|
+|**2026-04-10**|**3D-Printing Water-Soluble Channels Filled with Liquid Metal for Recyclable and Cuttable Wireless Power Sheet**|Takashi Sato et.al.|[2604.09299](http://arxiv.org/abs/2604.09299)|null|
+|**2026-04-10**|**LandSAR: Visceralizing Landslide Data for Enhanced Situational Awareness in Immersive Analytics**|Wong Kam-Kwai et.al.|[2604.09241](http://arxiv.org/abs/2604.09241)|null|
+|**2026-04-10**|**Artificial intelligence can persuade people to take political actions**|Kobi Hackenburg et.al.|[2604.09200](http://arxiv.org/abs/2604.09200)|null|
 |**2026-04-09**|**PSI: Shared State as the Missing Layer for Coherent AI-Generated Instruments in Personal AI Agents**|Zhiyuan Wang et.al.|[2604.08529](http://arxiv.org/abs/2604.08529)|null|
 |**2026-04-09**|**"Because we are no longer ashamed of our disabilities, we are proud": Advocating and Reclaiming Next-Gen Accessibility Symbols**|Karen Joy et.al.|[2604.08514](http://arxiv.org/abs/2604.08514)|null|
 |**2026-04-09**|**Bridging the Gap between Micro-scale Traffic Simulation and 4D Digital Cityscapes**|Longxiang Jiao et.al.|[2604.08497](http://arxiv.org/abs/2604.08497)|null|
@@ -2279,7 +2297,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260412>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260413>back to top</a>)</p>
 
 Notes: 
 

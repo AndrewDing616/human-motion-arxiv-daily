@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.04.12
+### Automatically Updated on 2026.04.13
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-10**|**Envisioning the Future, One Step at a Time**|Stefan Andreas Baumann et.al.|[2604.09527](http://arxiv.org/abs/2604.09527)|null|
+|**2026-04-10**|**Adaptor: Advancing Assistive Teleoperation with Few-Shot Learning and Cross-Operator Generalization**|Yu Liu et.al.|[2604.09462](http://arxiv.org/abs/2604.09462)|null|
+|**2026-04-10**|**VAG: Dual-Stream Video-Action Generation for Embodied Data Synthesis**|Xiaolei Lang et.al.|[2604.09330](http://arxiv.org/abs/2604.09330)|null|
+|**2026-04-10**|**Advantage-Guided Diffusion for Model-Based Reinforcement Learning**|Daniele Foffano et.al.|[2604.09035](http://arxiv.org/abs/2604.09035)|null|
+|**2026-04-10**|**Efficient Hierarchical Implicit Flow Q-learning for Offline Goal-conditioned Reinforcement Learning**|Zhiqiang Dong et.al.|[2604.08960](http://arxiv.org/abs/2604.08960)|null|
+|**2026-04-10**|**Simulation of Adaptive Running with Flexible Sports Prosthesis using Reinforcement Learning of Hybrid-link System**|Yuta Shimane et.al.|[2604.08882](http://arxiv.org/abs/2604.08882)|null|
+|**2026-04-09**|**Generative Simulation for Policy Learning in Physical Human-Robot Interaction**|Junxiang Wang et.al.|[2604.08664](http://arxiv.org/abs/2604.08664)|null|
+|**2026-04-09**|**LEGO: Latent-space Exploration for Geometry-aware Optimization of Humanoid Kinematic Design**|Jihwan Yoon et.al.|[2604.08636](http://arxiv.org/abs/2604.08636)|null|
 |**2026-04-09**|**E-3DPSM: A State Machine for Event-Based Egocentric 3D Human Pose Estimation**|Mayur Deshmukh et.al.|[2604.08543](http://arxiv.org/abs/2604.08543)|null|
 |**2026-04-09**|**EMMa: End-Effector Stability-Oriented Mobile Manipulation for Tracked Rescue Robots**|Yifei Wang et.al.|[2604.08292](http://arxiv.org/abs/2604.08292)|null|
 |**2026-04-09**|**Value-Guidance MeanFlow for Offline Multi-Agent Reinforcement Learning**|Teng Pang et.al.|[2604.08174](http://arxiv.org/abs/2604.08174)|null|
@@ -1989,6 +1997,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-10**|**Demonstrably Informed Consent in Privacy Policy Flows: Evidence from a Randomized Experiment**|Qian Ma et.al.|[2604.09518](http://arxiv.org/abs/2604.09518)|null|
+|**2026-04-10**|**Many Ways to Be Fake: Benchmarking Fake News Detection Under Strategy-Driven AI Generation**|Xinyu Wang et.al.|[2604.09514](http://arxiv.org/abs/2604.09514)|null|
+|**2026-04-10**|**Silence and Noise: Self-censorship and Opinion Expression on Social Media**|Xinyu Wang et.al.|[2604.09465](http://arxiv.org/abs/2604.09465)|null|
+|**2026-04-10**|**Confidence Without Competence in AI-Assisted Knowledge Work**|Elena Eleftheriou et.al.|[2604.09444](http://arxiv.org/abs/2604.09444)|null|
+|**2026-04-10**|**Intent Lenses: Inferring Capture-Time Intent to Transform Opportunistic Photo Captures into Structured Visual Notes**|Ashwin Ram et.al.|[2604.09438](http://arxiv.org/abs/2604.09438)|null|
+|**2026-04-10**|**Three Modalities, Two Design Probes, One Prototype, and No Vision: Experience-Based Co-Design of a Multi-modal 3D Data Visualization Tool**|Sanchita S. Kamath et.al.|[2604.09426](http://arxiv.org/abs/2604.09426)|null|
+|**2026-04-10**|**Insights from Farmer-Managed Decentralized Solar Irrigation Systems**|Arnab Paul Choudhury et.al.|[2604.09395](http://arxiv.org/abs/2604.09395)|null|
+|**2026-04-10**|**3D-Printing Water-Soluble Channels Filled with Liquid Metal for Recyclable and Cuttable Wireless Power Sheet**|Takashi Sato et.al.|[2604.09299](http://arxiv.org/abs/2604.09299)|null|
+|**2026-04-10**|**LandSAR: Visceralizing Landslide Data for Enhanced Situational Awareness in Immersive Analytics**|Wong Kam-Kwai et.al.|[2604.09241](http://arxiv.org/abs/2604.09241)|null|
+|**2026-04-10**|**Artificial intelligence can persuade people to take political actions**|Kobi Hackenburg et.al.|[2604.09200](http://arxiv.org/abs/2604.09200)|null|
 |**2026-04-09**|**PSI: Shared State as the Missing Layer for Coherent AI-Generated Instruments in Personal AI Agents**|Zhiyuan Wang et.al.|[2604.08529](http://arxiv.org/abs/2604.08529)|null|
 |**2026-04-09**|**"Because we are no longer ashamed of our disabilities, we are proud": Advocating and Reclaiming Next-Gen Accessibility Symbols**|Karen Joy et.al.|[2604.08514](http://arxiv.org/abs/2604.08514)|null|
 |**2026-04-09**|**Bridging the Gap between Micro-scale Traffic Simulation and 4D Digital Cityscapes**|Longxiang Jiao et.al.|[2604.08497](http://arxiv.org/abs/2604.08497)|null|
