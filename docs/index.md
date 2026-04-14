@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.04.13
+### Automatically Updated on 2026.04.14
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-13**|**A Unified Approach to Human-Scale Blockage and Scattering Analysis in Sub-THz Propagation With Application to RF Sensing**|Stefano Savazzi et.al.|[2604.11252](http://arxiv.org/abs/2604.11252)|null|
+|**2026-04-13**|**CLAW: Composable Language-Annotated Whole-body Motion Generation**|Jianuo Cao et.al.|[2604.11251](http://arxiv.org/abs/2604.11251)|null|
+|**2026-04-13**|**AIM: Intent-Aware Unified world action Modeling with Spatial Value Maps**|Liaoyuan Fan et.al.|[2604.11135](http://arxiv.org/abs/2604.11135)|null|
+|**2026-04-13**|**FlowCoMotion: Text-to-Motion Generation via Token-Latent Flow Modeling**|Dawei Guan et.al.|[2604.11083](http://arxiv.org/abs/2604.11083)|null|
+|**2026-04-13**|**ScoRe-Flow: Complete Distributional Control via Score-Based Reinforcement Learning for Flow Matching**|Xiaotian Qiu et.al.|[2604.10962](http://arxiv.org/abs/2604.10962)|null|
+|**2026-04-13**|**LiveGesture Streamable Co-Speech Gesture Generation Model**|Muhammad Usama Saleem et.al.|[2604.10927](http://arxiv.org/abs/2604.10927)|null|
+|**2026-04-12**|**HO-Flow: Generalizable Hand-Object Interaction Generation with Latent Flow Matching**|Zerui Chen et.al.|[2604.10836](http://arxiv.org/abs/2604.10836)|null|
+|**2026-04-11**|**COSMIK-MPPI: Scaling Constrained Model Predictive Control to Collision Avoidance in Close-Proximity Dynamic Human Environments**|Ege Gursoy et.al.|[2604.10358](http://arxiv.org/abs/2604.10358)|null|
+|**2026-04-11**|**FatigueFusion: Latent Space Fusion for Fatigue-Driven Motion Synthesis**|Iliana Loi et.al.|[2604.10199](http://arxiv.org/abs/2604.10199)|null|
+|**2026-04-10**|**Do vision models perceive illusory motion in static images like humans?**|Isabella Elaine Rosario et.al.|[2604.09853](http://arxiv.org/abs/2604.09853)|null|
 |**2026-04-10**|**Envisioning the Future, One Step at a Time**|Stefan Andreas Baumann et.al.|[2604.09527](http://arxiv.org/abs/2604.09527)|null|
 |**2026-04-10**|**Adaptor: Advancing Assistive Teleoperation with Few-Shot Learning and Cross-Operator Generalization**|Yu Liu et.al.|[2604.09462](http://arxiv.org/abs/2604.09462)|null|
 |**2026-04-10**|**VAG: Dual-Stream Video-Action Generation for Embodied Data Synthesis**|Xiaolei Lang et.al.|[2604.09330](http://arxiv.org/abs/2604.09330)|null|
@@ -1743,6 +1753,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-13**|**OmniShow: Unifying Multimodal Conditions for Human-Object Interaction Video Generation**|Donghao Zhou et.al.|[2604.11804](http://arxiv.org/abs/2604.11804)|null|
+|**2026-04-12**|**Rethinking Video Human-Object Interaction: Set Prediction over Time for Unified Detection and Anticipation**|Yuanhao Luo et.al.|[2604.10397](http://arxiv.org/abs/2604.10397)|null|
 |**2026-04-06**|**InfBaGel: Human-Object-Scene Interaction Generation with Dynamic Perception and Iterative Refinement**|Yude Zou et.al.|[2604.04843](http://arxiv.org/abs/2604.04843)|null|
 |**2026-04-05**|**HOIGS: Human-Object Interaction Gaussian Splatting**|Taewoo Kim et.al.|[2604.04016](http://arxiv.org/abs/2604.04016)|null|
 |**2026-04-04**|**Leveraging Gaze and Set-of-Mark in VLLMs for Human-Object Interaction Anticipation from Egocentric Videos**|Daniele Materia et.al.|[2604.03667](http://arxiv.org/abs/2604.03667)|null|
@@ -1997,6 +2009,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-13**|**Ambivalence/Hesitancy Recognition in Videos for Personalized Digital Health Interventions**|Manuela González-González et.al.|[2604.11730](http://arxiv.org/abs/2604.11730)|null|
+|**2026-04-13**|**HeartSway: Exploring Biodata as Poetic Traces in Public Space**|Zeyu Huang et.al.|[2604.11701](http://arxiv.org/abs/2604.11701)|null|
+|**2026-04-13**|**Exploring Radiologists' Expectations of Explainable Machine Learning Models in Medical Image Analysis**|Sara Ketabi et.al.|[2604.11700](http://arxiv.org/abs/2604.11700)|null|
+|**2026-04-13**|**Intersectional Sycophancy: How Perceived User Demographics Shape False Validation in Large Language Models**|Benjamin Maltbie et.al.|[2604.11609](http://arxiv.org/abs/2604.11609)|null|
+|**2026-04-13**|**From Multimodal Signals to Adaptive XR Experiences for De-escalation Training**|Birgit Nierula et.al.|[2604.11570](http://arxiv.org/abs/2604.11570)|null|
+|**2026-04-13**|**A Cross-Country Evaluation of Sentiment Toward Digital Payment Systems in Africa**|Isabel Agadagba et.al.|[2604.11566](http://arxiv.org/abs/2604.11566)|null|
+|**2026-04-13**|**Participation and Power: A Case Study of Using Ecological Momentary Assessment to Engage Adolescents in Academic Research**|Ozioma C. Oguine et.al.|[2604.11551](http://arxiv.org/abs/2604.11551)|null|
+|**2026-04-13**|**Human Centered Non Intrusive Driver State Modeling Using Personalized Physiological Signals in Real World Automated Driving**|David Puertas-Ramirez et.al.|[2604.11549](http://arxiv.org/abs/2604.11549)|null|
+|**2026-04-13**|**ResearchCube: Multi-Dimensional Trade-off Exploration for Research Ideation**|Zijian Ding et.al.|[2604.11538](http://arxiv.org/abs/2604.11538)|null|
+|**2026-04-13**|**Understanding the Gap Between Stated and Revealed Preferences in News Curation: A Study of Young Adult Social Media Users**|Do Won Kim et.al.|[2604.11517](http://arxiv.org/abs/2604.11517)|null|
 |**2026-04-10**|**Demonstrably Informed Consent in Privacy Policy Flows: Evidence from a Randomized Experiment**|Qian Ma et.al.|[2604.09518](http://arxiv.org/abs/2604.09518)|null|
 |**2026-04-10**|**Many Ways to Be Fake: Benchmarking Fake News Detection Under Strategy-Driven AI Generation**|Xinyu Wang et.al.|[2604.09514](http://arxiv.org/abs/2604.09514)|null|
 |**2026-04-10**|**Silence and Noise: Self-censorship and Opinion Expression on Social Media**|Xinyu Wang et.al.|[2604.09465](http://arxiv.org/abs/2604.09465)|null|
