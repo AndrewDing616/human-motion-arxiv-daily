@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.04.14
+### Automatically Updated on 2026.04.15
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,8 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-14**|**Robotic Manipulation is Vision-to-Geometry Mapping ( $f(v) \rightarrow G$ ): Vision-Geometry Backbones over Language and Video Models**|Zijian Song et.al.|[2604.12908](http://arxiv.org/abs/2604.12908)|null|
+|**2026-04-14**|**PianoFlow: Music-Aware Streaming Piano Motion Generation with Bimanual Coordination**|Xuan Wang et.al.|[2604.12856](http://arxiv.org/abs/2604.12856)|null|
+|**2026-04-14**|**A Dataset and Evaluation for Complex 4D Markerless Human Motion Capture**|Yeeun Park et.al.|[2604.12765](http://arxiv.org/abs/2604.12765)|null|
+|**2026-04-14**|**CLAW: Composable Language-Annotated Whole-body Motion Generation**|Jianuo Cao et.al.|[2604.11251](http://arxiv.org/abs/2604.11251)|null|
 |**2026-04-13**|**A Unified Approach to Human-Scale Blockage and Scattering Analysis in Sub-THz Propagation With Application to RF Sensing**|Stefano Savazzi et.al.|[2604.11252](http://arxiv.org/abs/2604.11252)|null|
-|**2026-04-13**|**CLAW: Composable Language-Annotated Whole-body Motion Generation**|Jianuo Cao et.al.|[2604.11251](http://arxiv.org/abs/2604.11251)|null|
 |**2026-04-13**|**AIM: Intent-Aware Unified world action Modeling with Spatial Value Maps**|Liaoyuan Fan et.al.|[2604.11135](http://arxiv.org/abs/2604.11135)|null|
 |**2026-04-13**|**FlowCoMotion: Text-to-Motion Generation via Token-Latent Flow Modeling**|Dawei Guan et.al.|[2604.11083](http://arxiv.org/abs/2604.11083)|null|
 |**2026-04-13**|**ScoRe-Flow: Complete Distributional Control via Score-Based Reinforcement Learning for Flow Matching**|Xiaotian Qiu et.al.|[2604.10962](http://arxiv.org/abs/2604.10962)|null|
@@ -656,7 +659,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260414>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260415>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -806,12 +809,13 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260414>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260415>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-14**|**Pi-HOC: Pairwise 3D Human-Object Contact Estimation**|Sravan Chittupalli et.al.|[2604.12923](http://arxiv.org/abs/2604.12923)|null|
 |**2026-04-13**|**OmniShow: Unifying Multimodal Conditions for Human-Object Interaction Video Generation**|Donghao Zhou et.al.|[2604.11804](http://arxiv.org/abs/2604.11804)|null|
 |**2026-04-12**|**Rethinking Video Human-Object Interaction: Set Prediction over Time for Unified Detection and Anticipation**|Yuanhao Luo et.al.|[2604.10397](http://arxiv.org/abs/2604.10397)|null|
 |**2026-04-06**|**InfBaGel: Human-Object-Scene Interaction Generation with Dynamic Perception and Iterative Refinement**|Yude Zou et.al.|[2604.04843](http://arxiv.org/abs/2604.04843)|null|
@@ -1064,12 +1068,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260414>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260415>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-14**|**PAL: Personal Adaptive Learner**|Megha Chakraborty et.al.|[2604.13017](http://arxiv.org/abs/2604.13017)|null|
+|**2026-04-14**|**GlintMarkers: Spatial Perception on XR Eyewear using Corneal Reflections**|Seungjoo Lee et.al.|[2604.12949](http://arxiv.org/abs/2604.12949)|null|
+|**2026-04-14**|**Human Agency, Causality, and the Human Computer Interface in High-Stakes Artificial Intelligence**|Georges Hattab et.al.|[2604.12793](http://arxiv.org/abs/2604.12793)|null|
+|**2026-04-14**|**A sequential explanatory mixed-methods study on the acceptance of a social robot for EFL speaking practice among Chinese primary school students: Insights from the Computers Are Social Actors (CASA) paradigm**|Yiran Du et.al.|[2604.12789](http://arxiv.org/abs/2604.12789)|null|
+|**2026-04-14**|**From Imitation to Discrimination: Progressive Curriculum Learning for Robust Web Navigation**|Chuang Peng et.al.|[2604.12666](http://arxiv.org/abs/2604.12666)|null|
+|**2026-04-14**|**GraphTide: Augmenting Knowledge-Intensive Text with Progressive Nested Graph**|Xin Qian et.al.|[2604.12624](http://arxiv.org/abs/2604.12624)|null|
+|**2026-04-14**|**Designing for Error Recovery in Human-Robot Interaction**|Christopher D. Wallbridge et.al.|[2604.12473](http://arxiv.org/abs/2604.12473)|null|
+|**2026-04-14**|**Responsible Trauma Research: Designing Effective and Sustainable Virtual Reality Exposure Studies**|Annalisa Degenhard et.al.|[2604.12349](http://arxiv.org/abs/2604.12349)|null|
+|**2026-04-14**|**Is Vibe Coding the Future? An Empirical Assessment of LLM Generated Codes for Construction Safety**|S M Jamil Uddin et.al.|[2604.12311](http://arxiv.org/abs/2604.12311)|null|
+|**2026-04-14**|**Dialogue Agents that Share Family Information to Strengthen Grandparent-Grandchild Relationships**|Seiya Mitsuno et.al.|[2604.12310](http://arxiv.org/abs/2604.12310)|null|
 |**2026-04-13**|**Ambivalence/Hesitancy Recognition in Videos for Personalized Digital Health Interventions**|Manuela González-González et.al.|[2604.11730](http://arxiv.org/abs/2604.11730)|null|
 |**2026-04-13**|**HeartSway: Exploring Biodata as Poetic Traces in Public Space**|Zeyu Huang et.al.|[2604.11701](http://arxiv.org/abs/2604.11701)|null|
 |**2026-04-13**|**Exploring Radiologists' Expectations of Explainable Machine Learning Models in Medical Image Analysis**|Sara Ketabi et.al.|[2604.11700](http://arxiv.org/abs/2604.11700)|null|
@@ -2319,7 +2333,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260414>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260415>back to top</a>)</p>
 
 Notes: 
 
