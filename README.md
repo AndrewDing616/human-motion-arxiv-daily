@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.04.16
+### Automatically Updated on 2026.04.17
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-16**|**Vision-Based Safe Human-Robot Collaboration with Uncertainty Guarantees**|Jakob Thumm et.al.|[2604.15221](http://arxiv.org/abs/2604.15221)|null|
+|**2026-04-16**|**World-Value-Action Model: Implicit Planning for Vision-Language-Action Systems**|Runze Li et.al.|[2604.14732](http://arxiv.org/abs/2604.14732)|null|
 |**2026-04-15**|**Goal2Skill: Long-Horizon Manipulation with Adaptive Planning and Reflection**|Zhen Liu et.al.|[2604.13942](http://arxiv.org/abs/2604.13942)|null|
 |**2026-04-15**|**Beyond State Consistency: Behavior Consistency in Text-Based World Models**|Youling Huang et.al.|[2604.13824](http://arxiv.org/abs/2604.13824)|null|
 |**2026-04-15**|**Bridging MARL to SARL: An Order-Independent Multi-Agent Transformer via Latent Consensus**|Zijian Zhao et.al.|[2604.13472](http://arxiv.org/abs/2604.13472)|null|
@@ -663,7 +665,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260416>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260417>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -813,7 +815,7 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260416>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260417>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
@@ -1076,12 +1078,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260416>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260417>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-16**|**UrbanClipAtlas: A Visual Analytics Framework for Event and Scene Retrieval in Urban Videos**|Joel Perca et.al.|[2604.15225](http://arxiv.org/abs/2604.15225)|null|
+|**2026-04-16**|**Low-Cost System for Automatic Recognition of Driving Pattern in Assessing Interurban Mobility using Geo-Information**|Oscar Romero et.al.|[2604.15216](http://arxiv.org/abs/2604.15216)|null|
+|**2026-04-16**|**OpenMobile: Building Open Mobile Agents with Task and Trajectory Synthesis**|Kanzhi Cheng et.al.|[2604.15093](http://arxiv.org/abs/2604.15093)|null|
+|**2026-04-16**|**"From remembering to shaping": Narrating Shared Experiences by Co-Designing Cultural Heritage Artifacts in Collaborative VR**|Yushang Yang et.al.|[2604.15058](http://arxiv.org/abs/2604.15058)|null|
+|**2026-04-16**|**CoGrid & the Multi-User Gymnasium: A Framework for Multi-Agent Experimentation**|Chase McDonald et.al.|[2604.15044](http://arxiv.org/abs/2604.15044)|null|
+|**2026-04-16**|**Applying SHAPR in AI-Assisted Research Software Development: Lessons Learnt from Building a Share Trading System**|Ka Ching Chan et.al.|[2604.15020](http://arxiv.org/abs/2604.15020)|null|
+|**2026-04-16**|**Agentic Explainability at Scale: Between Corporate Fears and XAI Needs**|Yomna Elsayed et.al.|[2604.14984](http://arxiv.org/abs/2604.14984)|null|
+|**2026-04-16**|**Hybrid Decision Making via Conformal VLM-generated Guidance**|Debodeep Banerjee et.al.|[2604.14980](http://arxiv.org/abs/2604.14980)|null|
+|**2026-04-16**|**Governing Reflective Human-AI Collaboration: A Framework for Epistemic Scaffolding and Traceable Reasoning**|Rikard Rosenbacke et.al.|[2604.14898](http://arxiv.org/abs/2604.14898)|null|
+|**2026-04-16**|**The Missing Knowledge Layer in AI: A Framework for Stable Human-AI Reasoning**|Rikard Rosenbacke et.al.|[2604.14881](http://arxiv.org/abs/2604.14881)|null|
 |**2026-04-15**|**"I'm Not Able to Be There for You": Emotional Labour, Responsibility, and AI in Peer Support**|Kellie Yu Hui Sim et.al.|[2604.14007](http://arxiv.org/abs/2604.14007)|null|
 |**2026-04-15**|**Acts of Configuration: Rethinking Provenance, Temporality and Legitimacy in Post-Mortem Agents**|Kellie Yu Hui Sim et.al.|[2604.13996](http://arxiv.org/abs/2604.13996)|null|
 |**2026-04-15**|**Block-Based Pathfinding: A Minecraft System for Visualizing Graph Algorithms**|Luca-Stefan Pirvu et.al.|[2604.13957](http://arxiv.org/abs/2604.13957)|null|
@@ -2351,7 +2363,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260416>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260417>back to top</a>)</p>
 
 Notes: 
 

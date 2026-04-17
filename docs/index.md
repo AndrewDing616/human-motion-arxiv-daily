@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.04.16
+### Automatically Updated on 2026.04.17
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**Vision-Based Safe Human-Robot Collaboration with Uncertainty Guarantees**|Jakob Thumm et.al.|[2604.15221](http://arxiv.org/abs/2604.15221)|null|
+|**2026-04-16**|**World-Value-Action Model: Implicit Planning for Vision-Language-Action Systems**|Runze Li et.al.|[2604.14732](http://arxiv.org/abs/2604.14732)|null|
 |**2026-04-15**|**Goal2Skill: Long-Horizon Manipulation with Adaptive Planning and Reflection**|Zhen Liu et.al.|[2604.13942](http://arxiv.org/abs/2604.13942)|null|
 |**2026-04-15**|**Beyond State Consistency: Behavior Consistency in Text-Based World Models**|Youling Huang et.al.|[2604.13824](http://arxiv.org/abs/2604.13824)|null|
 |**2026-04-15**|**Bridging MARL to SARL: An Order-Independent Multi-Agent Transformer via Latent Consensus**|Zijian Zhao et.al.|[2604.13472](http://arxiv.org/abs/2604.13472)|null|
@@ -2021,6 +2023,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**UrbanClipAtlas: A Visual Analytics Framework for Event and Scene Retrieval in Urban Videos**|Joel Perca et.al.|[2604.15225](http://arxiv.org/abs/2604.15225)|null|
+|**2026-04-16**|**Low-Cost System for Automatic Recognition of Driving Pattern in Assessing Interurban Mobility using Geo-Information**|Oscar Romero et.al.|[2604.15216](http://arxiv.org/abs/2604.15216)|null|
+|**2026-04-16**|**OpenMobile: Building Open Mobile Agents with Task and Trajectory Synthesis**|Kanzhi Cheng et.al.|[2604.15093](http://arxiv.org/abs/2604.15093)|null|
+|**2026-04-16**|**"From remembering to shaping": Narrating Shared Experiences by Co-Designing Cultural Heritage Artifacts in Collaborative VR**|Yushang Yang et.al.|[2604.15058](http://arxiv.org/abs/2604.15058)|null|
+|**2026-04-16**|**CoGrid & the Multi-User Gymnasium: A Framework for Multi-Agent Experimentation**|Chase McDonald et.al.|[2604.15044](http://arxiv.org/abs/2604.15044)|null|
+|**2026-04-16**|**Applying SHAPR in AI-Assisted Research Software Development: Lessons Learnt from Building a Share Trading System**|Ka Ching Chan et.al.|[2604.15020](http://arxiv.org/abs/2604.15020)|null|
+|**2026-04-16**|**Agentic Explainability at Scale: Between Corporate Fears and XAI Needs**|Yomna Elsayed et.al.|[2604.14984](http://arxiv.org/abs/2604.14984)|null|
+|**2026-04-16**|**Hybrid Decision Making via Conformal VLM-generated Guidance**|Debodeep Banerjee et.al.|[2604.14980](http://arxiv.org/abs/2604.14980)|null|
+|**2026-04-16**|**Governing Reflective Human-AI Collaboration: A Framework for Epistemic Scaffolding and Traceable Reasoning**|Rikard Rosenbacke et.al.|[2604.14898](http://arxiv.org/abs/2604.14898)|null|
+|**2026-04-16**|**The Missing Knowledge Layer in AI: A Framework for Stable Human-AI Reasoning**|Rikard Rosenbacke et.al.|[2604.14881](http://arxiv.org/abs/2604.14881)|null|
 |**2026-04-15**|**"I'm Not Able to Be There for You": Emotional Labour, Responsibility, and AI in Peer Support**|Kellie Yu Hui Sim et.al.|[2604.14007](http://arxiv.org/abs/2604.14007)|null|
 |**2026-04-15**|**Acts of Configuration: Rethinking Provenance, Temporality and Legitimacy in Post-Mortem Agents**|Kellie Yu Hui Sim et.al.|[2604.13996](http://arxiv.org/abs/2604.13996)|null|
 |**2026-04-15**|**Block-Based Pathfinding: A Minecraft System for Visualizing Graph Algorithms**|Luca-Stefan Pirvu et.al.|[2604.13957](http://arxiv.org/abs/2604.13957)|null|
