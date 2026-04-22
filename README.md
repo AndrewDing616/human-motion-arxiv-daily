@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.04.21
+### Automatically Updated on 2026.04.22
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-21**|**SpanVLA: Efficient Action Bridging and Learning from Negative-Recovery Samples for Vision-Language-Action Model**|Zewei Zhou et.al.|[2604.19710](http://arxiv.org/abs/2604.19710)|null|
+|**2026-04-21**|**LiveVLN: Breaking the Stop-and-Go Loop in Vision-Language Navigation**|Xiangchen Wang et.al.|[2604.19536](http://arxiv.org/abs/2604.19536)|null|
+|**2026-04-21**|**EgoMotion: Hierarchical Reasoning and Diffusion for Egocentric Vision-Language Motion Generation**|Ruibing Hou et.al.|[2604.19105](http://arxiv.org/abs/2604.19105)|null|
+|**2026-04-20**|**Match-Any-Events: Zero-Shot Motion-Robust Feature Matching Across Wide Baselines for Event Cameras**|Ruijun Zhang et.al.|[2604.18744](http://arxiv.org/abs/2604.18744)|null|
+|**2026-04-20**|**DanceCrafter: Fine-Grained Text-Driven Controllable Dance Generation via Choreographic Syntax**|Hang Yuan et.al.|[2604.18648](http://arxiv.org/abs/2604.18648)|null|
 |**2026-04-20**|**Understanding Human Actions through the Lens of Executable Models**|Rimvydas Rubavicius et.al.|[2604.18064](http://arxiv.org/abs/2604.18064)|null|
 |**2026-04-20**|**Beyond Binary Contrast: Modeling Continuous Skeleton Action Spaces with Transitional Anchors**|Yingjie Feng et.al.|[2604.17914](http://arxiv.org/abs/2604.17914)|null|
 |**2026-04-20**|**OFlow: Injecting Object-Aware Temporal Flow Matching for Robust Robotic Manipulation**|Kuanning Wang et.al.|[2604.17876](http://arxiv.org/abs/2604.17876)|null|
@@ -674,12 +679,14 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260422>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-21**|**InHabit: Leveraging Image Foundation Models for Scalable 3D Human Placement**|Nikita Kister et.al.|[2604.19673](http://arxiv.org/abs/2604.19673)|null|
+|**2026-04-21**|**GRAFT: Geometric Refinement and Fitting Transformer for Human Scene Reconstruction**|Pradyumna YM et.al.|[2604.19624](http://arxiv.org/abs/2604.19624)|null|
 |**2026-04-07**|**Human Interaction-Aware 3D Reconstruction from a Single Image**|Gwanghyun Kim et.al.|[2604.05436](http://arxiv.org/abs/2604.05436)|null|
 |**2026-04-06**|**InfBaGel: Human-Object-Scene Interaction Generation with Dynamic Perception and Iterative Refinement**|Yude Zou et.al.|[2604.04843](http://arxiv.org/abs/2604.04843)|null|
 |**2026-04-02**|**EmbodMocap: In-the-Wild 4D Human-Scene Reconstruction for Embodied Agents**|Wenjia Wang et.al.|[2602.23205](http://arxiv.org/abs/2602.23205)|null|
@@ -824,12 +831,14 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260422>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-21**|**CoInteract: Physically-Consistent Human-Object Interaction Video Synthesis via Spatially-Structured Co-Generation**|Xiangyang Luo et.al.|[2604.19636](http://arxiv.org/abs/2604.19636)|null|
+|**2026-04-21**|**Assessing VLM-Driven Semantic-Affordance Inference for Non-Humanoid Robot Morphologies**|Jess Jones et.al.|[2604.19509](http://arxiv.org/abs/2604.19509)|null|
 |**2026-04-20**|**SynAgent: Generalizable Cooperative Humanoid Manipulation via Solo-to-Cooperative Agent Synergy**|Wei Yao et.al.|[2604.18557](http://arxiv.org/abs/2604.18557)|null|
 |**2026-04-20**|**AnyLift: Scaling Motion Reconstruction from Internet Videos via 2D Diffusion**|Hongjie Li et.al.|[2604.17818](http://arxiv.org/abs/2604.17818)|null|
 |**2026-04-20**|**Ego-InBetween: Generating Object State Transitions in Ego-Centric Videos**|Mengmeng Ge et.al.|[2604.17749](http://arxiv.org/abs/2604.17749)|null|
@@ -1090,12 +1099,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260422>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-21**|**"We are currently clean on OPSEC": Why JD Can't Encrypt**|Maurice Chiodo et.al.|[2604.19711](http://arxiv.org/abs/2604.19711)|null|
+|**2026-04-21**|**Remindful: Designing Reminder Systems for Caregiver Interpretation in Dementia Care**|Joy Lai et.al.|[2604.19574](http://arxiv.org/abs/2604.19574)|null|
+|**2026-04-21**|**FOCAL: Filtered On-device Continuous Activity Logging for Efficient Personal Desktop Summarization**|Haoran Yin et.al.|[2604.19541](http://arxiv.org/abs/2604.19541)|null|
+|**2026-04-21**|**Integrating Anomaly Detection into Agentic AI for Proactive Risk Management in Human Activity**|Farbod Zorriassatine et.al.|[2604.19538](http://arxiv.org/abs/2604.19538)|null|
+|**2026-04-21**|**InvestChat: Exploring Multimodal Interaction via Natural Language, Touch, and Pen in an Investment Dashboard**|Sarah Lykke Tost et.al.|[2604.19537](http://arxiv.org/abs/2604.19537)|null|
+|**2026-04-21**|**Translating Ethical Frameworks Into User-Centred Anti-Social Behaviour Interventions**|Rachel Hill et.al.|[2604.19492](http://arxiv.org/abs/2604.19492)|null|
+|**2026-04-21**|**Fairness Audits of Institutional Risk Models in Deployed ML Pipelines**|Kelly McConvey et.al.|[2604.19468](http://arxiv.org/abs/2604.19468)|null|
+|**2026-04-21**|**Discerning Authorship in Online Health Communities: Experience, Trust, and Transparency Implications for Moderating AI**|Yefim Shulman et.al.|[2604.19429](http://arxiv.org/abs/2604.19429)|null|
+|**2026-04-21**|**seneca: A Personalized Conversational Planner**|Simon Bohnen et.al.|[2604.19425](http://arxiv.org/abs/2604.19425)|null|
+|**2026-04-21**|**Seeing Your Mindless Face: How Viewing One's Live Self Interrupts Mindless Short-Form Video Scrolling**|Kyungjin Kim et.al.|[2604.19424](http://arxiv.org/abs/2604.19424)|null|
 |**2026-04-20**|**Benchmarking System Dynamics AI Assistants: Cloud Versus Local LLMs on CLD Extraction and Discussion**|Terry Leitch et.al.|[2604.18566](http://arxiv.org/abs/2604.18566)|null|
 |**2026-04-20**|**Fast and Forgettable: A Controlled Study of Novices' Performance, Learning, Workload, and Emotion in AI-Assisted and Human Pair Programming Paradigms**|Nicholas Gardella et.al.|[2604.18538](http://arxiv.org/abs/2604.18538)|null|
 |**2026-04-20**|**From Awareness to Intent: Mitigating Silent Driving System Failures through Prospective Situation Awareness Enhancing Interfaces**|Jiyao Wang et.al.|[2604.18449](http://arxiv.org/abs/2604.18449)|null|
@@ -2395,7 +2414,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260422>back to top</a>)</p>
 
 Notes: 
 
