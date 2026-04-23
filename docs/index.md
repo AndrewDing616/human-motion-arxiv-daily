@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.04.22
+### Automatically Updated on 2026.04.23
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-22**|**Short-time, Wavelet-inspired Mouse Submovement Detection**|Auejin Ham et.al.|[2604.20673](http://arxiv.org/abs/2604.20673)|null|
+|**2026-04-22**|**Stability-Driven Motion Generation for Object-Guided Human-Human Co-Manipulation**|Jiahao Xu et.al.|[2604.20336](http://arxiv.org/abs/2604.20336)|null|
+|**2026-04-22**|**HumanScore: Benchmarking Human Motions in Generated Videos**|Yusu Fang et.al.|[2604.20157](http://arxiv.org/abs/2604.20157)|null|
+|**2026-04-21**|**UniCon3R: Contact-aware 3D Human-Scene Reconstruction from Monocular Video**|Tanuj Sur et.al.|[2604.19923](http://arxiv.org/abs/2604.19923)|null|
 |**2026-04-21**|**SpanVLA: Efficient Action Bridging and Learning from Negative-Recovery Samples for Vision-Language-Action Model**|Zewei Zhou et.al.|[2604.19710](http://arxiv.org/abs/2604.19710)|null|
 |**2026-04-21**|**LiveVLN: Breaking the Stop-and-Go Loop in Vision-Language Navigation**|Xiangchen Wang et.al.|[2604.19536](http://arxiv.org/abs/2604.19536)|null|
 |**2026-04-21**|**EgoMotion: Hierarchical Reasoning and Diffusion for Egocentric Vision-Language Motion Generation**|Ruibing Hou et.al.|[2604.19105](http://arxiv.org/abs/2604.19105)|null|
@@ -1628,6 +1632,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-22**|**ALAS: Adaptive Long-Horizon Action Synthesis via Async-pathway Stream Disentanglement**|Yutong Shen et.al.|[2604.20721](http://arxiv.org/abs/2604.20721)|null|
+|**2026-04-21**|**UniCon3R: Contact-aware 3D Human-Scene Reconstruction from Monocular Video**|Tanuj Sur et.al.|[2604.19923](http://arxiv.org/abs/2604.19923)|null|
 |**2026-04-21**|**InHabit: Leveraging Image Foundation Models for Scalable 3D Human Placement**|Nikita Kister et.al.|[2604.19673](http://arxiv.org/abs/2604.19673)|null|
 |**2026-04-21**|**GRAFT: Geometric Refinement and Fitting Transformer for Human Scene Reconstruction**|Pradyumna YM et.al.|[2604.19624](http://arxiv.org/abs/2604.19624)|null|
 |**2026-04-07**|**Human Interaction-Aware 3D Reconstruction from a Single Image**|Gwanghyun Kim et.al.|[2604.05436](http://arxiv.org/abs/2604.05436)|null|
@@ -1778,6 +1784,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-22**|**DeVI: Physics-based Dexterous Human-Object Interaction via Synthetic Video Imitation**|Hyeonwoo Kim et.al.|[2604.20841](http://arxiv.org/abs/2604.20841)|null|
+|**2026-04-22**|**LEXIS: LatEnt ProXimal Interaction Signatures for 3D HOI from an Image**|Dimitrije Antić et.al.|[2604.20800](http://arxiv.org/abs/2604.20800)|null|
+|**2026-04-22**|**Stability-Driven Motion Generation for Object-Guided Human-Human Co-Manipulation**|Jiahao Xu et.al.|[2604.20336](http://arxiv.org/abs/2604.20336)|null|
 |**2026-04-21**|**CoInteract: Physically-Consistent Human-Object Interaction Video Synthesis via Spatially-Structured Co-Generation**|Xiangyang Luo et.al.|[2604.19636](http://arxiv.org/abs/2604.19636)|null|
 |**2026-04-21**|**Assessing VLM-Driven Semantic-Affordance Inference for Non-Humanoid Robot Morphologies**|Jess Jones et.al.|[2604.19509](http://arxiv.org/abs/2604.19509)|null|
 |**2026-04-20**|**SynAgent: Generalizable Cooperative Humanoid Manipulation via Solo-to-Cooperative Agent Synergy**|Wei Yao et.al.|[2604.18557](http://arxiv.org/abs/2604.18557)|null|
@@ -2044,6 +2053,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-22**|**From Meme to Method: Rethinking Animal Adoption Platforms through the Cat Distribution System**|Carl Angelo Angcana et.al.|[2604.20823](http://arxiv.org/abs/2604.20823)|null|
+|**2026-04-22**|**Designing a Visualization Atlas: Lessons & Reflections from The UK Co-Benefits Atlas for Climate Mitigation**|Jinrui Wang et.al.|[2604.20781](http://arxiv.org/abs/2604.20781)|null|
+|**2026-04-22**|**Autark: A Serverless Toolkit for Prototyping Urban Visual Analytics Systems**|Lucas Alexandre et.al.|[2604.20759](http://arxiv.org/abs/2604.20759)|null|
+|**2026-04-22**|**Participatory provenance as representational auditing for AI-mediated public consultation**|Sachit Mahajan et.al.|[2604.20711](http://arxiv.org/abs/2604.20711)|null|
+|**2026-04-22**|**Short-time, Wavelet-inspired Mouse Submovement Detection**|Auejin Ham et.al.|[2604.20673](http://arxiv.org/abs/2604.20673)|null|
+|**2026-04-22**|**Large Language Models Outperform Humans in Fraud Detection and Resistance to Motivated Investor Pressure**|Nattavudh Powdthavee et.al.|[2604.20652](http://arxiv.org/abs/2604.20652)|null|
+|**2026-04-22**|**The Effect of Idea Elaboration on the Automatic Assessment of Idea Originality**|Umberto Domanti et.al.|[2604.20569](http://arxiv.org/abs/2604.20569)|null|
+|**2026-04-22**|**Aligning Stuttered-Speech Research with End-User Needs: Scoping Review, Survey, and Guidelines**|Hawau Olamide Toyin et.al.|[2604.20535](http://arxiv.org/abs/2604.20535)|null|
+|**2026-04-22**|**MOMO: A framework for seamless physical, verbal, and graphical robot skill learning and adaptation**|Markus Knauer et.al.|[2604.20468](http://arxiv.org/abs/2604.20468)|null|
+|**2026-04-22**|**Odor Maps from the LLM-derived similarity scores**|Yuki Harada et.al.|[2604.20310](http://arxiv.org/abs/2604.20310)|null|
 |**2026-04-21**|**"We are currently clean on OPSEC": Why JD Can't Encrypt**|Maurice Chiodo et.al.|[2604.19711](http://arxiv.org/abs/2604.19711)|null|
 |**2026-04-21**|**Remindful: Designing Reminder Systems for Caregiver Interpretation in Dementia Care**|Joy Lai et.al.|[2604.19574](http://arxiv.org/abs/2604.19574)|null|
 |**2026-04-21**|**FOCAL: Filtered On-device Continuous Activity Logging for Efficient Personal Desktop Summarization**|Haoran Yin et.al.|[2604.19541](http://arxiv.org/abs/2604.19541)|null|
