@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.04.27
+### Automatically Updated on 2026.04.28
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-27**|**Invariant trace simplices and relative property (T)**|Raz Slutsky et.al.|[2604.24738](http://arxiv.org/abs/2604.24738)|null|
+|**2026-04-27**|**Learning Human-Intention Priors from Large-Scale Human Demonstrations for Robotic Manipulation**|Yifan Xie et.al.|[2604.24681](http://arxiv.org/abs/2604.24681)|null|
+|**2026-04-27**|**CF-VLA: Efficient Coarse-to-Fine Action Generation for Vision-Language-Action Policies**|Fan Du et.al.|[2604.24622](http://arxiv.org/abs/2604.24622)|null|
+|**2026-04-27**|**DPEPO: Diverse Parallel Exploration Policy Optimization for LLM-based Agents**|Junshuo Zhang et.al.|[2604.24320](http://arxiv.org/abs/2604.24320)|null|
+|**2026-04-27**|**Unconstrained Multi-view Human Pose Estimation with Algebraic Priors**|Xiaolin Qin et.al.|[2604.24312](http://arxiv.org/abs/2604.24312)|null|
+|**2026-04-26**|**MUSIC: Learning Muscle-Driven Dexterous Hand Control**|Pei Xu et.al.|[2604.23886](http://arxiv.org/abs/2604.23886)|null|
+|**2026-04-26**|**Personalizing Causal Audio-Driven Facial Motion via Dynamic Multi-modal Retrieval**|Xuangeng Chu et.al.|[2604.23692](http://arxiv.org/abs/2604.23692)|null|
+|**2026-04-26**|**Safe Navigation in Unknown and Cluttered Environments via Direction-Aware Convex Free-Region Generation**|Zhicheng Song et.al.|[2604.23648](http://arxiv.org/abs/2604.23648)|null|
+|**2026-04-26**|**Emotion-Conditioned Short-Horizon Human Pose Forecasting with a Lightweight Predictive World Model**|Jingni Huang et.al.|[2604.23532](http://arxiv.org/abs/2604.23532)|null|
+|**2026-04-25**|**MotionHiFlow: Text-to-motion via hierarchical flow matching**|Heng Li et.al.|[2604.23264](http://arxiv.org/abs/2604.23264)|null|
 |**2026-04-24**|**Magnetoelastic Waves in Ferromagnetic Thin Films Mediated by Dipolar Interactions**|Hiroki Yoshida et.al.|[2604.22523](http://arxiv.org/abs/2604.22523)|null|
 |**2026-04-24**|**Learning Reactive Human Motion Generation from Paired Interaction Data Using Transformer-Based Models**|Masato Soga et.al.|[2604.22164](http://arxiv.org/abs/2604.22164)|null|
 |**2026-04-23**|**Seeing Without Eyes: 4D Human-Scene Understanding from Wearable IMUs**|Hao-Yu Hsu et.al.|[2604.21926](http://arxiv.org/abs/2604.21926)|null|
@@ -691,7 +701,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260428>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -846,7 +856,7 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260428>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
@@ -1118,12 +1128,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260428>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-27**|**Personalized Worked Example Generation from Student Code Submissions using Pattern-based Knowledge Components**|Griffin Pitts et.al.|[2604.24758](http://arxiv.org/abs/2604.24758)|null|
+|**2026-04-27**|**Children's Online Safety Risks and Ethical Considerations in XR Games**|Zinan Zhang et.al.|[2604.24601](http://arxiv.org/abs/2604.24601)|null|
+|**2026-04-27**|**Why AI Harms Can't Be Fixed One Identity at a Time: What 5300 Incident Reports Reveal About Intersectionality**|Edyta Bogucka et.al.|[2604.24519](http://arxiv.org/abs/2604.24519)|null|
+|**2026-04-27**|**Blur Effects on User Performance in Target-Pointing Tasks**|Ryuto Tomihari et.al.|[2604.24482](http://arxiv.org/abs/2604.24482)|null|
+|**2026-04-27**|**Putting a Face to the Issue: Fostering User Empathy of Open Source Software Developers With PersonaFlow**|Boniface Bahati Tadjuidje et.al.|[2604.24478](http://arxiv.org/abs/2604.24478)|null|
+|**2026-04-27**|**Measuring Successful Cooperation in Human-AI Teamwork: Development and Validation of the Perceived Cooperativity and Teaming Perception Scales**|Christiane Attig et.al.|[2604.24461](http://arxiv.org/abs/2604.24461)|null|
+|**2026-04-27**|**Envisioning Mobile Data Visualization Libraries for Digital Health**|Bongshin Lee et.al.|[2604.24448](http://arxiv.org/abs/2604.24448)|null|
+|**2026-04-27**|**How Personal Characteristics Shape User Exploration of Diverse Movie Recommendations with a LLM-Based Multi-Agent System**|Yufan Zhou et.al.|[2604.24405](http://arxiv.org/abs/2604.24405)|null|
+|**2026-04-27**|**From Players to Participants: Citizen Science and Video Games to Understand Cognition**|Syrine Salouhou et.al.|[2604.24321](http://arxiv.org/abs/2604.24321)|null|
+|**2026-04-27**|**The Alignment Target Problem: Divergent Moral Judgments of Humans, AI Systems, and Their Designers**|Benjamin Minhao Chen et.al.|[2604.24155](http://arxiv.org/abs/2604.24155)|null|
 |**2026-04-24**|**How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks**|Longju Bai et.al.|[2604.22750](http://arxiv.org/abs/2604.22750)|null|
 |**2026-04-24**|**RFID-Based Non-Biometric Classroom Attendance System: Proxy Attendance Detection via Weight Sensor Integration**|Furkan Ege et.al.|[2604.22697](http://arxiv.org/abs/2604.22697)|null|
 |**2026-04-24**|**Rethinking XAI Evaluation: A Human-Centered Audit of Shapley Benchmarks in High-Stakes Settings**|Inês Oliveira e Silva et.al.|[2604.22662](http://arxiv.org/abs/2604.22662)|null|
@@ -2463,7 +2483,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260428>back to top</a>)</p>
 
 Notes: 
 
