@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.04.29
+### Automatically Updated on 2026.04.30
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-29**|**STARRY: Spatial-Temporal Action-Centric World Modeling for Robotic Manipulation**|Yuxuan Tian et.al.|[2604.26848](http://arxiv.org/abs/2604.26848)|null|
+|**2026-04-29**|**Walk With Me: Long-Horizon Social Navigation for Human-Centric Outdoor Assistance**|Lingfeng Zhang et.al.|[2604.26839](http://arxiv.org/abs/2604.26839)|null|
+|**2026-04-29**|**Reactive Motion Generation via Phase-varying Neural Potential Functions**|Ahmet Tekden et.al.|[2604.26450](http://arxiv.org/abs/2604.26450)|null|
+|**2026-04-28**|**FlowS: One-Step Motion Prediction via Local Transport Conditioning**|Leandro Di Bella et.al.|[2604.26065](http://arxiv.org/abs/2604.26065)|null|
 |**2026-04-28**|**HuM-Eval: A Coarse-to-Fine Framework for Human-Centric Video Evaluation**|Bingzi Zhang et.al.|[2604.25361](http://arxiv.org/abs/2604.25361)|null|
 |**2026-04-28**|**IAM: Identity-Aware Human Motion and Shape Joint Generation**|Wenqi Jia et.al.|[2604.25164](http://arxiv.org/abs/2604.25164)|null|
 |**2026-04-28**|**CF-VLA: Efficient Coarse-to-Fine Action Generation for Vision-Language-Action Policies**|Fan Du et.al.|[2604.24622](http://arxiv.org/abs/2604.24622)|null|
@@ -1806,6 +1810,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-29**|**HOI-aware Adaptive Network for Weakly-supervised Action Segmentation**|Runzhong Zhang et.al.|[2604.26227](http://arxiv.org/abs/2604.26227)|null|
 |**2026-04-24**|**GenMatter: Perceiving Physical Objects with Generative Matter Models**|Eric Li et.al.|[2604.22160](http://arxiv.org/abs/2604.22160)|null|
 |**2026-04-22**|**DeVI: Physics-based Dexterous Human-Object Interaction via Synthetic Video Imitation**|Hyeonwoo Kim et.al.|[2604.20841](http://arxiv.org/abs/2604.20841)|null|
 |**2026-04-22**|**LEXIS: LatEnt ProXimal Interaction Signatures for 3D HOI from an Image**|Dimitrije Antić et.al.|[2604.20800](http://arxiv.org/abs/2604.20800)|null|
@@ -2076,6 +2081,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-29**|**Artistic Practice Opportunities in CST Evaluations: A Longitudinal Group Deployment of ArtKrit**|Catherine Liu et.al.|[2604.26935](http://arxiv.org/abs/2604.26935)|null|
+|**2026-04-29**|**Transferability of Token Usage Rights: A Design Space Analysis of Generative AI Services**|Jaeyong Lee et.al.|[2604.26683](http://arxiv.org/abs/2604.26683)|null|
+|**2026-04-29**|**MultEval: Supporting Collaborative Alignment for LLM-as-a-Judge Evaluation Criteria**|Charles Chiang et.al.|[2604.26679](http://arxiv.org/abs/2604.26679)|null|
+|**2026-04-29**|**Persona-Based Process Design for Assistive Human-Robot Workplaces for Persons with Disabilities**|Nils Mandischer et.al.|[2604.26527](http://arxiv.org/abs/2604.26527)|null|
+|**2026-04-29**|**Tree-of-Text: A Tree-based Prompting Framework for Table-to-Text Generation in the Sports Domain**|Shang-Hsuan Chiang et.al.|[2604.26501](http://arxiv.org/abs/2604.26501)|null|
+|**2026-04-29**|**Culturally Aware GenAI Risks for Youth: Perspectives from Youth, Parents, and Teachers in a Non-Western Context**|Aljawharah Alzahrani et.al.|[2604.26494](http://arxiv.org/abs/2604.26494)|null|
+|**2026-04-29**|**UIGaze: How Closely Can VLMs Approximate Human Visual Attention on User Interfaces?**|Min Song et.al.|[2604.26352](http://arxiv.org/abs/2604.26352)|null|
+|**2026-04-29**|**Towards a Frugal Photosynthesis Sensing Toolkit for Data-Driven Plant Science Education and Exploration**|Qitong Li et.al.|[2604.26305](http://arxiv.org/abs/2604.26305)|null|
+|**2026-04-29**|**Towards Low-Cost Low-Power Activity-Aware Soil Moisture Sensing Platform for Large-scale Farming**|Jack Thoene et.al.|[2604.26303](http://arxiv.org/abs/2604.26303)|null|
+|**2026-04-29**|**Exploring the Feasibility and Acceptability of AI-Mediated Serious Illness Conversations in the Emergency Department**|Hasibur Rahman et.al.|[2604.26214](http://arxiv.org/abs/2604.26214)|null|
 |**2026-04-28**|**"The Worst Weather In America": Augmenting the Information Design of Extreme Cold Weather Forecasts**|Michael Correll et.al.|[2604.25818](http://arxiv.org/abs/2604.25818)|null|
 |**2026-04-28**|**Lexical Anthropomorphization Influences on Moral Judgments of AI Bad Behavior**|Jaime Banks et.al.|[2604.25814](http://arxiv.org/abs/2604.25814)|null|
 |**2026-04-28**|**MAIC-UI: Making Interactive Courseware with Generative UI**|Shangqing Tu et.al.|[2604.25806](http://arxiv.org/abs/2604.25806)|null|

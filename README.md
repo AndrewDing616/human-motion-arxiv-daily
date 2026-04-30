@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.04.29
+### Automatically Updated on 2026.04.30
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-29**|**STARRY: Spatial-Temporal Action-Centric World Modeling for Robotic Manipulation**|Yuxuan Tian et.al.|[2604.26848](http://arxiv.org/abs/2604.26848)|null|
+|**2026-04-29**|**Walk With Me: Long-Horizon Social Navigation for Human-Centric Outdoor Assistance**|Lingfeng Zhang et.al.|[2604.26839](http://arxiv.org/abs/2604.26839)|null|
+|**2026-04-29**|**Reactive Motion Generation via Phase-varying Neural Potential Functions**|Ahmet Tekden et.al.|[2604.26450](http://arxiv.org/abs/2604.26450)|null|
+|**2026-04-28**|**FlowS: One-Step Motion Prediction via Local Transport Conditioning**|Leandro Di Bella et.al.|[2604.26065](http://arxiv.org/abs/2604.26065)|null|
 |**2026-04-28**|**HuM-Eval: A Coarse-to-Fine Framework for Human-Centric Video Evaluation**|Bingzi Zhang et.al.|[2604.25361](http://arxiv.org/abs/2604.25361)|null|
 |**2026-04-28**|**IAM: Identity-Aware Human Motion and Shape Joint Generation**|Wenqi Jia et.al.|[2604.25164](http://arxiv.org/abs/2604.25164)|null|
 |**2026-04-28**|**CF-VLA: Efficient Coarse-to-Fine Action Generation for Vision-Language-Action Policies**|Fan Du et.al.|[2604.24622](http://arxiv.org/abs/2604.24622)|null|
@@ -704,7 +708,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260430>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -859,12 +863,13 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260430>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-29**|**HOI-aware Adaptive Network for Weakly-supervised Action Segmentation**|Runzhong Zhang et.al.|[2604.26227](http://arxiv.org/abs/2604.26227)|null|
 |**2026-04-24**|**GenMatter: Perceiving Physical Objects with Generative Matter Models**|Eric Li et.al.|[2604.22160](http://arxiv.org/abs/2604.22160)|null|
 |**2026-04-22**|**DeVI: Physics-based Dexterous Human-Object Interaction via Synthetic Video Imitation**|Hyeonwoo Kim et.al.|[2604.20841](http://arxiv.org/abs/2604.20841)|null|
 |**2026-04-22**|**LEXIS: LatEnt ProXimal Interaction Signatures for 3D HOI from an Image**|Dimitrije Antić et.al.|[2604.20800](http://arxiv.org/abs/2604.20800)|null|
@@ -1131,12 +1136,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260430>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-29**|**Artistic Practice Opportunities in CST Evaluations: A Longitudinal Group Deployment of ArtKrit**|Catherine Liu et.al.|[2604.26935](http://arxiv.org/abs/2604.26935)|null|
+|**2026-04-29**|**Transferability of Token Usage Rights: A Design Space Analysis of Generative AI Services**|Jaeyong Lee et.al.|[2604.26683](http://arxiv.org/abs/2604.26683)|null|
+|**2026-04-29**|**MultEval: Supporting Collaborative Alignment for LLM-as-a-Judge Evaluation Criteria**|Charles Chiang et.al.|[2604.26679](http://arxiv.org/abs/2604.26679)|null|
+|**2026-04-29**|**Persona-Based Process Design for Assistive Human-Robot Workplaces for Persons with Disabilities**|Nils Mandischer et.al.|[2604.26527](http://arxiv.org/abs/2604.26527)|null|
+|**2026-04-29**|**Tree-of-Text: A Tree-based Prompting Framework for Table-to-Text Generation in the Sports Domain**|Shang-Hsuan Chiang et.al.|[2604.26501](http://arxiv.org/abs/2604.26501)|null|
+|**2026-04-29**|**Culturally Aware GenAI Risks for Youth: Perspectives from Youth, Parents, and Teachers in a Non-Western Context**|Aljawharah Alzahrani et.al.|[2604.26494](http://arxiv.org/abs/2604.26494)|null|
+|**2026-04-29**|**UIGaze: How Closely Can VLMs Approximate Human Visual Attention on User Interfaces?**|Min Song et.al.|[2604.26352](http://arxiv.org/abs/2604.26352)|null|
+|**2026-04-29**|**Towards a Frugal Photosynthesis Sensing Toolkit for Data-Driven Plant Science Education and Exploration**|Qitong Li et.al.|[2604.26305](http://arxiv.org/abs/2604.26305)|null|
+|**2026-04-29**|**Towards Low-Cost Low-Power Activity-Aware Soil Moisture Sensing Platform for Large-scale Farming**|Jack Thoene et.al.|[2604.26303](http://arxiv.org/abs/2604.26303)|null|
+|**2026-04-29**|**Exploring the Feasibility and Acceptability of AI-Mediated Serious Illness Conversations in the Emergency Department**|Hasibur Rahman et.al.|[2604.26214](http://arxiv.org/abs/2604.26214)|null|
 |**2026-04-28**|**"The Worst Weather In America": Augmenting the Information Design of Extreme Cold Weather Forecasts**|Michael Correll et.al.|[2604.25818](http://arxiv.org/abs/2604.25818)|null|
 |**2026-04-28**|**Lexical Anthropomorphization Influences on Moral Judgments of AI Bad Behavior**|Jaime Banks et.al.|[2604.25814](http://arxiv.org/abs/2604.25814)|null|
 |**2026-04-28**|**MAIC-UI: Making Interactive Courseware with Generative UI**|Shangqing Tu et.al.|[2604.25806](http://arxiv.org/abs/2604.25806)|null|
@@ -2496,7 +2511,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260430>back to top</a>)</p>
 
 Notes: 
 
