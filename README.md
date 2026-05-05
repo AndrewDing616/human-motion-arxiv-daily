@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.05.04
+### Automatically Updated on 2026.05.05
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-04**|**HumanSplatHMR: Closing the Loop Between Human Mesh Recovery and Gaussian Splatting Avatar**|Yeheng Zong et.al.|[2605.02784](http://arxiv.org/abs/2605.02784)|null|
+|**2026-05-04**|**Adaptive Interpolation-Synthesis for Motion In-Betweening on Keyframe-Based Animation**|Anton Raël et.al.|[2605.02742](http://arxiv.org/abs/2605.02742)|null|
+|**2026-05-03**|**Remote Action Generation: Remote Control with Minimal Communication**|Szymon Kobus et.al.|[2605.01833](http://arxiv.org/abs/2605.01833)|null|
+|**2026-05-02**|**A Time-Synchronized Video Reference System for Data Analysis of Body-Attached Sensor Nodes in Outdoor Scenarios**|Lukas Schulthess et.al.|[2605.01540](http://arxiv.org/abs/2605.01540)|null|
+|**2026-05-02**|**MG-Former: A Transformer-Based Framework for Music-Driven 3D Conducting Gesture Generation**|Ke Qiu et.al.|[2605.01197](http://arxiv.org/abs/2605.01197)|null|
+|**2026-05-01**|**InterPhys: Physics-aware Human Motion Synthesis in a Dynamic Scene**|Chaoyue Xing et.al.|[2605.01036](http://arxiv.org/abs/2605.01036)|null|
 |**2026-05-01**|**PhysiGen: Integrating Collision-Aware Physical Constraints for High-Fidelity Human-Human Interaction Generation**|Nan Lei et.al.|[2605.00517](http://arxiv.org/abs/2605.00517)|null|
 |**2026-05-01**|**Stereo Multistage Spatial Attention for Real-Time Mobile Manipulation Under Visual Scale Variation and Disturbances**|Xianbo Cai et.al.|[2605.00471](http://arxiv.org/abs/2605.00471)|null|
 |**2026-05-01**|**Learning while Deploying: Fleet-Scale Reinforcement Learning for Generalist Robot Policies**|Yi Wang et.al.|[2605.00416](http://arxiv.org/abs/2605.00416)|null|
@@ -717,12 +723,13 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260505>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-01**|**InterPhys: Physics-aware Human Motion Synthesis in a Dynamic Scene**|Chaoyue Xing et.al.|[2605.01036](http://arxiv.org/abs/2605.01036)|null|
 |**2026-04-23**|**Seeing Without Eyes: 4D Human-Scene Understanding from Wearable IMUs**|Hao-Yu Hsu et.al.|[2604.21926](http://arxiv.org/abs/2604.21926)|null|
 |**2026-04-22**|**ALAS: Adaptive Long-Horizon Action Synthesis via Async-pathway Stream Disentanglement**|Yutong Shen et.al.|[2604.20721](http://arxiv.org/abs/2604.20721)|null|
 |**2026-04-21**|**UniCon3R: Contact-aware 3D Human-Scene Reconstruction from Monocular Video**|Tanuj Sur et.al.|[2604.19923](http://arxiv.org/abs/2604.19923)|null|
@@ -872,12 +879,14 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260505>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-03**|**IMPACT-HOI: Supervisory Control for Onset-Anchored Partial HOI Event Construction**|Haoshen Zhang et.al.|[2605.01666](http://arxiv.org/abs/2605.01666)|null|
+|**2026-05-01**|**InterPhys: Physics-aware Human Motion Synthesis in a Dynamic Scene**|Chaoyue Xing et.al.|[2605.01036](http://arxiv.org/abs/2605.01036)|null|
 |**2026-04-30**|**Uni-HOI:A Unified framework for Learning the Joint distribution of Text and Human-Object Interaction**|Mengfei Zhang et.al.|[2604.27491](http://arxiv.org/abs/2604.27491)|null|
 |**2026-04-29**|**HOI-aware Adaptive Network for Weakly-supervised Action Segmentation**|Runzhong Zhang et.al.|[2604.26227](http://arxiv.org/abs/2604.26227)|null|
 |**2026-04-24**|**GenMatter: Perceiving Physical Objects with Generative Matter Models**|Eric Li et.al.|[2604.22160](http://arxiv.org/abs/2604.22160)|null|
@@ -1146,12 +1155,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260505>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-04**|**"I Don't Have Faith in the Developers to Use My Feedback": Understanding Player Values and Expectancy for Reporting Systems in Video Games**|Michael Yin et.al.|[2605.02842](http://arxiv.org/abs/2605.02842)|null|
+|**2026-05-04**|**TRACE: Temporal Reasoning over Context and Evidence for Activity Recognition in Smart Homes**|Yingtian Shi et.al.|[2605.02841](http://arxiv.org/abs/2605.02841)|null|
+|**2026-05-04**|**HAAS: A Policy-Aware Framework for Adaptive Task Allocation Between Humans and Artificial Intelligence Systems**|Vicente Pelechanoa et.al.|[2605.02832](http://arxiv.org/abs/2605.02832)|null|
+|**2026-05-04**|**Exploring Instant Photography using Generative AI: A Design Probe with the UnReality Camera**|Michael Yin et.al.|[2605.02805](http://arxiv.org/abs/2605.02805)|null|
+|**2026-05-04**|**U-Define: Designing User Workflows for Hard and Soft Constraints in LLM-Based Planning**|Christine P Lee et.al.|[2605.02765](http://arxiv.org/abs/2605.02765)|null|
+|**2026-05-04**|**Triple Spectral Fusion for Sensor-based Human Activity Recognition**|Ye Zhang et.al.|[2605.02743](http://arxiv.org/abs/2605.02743)|null|
+|**2026-05-04**|**Augmenting Interface Usability Heuristics for Reliable Computer-Use Agents**|Jiateng Liu et.al.|[2605.02729](http://arxiv.org/abs/2605.02729)|null|
+|**2026-05-04**|**ProPACT: A Proactive AI-Driven Adaptive Collaborative Tutor for Pair Programming**|Anahita Golrang et.al.|[2605.02703](http://arxiv.org/abs/2605.02703)|null|
+|**2026-05-04**|**The 2026 ACII Dyadic Conversations (DaiKon) Workshop & Challenge**|Panagiotis Tzirakis et.al.|[2605.02672](http://arxiv.org/abs/2605.02672)|null|
+|**2026-05-04**|**Dramaturgies of Deception: AI Humanizers and the Performance of Legitimacy in Higher Education Assessment**|Jasper Roe et.al.|[2605.02649](http://arxiv.org/abs/2605.02649)|null|
 |**2026-05-01**|**Prop-Chromeleon: Adaptive Haptic Props in Mixed Reality through Generative Artificial Intelligence**|Haoyu Wang et.al.|[2605.00804](http://arxiv.org/abs/2605.00804)|null|
 |**2026-05-01**|**Modeling Subjective Urban Perception with Human Gaze**|Lin Che et.al.|[2605.00764](http://arxiv.org/abs/2605.00764)|null|
 |**2026-05-01**|**BlenderRAG: High-Fidelity 3D Object Generation via Retrieval-Augmented Code Synthesis**|Massimo Rondelli et.al.|[2605.00632](http://arxiv.org/abs/2605.00632)|null|
@@ -2541,7 +2560,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260505>back to top</a>)</p>
 
 Notes: 
 
