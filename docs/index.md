@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.05.05
+### Automatically Updated on 2026.05.06
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-05**|**A Benchmark for Interactive World Models with a Unified Action Generation Framework**|Jianjie Fang et.al.|[2605.03941](http://arxiv.org/abs/2605.03941)|null|
+|**2026-05-05**|**Parameter-Efficient Multi-View Proficiency Estimation: From Discriminative Classification to Generative Feedback**|Edoardo Bianchi et.al.|[2605.03848](http://arxiv.org/abs/2605.03848)|null|
+|**2026-05-05**|**PatRe: A Full-Stage Office Action and Rebuttal Generation Benchmark for Patent Examination**|Qiyao Wang et.al.|[2605.03571](http://arxiv.org/abs/2605.03571)|null|
+|**2026-05-05**|**First-principles prediction of chiral-phonon-induced orbital accumulation**|A. Pezo et.al.|[2605.03486](http://arxiv.org/abs/2605.03486)|null|
 |**2026-05-04**|**HumanSplatHMR: Closing the Loop Between Human Mesh Recovery and Gaussian Splatting Avatar**|Yeheng Zong et.al.|[2605.02784](http://arxiv.org/abs/2605.02784)|null|
 |**2026-05-04**|**Adaptive Interpolation-Synthesis for Motion In-Betweening on Keyframe-Based Animation**|Anton Raël et.al.|[2605.02742](http://arxiv.org/abs/2605.02742)|null|
 |**2026-05-03**|**Remote Action Generation: Remote Control with Minimal Communication**|Szymon Kobus et.al.|[2605.01833](http://arxiv.org/abs/2605.01833)|null|
@@ -1826,6 +1830,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-05**|**MHPR: Multidimensional Human Perception and Reasoning Benchmark for Large Vision-Languate Models**|Kangkang Wang et.al.|[2605.03485](http://arxiv.org/abs/2605.03485)|null|
 |**2026-05-03**|**IMPACT-HOI: Supervisory Control for Onset-Anchored Partial HOI Event Construction**|Haoshen Zhang et.al.|[2605.01666](http://arxiv.org/abs/2605.01666)|null|
 |**2026-05-01**|**InterPhys: Physics-aware Human Motion Synthesis in a Dynamic Scene**|Chaoyue Xing et.al.|[2605.01036](http://arxiv.org/abs/2605.01036)|null|
 |**2026-04-30**|**Uni-HOI:A Unified framework for Learning the Joint distribution of Text and Human-Object Interaction**|Mengfei Zhang et.al.|[2604.27491](http://arxiv.org/abs/2604.27491)|null|
@@ -2100,6 +2105,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-05**|**Stayin' Aligned Over Time: Towards Longitudinal Human-LLM Alignment via Contextual Reflection and Privacy-Preserving Behavioral Data**|Simret Araya Gebreegziabher et.al.|[2605.04029](http://arxiv.org/abs/2605.04029)|null|
+|**2026-05-05**|**Deco: Extending Personal Physical Objects into Pervasive AI Companion through a Dual-Embodiment Framework**|Zhihan Jiang et.al.|[2605.03882](http://arxiv.org/abs/2605.03882)|null|
+|**2026-05-05**|**Bodyless Presence: Reconsidering the Minimal Self in Immersive Video**|Koichi Toida et.al.|[2605.03873](http://arxiv.org/abs/2605.03873)|null|
+|**2026-05-05**|**TRACE: A Metrologically-Grounded Engineering Framework for Trustworthy Agentic AI Systems in Operationally Critical Domains**|Serhii Zabolotnii et.al.|[2605.03838](http://arxiv.org/abs/2605.03838)|null|
+|**2026-05-05**|**A Workflow-Oriented Framework for Asynchronous Human-AI Collaboration in Hybrid and Compute-Intensive HPC Environments**|Sergio Mendoza et.al.|[2605.03743](http://arxiv.org/abs/2605.03743)|null|
+|**2026-05-05**|**Sorry for the late reply: Response times and reciprocity in WhatsApp and Instagram chats**|Florian Martin et.al.|[2605.03687](http://arxiv.org/abs/2605.03687)|null|
+|**2026-05-05**|**Jiao: Bridging Isolation and Customization in Mixed Criticality Robotics**|James Yen et.al.|[2605.03641](http://arxiv.org/abs/2605.03641)|null|
+|**2026-05-05**|**FINER-SQL: Boosting Small Language Models for Text-to-SQL**|Thanh Dat Hoang et.al.|[2605.03465](http://arxiv.org/abs/2605.03465)|null|
+|**2026-05-05**|**The Fragility of AI Companionship: Ontological, Structural, and Normative Uncertainty in Human-AI Relationships**|Renwen Zhang et.al.|[2605.03367](http://arxiv.org/abs/2605.03367)|null|
+|**2026-05-05**|**Cheap Expertise: Mapping and Challenging Industry Perspectives in the Expert Data Gig Economy**|Robert Wolfe et.al.|[2605.03295](http://arxiv.org/abs/2605.03295)|null|
 |**2026-05-04**|**"I Don't Have Faith in the Developers to Use My Feedback": Understanding Player Values and Expectancy for Reporting Systems in Video Games**|Michael Yin et.al.|[2605.02842](http://arxiv.org/abs/2605.02842)|null|
 |**2026-05-04**|**TRACE: Temporal Reasoning over Context and Evidence for Activity Recognition in Smart Homes**|Yingtian Shi et.al.|[2605.02841](http://arxiv.org/abs/2605.02841)|null|
 |**2026-05-04**|**HAAS: A Policy-Aware Framework for Adaptive Task Allocation Between Humans and Artificial Intelligence Systems**|Vicente Pelechanoa et.al.|[2605.02832](http://arxiv.org/abs/2605.02832)|null|
