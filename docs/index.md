@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.05.06
+### Automatically Updated on 2026.05.07
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,7 +959,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-05-05**|**A Benchmark for Interactive World Models with a Unified Action Generation Framework**|Jianjie Fang et.al.|[2605.03941](http://arxiv.org/abs/2605.03941)|null|
+|**2026-05-06**|**Contact Matrix: Enhancing Dance Motion Synthesis with Precise Interaction Modeling**|Xuhai Chen et.al.|[2605.04662](http://arxiv.org/abs/2605.04662)|null|
+|**2026-05-06**|**iWorld-Bench: A Benchmark for Interactive World Models with a Unified Action Generation Framework**|Jianjie Fang et.al.|[2605.03941](http://arxiv.org/abs/2605.03941)|null|
 |**2026-05-05**|**Parameter-Efficient Multi-View Proficiency Estimation: From Discriminative Classification to Generative Feedback**|Edoardo Bianchi et.al.|[2605.03848](http://arxiv.org/abs/2605.03848)|null|
 |**2026-05-05**|**PatRe: A Full-Stage Office Action and Rebuttal Generation Benchmark for Patent Examination**|Qiyao Wang et.al.|[2605.03571](http://arxiv.org/abs/2605.03571)|null|
 |**2026-05-05**|**First-principles prediction of chiral-phonon-induced orbital accumulation**|A. Pezo et.al.|[2605.03486](http://arxiv.org/abs/2605.03486)|null|
@@ -1830,6 +1831,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-06**|**ScriptHOI: Learning Scripted State Transitions for Open-Vocabulary Human-Object Interaction Detection**|Minh Anh Nguyen et.al.|[2605.05057](http://arxiv.org/abs/2605.05057)|null|
+|**2026-05-06**|**Active Contact Sensing for Robust Robot-to-Human Object Handover**|Linfeng Li et.al.|[2605.04610](http://arxiv.org/abs/2605.04610)|null|
+|**2026-05-06**|**InterMesh: Explicit Interaction-Aware End-to-End Multi-Person Human Mesh Recovery**|Kaili Zheng et.al.|[2605.04554](http://arxiv.org/abs/2605.04554)|null|
+|**2026-05-06**|**Dissociating spatial frequency reliance from adversarial robustness advantages in neurally guided deep convolutional neural networks**|Zhenan Shao et.al.|[2605.04443](http://arxiv.org/abs/2605.04443)|null|
 |**2026-05-05**|**MHPR: Multidimensional Human Perception and Reasoning Benchmark for Large Vision-Languate Models**|Kangkang Wang et.al.|[2605.03485](http://arxiv.org/abs/2605.03485)|null|
 |**2026-05-03**|**IMPACT-HOI: Supervisory Control for Onset-Anchored Partial HOI Event Construction**|Haoshen Zhang et.al.|[2605.01666](http://arxiv.org/abs/2605.01666)|null|
 |**2026-05-01**|**InterPhys: Physics-aware Human Motion Synthesis in a Dynamic Scene**|Chaoyue Xing et.al.|[2605.01036](http://arxiv.org/abs/2605.01036)|null|
@@ -2105,6 +2110,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-06**|**Tailoring Scaffolding to Diagnostic Strategies: Theory-Informed LLM-Based Agents**|Fatma Betul Gures et.al.|[2605.04996](http://arxiv.org/abs/2605.04996)|null|
+|**2026-05-06**|**To Fuse or to Drop? Dual-Path Learning for Resolving Modality Conflicts in Multimodal Emotion Recognition**|Yangchen Yu et.al.|[2605.04877](http://arxiv.org/abs/2605.04877)|null|
+|**2026-05-06**|**Not All Scaffolds Are Equal: How Initiation Mode Determines EMME Effectiveness in Debugging**|Anahita Golrang et.al.|[2605.04868](http://arxiv.org/abs/2605.04868)|null|
+|**2026-05-06**|**RTMS: A Real-Time Multimodal Scaffolding System for Improving Debugging in Computing Education**|Anahita Golrang et.al.|[2605.04848](http://arxiv.org/abs/2605.04848)|null|
+|**2026-05-06**|**Patterns of Developer Adoption of LLM-Generated Code Refactoring Suggestions**|David Schön et.al.|[2605.04835](http://arxiv.org/abs/2605.04835)|null|
+|**2026-05-06**|**Building AI Companions that Prioritise Learning over Performance**|Hassan Khosravi et.al.|[2605.04816](http://arxiv.org/abs/2605.04816)|null|
+|**2026-05-06**|**OpenWatch: A Multimodal Benchmark for Hand Gesture Recognition on Smartwatches**|Pietro Bonazzi et.al.|[2605.04791](http://arxiv.org/abs/2605.04791)|null|
+|**2026-05-06**|**A meta-analysis of the effect of generative AI on productivity and learning in programming**|Sebastian Maier et.al.|[2605.04779](http://arxiv.org/abs/2605.04779)|null|
+|**2026-05-06**|**Gaze4HRI: Zero-shot Benchmarking Gaze Estimation Neural-Networks for Human-Robot Interaction**|Berk Sezer et.al.|[2605.04770](http://arxiv.org/abs/2605.04770)|null|
+|**2026-05-06**|**Cognitive Twins: Investigating Personalized Thinking Model Building and Its Performance Enhancement with Human-in-the-Loop**|Wu-Yuin Hwang et.al.|[2605.04761](http://arxiv.org/abs/2605.04761)|null|
 |**2026-05-05**|**Stayin' Aligned Over Time: Towards Longitudinal Human-LLM Alignment via Contextual Reflection and Privacy-Preserving Behavioral Data**|Simret Araya Gebreegziabher et.al.|[2605.04029](http://arxiv.org/abs/2605.04029)|null|
 |**2026-05-05**|**Deco: Extending Personal Physical Objects into Pervasive AI Companion through a Dual-Embodiment Framework**|Zhihan Jiang et.al.|[2605.03882](http://arxiv.org/abs/2605.03882)|null|
 |**2026-05-05**|**Bodyless Presence: Reconsidering the Minimal Self in Immersive Video**|Koichi Toida et.al.|[2605.03873](http://arxiv.org/abs/2605.03873)|null|
