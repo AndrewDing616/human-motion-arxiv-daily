@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.05.07
+### Automatically Updated on 2026.05.08
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-07**|**Jointly Learning Structured Representations and Stabilized Affinity for Human Motion Segmentation**|Xianghan Meng et.al.|[2605.05753](http://arxiv.org/abs/2605.05753)|null|
+|**2026-05-07**|**TriRelVLA: Triadic Relational Structure for Generalizable Embodied Manipulation**|Hanyu Zhou et.al.|[2605.05714](http://arxiv.org/abs/2605.05714)|null|
+|**2026-05-07**|**MotionGRPO: Overcoming Low Intra-Group Diversity in GRPO-Based Egocentric Motion Recovery**|Nanjie Yao et.al.|[2605.05680](http://arxiv.org/abs/2605.05680)|null|
+|**2026-05-06**|**LAMP: Localization Aware Multi-camera People Tracking in Metric 3D World**|Nan Yang et.al.|[2605.05390](http://arxiv.org/abs/2605.05390)|null|
 |**2026-05-06**|**Contact Matrix: Enhancing Dance Motion Synthesis with Precise Interaction Modeling**|Xuhai Chen et.al.|[2605.04662](http://arxiv.org/abs/2605.04662)|null|
 |**2026-05-06**|**iWorld-Bench: A Benchmark for Interactive World Models with a Unified Action Generation Framework**|Jianjie Fang et.al.|[2605.03941](http://arxiv.org/abs/2605.03941)|null|
 |**2026-05-05**|**Parameter-Efficient Multi-View Proficiency Estimation: From Discriminative Classification to Generative Feedback**|Edoardo Bianchi et.al.|[2605.03848](http://arxiv.org/abs/2605.03848)|null|
@@ -1831,6 +1835,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-07**|**DexSynRefine: Synthesizing and Refining Human-Object Interaction Motion for Physically Feasible Dexterous Robot Actions**|Hyesung Lee et.al.|[2605.05925](http://arxiv.org/abs/2605.05925)|null|
+|**2026-05-07**|**MaMi-HOI: Harmonizing Global Kinematics and Local Geometry for Human-Object Interaction Generation**|Hao Wang et.al.|[2605.05756](http://arxiv.org/abs/2605.05756)|null|
 |**2026-05-06**|**ScriptHOI: Learning Scripted State Transitions for Open-Vocabulary Human-Object Interaction Detection**|Minh Anh Nguyen et.al.|[2605.05057](http://arxiv.org/abs/2605.05057)|null|
 |**2026-05-06**|**Active Contact Sensing for Robust Robot-to-Human Object Handover**|Linfeng Li et.al.|[2605.04610](http://arxiv.org/abs/2605.04610)|null|
 |**2026-05-06**|**InterMesh: Explicit Interaction-Aware End-to-End Multi-Person Human Mesh Recovery**|Kaili Zheng et.al.|[2605.04554](http://arxiv.org/abs/2605.04554)|null|
@@ -2110,6 +2116,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-07**|**SIGMA-ASL: Sensor-Integrated Multimodal Dataset for Sign Language Recognition**|Xiaofang Xiao et.al.|[2605.06351](http://arxiv.org/abs/2605.06351)|null|
+|**2026-05-07**|**Human-AI Co-Evolution and Epistemic Collapse: A Dynamical Systems Perspective**|Xuening Wu et.al.|[2605.06347](http://arxiv.org/abs/2605.06347)|null|
+|**2026-05-07**|**LLM-Based Educational Simulation: Evaluating Temporal Student Persona Stability Across ADHD Profiles**|Jana Gonnermann-Müller et.al.|[2605.06307](http://arxiv.org/abs/2605.06307)|null|
+|**2026-05-07**|**LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning**|Xinyu Jessica Wang et.al.|[2605.06257](http://arxiv.org/abs/2605.06257)|null|
+|**2026-05-07**|**RobotEQ: Transitioning from Passive Intelligence to Active Intelligence in Embodied AI**|Kuofei Fang et.al.|[2605.06234](http://arxiv.org/abs/2605.06234)|null|
+|**2026-05-07**|**AffectGPT-RL: Revealing Roles of Reinforcement Learning in Open-Vocabulary Emotion Recognition**|Zheng Lian et.al.|[2605.06126](http://arxiv.org/abs/2605.06126)|null|
+|**2026-05-07**|**EventColumn: Integrating Event Sequences into Tabular Visualizations**|Jakob Zethofer et.al.|[2605.06065](http://arxiv.org/abs/2605.06065)|null|
+|**2026-05-07**|**Reality Check: How Avatar and Face Representation Affect the Perceptual Evaluation of Synthesized Gestures**|Haoyang Du et.al.|[2605.06063](http://arxiv.org/abs/2605.06063)|null|
+|**2026-05-07**|**Visual Fingerprints for LLM Generation Comparison**|Amal Alnouri et.al.|[2605.06054](http://arxiv.org/abs/2605.06054)|null|
+|**2026-05-07**|**I see artifacts: ICA-based EEG artifact removal does not improve deep network decoding across three BCI tasks**|Taeho Kang et.al.|[2605.06018](http://arxiv.org/abs/2605.06018)|null|
 |**2026-05-06**|**Tailoring Scaffolding to Diagnostic Strategies: Theory-Informed LLM-Based Agents**|Fatma Betul Gures et.al.|[2605.04996](http://arxiv.org/abs/2605.04996)|null|
 |**2026-05-06**|**To Fuse or to Drop? Dual-Path Learning for Resolving Modality Conflicts in Multimodal Emotion Recognition**|Yangchen Yu et.al.|[2605.04877](http://arxiv.org/abs/2605.04877)|null|
 |**2026-05-06**|**Not All Scaffolds Are Equal: How Initiation Mode Determines EMME Effectiveness in Debugging**|Anahita Golrang et.al.|[2605.04868](http://arxiv.org/abs/2605.04868)|null|
