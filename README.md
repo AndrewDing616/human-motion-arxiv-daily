@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.05.10
+### Automatically Updated on 2026.05.11
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-08**|**Towards Highly-Constrained Human Motion Generation with Retrieval-Guided Diffusion Noise Optimization**|Hanchao Liu et.al.|[2605.08054](http://arxiv.org/abs/2605.08054)|null|
+|**2026-05-08**|**NoiseGate: Learning Per-Latent Timestep Schedules as Information Gating in World Action Models**|Wen Huang et.al.|[2605.07794](http://arxiv.org/abs/2605.07794)|null|
+|**2026-05-08**|**AT-VLA: Adaptive Tactile Injection for Enhanced Feedback Reaction in Vision-Language-Action Models**|Xiaoqi Li et.al.|[2605.07308](http://arxiv.org/abs/2605.07308)|null|
+|**2026-05-07**|**Bi3: A Biplatform, Bicultural, Biperson Dataset for Social Robot Navigation**|Andrew Stratton et.al.|[2605.06863](http://arxiv.org/abs/2605.06863)|null|
+|**2026-05-07**|**HumanNet: Scaling Human-centric Video Learning to One Million Hours**|Yufan Deng et.al.|[2605.06747](http://arxiv.org/abs/2605.06747)|null|
 |**2026-05-07**|**Jointly Learning Structured Representations and Stabilized Affinity for Human Motion Segmentation**|Xianghan Meng et.al.|[2605.05753](http://arxiv.org/abs/2605.05753)|null|
 |**2026-05-07**|**TriRelVLA: Triadic Relational Structure for Generalizable Embodied Manipulation**|Hanyu Zhou et.al.|[2605.05714](http://arxiv.org/abs/2605.05714)|null|
 |**2026-05-07**|**MotionGRPO: Overcoming Low Intra-Group Diversity in GRPO-Based Egocentric Motion Recovery**|Nanjie Yao et.al.|[2605.05680](http://arxiv.org/abs/2605.05680)|null|
@@ -732,7 +737,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260510>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -888,12 +893,14 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260510>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-07**|**MELD: Multi-Task Equilibrated Learning Detector for AI-Generated Text**|Chenjun Li et.al.|[2605.06903](http://arxiv.org/abs/2605.06903)|null|
+|**2026-05-07**|**HumanNet: Scaling Human-centric Video Learning to One Million Hours**|Yufan Deng et.al.|[2605.06747](http://arxiv.org/abs/2605.06747)|null|
 |**2026-05-07**|**DexSynRefine: Synthesizing and Refining Human-Object Interaction Motion for Physically Feasible Dexterous Robot Actions**|Hyesung Lee et.al.|[2605.05925](http://arxiv.org/abs/2605.05925)|null|
 |**2026-05-07**|**MaMi-HOI: Harmonizing Global Kinematics and Local Geometry for Human-Object Interaction Generation**|Hao Wang et.al.|[2605.05756](http://arxiv.org/abs/2605.05756)|null|
 |**2026-05-06**|**ScriptHOI: Learning Scripted State Transitions for Open-Vocabulary Human-Object Interaction Detection**|Minh Anh Nguyen et.al.|[2605.05057](http://arxiv.org/abs/2605.05057)|null|
@@ -1171,12 +1178,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260510>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-08**|**Vibe Econometrics and the Analysis Contract**|Lydia Ashton et.al.|[2605.08071](http://arxiv.org/abs/2605.08071)|null|
+|**2026-05-08**|**ECNUClaw: A Learner-Profiled Intelligent Study Companion Framework for K-12 Personalized Education**|Yizhou Zhou et.al.|[2605.08040](http://arxiv.org/abs/2605.08040)|null|
+|**2026-05-08**|**Hot Wire 5D+: Evaluating Cognitive and Motor Trade-offs of Visual Feedback for 5D Augmented Reality Trajectories**|Christian Masuhr et.al.|[2605.08008](http://arxiv.org/abs/2605.08008)|null|
+|**2026-05-08**|**Towards Apples to Apples for AI Evaluations: From Real-World Use Cases to Evaluation Scenarios**|Yee-Yin Choong et.al.|[2605.07986](http://arxiv.org/abs/2605.07986)|null|
+|**2026-05-08**|**Exploring a Virtual Pet to Provide Context Notifications in a Tourism Recommender System: a Pilot Study**|Patrícia Alves et.al.|[2605.07960](http://arxiv.org/abs/2605.07960)|null|
+|**2026-05-08**|**Sycophantic AI makes human interaction feel more effortful and less satisfying over time**|Lujain Ibrahim et.al.|[2605.07912](http://arxiv.org/abs/2605.07912)|null|
+|**2026-05-08**|**SpatialPrompt: XR-Based Spatial Intent Expression as Executable Constraints for AI Generative 3D Design**|Yichen Andy Yu et.al.|[2605.07894](http://arxiv.org/abs/2605.07894)|null|
+|**2026-05-08**|**A Roadmap of Mixed Reality Body Doubling for Adults with ADHD**|Valerie Tan et.al.|[2605.07851](http://arxiv.org/abs/2605.07851)|null|
+|**2026-05-08**|**A Spatial Knowledge Acquisition Comparison Between Digital Visual Thematic Maps, Non-Visual Interactive Text Thematic Maps, and Tables**|Brandon Biggs et.al.|[2605.07849](http://arxiv.org/abs/2605.07849)|null|
+|**2026-05-08**|**Analyzing Human Heuristics and Strategies in Everyday Decision-Making Conversations for Conversational AI Design**|Sora Kang et.al.|[2605.07789](http://arxiv.org/abs/2605.07789)|null|
 |**2026-05-07**|**SIGMA-ASL: Sensor-Integrated Multimodal Dataset for Sign Language Recognition**|Xiaofang Xiao et.al.|[2605.06351](http://arxiv.org/abs/2605.06351)|null|
 |**2026-05-07**|**Human-AI Co-Evolution and Epistemic Collapse: A Dynamical Systems Perspective**|Xuening Wu et.al.|[2605.06347](http://arxiv.org/abs/2605.06347)|null|
 |**2026-05-07**|**LLM-Based Educational Simulation: Evaluating Temporal Student Persona Stability Across ADHD Profiles**|Jana Gonnermann-Müller et.al.|[2605.06307](http://arxiv.org/abs/2605.06307)|null|
@@ -2606,7 +2623,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260510>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
 
 Notes: 
 
