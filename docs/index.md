@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.05.12
+### Automatically Updated on 2026.05.13
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-12**|**Aligning Flow Map Policies with Optimal Q-Guidance**|Christos Ziakas et.al.|[2605.12416](http://arxiv.org/abs/2605.12416)|null|
+|**2026-05-12**|**GuidedVLA: Specifying Task-Relevant Factors via Plug-and-Play Action Attention Specialization**|Xiaosong Jia et.al.|[2605.12369](http://arxiv.org/abs/2605.12369)|null|
+|**2026-05-12**|**Real-Time Whole-Body Teleoperation of a Humanoid Robot Using IMU-Based Motion Capture with Sim2Sim and Sim2Real Validation**|Hamza Ahmed Durrani et.al.|[2605.12347](http://arxiv.org/abs/2605.12347)|null|
+|**2026-05-12**|**Enhancing Domain Generalization in 3D Human Pose Estimation through Controllable Generative Augmentation**|Xinhao Hu et.al.|[2605.12198](http://arxiv.org/abs/2605.12198)|null|
+|**2026-05-12**|**X-Imitator: Spatial-Aware Imitation Learning via Bidirectional Action-Pose Interaction**|Kai Xiong et.al.|[2605.12162](http://arxiv.org/abs/2605.12162)|null|
+|**2026-05-12**|**World Action Models: The Next Frontier in Embodied AI**|Siyin Wang et.al.|[2605.12090](http://arxiv.org/abs/2605.12090)|null|
+|**2026-05-12**|**ScaleMoGen: Autoregressive Next-Scale Prediction for Human Motion Generation**|Inwoo Hwang et.al.|[2605.11704](http://arxiv.org/abs/2605.11704)|null|
+|**2026-05-12**|**The DAWN of World-Action Interactive Models**|Hongbo Lu et.al.|[2605.11550](http://arxiv.org/abs/2605.11550)|null|
+|**2026-05-12**|**Checkup2Action: A Multimodal Clinical Check-up Report Dataset for Patient-Oriented Action Card Generation**|Sike Xiang et.al.|[2605.11533](http://arxiv.org/abs/2605.11533)|null|
+|**2026-05-12**|**Dynamic Full-body Motion Agent with Object Interaction via Blending Pre-trained Modular Controllers**|Sanghyeok Nam et.al.|[2605.11369](http://arxiv.org/abs/2605.11369)|null|
 |**2026-05-11**|**HarmoWAM: Harmonizing Generalizable and Precise Manipulation via Adaptive World Action Models**|Qiuxuan Feng et.al.|[2605.10942](http://arxiv.org/abs/2605.10942)|null|
 |**2026-05-11**|**CoWorld-VLA: Thinking in a Multi-Expert World Model for Autonomous Driving**|Minqing Huang et.al.|[2605.10426](http://arxiv.org/abs/2605.10426)|null|
 |**2026-05-11**|**Retrieve-then-Steer: Online Success Memory for Test-Time Adaptation of Generative VLAs**|Jianchao Zhao et.al.|[2605.10094](http://arxiv.org/abs/2605.10094)|null|
@@ -1850,11 +1860,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-12**|**PoseBridge: Bridging the Skeletonization Gap for Zero-Shot Skeleton-Based Action Recognition**|Sanghyeon Lee et.al.|[2605.11497](http://arxiv.org/abs/2605.11497)|null|
+|**2026-05-12**|**Dynamic Full-body Motion Agent with Object Interaction via Blending Pre-trained Modular Controllers**|Sanghyeok Nam et.al.|[2605.11369](http://arxiv.org/abs/2605.11369)|null|
+|**2026-05-12**|**ScriptHOI: Learning Scripted State Transitions for Open-Vocabulary Human-Object Interaction Detection**|Minh Anh Nguyen et.al.|[2605.05057](http://arxiv.org/abs/2605.05057)|null|
 |**2026-05-07**|**MELD: Multi-Task Equilibrated Learning Detector for AI-Generated Text**|Chenjun Li et.al.|[2605.06903](http://arxiv.org/abs/2605.06903)|null|
 |**2026-05-07**|**HumanNet: Scaling Human-centric Video Learning to One Million Hours**|Yufan Deng et.al.|[2605.06747](http://arxiv.org/abs/2605.06747)|null|
 |**2026-05-07**|**DexSynRefine: Synthesizing and Refining Human-Object Interaction Motion for Physically Feasible Dexterous Robot Actions**|Hyesung Lee et.al.|[2605.05925](http://arxiv.org/abs/2605.05925)|null|
 |**2026-05-07**|**MaMi-HOI: Harmonizing Global Kinematics and Local Geometry for Human-Object Interaction Generation**|Hao Wang et.al.|[2605.05756](http://arxiv.org/abs/2605.05756)|null|
-|**2026-05-06**|**ScriptHOI: Learning Scripted State Transitions for Open-Vocabulary Human-Object Interaction Detection**|Minh Anh Nguyen et.al.|[2605.05057](http://arxiv.org/abs/2605.05057)|null|
 |**2026-05-06**|**Active Contact Sensing for Robust Robot-to-Human Object Handover**|Linfeng Li et.al.|[2605.04610](http://arxiv.org/abs/2605.04610)|null|
 |**2026-05-06**|**InterMesh: Explicit Interaction-Aware End-to-End Multi-Person Human Mesh Recovery**|Kaili Zheng et.al.|[2605.04554](http://arxiv.org/abs/2605.04554)|null|
 |**2026-05-06**|**Dissociating spatial frequency reliance from adversarial robustness advantages in neurally guided deep convolutional neural networks**|Zhenan Shao et.al.|[2605.04443](http://arxiv.org/abs/2605.04443)|null|
@@ -2133,6 +2145,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-12**|**Reimagining Assessment in the Age of Generative AI: Lessons from Open-Book Exams with ChatGPT**|Qusay H. Mahmoud et.al.|[2605.12363](http://arxiv.org/abs/2605.12363)|null|
+|**2026-05-12**|**Optimized but Unowned: How AI-Authored Goals Undermine the Motivation They Are Meant to Drive**|Vivienne Bihe Chi et.al.|[2605.12344](http://arxiv.org/abs/2605.12344)|null|
+|**2026-05-12**|**From Model Uncertainty to Human Attention: Localization-Aware Visual Cues for Scalable Annotation Review**|Moussa Kassem Sbeyti et.al.|[2605.12303](http://arxiv.org/abs/2605.12303)|null|
+|**2026-05-12**|**HM-Req: A Framework for Embedding Values within CPS Human Monitoring Requirements**|Zoe Pfister et.al.|[2605.12100](http://arxiv.org/abs/2605.12100)|null|
+|**2026-05-12**|**RoboBlockly Studio: Conversational Block Programming with Embodied Robot Feedback for Computational Thinking**|Leyi Li et.al.|[2605.12059](http://arxiv.org/abs/2605.12059)|null|
+|**2026-05-12**|**COSMIC 1001: Engaging Future Speculation on Space Exploration with Generative AI**|Lingyu Peng et.al.|[2605.11827](http://arxiv.org/abs/2605.11827)|null|
+|**2026-05-12**|**Ink Spiral: Symbolic Transformation from The Thinker to the Four Gentlemen**|Lingyu Peng et.al.|[2605.11816](http://arxiv.org/abs/2605.11816)|null|
+|**2026-05-12**|**Psychological Benefits and Costs of Diversifying Algorithmic Recourse**|Tomu Tominaga et.al.|[2605.11793](http://arxiv.org/abs/2605.11793)|null|
+|**2026-05-12**|**MindMirror: A Local-First Multimodal State-Aware Support System for Digital Workers**|Wenqi Luo et.al.|[2605.11700](http://arxiv.org/abs/2605.11700)|null|
+|**2026-05-12**|**Auditing African Content Moderators' Working Conditions by Using the European General Data Protection Regulation (GDPR)**|Mariame Tighanimine et.al.|[2605.11699](http://arxiv.org/abs/2605.11699)|null|
 |**2026-05-11**|**Evaluating the False Trust engendered by LLM Explanations**|Vardhan Palod et.al.|[2605.10930](http://arxiv.org/abs/2605.10930)|null|
 |**2026-05-11**|**How Creatives Approach GenAI Image Generation: Tensions Between Structured Guidance, Self-Experimentation, and Creative Autonomy**|Haidan Liu et.al.|[2605.10898](http://arxiv.org/abs/2605.10898)|null|
 |**2026-05-11**|**StartFlow: From Method Conception to Multi-Perspective Evaluation in UX Prototyping for Software Startups**|Guilherme Corredato Guerino et.al.|[2605.10824](http://arxiv.org/abs/2605.10824)|null|
