@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.05.13
+### Automatically Updated on 2026.05.14
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-13**|**Coordinating Multiple Conditions for Trajectory-Controlled Human Motion Generation**|Deli Cai et.al.|[2605.13729](http://arxiv.org/abs/2605.13729)|null|
+|**2026-05-13**|**StayStill: a large-scale 3D idle animation dataset**|Eneko Atxa Landa et.al.|[2605.13693](http://arxiv.org/abs/2605.13693)|null|
+|**2026-05-13**|**RotVLA: Rotational Latent Action for Vision-Language-Action Model**|Qiwei Li et.al.|[2605.13403](http://arxiv.org/abs/2605.13403)|null|
+|**2026-05-13**|**Exact Accepting-State Spectrum for Reversal of Permutation Automata**|Samuel German et.al.|[2605.13385](http://arxiv.org/abs/2605.13385)|null|
+|**2026-05-13**|**Stylized Text-to-Motion Generation via Hypernetwork-Driven Low-Rank Adaptation**|Junhyuk Jeon et.al.|[2605.13333](http://arxiv.org/abs/2605.13333)|null|
+|**2026-05-13**|**Test-time Sparsity for Extreme Fast Action Diffusion**|Kangye Ji et.al.|[2605.13316](http://arxiv.org/abs/2605.13316)|null|
+|**2026-05-13**|**Doppler Prompting for Stable mmWave-based Human Pose Estimation**|Shuntian Zheng et.al.|[2605.13233](http://arxiv.org/abs/2605.13233)|null|
+|**2026-05-12**|**Generative Motion In-betweening by Diffusion over Continuous Implicit Representations**|Shiyu Fan et.al.|[2605.12778](http://arxiv.org/abs/2605.12778)|null|
 |**2026-05-12**|**Aligning Flow Map Policies with Optimal Q-Guidance**|Christos Ziakas et.al.|[2605.12416](http://arxiv.org/abs/2605.12416)|null|
 |**2026-05-12**|**GuidedVLA: Specifying Task-Relevant Factors via Plug-and-Play Action Attention Specialization**|Xiaosong Jia et.al.|[2605.12369](http://arxiv.org/abs/2605.12369)|null|
 |**2026-05-12**|**Real-Time Whole-Body Teleoperation of a Humanoid Robot Using IMU-Based Motion Capture with Sim2Sim and Sim2Real Validation**|Hamza Ahmed Durrani et.al.|[2605.12347](http://arxiv.org/abs/2605.12347)|null|
@@ -1860,6 +1868,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-13**|**TouchAnything: A Dataset and Framework for Bimanual Tactile Estimation from Egocentric Video**|Jianyi Zhou et.al.|[2605.13083](http://arxiv.org/abs/2605.13083)|null|
 |**2026-05-12**|**PoseBridge: Bridging the Skeletonization Gap for Zero-Shot Skeleton-Based Action Recognition**|Sanghyeon Lee et.al.|[2605.11497](http://arxiv.org/abs/2605.11497)|null|
 |**2026-05-12**|**Dynamic Full-body Motion Agent with Object Interaction via Blending Pre-trained Modular Controllers**|Sanghyeok Nam et.al.|[2605.11369](http://arxiv.org/abs/2605.11369)|null|
 |**2026-05-12**|**ScriptHOI: Learning Scripted State Transitions for Open-Vocabulary Human-Object Interaction Detection**|Minh Anh Nguyen et.al.|[2605.05057](http://arxiv.org/abs/2605.05057)|null|
@@ -2145,6 +2154,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-13**|**"Like Taking the Path of Least Resistance": Exploring the Impact of LLM Interaction on the Creative Process of Programming**|Zeinabsadat Saghi et.al.|[2605.13776](http://arxiv.org/abs/2605.13776)|null|
+|**2026-05-13**|**Distinguishing performance gains from learning when using generative AI**|Lixiang Yan et.al.|[2605.13731](http://arxiv.org/abs/2605.13731)|null|
+|**2026-05-13**|**Humanwashing -- It Should Leave You Feeling Dirty**|Ben Wilson et.al.|[2605.13723](http://arxiv.org/abs/2605.13723)|null|
+|**2026-05-13**|**Beyond Anthropomorphism: Exploring the Roles of Perceived Non-humanity and Structural Similarity in Deep Self-Disclosure Toward Generative AI**|Satoru Shibuya et.al.|[2605.13574](http://arxiv.org/abs/2605.13574)|null|
+|**2026-05-13**|**AI-Generated Slides: Are They Good? Can Students Tell?**|Juho Leinonen et.al.|[2605.13532](http://arxiv.org/abs/2605.13532)|null|
+|**2026-05-13**|**Beyond VMAF: Towards Application-Specific Metrics for Teleoperation Video**|Ines Trautmannsheimer et.al.|[2605.13525](http://arxiv.org/abs/2605.13525)|null|
+|**2026-05-13**|**Assessing the Creativity of Large Language Models: Testing, Limits, and New Frontiers**|Samuel Schapiro et.al.|[2605.13450](http://arxiv.org/abs/2605.13450)|null|
+|**2026-05-13**|**PRISM-X: Experiments on Personalised Fine-Tuning with Human and Simulated Users**|Hannah Rose Kirk et.al.|[2605.13307](http://arxiv.org/abs/2605.13307)|null|
+|**2026-05-13**|**"It became a self-fulfilling prophecy": How Lived Experiences are Entangled with AI Predictions in Menstrual Cycle Tracking Apps**|Wendy Zhou et.al.|[2605.13261](http://arxiv.org/abs/2605.13261)|null|
+|**2026-05-13**|**Doppler Prompting for Stable mmWave-based Human Pose Estimation**|Shuntian Zheng et.al.|[2605.13233](http://arxiv.org/abs/2605.13233)|null|
 |**2026-05-12**|**Reimagining Assessment in the Age of Generative AI: Lessons from Open-Book Exams with ChatGPT**|Qusay H. Mahmoud et.al.|[2605.12363](http://arxiv.org/abs/2605.12363)|null|
 |**2026-05-12**|**Optimized but Unowned: How AI-Authored Goals Undermine the Motivation They Are Meant to Drive**|Vivienne Bihe Chi et.al.|[2605.12344](http://arxiv.org/abs/2605.12344)|null|
 |**2026-05-12**|**From Model Uncertainty to Human Attention: Localization-Aware Visual Cues for Scalable Annotation Review**|Moussa Kassem Sbeyti et.al.|[2605.12303](http://arxiv.org/abs/2605.12303)|null|
