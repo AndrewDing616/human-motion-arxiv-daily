@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.05.14
+### Automatically Updated on 2026.05.16
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-14**|**EverAnimate: Minute-Scale Human Animation via Latent Flow Restoration**|Wuyang Li et.al.|[2605.15042](http://arxiv.org/abs/2605.15042)|null|
+|**2026-05-14**|**Evo-Depth: A Lightweight Depth-Enhanced Vision-Language-Action Model**|Tao Lin et.al.|[2605.14950](http://arxiv.org/abs/2605.14950)|null|
+|**2026-05-14**|**Multi-scale Coarse-to-fine Modeling for Test-time Human Motion Control**|Nhat Le et.al.|[2605.14935](http://arxiv.org/abs/2605.14935)|null|
+|**2026-05-14**|**BioHuman: Learning Biomechanical Human Representations from Video**|Yujun Huo et.al.|[2605.14772](http://arxiv.org/abs/2605.14772)|null|
+|**2026-05-14**|**UMo: Unified Sparse Motion Modeling for Real-Time Co-Speech Avatars**|Xiaoyu Zhan et.al.|[2605.14731](http://arxiv.org/abs/2605.14731)|null|
+|**2026-05-14**|**AnchorRoute: Human Motion Synthesis with Interval-Routed Sparse Contro**|Pengcheng Fang et.al.|[2605.14716](http://arxiv.org/abs/2605.14716)|null|
+|**2026-05-14**|**DSSP: Diffusion State Space Policy with Full-History Encoding**|Zhiyuan Guan et.al.|[2605.14598](http://arxiv.org/abs/2605.14598)|null|
+|**2026-05-14**|**Real2Sim in HOI: Toward Physically Plausible HOI Reconstruction from Monocular Videos**|Yubo Zhao et.al.|[2605.14462](http://arxiv.org/abs/2605.14462)|null|
+|**2026-05-14**|**PhyMotion: Structured 3D Motion Reward for Physics-Grounded Human Video Generation**|Yidong Huang et.al.|[2605.14269](http://arxiv.org/abs/2605.14269)|null|
+|**2026-05-13**|**WirelessSenseLLM: Zero-Shot Human Activity Understanding by Bridging Wireless Signals and Human Language**|Mahmuda Keya et.al.|[2605.14070](http://arxiv.org/abs/2605.14070)|null|
 |**2026-05-13**|**Coordinating Multiple Conditions for Trajectory-Controlled Human Motion Generation**|Deli Cai et.al.|[2605.13729](http://arxiv.org/abs/2605.13729)|null|
 |**2026-05-13**|**StayStill: a large-scale 3D idle animation dataset**|Eneko Atxa Landa et.al.|[2605.13693](http://arxiv.org/abs/2605.13693)|null|
 |**2026-05-13**|**RotVLA: Rotational Latent Action for Vision-Language-Action Model**|Qiwei Li et.al.|[2605.13403](http://arxiv.org/abs/2605.13403)|null|
@@ -765,7 +775,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260514>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260516>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -921,12 +931,13 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260514>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260516>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-14**|**Real2Sim in HOI: Toward Physically Plausible HOI Reconstruction from Monocular Videos**|Yubo Zhao et.al.|[2605.14462](http://arxiv.org/abs/2605.14462)|null|
 |**2026-05-13**|**TouchAnything: A Dataset and Framework for Bimanual Tactile Estimation from Egocentric Video**|Jianyi Zhou et.al.|[2605.13083](http://arxiv.org/abs/2605.13083)|null|
 |**2026-05-12**|**PoseBridge: Bridging the Skeletonization Gap for Zero-Shot Skeleton-Based Action Recognition**|Sanghyeon Lee et.al.|[2605.11497](http://arxiv.org/abs/2605.11497)|null|
 |**2026-05-12**|**Dynamic Full-body Motion Agent with Object Interaction via Blending Pre-trained Modular Controllers**|Sanghyeok Nam et.al.|[2605.11369](http://arxiv.org/abs/2605.11369)|null|
@@ -1209,12 +1220,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260514>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260516>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-14**|**Understanding How International Students in the U.S. Are Using Conversational AI to Support Cross-Cultural Adaptation**|Laleh Nourian et.al.|[2605.15127](http://arxiv.org/abs/2605.15127)|null|
+|**2026-05-14**|**Usable but Conventional: An Empirical Study on the UX of AI-Generated Interface Prototypes**|Karoline Romero et.al.|[2605.15124](http://arxiv.org/abs/2605.15124)|null|
+|**2026-05-14**|**After the Interface: Relocating Human Agency in the Age of Conversational AI**|Mengke Wu et.al.|[2605.15064](http://arxiv.org/abs/2605.15064)|null|
+|**2026-05-14**|**Deceptive Cookies: Consent by Design -- A Mixed Methods Study**|Liv Hilde Sjøflot et.al.|[2605.15056](http://arxiv.org/abs/2605.15056)|null|
+|**2026-05-14**|**Analyzing Codes of Conduct for Online Safety in Video Games at Scale**|Jiuming Jiang et.al.|[2605.15047](http://arxiv.org/abs/2605.15047)|null|
+|**2026-05-14**|**Small, Private Language Models as Teammates for Educational Assessment Design**|Chris Davis Jaldi et.al.|[2605.15015](http://arxiv.org/abs/2605.15015)|null|
+|**2026-05-14**|**Towards Gaze-Informed AI Disclosure Interfaces: Eye-Tracking Attentional and Cognitive Load While Reading AI-Assisted News**|Pooja Prajod et.al.|[2605.14999](http://arxiv.org/abs/2605.14999)|null|
+|**2026-05-14**|**Viverra: Text-to-Code with Guarantees**|Haoze Wu et.al.|[2605.14972](http://arxiv.org/abs/2605.14972)|null|
+|**2026-05-14**|**nASR: An End-to-End Trainable Neural Layer for Channel-Level EEG Artifact Subspace Reconstruction in Real-Time BCI**|Shantanu Sarkar et.al.|[2605.14941](http://arxiv.org/abs/2605.14941)|null|
+|**2026-05-14**|**From Sycophantic Consensus to Pluralistic Repair: Why AI Alignment Must Surface Disagreement**|Varad Vishwarupe et.al.|[2605.14912](http://arxiv.org/abs/2605.14912)|null|
 |**2026-05-13**|**"Like Taking the Path of Least Resistance": Exploring the Impact of LLM Interaction on the Creative Process of Programming**|Zeinabsadat Saghi et.al.|[2605.13776](http://arxiv.org/abs/2605.13776)|null|
 |**2026-05-13**|**Distinguishing performance gains from learning when using generative AI**|Lixiang Yan et.al.|[2605.13731](http://arxiv.org/abs/2605.13731)|null|
 |**2026-05-13**|**Humanwashing -- It Should Leave You Feeling Dirty**|Ben Wilson et.al.|[2605.13723](http://arxiv.org/abs/2605.13723)|null|
@@ -2684,7 +2705,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260514>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260516>back to top</a>)</p>
 
 Notes: 
 
