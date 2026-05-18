@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.05.17
+### Automatically Updated on 2026.05.18
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,12 +959,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-15**|**Dynamic and Open-Set RF Fingerprinting and Localization in Crowded Indoor Environments through Contrastive Channel State Information Learning**|Fawaz Abdul Razak et.al.|[2605.15593](http://arxiv.org/abs/2605.15593)|null|
+|**2026-05-15**|**Unsupervised 3D Human Pose Estimation via Conditional Multi-view Ancestral Sampling**|Ryohei Goto et.al.|[2605.15583](http://arxiv.org/abs/2605.15583)|null|
+|**2026-05-15**|**AnyAct: Towards Human Reenactment of Character Motion From Video**|Liuhan Chen et.al.|[2605.15497](http://arxiv.org/abs/2605.15497)|null|
+|**2026-05-15**|**AnchorRoute: Human Motion Synthesis with Interval-Routed Sparse Contro**|Pengcheng Fang et.al.|[2605.14716](http://arxiv.org/abs/2605.14716)|null|
 |**2026-05-14**|**EverAnimate: Minute-Scale Human Animation via Latent Flow Restoration**|Wuyang Li et.al.|[2605.15042](http://arxiv.org/abs/2605.15042)|null|
 |**2026-05-14**|**Evo-Depth: A Lightweight Depth-Enhanced Vision-Language-Action Model**|Tao Lin et.al.|[2605.14950](http://arxiv.org/abs/2605.14950)|null|
 |**2026-05-14**|**Multi-scale Coarse-to-fine Modeling for Test-time Human Motion Control**|Nhat Le et.al.|[2605.14935](http://arxiv.org/abs/2605.14935)|null|
 |**2026-05-14**|**BioHuman: Learning Biomechanical Human Representations from Video**|Yujun Huo et.al.|[2605.14772](http://arxiv.org/abs/2605.14772)|null|
 |**2026-05-14**|**UMo: Unified Sparse Motion Modeling for Real-Time Co-Speech Avatars**|Xiaoyu Zhan et.al.|[2605.14731](http://arxiv.org/abs/2605.14731)|null|
-|**2026-05-14**|**AnchorRoute: Human Motion Synthesis with Interval-Routed Sparse Contro**|Pengcheng Fang et.al.|[2605.14716](http://arxiv.org/abs/2605.14716)|null|
 |**2026-05-14**|**DSSP: Diffusion State Space Policy with Full-History Encoding**|Zhiyuan Guan et.al.|[2605.14598](http://arxiv.org/abs/2605.14598)|null|
 |**2026-05-14**|**Real2Sim in HOI: Toward Physically Plausible HOI Reconstruction from Monocular Videos**|Yubo Zhao et.al.|[2605.14462](http://arxiv.org/abs/2605.14462)|null|
 |**2026-05-14**|**PhyMotion: Structured 3D Motion Reward for Physics-Grounded Human Video Generation**|Yidong Huang et.al.|[2605.14269](http://arxiv.org/abs/2605.14269)|null|
@@ -2165,6 +2168,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-15**|**Inside Baseball: The Automated Ball-Strike System as an Object Lesson in Technological Rule Enforcement**|Andrea Wen-Yi Wang et.al.|[2605.16237](http://arxiv.org/abs/2605.16237)|null|
+|**2026-05-15**|**Position: AI as Part of Self -- Extending the Mind Requires Cognitive Co-Regulation**|Alina Gutoreva et.al.|[2605.16197](http://arxiv.org/abs/2605.16197)|null|
+|**2026-05-15**|**VideoSeeker: Incentivizing Instance-level Video Understanding via Native Agentic Tool Invocation**|Yiming Zhao et.al.|[2605.16079](http://arxiv.org/abs/2605.16079)|null|
+|**2026-05-15**|**Driving Through the Network: Performance and Workload Under Latency and Video Impairment**|Ines Trautmannsheimer et.al.|[2605.15952](http://arxiv.org/abs/2605.15952)|null|
+|**2026-05-15**|**GEMS -- Guided Evolutionary Molecule Design for Sustainable Chemicals**|Coelina Robinson et.al.|[2605.15932](http://arxiv.org/abs/2605.15932)|null|
+|**2026-05-15**|**Synchronized Realities: Towards Magic Mobile Experiences through Aligned AR**|Jan Henry Belz et.al.|[2605.15924](http://arxiv.org/abs/2605.15924)|null|
+|**2026-05-15**|**SLIP & ETHICS: Graduated Intervention for AI Emotional Companions**|Minseo Kim et.al.|[2605.15915](http://arxiv.org/abs/2605.15915)|null|
+|**2026-05-15**|**Designing for Robot Wranglers: A Synthesis of Literature and Practice**|David Porfirio et.al.|[2605.15892](http://arxiv.org/abs/2605.15892)|null|
+|**2026-05-15**|**Access Timing as Scaffolding: A Reinforcement Learning Approach to GenAI in Education**|Janne Rotter et.al.|[2605.15850](http://arxiv.org/abs/2605.15850)|null|
+|**2026-05-15**|**Conversations in Space: Structuring Non-Linear LLM Interactions on a Canvas**|Rifat Mehreen Amin et.al.|[2605.15848](http://arxiv.org/abs/2605.15848)|null|
 |**2026-05-14**|**Understanding How International Students in the U.S. Are Using Conversational AI to Support Cross-Cultural Adaptation**|Laleh Nourian et.al.|[2605.15127](http://arxiv.org/abs/2605.15127)|null|
 |**2026-05-14**|**Usable but Conventional: An Empirical Study on the UX of AI-Generated Interface Prototypes**|Karoline Romero et.al.|[2605.15124](http://arxiv.org/abs/2605.15124)|null|
 |**2026-05-14**|**After the Interface: Relocating Human Agency in the Age of Conversational AI**|Mengke Wu et.al.|[2605.15064](http://arxiv.org/abs/2605.15064)|null|
