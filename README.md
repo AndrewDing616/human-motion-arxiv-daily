@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.05.18
+### Automatically Updated on 2026.05.19
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-18**|**A geometric Fano--Procrustes framework for purification-based distances and quantum channels analysis**|Tristán M. Osán et.al.|[2605.18485](http://arxiv.org/abs/2605.18485)|null|
+|**2026-05-18**|**Functionalization via Structure Completion and Motion Rectification**|Mingrui Zhao et.al.|[2605.18010](http://arxiv.org/abs/2605.18010)|null|
+|**2026-05-17**|**RoboFlow4D: A Lightweight Flow World Model Toward Real-Time Flow-Guided Robotic Manipulation**|Sixu Lin et.al.|[2605.17522](http://arxiv.org/abs/2605.17522)|null|
+|**2026-05-17**|**SEDualVLN: A Spatially-Enhanced Dual-System for Vision-Language Navigation**|Jingzhi Huang et.al.|[2605.17249](http://arxiv.org/abs/2605.17249)|null|
+|**2026-05-16**|**SADP: Subgoal-Aware Diffusion Policy for Explainable Robots Learned from Foundation Model Generated Demonstrations**|Site Hu et.al.|[2605.16871](http://arxiv.org/abs/2605.16871)|null|
+|**2026-05-15**|**SWoMo: Neuro-Symbolic World Model for Cataract Surgery Simulation**|Ssharvien Kumar Sivakumar et.al.|[2605.16530](http://arxiv.org/abs/2605.16530)|null|
 |**2026-05-15**|**Dynamic and Open-Set RF Fingerprinting and Localization in Crowded Indoor Environments through Contrastive Channel State Information Learning**|Fawaz Abdul Razak et.al.|[2605.15593](http://arxiv.org/abs/2605.15593)|null|
 |**2026-05-15**|**Unsupervised 3D Human Pose Estimation via Conditional Multi-view Ancestral Sampling**|Ryohei Goto et.al.|[2605.15583](http://arxiv.org/abs/2605.15583)|null|
 |**2026-05-15**|**AnyAct: Towards Human Reenactment of Character Motion From Video**|Liuhan Chen et.al.|[2605.15497](http://arxiv.org/abs/2605.15497)|null|
@@ -778,7 +784,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260518>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260519>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -934,12 +940,14 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260518>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260519>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-18**|**EgoInteract: Synthetic Egocentric Videos Generation for Interaction Understanding and Anticipation**|Rosario Leonardi et.al.|[2605.18214](http://arxiv.org/abs/2605.18214)|null|
+|**2026-05-16**|**RHINO: Reconstructing Human Interactions with Novel Objects from Monocular Videos**|Lixin Xue et.al.|[2605.17014](http://arxiv.org/abs/2605.17014)|null|
 |**2026-05-14**|**Real2Sim in HOI: Toward Physically Plausible HOI Reconstruction from Monocular Videos**|Yubo Zhao et.al.|[2605.14462](http://arxiv.org/abs/2605.14462)|null|
 |**2026-05-13**|**TouchAnything: A Dataset and Framework for Bimanual Tactile Estimation from Egocentric Video**|Jianyi Zhou et.al.|[2605.13083](http://arxiv.org/abs/2605.13083)|null|
 |**2026-05-12**|**PoseBridge: Bridging the Skeletonization Gap for Zero-Shot Skeleton-Based Action Recognition**|Sanghyeon Lee et.al.|[2605.11497](http://arxiv.org/abs/2605.11497)|null|
@@ -1223,12 +1231,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260518>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260519>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-18**|**Contextualized Dynamic Explanations: A Vision**|Zhicheng Liu et.al.|[2605.18698](http://arxiv.org/abs/2605.18698)|null|
+|**2026-05-18**|**Evaluating Multi-turn Human-AI Interaction**|Shi Ding et.al.|[2605.18660](http://arxiv.org/abs/2605.18660)|null|
+|**2026-05-18**|**OrganicHAR: Towards Activity Discovery in Organic Settings for Privacy Preserving Sensors Using Efficient Video Analysis**|Prasoon Patidar et.al.|[2605.18455](http://arxiv.org/abs/2605.18455)|null|
+|**2026-05-18**|**The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human-AI Collaboration**|Cansu Koyuturk et.al.|[2605.18372](http://arxiv.org/abs/2605.18372)|null|
+|**2026-05-18**|**Distorted Perspectives of LLM-Simulated Preferences: Can AI Mislead Design?**|Eduard Kuric et.al.|[2605.18311](http://arxiv.org/abs/2605.18311)|null|
+|**2026-05-18**|**What Would GPT Click: Practical Effects of Human-AI Behavioral Misalignment and the Cost of Synthetic Participants in User Experience**|Eduard Kuric et.al.|[2605.18302](http://arxiv.org/abs/2605.18302)|null|
+|**2026-05-18**|**DARE-EEG: A Foundation Model for Mining Dual-Aligned Representation of EEG**|Yang Shao et.al.|[2605.18298](http://arxiv.org/abs/2605.18298)|null|
+|**2026-05-18**|**MEEDAV: A Synchronous Web Viewer for EEG, Eye-Tracking and Speech Data**|Jan Pijálek et.al.|[2605.18296](http://arxiv.org/abs/2605.18296)|null|
+|**2026-05-18**|**In-Vehicle Human-Machine Interface to Support Drivers in Conditionally Automated Platooning**|Anna-Lena Hager et.al.|[2605.18149](http://arxiv.org/abs/2605.18149)|null|
+|**2026-05-18**|**A Brief Overview: On-Policy Self-Distillation In Large Language Models**|Fangming Cui et.al.|[2605.18141](http://arxiv.org/abs/2605.18141)|null|
 |**2026-05-15**|**Inside Baseball: The Automated Ball-Strike System as an Object Lesson in Technological Rule Enforcement**|Andrea Wen-Yi Wang et.al.|[2605.16237](http://arxiv.org/abs/2605.16237)|null|
 |**2026-05-15**|**Position: AI as Part of Self -- Extending the Mind Requires Cognitive Co-Regulation**|Alina Gutoreva et.al.|[2605.16197](http://arxiv.org/abs/2605.16197)|null|
 |**2026-05-15**|**VideoSeeker: Incentivizing Instance-level Video Understanding via Native Agentic Tool Invocation**|Yiming Zhao et.al.|[2605.16079](http://arxiv.org/abs/2605.16079)|null|
@@ -2718,7 +2736,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260518>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260519>back to top</a>)</p>
 
 Notes: 
 
