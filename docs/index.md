@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.05.19
+### Automatically Updated on 2026.05.21
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-20**|**RePCM: Region-Specific and Phenotype-Adaptive Bi-Ventricular Cardiac Motion Synthesis**|Xuan Yang et.al.|[2605.21237](http://arxiv.org/abs/2605.21237)|null|
+|**2026-05-20**|**Humanoid Whole-Body Manipulation via Active Spatial Brain and Generalizable Action Cerebellum**|Zhizhao Liang et.al.|[2605.21133](http://arxiv.org/abs/2605.21133)|null|
+|**2026-05-20**|**DrawMotion: Generating 3D Human Motions by Freehand Drawing**|Tao Wang et.al.|[2605.20955](http://arxiv.org/abs/2605.20955)|null|
+|**2026-05-20**|**GaussianDream: A Feed-Forward 3D Gaussian World Model for Robotic Manipulation**|Zijian Zhang et.al.|[2605.20752](http://arxiv.org/abs/2605.20752)|null|
+|**2026-05-20**|**Jointly Learning Predicates and Actions Enables Zero-Shot Skill Composition**|Benedict Quartey et.al.|[2605.20648](http://arxiv.org/abs/2605.20648)|null|
+|**2026-05-19**|**CaMo: Camera Motion Grounded Evaluation and Training for Vision-Language Models**|Hsiang-Wei Huang et.al.|[2605.20165](http://arxiv.org/abs/2605.20165)|null|
+|**2026-05-19**|**Beyond Action Residuals: Real-World Robot Policy Steering via Bottleneck Latent Reinforcement Learning**|Dongjie Yu et.al.|[2605.19919](http://arxiv.org/abs/2605.19919)|null|
+|**2026-05-19**|**RoVLA: Multi-Consistency Constraints for Robust Vision-Language-Action Models**|Jingzhou Luo et.al.|[2605.19678](http://arxiv.org/abs/2605.19678)|null|
+|**2026-05-19**|**Bézier Degradation Modeling for LiDAR-based Human Motion Capture**|Xiaoqi An et.al.|[2605.19620](http://arxiv.org/abs/2605.19620)|null|
+|**2026-05-18**|**MotionMERGE: A Multi-granular Framework for Human Motion Editing, Reasoning, Generation, and Explanation**|Bizhu Wu et.al.|[2605.18956](http://arxiv.org/abs/2605.18956)|null|
 |**2026-05-18**|**A geometric Fano--Procrustes framework for purification-based distances and quantum channels analysis**|Tristán M. Osán et.al.|[2605.18485](http://arxiv.org/abs/2605.18485)|null|
 |**2026-05-18**|**Functionalization via Structure Completion and Motion Rectification**|Mingrui Zhao et.al.|[2605.18010](http://arxiv.org/abs/2605.18010)|null|
 |**2026-05-17**|**RoboFlow4D: A Lightweight Flow World Model Toward Real-Time Flow-Guided Robotic Manipulation**|Sixu Lin et.al.|[2605.17522](http://arxiv.org/abs/2605.17522)|null|
@@ -1887,6 +1897,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-20**|**VISTA: Technical Report for the Ego4D Short-Term Object Interaction Anticipation at EgoVis 2026**|Qiaohui Chu et.al.|[2605.20901](http://arxiv.org/abs/2605.20901)|null|
+|**2026-05-19**|**SUGAR: A Scalable Human-Video-Driven Generalizable Humanoid Loco-Manipulation Learning Framework**|Tianshu Wu et.al.|[2605.20373](http://arxiv.org/abs/2605.20373)|null|
 |**2026-05-18**|**EgoInteract: Synthetic Egocentric Videos Generation for Interaction Understanding and Anticipation**|Rosario Leonardi et.al.|[2605.18214](http://arxiv.org/abs/2605.18214)|null|
 |**2026-05-16**|**RHINO: Reconstructing Human Interactions with Novel Objects from Monocular Videos**|Lixin Xue et.al.|[2605.17014](http://arxiv.org/abs/2605.17014)|null|
 |**2026-05-14**|**Real2Sim in HOI: Toward Physically Plausible HOI Reconstruction from Monocular Videos**|Yubo Zhao et.al.|[2605.14462](http://arxiv.org/abs/2605.14462)|null|
@@ -2176,6 +2188,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-20**|**HITL-D: Human In The Loop Diffusion Assisted Shared Control**|Riley Zilka et.al.|[2605.21460](http://arxiv.org/abs/2605.21460)|null|
+|**2026-05-20**|**Designing Conversations with the Dead: How People Engage with Generative Ghosts**|Jack Manning et.al.|[2605.21390](http://arxiv.org/abs/2605.21390)|null|
+|**2026-05-20**|**Combating Harms of Generative AI in CS1 with Code Review Interviews and a Flipped Classroom**|Peter Fowles et.al.|[2605.21374](http://arxiv.org/abs/2605.21374)|null|
+|**2026-05-20**|**Gen-AI-tecture: using generative AI to support architectural students in design tasks**|Timo Kapsalis et.al.|[2605.21361](http://arxiv.org/abs/2605.21361)|null|
+|**2026-05-20**|**The Human-AI Delegation Dilemma: Individual Strategies, Collective Equilibria and Sociotechnical Lock-in**|Angjelin Hila et.al.|[2605.21351](http://arxiv.org/abs/2605.21351)|null|
+|**2026-05-20**|**TimeSRL: Generalizable Time-Series Behavioral Modeling via Semantic RL-Tuned LLMs -- A Case Study in Mental Health**|Yuang Fan et.al.|[2605.21295](http://arxiv.org/abs/2605.21295)|null|
+|**2026-05-20**|**The Quiet Path from Seemingly Minor Design Errors to Workplace AI Incidents**|Julia De Miguel Velázquez et.al.|[2605.21035](http://arxiv.org/abs/2605.21035)|null|
+|**2026-05-20**|**PaintCopilot: Modeling Painting as Autonomous Artistic Continuation**|Yunge Wen et.al.|[2605.20941](http://arxiv.org/abs/2605.20941)|null|
+|**2026-05-20**|**Toward 6G-enabled Brain Computer Interfaces: Technical Requirements, Use Cases, Challenges, and Future Trends**|Houda Hafi et.al.|[2605.20939](http://arxiv.org/abs/2605.20939)|null|
+|**2026-05-20**|**CandorMD: An AI-Assisted Audio Simulation and Feedback System for Training Clinicians for Medical Error Disclosure**|Inna Wanyin Lin et.al.|[2605.20701](http://arxiv.org/abs/2605.20701)|null|
 |**2026-05-18**|**Contextualized Dynamic Explanations: A Vision**|Zhicheng Liu et.al.|[2605.18698](http://arxiv.org/abs/2605.18698)|null|
 |**2026-05-18**|**Evaluating Multi-turn Human-AI Interaction**|Shi Ding et.al.|[2605.18660](http://arxiv.org/abs/2605.18660)|null|
 |**2026-05-18**|**OrganicHAR: Towards Activity Discovery in Organic Settings for Privacy Preserving Sensors Using Efficient Video Analysis**|Prasoon Patidar et.al.|[2605.18455](http://arxiv.org/abs/2605.18455)|null|
