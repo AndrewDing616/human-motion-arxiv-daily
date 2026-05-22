@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.05.21
+### Automatically Updated on 2026.05.22
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-21**|**GesVLA: Gesture-Aware Vision-Language-Action Model Embedded Representations**|Wenxuan Guo et.al.|[2605.22812](http://arxiv.org/abs/2605.22812)|null|
+|**2026-05-21**|**AnyMo: Geometry-Aware Setup-Agnostic Modeling of Human Motion in the Wild**|Baiyu Chen et.al.|[2605.22715](http://arxiv.org/abs/2605.22715)|null|
+|**2026-05-21**|**AtomicMotion: Learning Human Motion From Different Human Parts**|Runzhen Liu et.al.|[2605.22631](http://arxiv.org/abs/2605.22631)|null|
+|**2026-05-21**|**H-Flow: Self-supervised Human Scene Flow via Physics-inspired Joint Multi-modal Learning**|Zhanbo Huang et.al.|[2605.22629](http://arxiv.org/abs/2605.22629)|null|
+|**2026-05-21**|**Perceived Safety of Workers in Encounters with Large Industrial AGVs**|Ansgar Howey et.al.|[2605.22461](http://arxiv.org/abs/2605.22461)|null|
+|**2026-05-21**|**Pre-VLA: Preemptive Runtime Verification for Reliable Vision-Language-Action and World-Model Rollouts**|Zhen Sun et.al.|[2605.22446](http://arxiv.org/abs/2605.22446)|null|
+|**2026-05-21**|**LVDrive: Latent Visual Representation Enhanced Vision-Language-Action Autonomous Driving Model**|Xiaodong Mei et.al.|[2605.22089](http://arxiv.org/abs/2605.22089)|null|
+|**2026-05-21**|**Diverse Yet Consistent: Context-Guided Diffusion with Energy-Based Joint Refinement for Multi-Agent Motion Prediction**|Lei Chu et.al.|[2605.22017](http://arxiv.org/abs/2605.22017)|null|
 |**2026-05-20**|**RePCM: Region-Specific and Phenotype-Adaptive Bi-Ventricular Cardiac Motion Synthesis**|Xuan Yang et.al.|[2605.21237](http://arxiv.org/abs/2605.21237)|null|
 |**2026-05-20**|**Humanoid Whole-Body Manipulation via Active Spatial Brain and Generalizable Action Cerebellum**|Zhizhao Liang et.al.|[2605.21133](http://arxiv.org/abs/2605.21133)|null|
 |**2026-05-20**|**DrawMotion: Generating 3D Human Motions by Freehand Drawing**|Tao Wang et.al.|[2605.20955](http://arxiv.org/abs/2605.20955)|null|
@@ -794,12 +802,13 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260522>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-21**|**H-Flow: Self-supervised Human Scene Flow via Physics-inspired Joint Multi-modal Learning**|Zhanbo Huang et.al.|[2605.22629](http://arxiv.org/abs/2605.22629)|null|
 |**2026-05-11**|**UniCon3R: Unified Contact-aware 4D Human-Scene Reconstruction from Monocular Video**|Tanuj Sur et.al.|[2604.19923](http://arxiv.org/abs/2604.19923)|null|
 |**2026-05-01**|**InterPhys: Physics-aware Human Motion Synthesis in a Dynamic Scene**|Chaoyue Xing et.al.|[2605.01036](http://arxiv.org/abs/2605.01036)|null|
 |**2026-04-23**|**Seeing Without Eyes: 4D Human-Scene Understanding from Wearable IMUs**|Hao-Yu Hsu et.al.|[2604.21926](http://arxiv.org/abs/2604.21926)|null|
@@ -950,7 +959,7 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260522>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
@@ -1243,12 +1252,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260522>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-21**|**MambaGaze: Bidirectional Mamba with Explicit Missing Data Modeling for Cognitive Load Assessment from Eye-Gaze Tracking Data**|Amir Mousavi et.al.|[2605.22775](http://arxiv.org/abs/2605.22775)|null|
+|**2026-05-21**|**CogAdapt: Transferring Clinical ECG Foundation Models to Wearable Cognitive Load Assessment via Lead Adaptation**|Amir Mousavi et.al.|[2605.22774](http://arxiv.org/abs/2605.22774)|null|
+|**2026-05-21**|**Beyond Acoustic Emotion Recognition: Multimodal Pathos Analysis in Political Speech Using LLM-Based and Acoustic Emotion Models**|Juergen Dietrich et.al.|[2605.22732](http://arxiv.org/abs/2605.22732)|null|
+|**2026-05-21**|**Can AI Make Conflicts Worse? An Alignment Failure in LLM Deployment Across Conflict Contexts**|Andrii Kryshtal et.al.|[2605.22720](http://arxiv.org/abs/2605.22720)|null|
+|**2026-05-21**|**AnyMo: Geometry-Aware Setup-Agnostic Modeling of Human Motion in the Wild**|Baiyu Chen et.al.|[2605.22715](http://arxiv.org/abs/2605.22715)|null|
+|**2026-05-21**|**Beyond the Org Chart: AI and the Transformation of Invisible Work**|Stephanie Rosenthal et.al.|[2605.22707](http://arxiv.org/abs/2605.22707)|null|
+|**2026-05-21**|**The efficiency-gain illusion: People underestimate the rate of AI use and overestimate its benefits on simple tasks**|Sunny Yu et.al.|[2605.22687](http://arxiv.org/abs/2605.22687)|null|
+|**2026-05-21**|**Student programming behavior with and without phone notification suppression**|Gavin Eddington et.al.|[2605.22657](http://arxiv.org/abs/2605.22657)|null|
+|**2026-05-21**|**Summarizing Time-Varying Digital Image Correlation Strain Fields Using Sankey Diagrams**|Victor Persson et.al.|[2605.22627](http://arxiv.org/abs/2605.22627)|null|
+|**2026-05-21**|**Quantifying Full-Body Immersion**|Alihan Bakir et.al.|[2605.22521](http://arxiv.org/abs/2605.22521)|null|
 |**2026-05-20**|**HITL-D: Human In The Loop Diffusion Assisted Shared Control**|Riley Zilka et.al.|[2605.21460](http://arxiv.org/abs/2605.21460)|null|
 |**2026-05-20**|**Designing Conversations with the Dead: How People Engage with Generative Ghosts**|Jack Manning et.al.|[2605.21390](http://arxiv.org/abs/2605.21390)|null|
 |**2026-05-20**|**Combating Harms of Generative AI in CS1 with Code Review Interviews and a Flipped Classroom**|Peter Fowles et.al.|[2605.21374](http://arxiv.org/abs/2605.21374)|null|
@@ -2758,7 +2777,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260522>back to top</a>)</p>
 
 Notes: 
 
