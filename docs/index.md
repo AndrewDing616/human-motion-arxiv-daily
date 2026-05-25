@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.05.24
+### Automatically Updated on 2026.05.25
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-22**|**Direct Dynamic Retargeting for Humanoid Imitation Learning from Videos**|Constant Roux et.al.|[2605.23762](http://arxiv.org/abs/2605.23762)|null|
+|**2026-05-22**|**$π_0$ -EqM: Equilibrium Matching for Closed-Loop Vision-Language-Action Control**|Huanming Liu et.al.|[2605.23128](http://arxiv.org/abs/2605.23128)|null|
+|**2026-05-21**|**CoMoGen: COntrollable MOtion Dynamics and Interactions with Mask-Guided Video GENeration**|Adil Meric et.al.|[2605.22996](http://arxiv.org/abs/2605.22996)|null|
+|**2026-05-21**|**Suicide Risk Assessment from AI-powered Video Surveillance: An Interpretable Framework for Prevention in Metro Stations**|Safwen Naimi et.al.|[2605.22904](http://arxiv.org/abs/2605.22904)|null|
 |**2026-05-21**|**GesVLA: Gesture-Aware Vision-Language-Action Model Embedded Representations**|Wenxuan Guo et.al.|[2605.22812](http://arxiv.org/abs/2605.22812)|null|
 |**2026-05-21**|**AnyMo: Geometry-Aware Setup-Agnostic Modeling of Human Motion in the Wild**|Baiyu Chen et.al.|[2605.22715](http://arxiv.org/abs/2605.22715)|null|
 |**2026-05-21**|**AtomicMotion: Learning Human Motion From Different Human Parts**|Runzhen Liu et.al.|[2605.22631](http://arxiv.org/abs/2605.22631)|null|
@@ -1906,9 +1910,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-22**|**EgoInteract: Synthetic Egocentric Videos Generation for Interaction Understanding and Anticipation**|Rosario Leonardi et.al.|[2605.18214](http://arxiv.org/abs/2605.18214)|null|
+|**2026-05-21**|**CoMoGen: COntrollable MOtion Dynamics and Interactions with Mask-Guided Video GENeration**|Adil Meric et.al.|[2605.22996](http://arxiv.org/abs/2605.22996)|null|
 |**2026-05-20**|**VISTA: Technical Report for the Ego4D Short-Term Object Interaction Anticipation at EgoVis 2026**|Qiaohui Chu et.al.|[2605.20901](http://arxiv.org/abs/2605.20901)|null|
 |**2026-05-19**|**SUGAR: A Scalable Human-Video-Driven Generalizable Humanoid Loco-Manipulation Learning Framework**|Tianshu Wu et.al.|[2605.20373](http://arxiv.org/abs/2605.20373)|null|
-|**2026-05-18**|**EgoInteract: Synthetic Egocentric Videos Generation for Interaction Understanding and Anticipation**|Rosario Leonardi et.al.|[2605.18214](http://arxiv.org/abs/2605.18214)|null|
 |**2026-05-16**|**RHINO: Reconstructing Human Interactions with Novel Objects from Monocular Videos**|Lixin Xue et.al.|[2605.17014](http://arxiv.org/abs/2605.17014)|null|
 |**2026-05-14**|**Real2Sim in HOI: Toward Physically Plausible HOI Reconstruction from Monocular Videos**|Yubo Zhao et.al.|[2605.14462](http://arxiv.org/abs/2605.14462)|null|
 |**2026-05-13**|**TouchAnything: A Dataset and Framework for Bimanual Tactile Estimation from Egocentric Video**|Jianyi Zhou et.al.|[2605.13083](http://arxiv.org/abs/2605.13083)|null|
@@ -2197,6 +2202,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-22**|**Divergent Paths to Depolarization: Dialogue Design Determines the Prosocial Benefits of AI-Assisted Political Argumentation**|Jianlong Zhu et.al.|[2605.23890](http://arxiv.org/abs/2605.23890)|null|
+|**2026-05-22**|**Human Decision-Making with Persuasive and Narrative LLM Explanations**|Laura R. Marusich et.al.|[2605.23867](http://arxiv.org/abs/2605.23867)|null|
+|**2026-05-22**|**"I can't read your mind": A Study of Neurodivergent Computing Students' Experiences with Collaborative Active Learning**|Cynthia Zastudil et.al.|[2605.23823](http://arxiv.org/abs/2605.23823)|null|
+|**2026-05-22**|**Perceptually Lossless Tactile Texture Synthesis with Compact Spectral Envelope Models**|Jagan K. Balasubramanian et.al.|[2605.23804](http://arxiv.org/abs/2605.23804)|null|
+|**2026-05-22**|**Engagement-Optimized Care: When LLMs become Mental Health Infrastructure**|Briana Vecchione et.al.|[2605.23787](http://arxiv.org/abs/2605.23787)|null|
+|**2026-05-22**|**AI at the Front Lines of Platform Governance: Using LLMs to Support Illegal Content Reporting under the Digital Services Act**|Marie-Therese Sekwenz et.al.|[2605.23676](http://arxiv.org/abs/2605.23676)|null|
+|**2026-05-22**|**Detecting Drunk Driving Using Off-the-Shelf Smartwatches**|Robin Deuber et.al.|[2605.23663](http://arxiv.org/abs/2605.23663)|null|
+|**2026-05-22**|**When Youth Enter the Algorithmic Wild: Discovering and Understanding Potentially Harmful Teen Videos on Douyin and Kwai**|Shaoxuan Zhou et.al.|[2605.23598](http://arxiv.org/abs/2605.23598)|null|
+|**2026-05-22**|**MindCopilot: Towards Formalizing and Evaluating Granular Human-LLM Co-Writing**|Youqing Fang et.al.|[2605.23535](http://arxiv.org/abs/2605.23535)|null|
+|**2026-05-22**|**Socially fluent AI decouples conversational signals from source identity in online interaction**|Lixiang Yan et.al.|[2605.23426](http://arxiv.org/abs/2605.23426)|null|
 |**2026-05-21**|**MambaGaze: Bidirectional Mamba with Explicit Missing Data Modeling for Cognitive Load Assessment from Eye-Gaze Tracking Data**|Amir Mousavi et.al.|[2605.22775](http://arxiv.org/abs/2605.22775)|null|
 |**2026-05-21**|**CogAdapt: Transferring Clinical ECG Foundation Models to Wearable Cognitive Load Assessment via Lead Adaptation**|Amir Mousavi et.al.|[2605.22774](http://arxiv.org/abs/2605.22774)|null|
 |**2026-05-21**|**Beyond Acoustic Emotion Recognition: Multimodal Pathos Analysis in Political Speech Using LLM-Based and Acoustic Emotion Models**|Juergen Dietrich et.al.|[2605.22732](http://arxiv.org/abs/2605.22732)|null|

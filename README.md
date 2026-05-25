@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.05.24
+### Automatically Updated on 2026.05.25
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-22**|**Direct Dynamic Retargeting for Humanoid Imitation Learning from Videos**|Constant Roux et.al.|[2605.23762](http://arxiv.org/abs/2605.23762)|null|
+|**2026-05-22**|**$π_0$ -EqM: Equilibrium Matching for Closed-Loop Vision-Language-Action Control**|Huanming Liu et.al.|[2605.23128](http://arxiv.org/abs/2605.23128)|null|
+|**2026-05-21**|**CoMoGen: COntrollable MOtion Dynamics and Interactions with Mask-Guided Video GENeration**|Adil Meric et.al.|[2605.22996](http://arxiv.org/abs/2605.22996)|null|
+|**2026-05-21**|**Suicide Risk Assessment from AI-powered Video Surveillance: An Interpretable Framework for Prevention in Metro Stations**|Safwen Naimi et.al.|[2605.22904](http://arxiv.org/abs/2605.22904)|null|
 |**2026-05-21**|**GesVLA: Gesture-Aware Vision-Language-Action Model Embedded Representations**|Wenxuan Guo et.al.|[2605.22812](http://arxiv.org/abs/2605.22812)|null|
 |**2026-05-21**|**AnyMo: Geometry-Aware Setup-Agnostic Modeling of Human Motion in the Wild**|Baiyu Chen et.al.|[2605.22715](http://arxiv.org/abs/2605.22715)|null|
 |**2026-05-21**|**AtomicMotion: Learning Human Motion From Different Human Parts**|Runzhen Liu et.al.|[2605.22631](http://arxiv.org/abs/2605.22631)|null|
@@ -802,7 +806,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260524>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260525>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -959,15 +963,16 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260524>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260525>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-22**|**EgoInteract: Synthetic Egocentric Videos Generation for Interaction Understanding and Anticipation**|Rosario Leonardi et.al.|[2605.18214](http://arxiv.org/abs/2605.18214)|null|
+|**2026-05-21**|**CoMoGen: COntrollable MOtion Dynamics and Interactions with Mask-Guided Video GENeration**|Adil Meric et.al.|[2605.22996](http://arxiv.org/abs/2605.22996)|null|
 |**2026-05-20**|**VISTA: Technical Report for the Ego4D Short-Term Object Interaction Anticipation at EgoVis 2026**|Qiaohui Chu et.al.|[2605.20901](http://arxiv.org/abs/2605.20901)|null|
 |**2026-05-19**|**SUGAR: A Scalable Human-Video-Driven Generalizable Humanoid Loco-Manipulation Learning Framework**|Tianshu Wu et.al.|[2605.20373](http://arxiv.org/abs/2605.20373)|null|
-|**2026-05-18**|**EgoInteract: Synthetic Egocentric Videos Generation for Interaction Understanding and Anticipation**|Rosario Leonardi et.al.|[2605.18214](http://arxiv.org/abs/2605.18214)|null|
 |**2026-05-16**|**RHINO: Reconstructing Human Interactions with Novel Objects from Monocular Videos**|Lixin Xue et.al.|[2605.17014](http://arxiv.org/abs/2605.17014)|null|
 |**2026-05-14**|**Real2Sim in HOI: Toward Physically Plausible HOI Reconstruction from Monocular Videos**|Yubo Zhao et.al.|[2605.14462](http://arxiv.org/abs/2605.14462)|null|
 |**2026-05-13**|**TouchAnything: A Dataset and Framework for Bimanual Tactile Estimation from Egocentric Video**|Jianyi Zhou et.al.|[2605.13083](http://arxiv.org/abs/2605.13083)|null|
@@ -1252,12 +1257,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260524>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260525>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-22**|**Divergent Paths to Depolarization: Dialogue Design Determines the Prosocial Benefits of AI-Assisted Political Argumentation**|Jianlong Zhu et.al.|[2605.23890](http://arxiv.org/abs/2605.23890)|null|
+|**2026-05-22**|**Human Decision-Making with Persuasive and Narrative LLM Explanations**|Laura R. Marusich et.al.|[2605.23867](http://arxiv.org/abs/2605.23867)|null|
+|**2026-05-22**|**"I can't read your mind": A Study of Neurodivergent Computing Students' Experiences with Collaborative Active Learning**|Cynthia Zastudil et.al.|[2605.23823](http://arxiv.org/abs/2605.23823)|null|
+|**2026-05-22**|**Perceptually Lossless Tactile Texture Synthesis with Compact Spectral Envelope Models**|Jagan K. Balasubramanian et.al.|[2605.23804](http://arxiv.org/abs/2605.23804)|null|
+|**2026-05-22**|**Engagement-Optimized Care: When LLMs become Mental Health Infrastructure**|Briana Vecchione et.al.|[2605.23787](http://arxiv.org/abs/2605.23787)|null|
+|**2026-05-22**|**AI at the Front Lines of Platform Governance: Using LLMs to Support Illegal Content Reporting under the Digital Services Act**|Marie-Therese Sekwenz et.al.|[2605.23676](http://arxiv.org/abs/2605.23676)|null|
+|**2026-05-22**|**Detecting Drunk Driving Using Off-the-Shelf Smartwatches**|Robin Deuber et.al.|[2605.23663](http://arxiv.org/abs/2605.23663)|null|
+|**2026-05-22**|**When Youth Enter the Algorithmic Wild: Discovering and Understanding Potentially Harmful Teen Videos on Douyin and Kwai**|Shaoxuan Zhou et.al.|[2605.23598](http://arxiv.org/abs/2605.23598)|null|
+|**2026-05-22**|**MindCopilot: Towards Formalizing and Evaluating Granular Human-LLM Co-Writing**|Youqing Fang et.al.|[2605.23535](http://arxiv.org/abs/2605.23535)|null|
+|**2026-05-22**|**Socially fluent AI decouples conversational signals from source identity in online interaction**|Lixiang Yan et.al.|[2605.23426](http://arxiv.org/abs/2605.23426)|null|
 |**2026-05-21**|**MambaGaze: Bidirectional Mamba with Explicit Missing Data Modeling for Cognitive Load Assessment from Eye-Gaze Tracking Data**|Amir Mousavi et.al.|[2605.22775](http://arxiv.org/abs/2605.22775)|null|
 |**2026-05-21**|**CogAdapt: Transferring Clinical ECG Foundation Models to Wearable Cognitive Load Assessment via Lead Adaptation**|Amir Mousavi et.al.|[2605.22774](http://arxiv.org/abs/2605.22774)|null|
 |**2026-05-21**|**Beyond Acoustic Emotion Recognition: Multimodal Pathos Analysis in Political Speech Using LLM-Based and Acoustic Emotion Models**|Juergen Dietrich et.al.|[2605.22732](http://arxiv.org/abs/2605.22732)|null|
@@ -2777,7 +2792,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260524>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260525>back to top</a>)</p>
 
 Notes: 
 
