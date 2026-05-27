@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.05.25
+### Automatically Updated on 2026.05.27
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-26**|**Generative Animations: A Multi-Model Pipeline for Prompt-Driven Motion Synthesis**|Mannat Khurana et.al.|[2605.27203](http://arxiv.org/abs/2605.27203)|null|
+|**2026-05-26**|**TPS-Drive: Task-Guided Representation Purification for VLM-based Autonomous Driving**|Jiaxiang Li et.al.|[2605.27038](http://arxiv.org/abs/2605.27038)|null|
+|**2026-05-26**|**Natural Human Motion Recovery by Aligning High-Order Temporal Dynamics from Monocular Videos**|Dingkun Wei et.al.|[2605.26879](http://arxiv.org/abs/2605.26879)|null|
+|**2026-05-26**|**Self-Intersection-Aware 3D Human Motion Generation Using an Efficient Human Sphere Proxy**|Pascal Herrmann et.al.|[2605.26744](http://arxiv.org/abs/2605.26744)|null|
+|**2026-05-25**|**RoMo: A Large-Scale, Richly Organized Dataset and Semantic Taxonomy for Human Motion Generation**|Jiahao Zhang et.al.|[2605.26241](http://arxiv.org/abs/2605.26241)|null|
+|**2026-05-25**|**MIND: Multi-Scale Intent Diffusion for Text-Driven Physics-Based Humanoid Control**|Bin Li et.al.|[2605.26006](http://arxiv.org/abs/2605.26006)|null|
+|**2026-05-25**|**Data-driven Head Motion Generation through Natural Gaze-Head Coordination**|Xiaohan Liu et.al.|[2605.25810](http://arxiv.org/abs/2605.25810)|null|
+|**2026-05-25**|**DRFusion: Drift-Resilient Temporally Consistent Infrared-Visible Video Fusion**|Xingyuan Li et.al.|[2605.25775](http://arxiv.org/abs/2605.25775)|null|
+|**2026-05-25**|**AgentHijack: Benchmarking Computer Use Agent Robustness to Common Environment Corruptions**|Jingwei Sun et.al.|[2605.25707](http://arxiv.org/abs/2605.25707)|null|
+|**2026-05-25**|**HumanFlow -- Diffusion-Driven MAV Navigation Among Humans via Tightly-Coupled Motion Tracking, Forecasting, and Control**|Simon Schaefer et.al.|[2605.25685](http://arxiv.org/abs/2605.25685)|null|
 |**2026-05-22**|**Direct Dynamic Retargeting for Humanoid Imitation Learning from Videos**|Constant Roux et.al.|[2605.23762](http://arxiv.org/abs/2605.23762)|null|
 |**2026-05-22**|**$π_0$ -EqM: Equilibrium Matching for Closed-Loop Vision-Language-Action Control**|Huanming Liu et.al.|[2605.23128](http://arxiv.org/abs/2605.23128)|null|
 |**2026-05-21**|**CoMoGen: COntrollable MOtion Dynamics and Interactions with Mask-Guided Video GENeration**|Adil Meric et.al.|[2605.22996](http://arxiv.org/abs/2605.22996)|null|
@@ -1755,12 +1765,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-26**|**InHabit: Leveraging Image Foundation Models for Scalable 3D Human Placement**|Nikita Kister et.al.|[2604.19673](http://arxiv.org/abs/2604.19673)|null|
 |**2026-05-21**|**H-Flow: Self-supervised Human Scene Flow via Physics-inspired Joint Multi-modal Learning**|Zhanbo Huang et.al.|[2605.22629](http://arxiv.org/abs/2605.22629)|null|
 |**2026-05-11**|**UniCon3R: Unified Contact-aware 4D Human-Scene Reconstruction from Monocular Video**|Tanuj Sur et.al.|[2604.19923](http://arxiv.org/abs/2604.19923)|null|
 |**2026-05-01**|**InterPhys: Physics-aware Human Motion Synthesis in a Dynamic Scene**|Chaoyue Xing et.al.|[2605.01036](http://arxiv.org/abs/2605.01036)|null|
 |**2026-04-23**|**Seeing Without Eyes: 4D Human-Scene Understanding from Wearable IMUs**|Hao-Yu Hsu et.al.|[2604.21926](http://arxiv.org/abs/2604.21926)|null|
 |**2026-04-22**|**ALAS: Adaptive Long-Horizon Action Synthesis via Async-pathway Stream Disentanglement**|Yutong Shen et.al.|[2604.20721](http://arxiv.org/abs/2604.20721)|null|
-|**2026-04-21**|**InHabit: Leveraging Image Foundation Models for Scalable 3D Human Placement**|Nikita Kister et.al.|[2604.19673](http://arxiv.org/abs/2604.19673)|null|
 |**2026-04-21**|**GRAFT: Geometric Refinement and Fitting Transformer for Human Scene Reconstruction**|Pradyumna YM et.al.|[2604.19624](http://arxiv.org/abs/2604.19624)|null|
 |**2026-04-07**|**Human Interaction-Aware 3D Reconstruction from a Single Image**|Gwanghyun Kim et.al.|[2604.05436](http://arxiv.org/abs/2604.05436)|null|
 |**2026-04-06**|**InfBaGel: Human-Object-Scene Interaction Generation with Dynamic Perception and Iterative Refinement**|Yude Zou et.al.|[2604.04843](http://arxiv.org/abs/2604.04843)|null|
@@ -2202,6 +2212,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-26**|**Risk Averse Alert Prioritization for IDS Using Subnormal Gaussian Fuzzy Models**|Murat Moran et.al.|[2605.27299](http://arxiv.org/abs/2605.27299)|null|
+|**2026-05-26**|**Atari Games Challenge: A Pilot Study on Multimodal Player Experience Assessment**|Oleg Jarma Montoya et.al.|[2605.27261](http://arxiv.org/abs/2605.27261)|null|
+|**2026-05-26**|**Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study**|Anas H. Alzahrani et.al.|[2605.26870](http://arxiv.org/abs/2605.26870)|null|
+|**2026-05-26**|**Rethinking AI Psychosis: Misnomers, Conceptual Limits, and Existential Drift**|Kasper Møller Nielsen et.al.|[2605.26858](http://arxiv.org/abs/2605.26858)|null|
+|**2026-05-26**|**Manipulating Tangible Virtual Object Dynamics to Promote Learning of Precision Force Generation**|Alberto Garzás-Villar et.al.|[2605.26782](http://arxiv.org/abs/2605.26782)|null|
+|**2026-05-26**|**Granuscore: A Reference-Free Measure of Granularity for Text Analysis and Question Answering**|Lukas Ellinger et.al.|[2605.26620](http://arxiv.org/abs/2605.26620)|null|
+|**2026-05-26**|**Slide Deck Q&A Quality Assurance App: A Multi-Stage Pipeline for Pedagogical Question Generation**|Jim Salsman et.al.|[2605.26428](http://arxiv.org/abs/2605.26428)|null|
+|**2026-05-25**|**Real-time, Directionality Aware 3D Ultrasound Reconstruction and Re-Slicing**|Tobias Jaeggi et.al.|[2605.26325](http://arxiv.org/abs/2605.26325)|null|
+|**2026-05-25**|**Visual Matters: Connecting Aesthetic Appeal and Production Quality of Photos, Infographics and Data Visualizations to Credibility of Social Media Posts**|Salman Khawar et.al.|[2605.26309](http://arxiv.org/abs/2605.26309)|null|
+|**2026-05-25**|**"You do understand that people don't trust technology?": Explaining Trusted Execution Environments to Non-Experts**|McKenna McCall et.al.|[2605.26196](http://arxiv.org/abs/2605.26196)|null|
 |**2026-05-22**|**Divergent Paths to Depolarization: Dialogue Design Determines the Prosocial Benefits of AI-Assisted Political Argumentation**|Jianlong Zhu et.al.|[2605.23890](http://arxiv.org/abs/2605.23890)|null|
 |**2026-05-22**|**Human Decision-Making with Persuasive and Narrative LLM Explanations**|Laura R. Marusich et.al.|[2605.23867](http://arxiv.org/abs/2605.23867)|null|
 |**2026-05-22**|**"I can't read your mind": A Study of Neurodivergent Computing Students' Experiences with Collaborative Active Learning**|Cynthia Zastudil et.al.|[2605.23823](http://arxiv.org/abs/2605.23823)|null|
