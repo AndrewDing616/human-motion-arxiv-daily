@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.05.27
+### Automatically Updated on 2026.05.28
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-27**|**DriveWAM: Video Generative Priors Enable Scalable World-Action Modeling for Autonomous Driving**|Chen Shi et.al.|[2605.28544](http://arxiv.org/abs/2605.28544)|null|
+|**2026-05-27**|**Sketch2Motion: Text-driven 2D Sketch to 3D Animation via Diffusion-guided Skeleton Optimization**|Gaurav Rai et.al.|[2605.28394](http://arxiv.org/abs/2605.28394)|null|
+|**2026-05-27**|**SANTS: A State-Adaptive Scheduler for World Action Models**|Yirui Sun et.al.|[2605.27947](http://arxiv.org/abs/2605.27947)|null|
+|**2026-05-27**|**Frequency-Guided Action Diffusion via Sub-Frequency Manifold Traversal**|Junlin Wang et.al.|[2605.27919](http://arxiv.org/abs/2605.27919)|null|
 |**2026-05-26**|**Generative Animations: A Multi-Model Pipeline for Prompt-Driven Motion Synthesis**|Mannat Khurana et.al.|[2605.27203](http://arxiv.org/abs/2605.27203)|null|
 |**2026-05-26**|**TPS-Drive: Task-Guided Representation Purification for VLM-based Autonomous Driving**|Jiaxiang Li et.al.|[2605.27038](http://arxiv.org/abs/2605.27038)|null|
 |**2026-05-26**|**Natural Human Motion Recovery by Aligning High-Order Temporal Dynamics from Monocular Videos**|Dingkun Wei et.al.|[2605.26879](http://arxiv.org/abs/2605.26879)|null|
@@ -2212,6 +2216,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-27**|**CaMBRAIN: Real-time, Continuous EEG Inference with Causal State Space Models**|Abhilash Durgam et.al.|[2605.28792](http://arxiv.org/abs/2605.28792)|null|
+|**2026-05-27**|**AI in the Workplace: The Impact of AI on Perceived Job Decency and Meaningfulness**|Kuntal Ghosh et.al.|[2605.28680](http://arxiv.org/abs/2605.28680)|null|
+|**2026-05-27**|**Not All Uncertainty Is Equal: How Uncertainty Granularity Shapes Human Verification in LLM-Assisted Decision Making**|Mauricio Villavicencio et.al.|[2605.28571](http://arxiv.org/abs/2605.28571)|null|
+|**2026-05-27**|**The Decision to Verify: How Warmth and User Characteristics Shape Reliance on Conversational Agents for Information Search**|Mert Yazan et.al.|[2605.28498](http://arxiv.org/abs/2605.28498)|null|
+|**2026-05-27**|**GUI Agents for Continual Game Generation**|Yixu Huang et.al.|[2605.28258](http://arxiv.org/abs/2605.28258)|null|
+|**2026-05-27**|**AI, Take the Wheel: What Drives Delegation and Trust in Human-Computer Cooperative Question Answering?**|Maharshi Gor et.al.|[2605.28255](http://arxiv.org/abs/2605.28255)|null|
+|**2026-05-27**|**Building Community-Centred NLP Resources for Puno Quechua**|Elwin Huaman et.al.|[2605.28253](http://arxiv.org/abs/2605.28253)|null|
+|**2026-05-27**|**Why Meditation Wearables Fail: Reward Misspecification in Closed-Loop EEG and Biofeedback Systems**|Joy Bose et.al.|[2605.28223](http://arxiv.org/abs/2605.28223)|null|
+|**2026-05-27**|**SmartIterator: Visual Analytics Workflows for Supervising Unsupervised Data Grouping**|Gennady Andrienko et.al.|[2605.28219](http://arxiv.org/abs/2605.28219)|null|
+|**2026-05-27**|**The Illusion of Opting in AI-Mediated Consequential Decisions**|Eugene Yu Ji et.al.|[2605.28210](http://arxiv.org/abs/2605.28210)|null|
 |**2026-05-26**|**Risk Averse Alert Prioritization for IDS Using Subnormal Gaussian Fuzzy Models**|Murat Moran et.al.|[2605.27299](http://arxiv.org/abs/2605.27299)|null|
 |**2026-05-26**|**Atari Games Challenge: A Pilot Study on Multimodal Player Experience Assessment**|Oleg Jarma Montoya et.al.|[2605.27261](http://arxiv.org/abs/2605.27261)|null|
 |**2026-05-26**|**Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study**|Anas H. Alzahrani et.al.|[2605.26870](http://arxiv.org/abs/2605.26870)|null|
