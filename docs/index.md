@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.05.28
+### Automatically Updated on 2026.05.29
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-28**|**DynaFLIP: Rethinking Robotics Perception via Tri-Modal-Dynamics Guided Representation**|Jusuk Lee et.al.|[2605.30350](http://arxiv.org/abs/2605.30350)|null|
+|**2026-05-28**|**Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments**|Qiuyue Wang et.al.|[2605.30280](http://arxiv.org/abs/2605.30280)|null|
+|**2026-05-28**|**PhyGenHOI: Physically-Aware 4D Generation of Dynamic Human-Object Interactions**|Omer Benishu et.al.|[2605.30268](http://arxiv.org/abs/2605.30268)|null|
+|**2026-05-28**|**BORA: Bridging Offline Reinforcement Learning and Online Residual Adaptation for Real-World Dexterous VLA Models**|Zhongxi Chen et.al.|[2605.30226](http://arxiv.org/abs/2605.30226)|null|
+|**2026-05-28**|**Sample-Efficient Diffusion-based Reinforcement Learning with Critic Guidance**|Shutong Ding et.al.|[2605.30056](http://arxiv.org/abs/2605.30056)|null|
+|**2026-05-28**|**Plan, Don't Pose: Long Composite Motion Generation with Text-Aligned BFM**|Nikolay Shvetsov et.al.|[2605.29906](http://arxiv.org/abs/2605.29906)|null|
+|**2026-05-28**|**AnyMo: Scaling Any-Modality Conditional Motion Generation with Masked Modeling**|Yiheng Li et.al.|[2605.29488](http://arxiv.org/abs/2605.29488)|null|
+|**2026-05-28**|**ElegantVLA: Learning When to Think for Efficient Vision-Language-Action Models**|Ye Li et.al.|[2605.29438](http://arxiv.org/abs/2605.29438)|null|
+|**2026-05-28**|**SalsaAgent: A multimodal embodied language model for interactive dance generation**|Payam Jome Yazdian et.al.|[2605.29219](http://arxiv.org/abs/2605.29219)|null|
 |**2026-05-27**|**DriveWAM: Video Generative Priors Enable Scalable World-Action Modeling for Autonomous Driving**|Chen Shi et.al.|[2605.28544](http://arxiv.org/abs/2605.28544)|null|
 |**2026-05-27**|**Sketch2Motion: Text-driven 2D Sketch to 3D Animation via Diffusion-guided Skeleton Optimization**|Gaurav Rai et.al.|[2605.28394](http://arxiv.org/abs/2605.28394)|null|
 |**2026-05-27**|**SANTS: A State-Adaptive Scheduler for World Action Models**|Yirui Sun et.al.|[2605.27947](http://arxiv.org/abs/2605.27947)|null|
@@ -1924,6 +1933,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-28**|**REST3D: Reconstructing Physically Stable 3D Scenes from a Single Image**|Xiaoxuan Ma et.al.|[2605.30338](http://arxiv.org/abs/2605.30338)|null|
+|**2026-05-28**|**PhyGenHOI: Physically-Aware 4D Generation of Dynamic Human-Object Interactions**|Omer Benishu et.al.|[2605.30268](http://arxiv.org/abs/2605.30268)|null|
 |**2026-05-22**|**EgoInteract: Synthetic Egocentric Videos Generation for Interaction Understanding and Anticipation**|Rosario Leonardi et.al.|[2605.18214](http://arxiv.org/abs/2605.18214)|null|
 |**2026-05-21**|**CoMoGen: COntrollable MOtion Dynamics and Interactions with Mask-Guided Video GENeration**|Adil Meric et.al.|[2605.22996](http://arxiv.org/abs/2605.22996)|null|
 |**2026-05-20**|**VISTA: Technical Report for the Ego4D Short-Term Object Interaction Anticipation at EgoVis 2026**|Qiaohui Chu et.al.|[2605.20901](http://arxiv.org/abs/2605.20901)|null|
@@ -2216,6 +2227,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-28**|**Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software**|Nhat-Minh Nguyen et.al.|[2605.30353](http://arxiv.org/abs/2605.30353)|null|
+|**2026-05-28**|**LLUMI: Improving LLM Writing Assistance for Mental Health Support with Online Community Feedback**|Jiwon Kim et.al.|[2605.30273](http://arxiv.org/abs/2605.30273)|null|
+|**2026-05-28**|**VideoFDB: Evaluating Full-Duplex Vision-Speech Capabilities in Conversational Agents**|Amrita Mazumdar et.al.|[2605.30256](http://arxiv.org/abs/2605.30256)|null|
+|**2026-05-28**|**Do Proactive Agents Really Need an LLM to Decide When to Wake and What to Anchor?**|Xiaoze Liu et.al.|[2605.30152](http://arxiv.org/abs/2605.30152)|null|
+|**2026-05-28**|**REACT: A Conditioning Framework for User-Adaptive sEMG Hand Pose Estimation**|Eric Xie et.al.|[2605.30127](http://arxiv.org/abs/2605.30127)|null|
+|**2026-05-28**|**A Domain-Informed Multi-Objective Framework for EEG Channel Selection in Motor Imagery BCIs**|Dekka Muni Kumar et.al.|[2605.29943](http://arxiv.org/abs/2605.29943)|null|
+|**2026-05-28**|**Toward AI Systems That Understand Self and Others: A Multi-Phase Inference Framework for Human Cognitive Diversity and World-Model Alignment**|Toru Takahashi et.al.|[2605.29930](http://arxiv.org/abs/2605.29930)|null|
+|**2026-05-28**|**Label Over Logic? How Source Cues Bias Human Fallacy Judgments More Than LLMs**|Mahjabin Nahar et.al.|[2605.29928](http://arxiv.org/abs/2605.29928)|null|
+|**2026-05-28**|**Embodied Virtual Reality Feedback Reshapes Neural Representations to Support Continuous Three-Dimensional Motor Imagery Decoding**|Niall McShane et.al.|[2605.29677](http://arxiv.org/abs/2605.29677)|null|
+|**2026-05-28**|**From Prompts to Context: An Ontology-Driven Framework for Human-Generative AI Collaboration**|Ngoc Luyen Le et.al.|[2605.29675](http://arxiv.org/abs/2605.29675)|null|
 |**2026-05-27**|**CaMBRAIN: Real-time, Continuous EEG Inference with Causal State Space Models**|Abhilash Durgam et.al.|[2605.28792](http://arxiv.org/abs/2605.28792)|null|
 |**2026-05-27**|**AI in the Workplace: The Impact of AI on Perceived Job Decency and Meaningfulness**|Kuntal Ghosh et.al.|[2605.28680](http://arxiv.org/abs/2605.28680)|null|
 |**2026-05-27**|**Not All Uncertainty Is Equal: How Uncertainty Granularity Shapes Human Verification in LLM-Assisted Decision Making**|Mauricio Villavicencio et.al.|[2605.28571](http://arxiv.org/abs/2605.28571)|null|
