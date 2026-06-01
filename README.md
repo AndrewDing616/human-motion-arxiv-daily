@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.05.31
+### Automatically Updated on 2026.06.01
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-29**|**IDOL: Inverse-Dynamics-Guided Future Prediction for End-to-End Autonomous Driving**|Chenghao Zhang et.al.|[2605.31476](http://arxiv.org/abs/2605.31476)|null|
+|**2026-05-29**|**Multi-Turn Multi-Agent Dialogue for Collaborative Reconstruction Improves VLM Performance on Spatial Reasoning, But Only Barely**|Chalamalasetti Kranti et.al.|[2605.31387](http://arxiv.org/abs/2605.31387)|null|
+|**2026-05-29**|**Surface Constraint Policy for Learning Surface-Constrained and Dynamically Feasible Robot Skills**|Shuai Ke et.al.|[2605.31321](http://arxiv.org/abs/2605.31321)|null|
+|**2026-05-29**|**DeMaVLA: A Vision-Language-Action Foundation Model for Generalizable Deformable Manipulation**|Taiyi Su et.al.|[2605.31286](http://arxiv.org/abs/2605.31286)|null|
+|**2026-05-29**|**A study on a Real-Time VR-Based Teleoperation Framework for Manipulator in Dynamic Environment**|InGyu Choi et.al.|[2605.30989](http://arxiv.org/abs/2605.30989)|null|
+|**2026-05-29**|**Omni-Supervised Motion Editing: Balancing Change and Invariance through Positive-Negative Learning**|Zhenwu Shi et.al.|[2605.30969](http://arxiv.org/abs/2605.30969)|null|
+|**2026-05-29**|**MineExplorer: Evaluating Open-World Exploration of MLLM Agents in Minecraft**|Tianjie Ju et.al.|[2605.30931](http://arxiv.org/abs/2605.30931)|null|
+|**2026-05-29**|**MultiAct: Text-to-Motion Generation from Composite Text via Tailored Attention Guidance**|Nathan Sala et.al.|[2605.30925](http://arxiv.org/abs/2605.30925)|null|
+|**2026-05-29**|**Wall-OSS-0.5 Technical Report**|Ryan Yu et.al.|[2605.30877](http://arxiv.org/abs/2605.30877)|null|
+|**2026-05-28**|**Dex2HOI: Dexterous Bimanual Two-Object Interaction Generation**|Chrysa Pratikaki et.al.|[2605.30444](http://arxiv.org/abs/2605.30444)|null|
 |**2026-05-28**|**DynaFLIP: Rethinking Robotics Perception via Tri-Modal-Dynamics Guided Representation**|Jusuk Lee et.al.|[2605.30350](http://arxiv.org/abs/2605.30350)|null|
 |**2026-05-28**|**Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments**|Qiuyue Wang et.al.|[2605.30280](http://arxiv.org/abs/2605.30280)|null|
 |**2026-05-28**|**PhyGenHOI: Physically-Aware 4D Generation of Dynamic Human-Object Interactions**|Omer Benishu et.al.|[2605.30268](http://arxiv.org/abs/2605.30268)|null|
@@ -829,7 +839,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260531>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260601>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -986,12 +996,13 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260531>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260601>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-28**|**Dex2HOI: Dexterous Bimanual Two-Object Interaction Generation**|Chrysa Pratikaki et.al.|[2605.30444](http://arxiv.org/abs/2605.30444)|null|
 |**2026-05-28**|**REST3D: Reconstructing Physically Stable 3D Scenes from a Single Image**|Xiaoxuan Ma et.al.|[2605.30338](http://arxiv.org/abs/2605.30338)|null|
 |**2026-05-28**|**PhyGenHOI: Physically-Aware 4D Generation of Dynamic Human-Object Interactions**|Omer Benishu et.al.|[2605.30268](http://arxiv.org/abs/2605.30268)|null|
 |**2026-05-22**|**EgoInteract: Synthetic Egocentric Videos Generation for Interaction Understanding and Anticipation**|Rosario Leonardi et.al.|[2605.18214](http://arxiv.org/abs/2605.18214)|null|
@@ -1282,12 +1293,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260531>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260601>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-29**|**Can Generative AI help people navigate Radical Moral Disagreements? The CONSIDER prototype**|William Hohnen-Ford et.al.|[2605.31574](http://arxiv.org/abs/2605.31574)|null|
+|**2026-05-29**|**Vision-Language Models Suppress Female Representations Under Ambiguous Input**|Arnau Marin-Llobet et.al.|[2605.31556](http://arxiv.org/abs/2605.31556)|null|
+|**2026-05-29**|**Translation Analytics for Freelancers II: Benchmarking Local LLMs for Confidential Translation Workflows**|Yuri Balashov et.al.|[2605.31452](http://arxiv.org/abs/2605.31452)|null|
+|**2026-05-29**|**Toward Accessible Mobile Money: A Voice-Driven, Biometrically Secured USSD Automation Framework for Visually Impaired Users**|Sunday Ajayi et.al.|[2605.31375](http://arxiv.org/abs/2605.31375)|null|
+|**2026-05-29**|**Appropriateness of Empathy in AI: A Signal-Cost Perspective**|Chi-Ching Juan et.al.|[2605.31340](http://arxiv.org/abs/2605.31340)|null|
+|**2026-05-29**|**A Focus of Attention-Based Virtual Training Platform for Pre-Prosthetic Myoelectric Skill Acquisition: A Proof-of-Concept Study**|Xiaochen Zhang et.al.|[2605.31332](http://arxiv.org/abs/2605.31332)|null|
+|**2026-05-29**|**Neither Replacement nor Panacea: Comparing LLM-Based Conversational and Graphical Decision Support in Industrial Tasks**|Roberto Figliè et.al.|[2605.31287](http://arxiv.org/abs/2605.31287)|null|
+|**2026-05-29**|**Personalized to Persuade: The Effects of Contextualization and Warmth on Trust and Reliance in Conversational AI**|Mert Yazan et.al.|[2605.31275](http://arxiv.org/abs/2605.31275)|null|
+|**2026-05-29**|**Comparing LLM-Based Conversational and Graphical Interfaces for Industrial Decision Tasks: An Exploratory Mixed-Methods Study**|Roberto Figliè et.al.|[2605.31224](http://arxiv.org/abs/2605.31224)|null|
+|**2026-05-29**|**Developing a UXR Point of View for Cognitive Accessibility in Mobile Learning with Generative AI**|Fatima Ahmad Muazu et.al.|[2605.31149](http://arxiv.org/abs/2605.31149)|null|
 |**2026-05-28**|**Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software**|Nhat-Minh Nguyen et.al.|[2605.30353](http://arxiv.org/abs/2605.30353)|null|
 |**2026-05-28**|**LLUMI: Improving LLM Writing Assistance for Mental Health Support with Online Community Feedback**|Jiwon Kim et.al.|[2605.30273](http://arxiv.org/abs/2605.30273)|null|
 |**2026-05-28**|**VideoFDB: Evaluating Full-Duplex Vision-Speech Capabilities in Conversational Agents**|Amrita Mazumdar et.al.|[2605.30256](http://arxiv.org/abs/2605.30256)|null|
@@ -2847,7 +2868,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260531>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260601>back to top</a>)</p>
 
 Notes: 
 
