@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.06.02
+### Automatically Updated on 2026.06.03
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-02**|**Let the Dynamics Flow: Stable Flow Matching Dynamical Systems**|Rodrigo Pérez-Dattari et.al.|[2606.03834](http://arxiv.org/abs/2606.03834)|null|
+|**2026-06-02**|**SkelHCC: A Hyperbolic CLIP-Driven Cache Adaptation Framework for Skeleton-based One-Shot Action Recognition**|Yanan Liu et.al.|[2606.03610](http://arxiv.org/abs/2606.03610)|null|
+|**2026-06-02**|**Bionic Human-Motion Style Transfer for Physically Executable Whole-Body Control of Humanoid Robots**|Tianchen Huang et.al.|[2606.03536](http://arxiv.org/abs/2606.03536)|null|
+|**2026-06-02**|**Human2Humanoid: Physics-Aware Cross-Morphology Motion Retargeting for Humanoid Robots**|Tianchen Huang et.al.|[2606.03476](http://arxiv.org/abs/2606.03476)|null|
+|**2026-06-02**|**Mamba-Enhanced Implicit Motion Learning for Audio-Driven Portrait Animation**|Xuan Wei et.al.|[2606.03402](http://arxiv.org/abs/2606.03402)|null|
+|**2026-06-02**|**Extreme Motion Generation via Hybrid Null-Space Control for Straight-Line Path Following**|Xinyi Yuan et.al.|[2606.03390](http://arxiv.org/abs/2606.03390)|null|
+|**2026-06-02**|**MARIO: Motion-Augmented Real-Time Multi-Sensor Inertial Odometry**|Yiquan Li et.al.|[2606.02996](http://arxiv.org/abs/2606.02996)|null|
 |**2026-06-01**|**Ultra Diffusion Poser: Diffusion-Based Human Motion Tracking From Sparse Inertial Sensors and Ranging-Based Between-Sensor Distances**|Dominik Hollidt et.al.|[2606.02153](http://arxiv.org/abs/2606.02153)|null|
 |**2026-06-01**|**Towards 3D-Aware Video Diffusion Models: Render-Free Human Motion Control with Mesh Tokenization**|Jingyun Liang et.al.|[2606.02000](http://arxiv.org/abs/2606.02000)|null|
 |**2026-06-01**|**Co-training with Ego-centric Video and Demonstration for Robot Navigation Task**|Shoya Kuno et.al.|[2606.01951](http://arxiv.org/abs/2606.01951)|null|
@@ -1953,6 +1960,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-02**|**When RLHF Fails: A Mechanistic Taxonomy of Reward Hacking, Collapse, and Evaluator Gaming**|Zelalem Abahana et.al.|[2606.03238](http://arxiv.org/abs/2606.03238)|null|
+|**2026-06-01**|**Diagnosis of Human Object Interaction Detectors for Real World Educational Applications**|Divya Mereddy et.al.|[2606.02789](http://arxiv.org/abs/2606.02789)|null|
 |**2026-05-28**|**Dex2HOI: Dexterous Bimanual Two-Object Interaction Generation**|Chrysa Pratikaki et.al.|[2605.30444](http://arxiv.org/abs/2605.30444)|null|
 |**2026-05-28**|**REST3D: Reconstructing Physically Stable 3D Scenes from a Single Image**|Xiaoxuan Ma et.al.|[2605.30338](http://arxiv.org/abs/2605.30338)|null|
 |**2026-05-28**|**PhyGenHOI: Physically-Aware 4D Generation of Dynamic Human-Object Interactions**|Omer Benishu et.al.|[2605.30268](http://arxiv.org/abs/2605.30268)|null|
@@ -2248,6 +2257,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-02**|**DiffUNet^2: Bidirectional Prediction, Probabilistic Generation and Collaborative Visual Discovery for Scientific Data**|Mengdi Chu et.al.|[2606.03926](http://arxiv.org/abs/2606.03926)|null|
+|**2026-06-02**|**The Impact of Configuring Agentic AI Coding Tools on Build-vs-Buy Decisions: A Study Protocol**|Jai Lal Lulla et.al.|[2606.03907](http://arxiv.org/abs/2606.03907)|null|
+|**2026-06-02**|**From 'What' to 'How' and 'Why': Sharing LLM-Generated Retrospective Summaries of Older Adults' Passive Tracking Data with Remote Family Members**|Jiachen Li et.al.|[2606.03876](http://arxiv.org/abs/2606.03876)|null|
+|**2026-06-02**|**CLI-Anything: Towards Agent-Native Computer Use**|Yuhao Yang et.al.|[2606.03854](http://arxiv.org/abs/2606.03854)|null|
+|**2026-06-02**|**Formalizing all indexed mathematics as a benchmark for general reasoning, with the example of implementing dilatations of categories**|A. Mayeux et.al.|[2606.03835](http://arxiv.org/abs/2606.03835)|null|
+|**2026-06-02**|**Warning About AI Fallibility Increases Help-Seeking in an Intelligent Tutoring System**|Tomohiro Nagashima et.al.|[2606.03822](http://arxiv.org/abs/2606.03822)|null|
+|**2026-06-02**|**Face versus Body Tracking for Human-Robot Interaction: An Egocentric Dataset**|Jessica Wenninger et.al.|[2606.03694](http://arxiv.org/abs/2606.03694)|null|
+|**2026-06-02**|**The Comparative Trap: How Social Comparison Orientation Drives Problematic Generative AI (GenAI) Use**|Xuchao Zhang et.al.|[2606.03560](http://arxiv.org/abs/2606.03560)|null|
+|**2026-06-02**|**From Prompt to Service: An SLM-Based Agent Orchestration Gateway for AI-Driven Virtual Worlds**|Louis Nisiotis et.al.|[2606.03557](http://arxiv.org/abs/2606.03557)|null|
+|**2026-06-02**|**The Attention-Aware Pipeline: Design Tensions from Making Attention Visible in XR**|Arvind Srinivasan et.al.|[2606.03492](http://arxiv.org/abs/2606.03492)|null|
 |**2026-06-01**|**Fostering Emotional Perspective-Taking: An Exploration of Affective Face-Tracking Interactions in the VR Narrative Rekindle**|Hector Fan et.al.|[2606.02425](http://arxiv.org/abs/2606.02425)|null|
 |**2026-06-01**|**Attention Dynamics and Adaptive Decision Support in C5ISR: A Recurrence Quantification Analysis of Visual and Multimodal Attention Guidance Effects on Mission Performance**|Hyun-Gee Jei et.al.|[2606.02382](http://arxiv.org/abs/2606.02382)|null|
 |**2026-06-01**|**WAXAL-NET: Finetuned Edge ASR Across 19 African Languages**|Victor Tolulope Olufemi et.al.|[2606.02375](http://arxiv.org/abs/2606.02375)|null|
