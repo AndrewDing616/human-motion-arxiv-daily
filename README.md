@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.06.03
+### Automatically Updated on 2026.06.06
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-04**|**AffordanceVLA: A Vision-Language-Action Model Empowering Action Generation through Affordance-Aware Understanding**|Qize Yu et.al.|[2606.06155](http://arxiv.org/abs/2606.06155)|null|
+|**2026-06-04**|**World-Language-Action Model for Unified World Modeling, Language Reasoning, and Action Synthesis**|Yi Yang et.al.|[2606.05979](http://arxiv.org/abs/2606.05979)|null|
+|**2026-06-04**|**Let It Be Simple: One-Step Action Generation for Vision-Language-Action Models**|Yitong Chen et.al.|[2606.05737](http://arxiv.org/abs/2606.05737)|null|
+|**2026-06-04**|**KV-Control: Parameter-Efficient K/V Injection for Trajectory-Controlled Text-to-Motion**|Tengjiao Sun et.al.|[2606.05624](http://arxiv.org/abs/2606.05624)|null|
+|**2026-06-03**|**Learning from Demonstrations over Riemannian Manifolds using Neural ODEs: An Extended Abstract**|Diana Cuervo Espinosa et.al.|[2606.05422](http://arxiv.org/abs/2606.05422)|null|
+|**2026-06-03**|**GRAIL: Generating Humanoid Loco-Manipulation from 3D Assets and Video Priors**|Tianyi Xie et.al.|[2606.05160](http://arxiv.org/abs/2606.05160)|null|
+|**2026-06-03**|**A-Live: Passive Liveness Detection via Neuromuscular Micro-Motion Signatures on Commodity Sensors**|Mohammed Gharib et.al.|[2606.05126](http://arxiv.org/abs/2606.05126)|null|
+|**2026-06-03**|**WAM-Nav: Asymmetric Latent World-Action Modeling for Unified Visual Navigation**|Ning Yang et.al.|[2606.04907](http://arxiv.org/abs/2606.04907)|null|
+|**2026-06-03**|**NextMotionQA: Benchmarking and Judging Human Motion Understanding with Vision-Language Models**|Yong Cao et.al.|[2606.04773](http://arxiv.org/abs/2606.04773)|null|
 |**2026-06-02**|**Let the Dynamics Flow: Stable Flow Matching Dynamical Systems**|Rodrigo Pérez-Dattari et.al.|[2606.03834](http://arxiv.org/abs/2606.03834)|null|
 |**2026-06-02**|**SkelHCC: A Hyperbolic CLIP-Driven Cache Adaptation Framework for Skeleton-based One-Shot Action Recognition**|Yanan Liu et.al.|[2606.03610](http://arxiv.org/abs/2606.03610)|null|
 |**2026-06-02**|**Bionic Human-Motion Style Transfer for Physically Executable Whole-Body Control of Humanoid Robots**|Tianchen Huang et.al.|[2606.03536](http://arxiv.org/abs/2606.03536)|null|
@@ -855,7 +864,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260603>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260606>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -1013,12 +1022,15 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260603>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260606>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-03**|**LLM-Guided ANN Index Optimization for Human-Object Interaction Retrieval**|Shahrzad Esmat et.al.|[2606.05489](http://arxiv.org/abs/2606.05489)|null|
+|**2026-06-03**|**Recovering Physically Plausible Human-Object Interactions from Monocular Videos**|Dingbang Huang et.al.|[2606.05359](http://arxiv.org/abs/2606.05359)|null|
+|**2026-06-03**|**GRAIL: Generating Humanoid Loco-Manipulation from 3D Assets and Video Priors**|Tianyi Xie et.al.|[2606.05160](http://arxiv.org/abs/2606.05160)|null|
 |**2026-06-02**|**When RLHF Fails: A Mechanistic Taxonomy of Reward Hacking, Collapse, and Evaluator Gaming**|Zelalem Abahana et.al.|[2606.03238](http://arxiv.org/abs/2606.03238)|null|
 |**2026-06-01**|**Diagnosis of Human Object Interaction Detectors for Real World Educational Applications**|Divya Mereddy et.al.|[2606.02789](http://arxiv.org/abs/2606.02789)|null|
 |**2026-05-28**|**Dex2HOI: Dexterous Bimanual Two-Object Interaction Generation**|Chrysa Pratikaki et.al.|[2605.30444](http://arxiv.org/abs/2605.30444)|null|
@@ -1312,12 +1324,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260603>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260606>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-04**|**Computational Modeling of Human Adaptation in Urban Infrastructure Management under Extreme Conditions: A Case Study of Subway Flood Scenarios**|Jinfeng Lou et.al.|[2606.06429](http://arxiv.org/abs/2606.06429)|null|
+|**2026-06-04**|**Warning Message Content Increases Help Seeking in a Large-Scale Dark Web CSAM Intervention**|Caoilte Ó Ciardha et.al.|[2606.06417](http://arxiv.org/abs/2606.06417)|null|
+|**2026-06-04**|**A MATLAB Toolbox for Standardized Reading Speed Assessment: Implementing and Extending the Perrin Sentence Generator for English Corpora**|Daniel P. Spiegel et.al.|[2606.06297](http://arxiv.org/abs/2606.06297)|null|
+|**2026-06-04**|**FOXGLOVE: Understanding Goal-Oriented and Anchored Writing Feedback from Experts and LLMs on Argumentative Essays**|Yijun Liu et.al.|[2606.06271](http://arxiv.org/abs/2606.06271)|null|
+|**2026-06-04**|**Ouvia: A User-centered Framework for Measuring Usability of Speech Translation in Real-World Communication Scenarios**|Giuseppe Attanasio et.al.|[2606.06177](http://arxiv.org/abs/2606.06177)|null|
+|**2026-06-04**|**Deterring Searches for Child Sexual Abuse Material on Google Search and Promoting Help-Seeking**|Rebecca Umbach et.al.|[2606.06126](http://arxiv.org/abs/2606.06126)|null|
+|**2026-06-04**|**A Framework for Measuring Appropriate Reliance on Set-Valued AI Advice**|Ranjan Mishra et.al.|[2606.06081](http://arxiv.org/abs/2606.06081)|null|
+|**2026-06-04**|**Empathy on Demand: How Empathic AI Can Scale Emotional Support for Verbal Harassment**|Anouk Bergner et.al.|[2606.05995](http://arxiv.org/abs/2606.05995)|null|
+|**2026-06-04**|**EEGDancer: Dynamic Emotion Latent Space Masked Modeling with Reinforcement Learning for EEG Continuous Emotion Prediction**|Zhihao Zhou et.al.|[2606.05855](http://arxiv.org/abs/2606.05855)|null|
+|**2026-06-04**|**Architecting Strategic Influence: Operationalising the UXR Point of View Framework for Research Function Maturity**|Rohinin Singh et.al.|[2606.05826](http://arxiv.org/abs/2606.05826)|null|
 |**2026-06-02**|**DiffUNet^2: Bidirectional Prediction, Probabilistic Generation and Collaborative Visual Discovery for Scientific Data**|Mengdi Chu et.al.|[2606.03926](http://arxiv.org/abs/2606.03926)|null|
 |**2026-06-02**|**The Impact of Configuring Agentic AI Coding Tools on Build-vs-Buy Decisions: A Study Protocol**|Jai Lal Lulla et.al.|[2606.03907](http://arxiv.org/abs/2606.03907)|null|
 |**2026-06-02**|**From 'What' to 'How' and 'Why': Sharing LLM-Generated Retrospective Summaries of Older Adults' Passive Tracking Data with Remote Family Members**|Jiachen Li et.al.|[2606.03876](http://arxiv.org/abs/2606.03876)|null|
@@ -2907,7 +2929,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260603>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260606>back to top</a>)</p>
 
 Notes: 
 
