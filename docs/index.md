@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.06.06
+### Automatically Updated on 2026.06.08
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-05**|**AnchorWorld: Embodied Egocentric World Simulation with View-based Evolution Customization**|Yu Li et.al.|[2606.07326](http://arxiv.org/abs/2606.07326)|null|
+|**2026-06-05**|**Coarse-to-Control: Action-Token Planning for Vision-Language-Action Models**|Jinhao Wu et.al.|[2606.07107](http://arxiv.org/abs/2606.07107)|null|
+|**2026-06-05**|**MotionEnhancer: Leveraging Video Diffusion for Motion-Enhanced Vision-Language Models**|Yifan Xu et.al.|[2606.06853](http://arxiv.org/abs/2606.06853)|null|
+|**2026-06-04**|**AI Level of Detail: Distance-Aware ML Model Precision Selection for Real-Time Human Motion Prediction in Games**|Mathew Varghese et.al.|[2606.06565](http://arxiv.org/abs/2606.06565)|null|
+|**2026-06-04**|**Robots Need More than VLA and World Models**|Elis Karcini et.al.|[2606.06556](http://arxiv.org/abs/2606.06556)|null|
 |**2026-06-04**|**AffordanceVLA: A Vision-Language-Action Model Empowering Action Generation through Affordance-Aware Understanding**|Qize Yu et.al.|[2606.06155](http://arxiv.org/abs/2606.06155)|null|
 |**2026-06-04**|**World-Language-Action Model for Unified World Modeling, Language Reasoning, and Action Synthesis**|Yi Yang et.al.|[2606.05979](http://arxiv.org/abs/2606.05979)|null|
 |**2026-06-04**|**Let It Be Simple: One-Step Action Generation for Vision-Language-Action Models**|Yitong Chen et.al.|[2606.05737](http://arxiv.org/abs/2606.05737)|null|
@@ -2269,6 +2274,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-05**|**How reliable are LLMs when it comes to playing dice?**|Luca Avena et.al.|[2606.07515](http://arxiv.org/abs/2606.07515)|null|
+|**2026-06-05**|**Re-imagining ISO 26262 in the Age of Autonomous Vehicles: Enhancing Controllability through Transferability and Predictability**|Chaitanya Shinde et.al.|[2606.07437](http://arxiv.org/abs/2606.07437)|null|
+|**2026-06-05**|**A Model of Integrated Information Processing in Human-AI Interaction**|Tim Schrills. Thomas Franke et.al.|[2606.07283](http://arxiv.org/abs/2606.07283)|null|
+|**2026-06-05**|**Moodie: An Early-Stage Design Exploration for Supporting Fear of Missing Out with LLM-based Chatbots**|Hsin-Yu Tsai et.al.|[2606.07231](http://arxiv.org/abs/2606.07231)|null|
+|**2026-06-05**|**CANote: Empowering Fact-checking Note Writing Through Scaffolded and Provenance-based Human-AI Collaboration**|Shuning Zhang et.al.|[2606.07101](http://arxiv.org/abs/2606.07101)|null|
+|**2026-06-05**|**A Multi-Operator Mixed-Reality Interface for Multi-Robot Control and Coordination: Co-Located and Private Workspace Collaboration**|Omotoye Shamsudeen Adekoya et.al.|[2606.07013](http://arxiv.org/abs/2606.07013)|null|
+|**2026-06-05**|**Personality Anchoring for Social Simulation: Linking Personality, Social Behavior, and Interaction Success with LLM Agents**|Vahid Sadiri Javadi et.al.|[2606.06936](http://arxiv.org/abs/2606.06936)|null|
+|**2026-06-05**|**Toward a Metaphysics of Learning Analytics: Ontological Positioning of Data, Inference, and Normativity**|Kensuke Takii et.al.|[2606.06851](http://arxiv.org/abs/2606.06851)|null|
+|**2026-06-05**|**Exploring Reinforcement Learning for Fluid Transitions Between Clinical Mental Healthcare and Everyday Wellness Support**|Tony Wang et.al.|[2606.06800](http://arxiv.org/abs/2606.06800)|null|
+|**2026-06-05**|**Explain Like I'm 5 or Whatever I Choose: Evaluating the Interactive Potential of Language Model Responses**|Indu Panigrahi et.al.|[2606.06788](http://arxiv.org/abs/2606.06788)|null|
 |**2026-06-04**|**Computational Modeling of Human Adaptation in Urban Infrastructure Management under Extreme Conditions: A Case Study of Subway Flood Scenarios**|Jinfeng Lou et.al.|[2606.06429](http://arxiv.org/abs/2606.06429)|null|
 |**2026-06-04**|**Warning Message Content Increases Help Seeking in a Large-Scale Dark Web CSAM Intervention**|Caoilte Ó Ciardha et.al.|[2606.06417](http://arxiv.org/abs/2606.06417)|null|
 |**2026-06-04**|**A MATLAB Toolbox for Standardized Reading Speed Assessment: Implementing and Extending the Perrin Sentence Generator for English Corpora**|Daniel P. Spiegel et.al.|[2606.06297](http://arxiv.org/abs/2606.06297)|null|
