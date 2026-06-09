@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.06.08
+### Automatically Updated on 2026.06.09
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-08**|**$ω$ -EVA: Envision, Verify, and Act with Latent Interactive World Models**|Zhenguo Sun et.al.|[2606.09457](http://arxiv.org/abs/2606.09457)|null|
+|**2026-06-08**|**Back to the Familiar Future: Failure Recovery for VLA Policies via Pre-Imagined Milestone Selection**|Suyeon Shin et.al.|[2606.09258](http://arxiv.org/abs/2606.09258)|null|
+|**2026-06-08**|**CP4D: Compositional Physics-aware 4D Scene Generation**|Hanxin Zhu et.al.|[2606.09187](http://arxiv.org/abs/2606.09187)|null|
+|**2026-06-07**|**Safe, Fluent and Acceptable Motion Generation and Execution for Human--Robot Interaction in Manufacturing Environments**|Thibaut Lopez et.al.|[2606.08741](http://arxiv.org/abs/2606.08741)|null|
+|**2026-06-07**|**Dream-Tac: A Unified Tactile World Action Model for Contact-Rich Robot Manipulation**|Yunfan Lou et.al.|[2606.08737](http://arxiv.org/abs/2606.08737)|null|
+|**2026-06-07**|**PhysAgent: Automating Physics-Based 4D Synthesis via Trajectory-Grounded Multi-Agent Feedback**|Chunji Lv et.al.|[2606.08688](http://arxiv.org/abs/2606.08688)|null|
+|**2026-06-07**|**FAWAM: Force-Aware World Action Models for Closed-Loop Contact-Rich Manipulation**|Haotian He et.al.|[2606.08555](http://arxiv.org/abs/2606.08555)|null|
+|**2026-06-07**|**OmniTryOn: Video Try-On Anything at Once!**|Changliang Xia et.al.|[2606.08514](http://arxiv.org/abs/2606.08514)|null|
+|**2026-06-07**|**EgoPriMo: Egocentric Motion Generation for Interactive Humanoid Control**|Haoyang Ge et.al.|[2606.08495](http://arxiv.org/abs/2606.08495)|null|
+|**2026-06-06**|**MotionVLA: Injecting Geometric Motion into Vision-Language-Action Model**|Shanglin Yuan et.al.|[2606.08288](http://arxiv.org/abs/2606.08288)|null|
 |**2026-06-05**|**AnchorWorld: Embodied Egocentric World Simulation with View-based Evolution Customization**|Yu Li et.al.|[2606.07326](http://arxiv.org/abs/2606.07326)|null|
 |**2026-06-05**|**Coarse-to-Control: Action-Token Planning for Vision-Language-Action Models**|Jinhao Wu et.al.|[2606.07107](http://arxiv.org/abs/2606.07107)|null|
 |**2026-06-05**|**MotionEnhancer: Leveraging Video Diffusion for Motion-Enhanced Vision-Language Models**|Yifan Xu et.al.|[2606.06853](http://arxiv.org/abs/2606.06853)|null|
@@ -2274,6 +2284,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-08**|**Cohort-based Semantic Labeling: AI-Enabled Recovery of Visualization Semantics from Deployed SVGs**|Jeongah Lee et.al.|[2606.09782](http://arxiv.org/abs/2606.09782)|null|
+|**2026-06-08**|**Collaborative Human-Agent Protocol (CHAP)**|Arsalan Shahid et.al.|[2606.09751](http://arxiv.org/abs/2606.09751)|null|
+|**2026-06-08**|**What the Eyes See, the LLMs Miss: Exploiting Human Perception for Adversarial Text Attacks**|Qin Yang et.al.|[2606.09700](http://arxiv.org/abs/2606.09700)|null|
+|**2026-06-08**|**Seeing the Hivemind: A Consensus-Aware Interaction Technique for Mitigating AI Homogenization**|Muhammad Haris Khan et.al.|[2606.09587](http://arxiv.org/abs/2606.09587)|null|
+|**2026-06-08**|**UXBench: Benchmarking User Experience in AI Assistants**|Mengze Hong et.al.|[2606.09570](http://arxiv.org/abs/2606.09570)|null|
+|**2026-06-08**|**H2HMem: A Multimodal Memory Benchmark for Agents in Human-Human Interactions**|Shiping Zhu et.al.|[2606.09461](http://arxiv.org/abs/2606.09461)|null|
+|**2026-06-08**|**AI Assurance in UK Defence: Challenges in Operationalising JSP 936**|Callum Cockburn et.al.|[2606.09414](http://arxiv.org/abs/2606.09414)|null|
+|**2026-06-08**|**Can Data Work be Reparative?**|Srravya Chandhiramowuli et.al.|[2606.09408](http://arxiv.org/abs/2606.09408)|null|
+|**2026-06-08**|**Conceptualising Reflective Use: Toward A Process Perspective On Human-AI Interaction**|Thimo Schulz et.al.|[2606.09242](http://arxiv.org/abs/2606.09242)|null|
+|**2026-06-08**|**Orange Lab: Lowering Barriers to Data Mining through Embedded Interactive Workflows**|Matej Bevec et.al.|[2606.09239](http://arxiv.org/abs/2606.09239)|null|
 |**2026-06-05**|**How reliable are LLMs when it comes to playing dice?**|Luca Avena et.al.|[2606.07515](http://arxiv.org/abs/2606.07515)|null|
 |**2026-06-05**|**Re-imagining ISO 26262 in the Age of Autonomous Vehicles: Enhancing Controllability through Transferability and Predictability**|Chaitanya Shinde et.al.|[2606.07437](http://arxiv.org/abs/2606.07437)|null|
 |**2026-06-05**|**A Model of Integrated Information Processing in Human-AI Interaction**|Tim Schrills. Thomas Franke et.al.|[2606.07283](http://arxiv.org/abs/2606.07283)|null|
