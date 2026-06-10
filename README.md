@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.06.09
+### Automatically Updated on 2026.06.10
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-09**|**Gradient based Bilevel for Inverse Optimal Control, a Riemannian approach**|Ahmed-Manaf Dahmani et.al.|[2606.10841](http://arxiv.org/abs/2606.10841)|null|
+|**2026-06-09**|**Fast and Highly Expressive Policy Learning for Offline Reinforcement Learning via Bootstrapped Flow Q-Learning**|Thanh Nguyen et.al.|[2606.10613](http://arxiv.org/abs/2606.10613)|null|
+|**2026-06-09**|**Act on What You See: Unlocking Safe Social Navigation in Vision-Language-Action Models**|Qingzi Wang et.al.|[2606.10495](http://arxiv.org/abs/2606.10495)|null|
+|**2026-06-09**|**Test-time Adversarial Takeover: A Real-time Hijacking Interface against Robotic Diffusion Policies**|Zi Yin et.al.|[2606.10371](http://arxiv.org/abs/2606.10371)|null|
+|**2026-06-09**|**OMG: Omni-Modal Motion Generation for Generalist Humanoid Control**|Siqiao Huang et.al.|[2606.10340](http://arxiv.org/abs/2606.10340)|null|
+|**2026-06-09**|**Sim2Schedule: A Simulator-Guided LLM Framework for Autonomous Open-Pit Mine Scheduling**|Mustavi Ibne Masum et.al.|[2606.10286](http://arxiv.org/abs/2606.10286)|null|
+|**2026-06-08**|**Efficient-WAM: A 1B-Parameter World-Action Model with Low-Cost Future Imagination**|Jiajun Li et.al.|[2606.10040](http://arxiv.org/abs/2606.10040)|null|
 |**2026-06-08**|**$ω$ -EVA: Envision, Verify, and Act with Latent Interactive World Models**|Zhenguo Sun et.al.|[2606.09457](http://arxiv.org/abs/2606.09457)|null|
 |**2026-06-08**|**Back to the Familiar Future: Failure Recovery for VLA Policies via Pre-Imagined Milestone Selection**|Suyeon Shin et.al.|[2606.09258](http://arxiv.org/abs/2606.09258)|null|
 |**2026-06-08**|**CP4D: Compositional Physics-aware 4D Scene Generation**|Hanxin Zhu et.al.|[2606.09187](http://arxiv.org/abs/2606.09187)|null|
@@ -879,7 +886,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260610>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -1037,12 +1044,13 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260610>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-09**|**Act on What You See: Unlocking Safe Social Navigation in Vision-Language-Action Models**|Qingzi Wang et.al.|[2606.10495](http://arxiv.org/abs/2606.10495)|null|
 |**2026-06-03**|**LLM-Guided ANN Index Optimization for Human-Object Interaction Retrieval**|Shahrzad Esmat et.al.|[2606.05489](http://arxiv.org/abs/2606.05489)|null|
 |**2026-06-03**|**Recovering Physically Plausible Human-Object Interactions from Monocular Videos**|Dingbang Huang et.al.|[2606.05359](http://arxiv.org/abs/2606.05359)|null|
 |**2026-06-03**|**GRAIL: Generating Humanoid Loco-Manipulation from 3D Assets and Video Priors**|Tianyi Xie et.al.|[2606.05160](http://arxiv.org/abs/2606.05160)|null|
@@ -1339,12 +1347,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260610>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-09**|**Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories**|Kevin Qinghong Lin et.al.|[2606.11176](http://arxiv.org/abs/2606.11176)|null|
+|**2026-06-09**|**Designed by Journalists, but Is It for Readers? Rethinking AI Disclosures and Transparency in News**|Pooja Prajod et.al.|[2606.11116](http://arxiv.org/abs/2606.11116)|null|
+|**2026-06-09**|**Making Software Meaningful**|Eagon Meng et.al.|[2606.11051](http://arxiv.org/abs/2606.11051)|null|
+|**2026-06-09**|**A Case Study Reexamining the Cold-Start Problem in Knowledge Tracing Models and Implications for SafeInsights, an Education Research Infrastructure**|Jiayi Zhang et.al.|[2606.11004](http://arxiv.org/abs/2606.11004)|null|
+|**2026-06-09**|**From Perception to Action: Can UI Interventions Foster Sustainable LLM Chatbot**|Nitish Patkar et.al.|[2606.10861](http://arxiv.org/abs/2606.10861)|null|
+|**2026-06-09**|**Being and Time in XR: Other-Presentness Beyond Co-Presence**|Koichi Toida et.al.|[2606.10786](http://arxiv.org/abs/2606.10786)|null|
+|**2026-06-09**|**Deploying Speech-Driven 3D Facial Animation in Unreal Engine for Production-Ready Digital Humans**|Alessandro Busacchi et.al.|[2606.10753](http://arxiv.org/abs/2606.10753)|null|
+|**2026-06-09**|**Profy: Interpretable Visualization of Expertise-Dependent Motor Skills Toward Supporting Piano Practice**|Kazuki Kawamura et.al.|[2606.10627](http://arxiv.org/abs/2606.10627)|null|
+|**2026-06-09**|**Profiling cognitive offloading in LLM-mediated synthesis writing: Volume vs. content**|Oleksandra Poquet et.al.|[2606.10434](http://arxiv.org/abs/2606.10434)|null|
+|**2026-06-09**|**Selection, Not Salience: The Shape and Limits of Personalization in Social Highlighting**|Kazuki Nakayashiki et.al.|[2606.10398](http://arxiv.org/abs/2606.10398)|null|
 |**2026-06-08**|**Cohort-based Semantic Labeling: AI-Enabled Recovery of Visualization Semantics from Deployed SVGs**|Jeongah Lee et.al.|[2606.09782](http://arxiv.org/abs/2606.09782)|null|
 |**2026-06-08**|**Collaborative Human-Agent Protocol (CHAP)**|Arsalan Shahid et.al.|[2606.09751](http://arxiv.org/abs/2606.09751)|null|
 |**2026-06-08**|**What the Eyes See, the LLMs Miss: Exploiting Human Perception for Adversarial Text Attacks**|Qin Yang et.al.|[2606.09700](http://arxiv.org/abs/2606.09700)|null|
@@ -2964,7 +2982,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260610>back to top</a>)</p>
 
 Notes: 
 

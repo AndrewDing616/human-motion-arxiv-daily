@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.06.09
+### Automatically Updated on 2026.06.10
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-09**|**Gradient based Bilevel for Inverse Optimal Control, a Riemannian approach**|Ahmed-Manaf Dahmani et.al.|[2606.10841](http://arxiv.org/abs/2606.10841)|null|
+|**2026-06-09**|**Fast and Highly Expressive Policy Learning for Offline Reinforcement Learning via Bootstrapped Flow Q-Learning**|Thanh Nguyen et.al.|[2606.10613](http://arxiv.org/abs/2606.10613)|null|
+|**2026-06-09**|**Act on What You See: Unlocking Safe Social Navigation in Vision-Language-Action Models**|Qingzi Wang et.al.|[2606.10495](http://arxiv.org/abs/2606.10495)|null|
+|**2026-06-09**|**Test-time Adversarial Takeover: A Real-time Hijacking Interface against Robotic Diffusion Policies**|Zi Yin et.al.|[2606.10371](http://arxiv.org/abs/2606.10371)|null|
+|**2026-06-09**|**OMG: Omni-Modal Motion Generation for Generalist Humanoid Control**|Siqiao Huang et.al.|[2606.10340](http://arxiv.org/abs/2606.10340)|null|
+|**2026-06-09**|**Sim2Schedule: A Simulator-Guided LLM Framework for Autonomous Open-Pit Mine Scheduling**|Mustavi Ibne Masum et.al.|[2606.10286](http://arxiv.org/abs/2606.10286)|null|
+|**2026-06-08**|**Efficient-WAM: A 1B-Parameter World-Action Model with Low-Cost Future Imagination**|Jiajun Li et.al.|[2606.10040](http://arxiv.org/abs/2606.10040)|null|
 |**2026-06-08**|**$ω$ -EVA: Envision, Verify, and Act with Latent Interactive World Models**|Zhenguo Sun et.al.|[2606.09457](http://arxiv.org/abs/2606.09457)|null|
 |**2026-06-08**|**Back to the Familiar Future: Failure Recovery for VLA Policies via Pre-Imagined Milestone Selection**|Suyeon Shin et.al.|[2606.09258](http://arxiv.org/abs/2606.09258)|null|
 |**2026-06-08**|**CP4D: Compositional Physics-aware 4D Scene Generation**|Hanxin Zhu et.al.|[2606.09187](http://arxiv.org/abs/2606.09187)|null|
@@ -1984,6 +1991,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-09**|**Act on What You See: Unlocking Safe Social Navigation in Vision-Language-Action Models**|Qingzi Wang et.al.|[2606.10495](http://arxiv.org/abs/2606.10495)|null|
 |**2026-06-03**|**LLM-Guided ANN Index Optimization for Human-Object Interaction Retrieval**|Shahrzad Esmat et.al.|[2606.05489](http://arxiv.org/abs/2606.05489)|null|
 |**2026-06-03**|**Recovering Physically Plausible Human-Object Interactions from Monocular Videos**|Dingbang Huang et.al.|[2606.05359](http://arxiv.org/abs/2606.05359)|null|
 |**2026-06-03**|**GRAIL: Generating Humanoid Loco-Manipulation from 3D Assets and Video Priors**|Tianyi Xie et.al.|[2606.05160](http://arxiv.org/abs/2606.05160)|null|
@@ -2284,6 +2292,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-09**|**Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories**|Kevin Qinghong Lin et.al.|[2606.11176](http://arxiv.org/abs/2606.11176)|null|
+|**2026-06-09**|**Designed by Journalists, but Is It for Readers? Rethinking AI Disclosures and Transparency in News**|Pooja Prajod et.al.|[2606.11116](http://arxiv.org/abs/2606.11116)|null|
+|**2026-06-09**|**Making Software Meaningful**|Eagon Meng et.al.|[2606.11051](http://arxiv.org/abs/2606.11051)|null|
+|**2026-06-09**|**A Case Study Reexamining the Cold-Start Problem in Knowledge Tracing Models and Implications for SafeInsights, an Education Research Infrastructure**|Jiayi Zhang et.al.|[2606.11004](http://arxiv.org/abs/2606.11004)|null|
+|**2026-06-09**|**From Perception to Action: Can UI Interventions Foster Sustainable LLM Chatbot**|Nitish Patkar et.al.|[2606.10861](http://arxiv.org/abs/2606.10861)|null|
+|**2026-06-09**|**Being and Time in XR: Other-Presentness Beyond Co-Presence**|Koichi Toida et.al.|[2606.10786](http://arxiv.org/abs/2606.10786)|null|
+|**2026-06-09**|**Deploying Speech-Driven 3D Facial Animation in Unreal Engine for Production-Ready Digital Humans**|Alessandro Busacchi et.al.|[2606.10753](http://arxiv.org/abs/2606.10753)|null|
+|**2026-06-09**|**Profy: Interpretable Visualization of Expertise-Dependent Motor Skills Toward Supporting Piano Practice**|Kazuki Kawamura et.al.|[2606.10627](http://arxiv.org/abs/2606.10627)|null|
+|**2026-06-09**|**Profiling cognitive offloading in LLM-mediated synthesis writing: Volume vs. content**|Oleksandra Poquet et.al.|[2606.10434](http://arxiv.org/abs/2606.10434)|null|
+|**2026-06-09**|**Selection, Not Salience: The Shape and Limits of Personalization in Social Highlighting**|Kazuki Nakayashiki et.al.|[2606.10398](http://arxiv.org/abs/2606.10398)|null|
 |**2026-06-08**|**Cohort-based Semantic Labeling: AI-Enabled Recovery of Visualization Semantics from Deployed SVGs**|Jeongah Lee et.al.|[2606.09782](http://arxiv.org/abs/2606.09782)|null|
 |**2026-06-08**|**Collaborative Human-Agent Protocol (CHAP)**|Arsalan Shahid et.al.|[2606.09751](http://arxiv.org/abs/2606.09751)|null|
 |**2026-06-08**|**What the Eyes See, the LLMs Miss: Exploiting Human Perception for Adversarial Text Attacks**|Qin Yang et.al.|[2606.09700](http://arxiv.org/abs/2606.09700)|null|
