@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.06.10
+### Automatically Updated on 2026.06.11
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-10**|**World Pilot: Steering Vision-Language-Action Models with World-Action Priors**|Zefu Lin et.al.|[2606.12403](http://arxiv.org/abs/2606.12403)|null|
+|**2026-06-10**|**DAM-VLA: Decoupled Asynchronous Multimodal Vision Language Action model**|Pankhuri Vanjani et.al.|[2606.12105](http://arxiv.org/abs/2606.12105)|null|
+|**2026-06-10**|**MoGeFlow: Flowing Through Motion Codebook Geometry for Text-to-Motion Generation**|Pengcheng Fang et.al.|[2606.11656](http://arxiv.org/abs/2606.11656)|null|
+|**2026-06-09**|**Dynamic Execution Horizon Prediction for Chunk-based Robot Policies**|Yuchi Zhao et.al.|[2606.11408](http://arxiv.org/abs/2606.11408)|null|
 |**2026-06-09**|**Gradient based Bilevel for Inverse Optimal Control, a Riemannian approach**|Ahmed-Manaf Dahmani et.al.|[2606.10841](http://arxiv.org/abs/2606.10841)|null|
 |**2026-06-09**|**Fast and Highly Expressive Policy Learning for Offline Reinforcement Learning via Bootstrapped Flow Q-Learning**|Thanh Nguyen et.al.|[2606.10613](http://arxiv.org/abs/2606.10613)|null|
 |**2026-06-09**|**Act on What You See: Unlocking Safe Social Navigation in Vision-Language-Action Models**|Qingzi Wang et.al.|[2606.10495](http://arxiv.org/abs/2606.10495)|null|
@@ -886,7 +890,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260610>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260611>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -1044,7 +1048,7 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260610>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260611>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
@@ -1347,12 +1351,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260610>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260611>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-10**|**Identifying cybersickness causes in virtual reality games using symbolic machine learning algorithms**|Thiago Porcino et.al.|[2606.12214](http://arxiv.org/abs/2606.12214)|null|
+|**2026-06-10**|**Channels and Substrates: Distributed Cognition as an Interaction Model for Ubiquitous Analytics**|Niklas Elmqvist et.al.|[2606.11986](http://arxiv.org/abs/2606.11986)|null|
+|**2026-06-10**|**Somewhere Over the Desktop: A Research Agenda for Ubiquitous Analytics**|Niklas Elmqvist et.al.|[2606.11980](http://arxiv.org/abs/2606.11980)|null|
+|**2026-06-10**|**Frozen Multimodal Embeddings for Personality and Cognitive Ability Assessment in Asynchronous Video Interviews**|Kuo-En Hung et.al.|[2606.11930](http://arxiv.org/abs/2606.11930)|null|
+|**2026-06-10**|**PAPEL: A Collaborative System for Parental Guidance during Preschool Play-Based English Learning**|Xutong Wang et.al.|[2606.11896](http://arxiv.org/abs/2606.11896)|null|
+|**2026-06-10**|**Designing AI-Supported Focus Groups: A Role x Modality Playbook**|Zhiqing Wang et.al.|[2606.11835](http://arxiv.org/abs/2606.11835)|null|
+|**2026-06-10**|**Understanding and Supporting Online Discussion with Opinionated Chatbots**|Tianqi Song et.al.|[2606.11693](http://arxiv.org/abs/2606.11693)|null|
+|**2026-06-10**|**Learning by Chatting? Investigating the Impact of Generative AI on Information Seeking and Learning**|Shravika Mittal et.al.|[2606.11669](http://arxiv.org/abs/2606.11669)|null|
+|**2026-06-10**|**The Long Tail, Not the Front Page: Cold-Start Prediction of Crowd Highlight Salience**|Kazuki Nakayashiki et.al.|[2606.11654](http://arxiv.org/abs/2606.11654)|null|
+|**2026-06-10**|**3-Key-Input: Exploring the Theoretical Minimum Keys for Text Entry**|Naoki Kimura et.al.|[2606.11642](http://arxiv.org/abs/2606.11642)|null|
 |**2026-06-09**|**Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories**|Kevin Qinghong Lin et.al.|[2606.11176](http://arxiv.org/abs/2606.11176)|null|
 |**2026-06-09**|**Designed by Journalists, but Is It for Readers? Rethinking AI Disclosures and Transparency in News**|Pooja Prajod et.al.|[2606.11116](http://arxiv.org/abs/2606.11116)|null|
 |**2026-06-09**|**Making Software Meaningful**|Eagon Meng et.al.|[2606.11051](http://arxiv.org/abs/2606.11051)|null|
@@ -2982,7 +2996,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260610>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260611>back to top</a>)</p>
 
 Notes: 
 

@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.06.10
+### Automatically Updated on 2026.06.11
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-10**|**World Pilot: Steering Vision-Language-Action Models with World-Action Priors**|Zefu Lin et.al.|[2606.12403](http://arxiv.org/abs/2606.12403)|null|
+|**2026-06-10**|**DAM-VLA: Decoupled Asynchronous Multimodal Vision Language Action model**|Pankhuri Vanjani et.al.|[2606.12105](http://arxiv.org/abs/2606.12105)|null|
+|**2026-06-10**|**MoGeFlow: Flowing Through Motion Codebook Geometry for Text-to-Motion Generation**|Pengcheng Fang et.al.|[2606.11656](http://arxiv.org/abs/2606.11656)|null|
+|**2026-06-09**|**Dynamic Execution Horizon Prediction for Chunk-based Robot Policies**|Yuchi Zhao et.al.|[2606.11408](http://arxiv.org/abs/2606.11408)|null|
 |**2026-06-09**|**Gradient based Bilevel for Inverse Optimal Control, a Riemannian approach**|Ahmed-Manaf Dahmani et.al.|[2606.10841](http://arxiv.org/abs/2606.10841)|null|
 |**2026-06-09**|**Fast and Highly Expressive Policy Learning for Offline Reinforcement Learning via Bootstrapped Flow Q-Learning**|Thanh Nguyen et.al.|[2606.10613](http://arxiv.org/abs/2606.10613)|null|
 |**2026-06-09**|**Act on What You See: Unlocking Safe Social Navigation in Vision-Language-Action Models**|Qingzi Wang et.al.|[2606.10495](http://arxiv.org/abs/2606.10495)|null|
@@ -2292,6 +2296,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-10**|**Identifying cybersickness causes in virtual reality games using symbolic machine learning algorithms**|Thiago Porcino et.al.|[2606.12214](http://arxiv.org/abs/2606.12214)|null|
+|**2026-06-10**|**Channels and Substrates: Distributed Cognition as an Interaction Model for Ubiquitous Analytics**|Niklas Elmqvist et.al.|[2606.11986](http://arxiv.org/abs/2606.11986)|null|
+|**2026-06-10**|**Somewhere Over the Desktop: A Research Agenda for Ubiquitous Analytics**|Niklas Elmqvist et.al.|[2606.11980](http://arxiv.org/abs/2606.11980)|null|
+|**2026-06-10**|**Frozen Multimodal Embeddings for Personality and Cognitive Ability Assessment in Asynchronous Video Interviews**|Kuo-En Hung et.al.|[2606.11930](http://arxiv.org/abs/2606.11930)|null|
+|**2026-06-10**|**PAPEL: A Collaborative System for Parental Guidance during Preschool Play-Based English Learning**|Xutong Wang et.al.|[2606.11896](http://arxiv.org/abs/2606.11896)|null|
+|**2026-06-10**|**Designing AI-Supported Focus Groups: A Role x Modality Playbook**|Zhiqing Wang et.al.|[2606.11835](http://arxiv.org/abs/2606.11835)|null|
+|**2026-06-10**|**Understanding and Supporting Online Discussion with Opinionated Chatbots**|Tianqi Song et.al.|[2606.11693](http://arxiv.org/abs/2606.11693)|null|
+|**2026-06-10**|**Learning by Chatting? Investigating the Impact of Generative AI on Information Seeking and Learning**|Shravika Mittal et.al.|[2606.11669](http://arxiv.org/abs/2606.11669)|null|
+|**2026-06-10**|**The Long Tail, Not the Front Page: Cold-Start Prediction of Crowd Highlight Salience**|Kazuki Nakayashiki et.al.|[2606.11654](http://arxiv.org/abs/2606.11654)|null|
+|**2026-06-10**|**3-Key-Input: Exploring the Theoretical Minimum Keys for Text Entry**|Naoki Kimura et.al.|[2606.11642](http://arxiv.org/abs/2606.11642)|null|
 |**2026-06-09**|**Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories**|Kevin Qinghong Lin et.al.|[2606.11176](http://arxiv.org/abs/2606.11176)|null|
 |**2026-06-09**|**Designed by Journalists, but Is It for Readers? Rethinking AI Disclosures and Transparency in News**|Pooja Prajod et.al.|[2606.11116](http://arxiv.org/abs/2606.11116)|null|
 |**2026-06-09**|**Making Software Meaningful**|Eagon Meng et.al.|[2606.11051](http://arxiv.org/abs/2606.11051)|null|
