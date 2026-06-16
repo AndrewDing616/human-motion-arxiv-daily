@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.06.15
+### Automatically Updated on 2026.06.16
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-15**|**PATCH: Action-Chunk-Conditioned Latent Patch Innovation Monitoring for Robot Manipulation**|Yanan Zhou et.al.|[2606.16690](http://arxiv.org/abs/2606.16690)|null|
+|**2026-06-15**|**Steering Generative Reinforcement Learning into Stable Robotic Controller**|Yixuan Wang et.al.|[2606.16572](http://arxiv.org/abs/2606.16572)|null|
+|**2026-06-14**|**SiGnature: Explicit Motion Diffusion for Stylized Semantic Gesture**|Adi Rosenthal et.al.|[2606.15889](http://arxiv.org/abs/2606.15889)|null|
+|**2026-06-14**|**LaWAM: Latent World Action Models for Efficient Dynamics-Aware Robot Policies**|Jialei Chen et.al.|[2606.15768](http://arxiv.org/abs/2606.15768)|null|
+|**2026-06-13**|**Acting While Understanding: Asynchronous Semantic-Action Decoupling for Real-Time Vision-Language-Action Models**|Shenhao Yan et.al.|[2606.15285](http://arxiv.org/abs/2606.15285)|null|
+|**2026-06-13**|**Driving, Fast or Slow? Neuro-Symbolic Guidance for Motion Prediction in Multi-Modal Ground Mobility**|Simon Kohaut et.al.|[2606.15251](http://arxiv.org/abs/2606.15251)|null|
+|**2026-06-13**|**Rethinking Implicit Spatial Representation in Visuomotor Policy Learning**|Xiangyu Chen et.al.|[2606.15232](http://arxiv.org/abs/2606.15232)|null|
+|**2026-06-13**|**MotionVLA: Vision-Language-Action Model for Humanoid Motion**|Nonghai Zhang et.al.|[2606.15142](http://arxiv.org/abs/2606.15142)|null|
 |**2026-06-12**|**Elastic Queries Reinforcement Learning: Self-Aware Policy Execution for VLA Models**|Ge Wang et.al.|[2606.14375](http://arxiv.org/abs/2606.14375)|null|
 |**2026-06-12**|**ReactVLA: Fast and Lightweight Reactive Robot Manipulation via Improved Mean Flow Action Generation**|Yanzhao Guo et.al.|[2606.14255](http://arxiv.org/abs/2606.14255)|null|
 |**2026-06-12**|**DRIVE: Distributional and Retrieval-Augmented Bidding with Value Evaluation**|Miduo Cui et.al.|[2606.14192](http://arxiv.org/abs/2606.14192)|null|
@@ -903,7 +911,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260615>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260616>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -1061,13 +1069,14 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260615>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260616>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-06-09**|**Act on What You See: Unlocking Safe Social Navigation in Vision-Language-Action Models**|Qingzi Wang et.al.|[2606.10495](http://arxiv.org/abs/2606.10495)|null|
+|**2026-06-14**|**CogCanvas: A Benchmark for Evaluating Multi-Subject Reference-Based Image Generation**|Long-Bao Nguyen et.al.|[2606.15867](http://arxiv.org/abs/2606.15867)|null|
+|**2026-06-14**|**Act on What You See: Unlocking Safe Social Navigation in Vision-Language-Action Models**|Qingzi Wang et.al.|[2606.10495](http://arxiv.org/abs/2606.10495)|null|
 |**2026-06-03**|**LLM-Guided ANN Index Optimization for Human-Object Interaction Retrieval**|Shahrzad Esmat et.al.|[2606.05489](http://arxiv.org/abs/2606.05489)|null|
 |**2026-06-03**|**Recovering Physically Plausible Human-Object Interactions from Monocular Videos**|Dingbang Huang et.al.|[2606.05359](http://arxiv.org/abs/2606.05359)|null|
 |**2026-06-03**|**GRAIL: Generating Humanoid Loco-Manipulation from 3D Assets and Video Priors**|Tianyi Xie et.al.|[2606.05160](http://arxiv.org/abs/2606.05160)|null|
@@ -1364,12 +1373,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260615>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260616>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-15**|**From 911 to Hospital: Challenges and Opportunities for AI Integration in Emergency Medical Services**|Emily Hou et.al.|[2606.16984](http://arxiv.org/abs/2606.16984)|null|
+|**2026-06-15**|**A Causal Model of Theory of Mind in Conflict for Artificial Intelligence**|Nikolos Gurney et.al.|[2606.16944](http://arxiv.org/abs/2606.16944)|null|
+|**2026-06-15**|**Evolution & Foundation: AI Shares Creative Control**|Dylan Banarse et.al.|[2606.16849](http://arxiv.org/abs/2606.16849)|null|
+|**2026-06-15**|**A comparison of human and LLM-simulated participants in a writing style task**|Felix Gröner et.al.|[2606.16778](http://arxiv.org/abs/2606.16778)|null|
+|**2026-06-15**|**MuVAP: Multimodal Multiparty Voice Activity Projection for Turn-taking Prediction in the Wild**|Haotian Qi et.al.|[2606.16731](http://arxiv.org/abs/2606.16731)|null|
+|**2026-06-15**|**Mapping the Design Space for Youth Social Media: A Framework Centered on Friendship Building**|JaeWon Kim et.al.|[2606.16651](http://arxiv.org/abs/2606.16651)|null|
+|**2026-06-15**|**Using AI in engineering education: a balancing act, driven by clear purpose**|Olya Kudina et.al.|[2606.16626](http://arxiv.org/abs/2606.16626)|null|
+|**2026-06-15**|**Beyond Usability: A UX Case Study on Using "Withdrawal Design" to Challenge Engagement Metrics in Social Robotics**|Yibo Meng et.al.|[2606.16439](http://arxiv.org/abs/2606.16439)|null|
+|**2026-06-15**|**LectūraAgents: A Multi-Agent Framework for Adaptive Personalized AI-Assisted Learning and Embodied Teaching**|Jaward Sesay et.al.|[2606.16428](http://arxiv.org/abs/2606.16428)|null|
+|**2026-06-15**|**An Augmented Reality Brain-Robot Interface for Generalist Robot Arm Manipulation**|Shangkai Zhang et.al.|[2606.16413](http://arxiv.org/abs/2606.16413)|null|
 |**2026-06-12**|**The Self-Aware Body: A User-Centered Framework for Designing Therapeutic Sonic Interactions**|Prithvi Ravi Kantan et.al.|[2606.14664](http://arxiv.org/abs/2606.14664)|null|
 |**2026-06-12**|**Verifiable User Simulation for Search and Recommendation Systems**|Chenglong Ma et.al.|[2606.14474](http://arxiv.org/abs/2606.14474)|null|
 |**2026-06-12**|**Demographic Patterns in Cybersecurity Culture: Insights from a Global Organisation Supporting Safety-Critical and Critical Infrastructure Sectors**|Tita Alissa Bach et.al.|[2606.14462](http://arxiv.org/abs/2606.14462)|null|
@@ -3029,7 +3048,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260615>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260616>back to top</a>)</p>
 
 Notes: 
 
