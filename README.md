@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.06.16
+### Automatically Updated on 2026.06.17
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-16**|**LAGO Policy: Latency-Aware Asynchronous Diffusion Policies with Goal-Directed Collision-Free Planning for Smooth Manipulation**|Guowei Shi et.al.|[2606.17982](http://arxiv.org/abs/2606.17982)|null|
+|**2026-06-16**|**PearlVLA: Progressive Embodied Action-Plan Refinement in Latent Space**|Bochen Yang et.al.|[2606.17924](http://arxiv.org/abs/2606.17924)|null|
+|**2026-06-16**|**MuseVLA: An Adaptive Multimodal Sensing Vision-Language-Action Model for Robotic Manipulation**|Xingyuming Liu et.al.|[2606.17598](http://arxiv.org/abs/2606.17598)|null|
+|**2026-06-16**|**WeaveLA: Event Driven Cross-Subtask Latent Memory Weaving for Repetitive Robot Manipulation**|Shoujing Zhu et.al.|[2606.17463](http://arxiv.org/abs/2606.17463)|null|
+|**2026-06-16**|**Where Should Action Generation Begin? A Learnable Source Prior for Generative Robot Policies**|Meipo Dai et.al.|[2606.17408](http://arxiv.org/abs/2606.17408)|null|
 |**2026-06-15**|**PATCH: Action-Chunk-Conditioned Latent Patch Innovation Monitoring for Robot Manipulation**|Yanan Zhou et.al.|[2606.16690](http://arxiv.org/abs/2606.16690)|null|
 |**2026-06-15**|**Steering Generative Reinforcement Learning into Stable Robotic Controller**|Yixuan Wang et.al.|[2606.16572](http://arxiv.org/abs/2606.16572)|null|
 |**2026-06-14**|**SiGnature: Explicit Motion Diffusion for Stylized Semantic Gesture**|Adi Rosenthal et.al.|[2606.15889](http://arxiv.org/abs/2606.15889)|null|
@@ -911,7 +916,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260617>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -1069,12 +1074,14 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260617>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-16**|**MOCHI: Motion Enhancement of Collaborative Human-object Interactions**|Jiye Lee et.al.|[2606.18243](http://arxiv.org/abs/2606.18243)|null|
+|**2026-06-16**|**ActWorld: From Explorable to Interactive World Model via Action-Aware Memory**|Zhexiao Xiong et.al.|[2606.17730](http://arxiv.org/abs/2606.17730)|null|
 |**2026-06-14**|**CogCanvas: A Benchmark for Evaluating Multi-Subject Reference-Based Image Generation**|Long-Bao Nguyen et.al.|[2606.15867](http://arxiv.org/abs/2606.15867)|null|
 |**2026-06-14**|**Act on What You See: Unlocking Safe Social Navigation in Vision-Language-Action Models**|Qingzi Wang et.al.|[2606.10495](http://arxiv.org/abs/2606.10495)|null|
 |**2026-06-03**|**LLM-Guided ANN Index Optimization for Human-Object Interaction Retrieval**|Shahrzad Esmat et.al.|[2606.05489](http://arxiv.org/abs/2606.05489)|null|
@@ -1373,12 +1380,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260617>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-16**|**MOCHI: Motion Enhancement of Collaborative Human-object Interactions**|Jiye Lee et.al.|[2606.18243](http://arxiv.org/abs/2606.18243)|null|
+|**2026-06-16**|**MAJIC: Leveraging Articulatory Motion for Speech-based Emotion Recognition**|Tanmay Srivastava et.al.|[2606.18228](http://arxiv.org/abs/2606.18228)|null|
+|**2026-06-16**|**Towards Understanding and Measuring COGNITIVE ATROPHY in LLM Behaviour**|Abeer Badawi et.al.|[2606.18129](http://arxiv.org/abs/2606.18129)|null|
+|**2026-06-16**|**Security and Privacy Prompts in the Wild: What Users Ask LLMs and How LLMs Respond**|Hobin Kim et.al.|[2606.18062](http://arxiv.org/abs/2606.18062)|null|
+|**2026-06-16**|**When AI Says "I have been in similar situations": Synthetic Lived Experience in Peer-Like Caregiver Support**|Drishti Goel et.al.|[2606.18057](http://arxiv.org/abs/2606.18057)|null|
+|**2026-06-16**|**ParaTutor: LLM Mediated Parent Child Tutoring through Role Separated Scaffolding Interface in Real Time**|Lan Luo et.al.|[2606.18030](http://arxiv.org/abs/2606.18030)|null|
+|**2026-06-16**|**Co-Creativity at the Table: A Qualitative Analysis of Creative Interactions in the Podcast "Adventure AI"**|Hanna Dodd et.al.|[2606.18010](http://arxiv.org/abs/2606.18010)|null|
+|**2026-06-16**|**Children Are Not the Enemy: Child-Fit Security as an Alternative to Bans and Surveillance**|Kopo M. Ramokapane et.al.|[2606.17957](http://arxiv.org/abs/2606.17957)|null|
+|**2026-06-16**|**AI Adoption Across a Multinational Workforce: Sociotechnical Conditions for GenAI Acceptance in Human Resources**|Dalia Ali et.al.|[2606.17887](http://arxiv.org/abs/2606.17887)|null|
+|**2026-06-16**|**From Ad Hoc Pilots to Repeatable Patterns: Structuring Drone Collaboration in Emergency Services with DroneLets**|Dzmitry Katsiuba et.al.|[2606.17839](http://arxiv.org/abs/2606.17839)|null|
 |**2026-06-15**|**From 911 to Hospital: Challenges and Opportunities for AI Integration in Emergency Medical Services**|Emily Hou et.al.|[2606.16984](http://arxiv.org/abs/2606.16984)|null|
 |**2026-06-15**|**A Causal Model of Theory of Mind in Conflict for Artificial Intelligence**|Nikolos Gurney et.al.|[2606.16944](http://arxiv.org/abs/2606.16944)|null|
 |**2026-06-15**|**Evolution & Foundation: AI Shares Creative Control**|Dylan Banarse et.al.|[2606.16849](http://arxiv.org/abs/2606.16849)|null|
@@ -3048,7 +3065,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260617>back to top</a>)</p>
 
 Notes: 
 
