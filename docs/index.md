@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.06.17
+### Automatically Updated on 2026.06.18
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-17**|**Zero-Shot Long-Horizon Dexterous Manipulation via Multi-View 3D-Grounded VLM Reasoning**|Jisoo Kim et.al.|[2606.19340](http://arxiv.org/abs/2606.19340)|null|
+|**2026-06-17**|**Invertible Neural Network Adapter for One-Step Flow Matching in Robot Manipulation**|Yu Zhang et.al.|[2606.19194](http://arxiv.org/abs/2606.19194)|null|
+|**2026-06-17**|**ROBOSHACKLES: A Safety Dataset for Human-Injury Prevention in Embodied Foundation Models**|Zhuowen Yin et.al.|[2606.18632](http://arxiv.org/abs/2606.18632)|null|
+|**2026-06-17**|**MolmoMotion: Forecasting Point Trajectories in 3D with Language Instruction**|Jianing Zhang et.al.|[2606.18558](http://arxiv.org/abs/2606.18558)|null|
+|**2026-06-16**|**VEGA: Learning Navigation VLAs from In-the-Wild Egocentric Video with Geometric Trajectory Supervision**|Gershom Seneviratne et.al.|[2606.18426](http://arxiv.org/abs/2606.18426)|null|
+|**2026-06-16**|**Ghost Attractor Networks: Basin-Structured Dynamical Decoders for Closed-Loop Sequential Generation**|Tianyu Wang et.al.|[2606.18315](http://arxiv.org/abs/2606.18315)|null|
 |**2026-06-16**|**LAGO Policy: Latency-Aware Asynchronous Diffusion Policies with Goal-Directed Collision-Free Planning for Smooth Manipulation**|Guowei Shi et.al.|[2606.17982](http://arxiv.org/abs/2606.17982)|null|
 |**2026-06-16**|**PearlVLA: Progressive Embodied Action-Plan Refinement in Latent Space**|Bochen Yang et.al.|[2606.17924](http://arxiv.org/abs/2606.17924)|null|
 |**2026-06-16**|**MuseVLA: An Adaptive Multimodal Sensing Vision-Language-Action Model for Robotic Manipulation**|Xingyuming Liu et.al.|[2606.17598](http://arxiv.org/abs/2606.17598)|null|
@@ -2021,6 +2027,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-17**|**Taming I2V models for Image HOI Editing: A Cognitive Benchmark and Agentic Self-Correcting Framework**|Jiayi Gao et.al.|[2606.19073](http://arxiv.org/abs/2606.19073)|null|
 |**2026-06-16**|**MOCHI: Motion Enhancement of Collaborative Human-object Interactions**|Jiye Lee et.al.|[2606.18243](http://arxiv.org/abs/2606.18243)|null|
 |**2026-06-16**|**ActWorld: From Explorable to Interactive World Model via Action-Aware Memory**|Zhexiao Xiong et.al.|[2606.17730](http://arxiv.org/abs/2606.17730)|null|
 |**2026-06-14**|**CogCanvas: A Benchmark for Evaluating Multi-Subject Reference-Based Image Generation**|Long-Bao Nguyen et.al.|[2606.15867](http://arxiv.org/abs/2606.15867)|null|
@@ -2325,6 +2332,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-17**|**Correct Yourself, Keep My Trust: How Self-Correction and Social Connection Shape Credibility in Social Chatbots**|Biswadeep Sen et.al.|[2606.19286](http://arxiv.org/abs/2606.19286)|null|
+|**2026-06-17**|**A Taxonomy of Mental Health and Technology Needs for Alzheimer's and Dementia Caregivers**|Keran Wang et.al.|[2606.19247](http://arxiv.org/abs/2606.19247)|null|
+|**2026-06-17**|**Seeing Through Occlusion: Deterministic Arm Kinematic Correction for Robot Teleoperation**|Thomas M. Kwok et.al.|[2606.19240](http://arxiv.org/abs/2606.19240)|null|
+|**2026-06-17**|**A Human-in-the-Loop Bayesian Optimization Framework for Constraint-Aware Bioprocess Development**|Samuel Stricker et.al.|[2606.19230](http://arxiv.org/abs/2606.19230)|null|
+|**2026-06-17**|**No Two Developers Think Alike: How Problem-Solving Styles and Experience Shape Needs in Conversational Interaction with Copilot**|Jonan Richards et.al.|[2606.19216](http://arxiv.org/abs/2606.19216)|null|
+|**2026-06-17**|**A Clinician-Centered Pipeline for Annotation and Evaluation in Ultrasound AI Studies**|Fangyijie Wang et.al.|[2606.19174](http://arxiv.org/abs/2606.19174)|null|
+|**2026-06-17**|**Written by AI, Managed by AI: Semantic Space Control and Index Sickness Elimination Across 391 Consecutive Sessions**|Hui Zhang et.al.|[2606.19121](http://arxiv.org/abs/2606.19121)|null|
+|**2026-06-17**|**Retrieval-Based Brain Decoding by Alignment, not Complexity**|Matteo Ciferri et.al.|[2606.19081](http://arxiv.org/abs/2606.19081)|null|
+|**2026-06-17**|**Improving Human-Robot Teamwork in Urban Search and Rescue Through Episodic Memory of Prior Collaboration**|Taewoon Kim et.al.|[2606.18836](http://arxiv.org/abs/2606.18836)|null|
+|**2026-06-17**|**SwitchBraidNet: Quantisation-Aware Lightweight Architecture for Hybrid Brain-Computer Interface**|Gourav Siddhad et.al.|[2606.18816](http://arxiv.org/abs/2606.18816)|null|
 |**2026-06-16**|**MOCHI: Motion Enhancement of Collaborative Human-object Interactions**|Jiye Lee et.al.|[2606.18243](http://arxiv.org/abs/2606.18243)|null|
 |**2026-06-16**|**MAJIC: Leveraging Articulatory Motion for Speech-based Emotion Recognition**|Tanmay Srivastava et.al.|[2606.18228](http://arxiv.org/abs/2606.18228)|null|
 |**2026-06-16**|**Towards Understanding and Measuring COGNITIVE ATROPHY in LLM Behaviour**|Abeer Badawi et.al.|[2606.18129](http://arxiv.org/abs/2606.18129)|null|
