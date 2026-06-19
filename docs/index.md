@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.06.18
+### Automatically Updated on 2026.06.19
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-18**|**Generating Robot Hands from Human Demonstrations**|Sha Yi et.al.|[2606.20549](http://arxiv.org/abs/2606.20549)|null|
+|**2026-06-18**|**CalTennis: Large Multi-View Tennis Video Dataset and Benchmark of Monocular-to-3D Pose Estimation**|Ilona Demler et.al.|[2606.20542](http://arxiv.org/abs/2606.20542)|null|
+|**2026-06-18**|**Co-VLA: Coordination-Aware Structured Action Modeling for Dual-Arm Vision-Language-Action Systems**|Yandong Wang et.al.|[2606.20285](http://arxiv.org/abs/2606.20285)|null|
+|**2026-06-18**|**Frequency-Aware Flow Matching for Continuous and Consistent Robotic Action Generation**|Jianing Guo et.al.|[2606.20135](http://arxiv.org/abs/2606.20135)|null|
+|**2026-06-18**|**PhysDrift: Bridging the Embodiment Gap in Humanoid Co-Speech Motion Generation**|Zhangzhao Liang et.al.|[2606.19935](http://arxiv.org/abs/2606.19935)|null|
+|**2026-06-18**|**Co-policy: Responsive Human-Robot Co-Creation for Musical Performances**|Xuetao Li et.al.|[2606.19914](http://arxiv.org/abs/2606.19914)|null|
 |**2026-06-17**|**Zero-Shot Long-Horizon Dexterous Manipulation via Multi-View 3D-Grounded VLM Reasoning**|Jisoo Kim et.al.|[2606.19340](http://arxiv.org/abs/2606.19340)|null|
 |**2026-06-17**|**Invertible Neural Network Adapter for One-Step Flow Matching in Robot Manipulation**|Yu Zhang et.al.|[2606.19194](http://arxiv.org/abs/2606.19194)|null|
 |**2026-06-17**|**ROBOSHACKLES: A Safety Dataset for Human-Injury Prevention in Embodied Foundation Models**|Zhuowen Yin et.al.|[2606.18632](http://arxiv.org/abs/2606.18632)|null|
@@ -2332,6 +2338,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-18**|**Easy Reads: A Python program for making Scientific Papers on arXiv more Reader Friendly and Accessible**|Vishal Verma et.al.|[2606.20550](http://arxiv.org/abs/2606.20550)|null|
+|**2026-06-18**|**Your Mouse and Eyes Secretly Leak Your Preference: LLM Alignment using Implicit Feedback from Users**|Haw-Shiuan Chang et.al.|[2606.20482](http://arxiv.org/abs/2606.20482)|null|
+|**2026-06-18**|**Directors Duties in the Age of Agentic Artificial Intelligence**|Deirdre Ahern et.al.|[2606.20453](http://arxiv.org/abs/2606.20453)|null|
+|**2026-06-18**|**DataMagic: Transforming Tabular Data into Data Insight Video**|Yupeng Xie et.al.|[2606.20388](http://arxiv.org/abs/2606.20388)|null|
+|**2026-06-18**|**Organizing in the Digital Age: Understanding Community, Challenges, and Consequences in Digitally-facilitated Labor Organizing**|Frederick Reiber et.al.|[2606.20375](http://arxiv.org/abs/2606.20375)|null|
+|**2026-06-18**|**Editorial Alignment: A Participatory Approach to Engaging Editorial Expertise in LLM-mediated Knowledge Dissemination**|Simon Aagaard Enni et.al.|[2606.20258](http://arxiv.org/abs/2606.20258)|null|
+|**2026-06-18**|**Apparent Psychological Profiles of Large Language Models are Largely a Measurement Artifact**|Jelena Meyer et.al.|[2606.20205](http://arxiv.org/abs/2606.20205)|null|
+|**2026-06-18**|**Learning to Prompt: Improving Student Engagement with Adaptive LLM-based High-School Tutoring**|Po-Chin Chang et.al.|[2606.20138](http://arxiv.org/abs/2606.20138)|null|
+|**2026-06-18**|**AI Conversational Interviewing: Scaling Up Semi-Structured and In-depth Interviews**|Alexander Wuttke et.al.|[2606.20064](http://arxiv.org/abs/2606.20064)|null|
+|**2026-06-18**|**MobileForge: Annotation-Free Adaptation for Mobile GUI Agents with Hierarchical Feedback-Guided Policy Optimization**|Guangyi Liu et.al.|[2606.19930](http://arxiv.org/abs/2606.19930)|null|
 |**2026-06-17**|**Correct Yourself, Keep My Trust: How Self-Correction and Social Connection Shape Credibility in Social Chatbots**|Biswadeep Sen et.al.|[2606.19286](http://arxiv.org/abs/2606.19286)|null|
 |**2026-06-17**|**A Taxonomy of Mental Health and Technology Needs for Alzheimer's and Dementia Caregivers**|Keran Wang et.al.|[2606.19247](http://arxiv.org/abs/2606.19247)|null|
 |**2026-06-17**|**Seeing Through Occlusion: Deterministic Arm Kinematic Correction for Robot Teleoperation**|Thomas M. Kwok et.al.|[2606.19240](http://arxiv.org/abs/2606.19240)|null|
