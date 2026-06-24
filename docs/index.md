@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.06.23
+### Automatically Updated on 2026.06.24
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,8 +959,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-23**|**MANGO: Automated Multi-Agent Test Oracle Generation for Vision-Language-Action Models**|Pablo Valle et.al.|[2606.24815](http://arxiv.org/abs/2606.24815)|null|
+|**2026-06-23**|**LaGO: Latent Action Guidance for Online Reinforcement Learning**|Kuan-Yen Liu et.al.|[2606.24669](http://arxiv.org/abs/2606.24669)|null|
+|**2026-06-23**|**G $^3$ VLA: Geometric inductive bias for Vision-Language-Action Models**|Yue Peng et.al.|[2606.24472](http://arxiv.org/abs/2606.24472)|null|
+|**2026-06-23**|**Social Structure Matters in 3D Human-Human Interaction Generation**|Zhongju Wang et.al.|[2606.24255](http://arxiv.org/abs/2606.24255)|null|
+|**2026-06-23**|**Efficient Time-Domain Simulation of USV Motions in Short-Crested Irregular Waves Using an IRF-Based Framework**|Fei Duan et.al.|[2606.24130](http://arxiv.org/abs/2606.24130)|null|
+|**2026-06-23**|**Polycepta: Object-Centric Appearance Estimation for Multi-Object Tracking**|Mohamed Nagy et.al.|[2606.23604](http://arxiv.org/abs/2606.23604)|null|
+|**2026-06-22**|**Neuro-Symbolic Drive: Rule-Grounded Faithful Reasoning for Driving VLAs**|Xiangbo Gao et.al.|[2606.23938](http://arxiv.org/abs/2606.23938)|null|
 |**2026-06-22**|**dVLA-RL: Reinforcement Learning over Denoising Trajectories for Discrete Diffusion Vision-Language-Action Models**|Yuhao Wu et.al.|[2606.23623](http://arxiv.org/abs/2606.23623)|null|
-|**2026-06-22**|**Polycepta: Object-Centric Appearance Estimation for Multi-Object Tracking**|Mohamed Nagy et.al.|[2606.23604](http://arxiv.org/abs/2606.23604)|null|
 |**2026-06-22**|**HoloAgent-0: A Unified Embodied Agent Framework with 3D Spatial Memory**|Xiaolin Zhou et.al.|[2606.23565](http://arxiv.org/abs/2606.23565)|null|
 |**2026-06-22**|**Towards a Bathroom-Centered Human-Building Digital Twin Framework for Indoor Safety Analysis**|Yuanzhi Su et.al.|[2606.23292](http://arxiv.org/abs/2606.23292)|null|
 |**2026-06-22**|**Assistron: Bayesian Shared Autonomy with Off-the-shelf Vision-Language-Action Models**|Pinhao Song et.al.|[2606.23147](http://arxiv.org/abs/2606.23147)|null|
@@ -2043,10 +2049,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-23**|**Wh0: Generative World Models as Scalable Sources of Egocentric Human Hand Manipulation Data**|Yangtao Chen et.al.|[2606.22136](http://arxiv.org/abs/2606.22136)|null|
 |**2026-06-22**|**IMAGIN-4D: Image-Guided Controllable Interaction Generation**|Sai Kumar Dwivedi et.al.|[2606.23675](http://arxiv.org/abs/2606.23675)|null|
 |**2026-06-22**|**Discovering Crystal Structure Prediction Algorithms with an AI Co-Scientist**|Kiyoung Seong et.al.|[2606.22866](http://arxiv.org/abs/2606.22866)|null|
 |**2026-06-22**|**Policy-as-Data: Learning Generalizable HOI Diffusion Models from Simulated Physics**|Shujia Li et.al.|[2606.22806](http://arxiv.org/abs/2606.22806)|null|
-|**2026-06-20**|**Wh0: Generative World Models as Scalable Sources of Egocentric Human Hand Manipulation Data**|Yangtao Chen et.al.|[2606.22136](http://arxiv.org/abs/2606.22136)|null|
 |**2026-06-19**|**PIAvatar: Physically Interactive Avatars via Deformation Gradient Decoupling**|Sang-Hun Han et.al.|[2606.21162](http://arxiv.org/abs/2606.21162)|null|
 |**2026-06-19**|**R2HandoverSim: A Simulation Framework and Benchmark for Robot-to-Human Object Handovers**|Hanxin Zhang et.al.|[2606.21011](http://arxiv.org/abs/2606.21011)|null|
 |**2026-06-17**|**Taming I2V models for Image HOI Editing: A Cognitive Benchmark and Agentic Self-Correcting Framework**|Jiayi Gao et.al.|[2606.19073](http://arxiv.org/abs/2606.19073)|null|
@@ -2354,6 +2360,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-23**|**"Zooming In" on Agentic Web Browsers as Assistive Technologies: A Case Study with a Low-Vision Technology Expert**|Laura Colazzo et.al.|[2606.24870](http://arxiv.org/abs/2606.24870)|null|
+|**2026-06-23**|**It's Complicated: On the Design and Evaluation of AI-Powered AAC Interfaces**|Blade Frisch et.al.|[2606.24854](http://arxiv.org/abs/2606.24854)|null|
+|**2026-06-23**|**Virtual Simulation for Mental Health**|Anna Fang et.al.|[2606.24826](http://arxiv.org/abs/2606.24826)|null|
+|**2026-06-23**|**Assessing Distribution Shift in Human Activity Recognition for Domain Generalization**|Rebecca Adaimi et.al.|[2606.24781](http://arxiv.org/abs/2606.24781)|null|
+|**2026-06-23**|**Task Decomposition for Efficient Annotation**|Nupoor Gandhi et.al.|[2606.24734](http://arxiv.org/abs/2606.24734)|null|
+|**2026-06-23**|**SciFi-VIS: Way Out There -- How SciFi and Visualization Influence Each Other**|Ulrik Günther et.al.|[2606.24731](http://arxiv.org/abs/2606.24731)|null|
+|**2026-06-23**|**SupplyNet: Supporting Visual Exploratory Learning in Supply Chain via Contextual Multi-Agent Simulation**|Yanjia Li et.al.|[2606.24694](http://arxiv.org/abs/2606.24694)|null|
+|**2026-06-23**|**Measuring User's Mental Models of Speech Translation in Human-AI Collaboration**|HyoJung Han et.al.|[2606.24644](http://arxiv.org/abs/2606.24644)|null|
+|**2026-06-23**|**Visualizing "We the People": Bridging the Perception Gap through Pluralistic Data Storytelling**|Lisa Schirch et.al.|[2606.24635](http://arxiv.org/abs/2606.24635)|null|
+|**2026-06-23**|**Themis: An explainable AI-enabled framework for Reinforcement Learning with Human Feedback**|Andreas Chouliaras et.al.|[2606.24622](http://arxiv.org/abs/2606.24622)|null|
 |**2026-06-22**|**Why Machines Misread Pedagogical Quality: Human-Machine Alignment in LLM-Based Pretest Question Evaluation**|Pei-Yu Tseng et.al.|[2606.23629](http://arxiv.org/abs/2606.23629)|null|
 |**2026-06-22**|**Hallucinations in Organization-backed AI advisors: Evidence about Skepticism, Verification, and Reliance in Goal-Directed Use**|Simon J. Blanchard et.al.|[2606.23491](http://arxiv.org/abs/2606.23491)|null|
 |**2026-06-22**|**Towards a Bathroom-Centered Human-Building Digital Twin Framework for Indoor Safety Analysis**|Yuanzhi Su et.al.|[2606.23292](http://arxiv.org/abs/2606.23292)|null|
