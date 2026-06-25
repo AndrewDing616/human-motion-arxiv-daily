@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.06.24
+### Automatically Updated on 2026.06.25
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-24**|**Stage-Aware and Roughness-Constrained Diffusion Policy for Multi-Stage Robotic Polishing**|Shuai Ke et.al.|[2606.25754](http://arxiv.org/abs/2606.25754)|null|
+|**2026-06-24**|**WOLF-VLA: Whole-Body Humanoid Optimal Locomotion Framework for Vision-Language-Action Learning**|Melya Boukheddimi et.al.|[2606.25591](http://arxiv.org/abs/2606.25591)|null|
+|**2026-06-24**|**Decoupling Semantics and Geometric Grounding: Spatial Visual Prompts for Language-Conditioned Imitation Learning**|Yanzhe Tang et.al.|[2606.25360](http://arxiv.org/abs/2606.25360)|null|
+|**2026-06-24**|**Follow Your Track: Precise Skeleton Animation Controlled by 3D Trajectories**|Yueting Liu et.al.|[2606.25344](http://arxiv.org/abs/2606.25344)|null|
+|**2026-06-23**|**Invariant Kalman filtering for extended pose estimation in multi-IMU articulated rigid-body systems**|Sven Goffin et.al.|[2606.25083](http://arxiv.org/abs/2606.25083)|null|
 |**2026-06-23**|**MANGO: Automated Multi-Agent Test Oracle Generation for Vision-Language-Action Models**|Pablo Valle et.al.|[2606.24815](http://arxiv.org/abs/2606.24815)|null|
 |**2026-06-23**|**LaGO: Latent Action Guidance for Online Reinforcement Learning**|Kuan-Yen Liu et.al.|[2606.24669](http://arxiv.org/abs/2606.24669)|null|
 |**2026-06-23**|**G $^3$ VLA: Geometric inductive bias for Vision-Language-Action Models**|Yue Peng et.al.|[2606.24472](http://arxiv.org/abs/2606.24472)|null|
@@ -2049,6 +2054,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-24**|**SSMNBench: Diagnosing Image-based Cross-View Human-Object Understanding via Single-View Sufficiency and Multi-View Necessity**|Tianchen Guo et.al.|[2606.25634](http://arxiv.org/abs/2606.25634)|null|
 |**2026-06-23**|**Wh0: Generative World Models as Scalable Sources of Egocentric Human Hand Manipulation Data**|Yangtao Chen et.al.|[2606.22136](http://arxiv.org/abs/2606.22136)|null|
 |**2026-06-22**|**IMAGIN-4D: Image-Guided Controllable Interaction Generation**|Sai Kumar Dwivedi et.al.|[2606.23675](http://arxiv.org/abs/2606.23675)|null|
 |**2026-06-22**|**Discovering Crystal Structure Prediction Algorithms with an AI Co-Scientist**|Kiyoung Seong et.al.|[2606.22866](http://arxiv.org/abs/2606.22866)|null|
@@ -2360,6 +2366,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-24**|**Explainable Control Framework (XCF) based on Fuzzy Model-Agnostic Explanation and LLM Agent-Supported Interface**|Faliang Yin et.al.|[2606.25941](http://arxiv.org/abs/2606.25941)|null|
+|**2026-06-24**|**Designing Trustworthy LLM-based Wellbeing Recommendation through Controllable Interaction**|Alan Said et.al.|[2606.25809](http://arxiv.org/abs/2606.25809)|null|
+|**2026-06-24**|**Dissociable Spatial and Temporal Effects of Interaction Latency in Virtual Reality**|Xiaoye Michael Wang et.al.|[2606.25681](http://arxiv.org/abs/2606.25681)|null|
+|**2026-06-24**|**Reasonable Motion: A General ASP Foundation for Environment Constrained Movement Trajectory Computation**|Julius Monsen et.al.|[2606.25626](http://arxiv.org/abs/2606.25626)|null|
+|**2026-06-24**|**When LLM Rationales Become User-Facing: Effects on Trust Perception, Decision-Making, and Gaze Behaviors**|Xin Sun et.al.|[2606.25489](http://arxiv.org/abs/2606.25489)|null|
+|**2026-06-24**|**AI Coaching for Accelerating Human Skill Development with Reinforcement Learning**|Wei Wang et.al.|[2606.25337](http://arxiv.org/abs/2606.25337)|null|
+|**2026-06-24**|**The Digital Pirahã Condition: Ecological Mismatch and the Reconstruction of Recursive Cognition**|Dhushy Thillaivasana et.al.|[2606.25287](http://arxiv.org/abs/2606.25287)|null|
+|**2026-06-24**|**Co-designing a Preliminary Repository of Augmented Reality Concepts for Real-Time Emotion Regulation**|Graciela Camacho-Fidalgo et.al.|[2606.25271](http://arxiv.org/abs/2606.25271)|null|
+|**2026-06-24**|**FUTO Swipe: Layout-Agnostic Neural Swipe Decoding**|David Lee Miller et.al.|[2606.25247](http://arxiv.org/abs/2606.25247)|null|
+|**2026-06-23**|**ARTOO-DARTU: Studying AR-HRC With AR Obstruction Mitigation During a Warehouse Task**|Christian Fronk et.al.|[2606.25202](http://arxiv.org/abs/2606.25202)|null|
 |**2026-06-23**|**"Zooming In" on Agentic Web Browsers as Assistive Technologies: A Case Study with a Low-Vision Technology Expert**|Laura Colazzo et.al.|[2606.24870](http://arxiv.org/abs/2606.24870)|null|
 |**2026-06-23**|**It's Complicated: On the Design and Evaluation of AI-Powered AAC Interfaces**|Blade Frisch et.al.|[2606.24854](http://arxiv.org/abs/2606.24854)|null|
 |**2026-06-23**|**Virtual Simulation for Mental Health**|Anna Fang et.al.|[2606.24826](http://arxiv.org/abs/2606.24826)|null|
