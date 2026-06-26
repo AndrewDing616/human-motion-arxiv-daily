@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.06.25
+### Automatically Updated on 2026.06.26
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-25**|**PAMAE: Phase-Aware-MoE Action Experts Towards Reliable Flow-Matching Vision-Language-Action Policies**|Jiayu Yang et.al.|[2606.27144](http://arxiv.org/abs/2606.27144)|null|
+|**2026-06-25**|**In-Context Model Predictive Generation: Open-Vocabulary Motion Synthesis from Language Models to Physics**|Xiaomeng Fu et.al.|[2606.26981](http://arxiv.org/abs/2606.26981)|null|
+|**2026-06-25**|**Anatomy-Guided Residual Motion Diffusion for Controllable 4D Cardiac MRI Synthesis**|Yiheng Cao et.al.|[2606.26764](http://arxiv.org/abs/2606.26764)|null|
+|**2026-06-25**|**Tactile-WAM: Touch-Aware World Action Model with Tactile Asymmetric Attention**|Siyu Wu et.al.|[2606.26663](http://arxiv.org/abs/2606.26663)|null|
+|**2026-06-25**|**DanceDuo: Bridging Human Movement and AI Choreography**|Gia-Cat Bui-Le et.al.|[2606.26507](http://arxiv.org/abs/2606.26507)|null|
 |**2026-06-24**|**Stage-Aware and Roughness-Constrained Diffusion Policy for Multi-Stage Robotic Polishing**|Shuai Ke et.al.|[2606.25754](http://arxiv.org/abs/2606.25754)|null|
 |**2026-06-24**|**WOLF-VLA: Whole-Body Humanoid Optimal Locomotion Framework for Vision-Language-Action Learning**|Melya Boukheddimi et.al.|[2606.25591](http://arxiv.org/abs/2606.25591)|null|
 |**2026-06-24**|**Decoupling Semantics and Geometric Grounding: Spatial Visual Prompts for Language-Conditioned Imitation Learning**|Yanzhe Tang et.al.|[2606.25360](http://arxiv.org/abs/2606.25360)|null|
@@ -2366,6 +2371,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-25**|**AI Healthcare Chatbots as Information Infrastructure: A Large-Scale Study of User-Reported Breakdowns**|Muhammad Hassan et.al.|[2606.27302](http://arxiv.org/abs/2606.27302)|null|
+|**2026-06-25**|**Reading the Same Data Differently: Interpretive Labor Across System Boundaries in Electronic Monitoring**|Yibo Meng et.al.|[2606.27301](http://arxiv.org/abs/2606.27301)|null|
+|**2026-06-25**|**"Everyone Says Them": Deception Typologies, Probabilistic Trust, and Grassroots Safety Knowledge Among Gay Dating App Users in China**|Yibo Meng et.al.|[2606.27284](http://arxiv.org/abs/2606.27284)|null|
+|**2026-06-25**|**Beyond Objects**|Daniel Jackson et.al.|[2606.27258](http://arxiv.org/abs/2606.27258)|null|
+|**2026-06-25**|**From Celebrities to Anyone: Characterizing AI Nudification Content, Technology, and Community Dynamics on 4chan**|Chi Cui et.al.|[2606.27234](http://arxiv.org/abs/2606.27234)|null|
+|**2026-06-25**|**Behind the Mask: A Taxonomic Analysis of Activities in Online Social Networks**|Debora F De Souza et.al.|[2606.27111](http://arxiv.org/abs/2606.27111)|null|
+|**2026-06-25**|**Urban Context and Travel Experience Events: An Exploratory Comparison of Two German Cities**|Marie Güntert et.al.|[2606.27077](http://arxiv.org/abs/2606.27077)|null|
+|**2026-06-25**|**Floor Raiser or Ceiling Limiter? Differential Storytelling Outcomes with a Child-Centric GenAI System Across Individual Differences**|Min Fan et.al.|[2606.27067](http://arxiv.org/abs/2606.27067)|null|
+|**2026-06-25**|**What Holds Back Brain-Computer Interfaces? Uncovering Challenges and Opportunities in BCI-controlled Games for Cerebral Palsy Rehabilitation**|Bastian Ilsø Hougaard et.al.|[2606.26951](http://arxiv.org/abs/2606.26951)|null|
+|**2026-06-25**|**Continuous Behavioral Synthesis for Adaptive Health Dashboards: An LLM-Mediated Architecture Integrating Explicit Preference, Spatial Reorganization, and Attention Allocation Signals**|Tiziano Santilli et.al.|[2606.26937](http://arxiv.org/abs/2606.26937)|null|
 |**2026-06-24**|**Explainable Control Framework (XCF) based on Fuzzy Model-Agnostic Explanation and LLM Agent-Supported Interface**|Faliang Yin et.al.|[2606.25941](http://arxiv.org/abs/2606.25941)|null|
 |**2026-06-24**|**Designing Trustworthy LLM-based Wellbeing Recommendation through Controllable Interaction**|Alan Said et.al.|[2606.25809](http://arxiv.org/abs/2606.25809)|null|
 |**2026-06-24**|**Dissociable Spatial and Temporal Effects of Interaction Latency in Virtual Reality**|Xiaoye Michael Wang et.al.|[2606.25681](http://arxiv.org/abs/2606.25681)|null|
