@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.06.28
+### Automatically Updated on 2026.06.29
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-26**|**HumanMoveVQA: Can Video MLLMs reason about human movement in videos?**|Pulkit Gera et.al.|[2606.27999](http://arxiv.org/abs/2606.27999)|null|
+|**2026-06-26**|**Directing the World: Fast Autoregressive Video Generation with Compositional Human-Camera Control**|Haoyuan Wang et.al.|[2606.27964](http://arxiv.org/abs/2606.27964)|null|
+|**2026-06-26**|**Long-Term Prediction of Local and Global Human Motion with Occlusion Recovery**|Qiaoyue Yang et.al.|[2606.27900](http://arxiv.org/abs/2606.27900)|null|
+|**2026-06-26**|**SpatialUAV: Benchmarking Spatial Intelligence for Low-Altitude UAV Perception, Collaboration, and Motion**|Haoyu Zhang et.al.|[2606.27876](http://arxiv.org/abs/2606.27876)|null|
+|**2026-06-25**|**SceneBot: Contact-Prompted General Humanoid Whole Body Tracking with Scene-Interaction**|Sirui Chen et.al.|[2606.27581](http://arxiv.org/abs/2606.27581)|null|
+|**2026-06-25**|**Beyond MoCap: Scaling Motion Tokenizers with Synthetic Human Motion for Generative Modeling**|Yiwen Yan et.al.|[2606.27547](http://arxiv.org/abs/2606.27547)|null|
+|**2026-06-25**|**Einstein-aether Elliptic Charges and the First Law of Asymptotically AdS Black Holes**|Walter Arata et.al.|[2606.27437](http://arxiv.org/abs/2606.27437)|null|
 |**2026-06-25**|**PAMAE: Phase-Aware-MoE Action Experts Towards Reliable Flow-Matching Vision-Language-Action Policies**|Jiayu Yang et.al.|[2606.27144](http://arxiv.org/abs/2606.27144)|null|
 |**2026-06-25**|**In-Context Model Predictive Generation: Open-Vocabulary Motion Synthesis from Language Models to Physics**|Xiaomeng Fu et.al.|[2606.26981](http://arxiv.org/abs/2606.26981)|null|
 |**2026-06-25**|**Anatomy-Guided Residual Motion Diffusion for Controllable 4D Cardiac MRI Synthesis**|Yiheng Cao et.al.|[2606.26764](http://arxiv.org/abs/2606.26764)|null|
@@ -954,12 +961,13 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260628>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260629>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-26**|**Scene and Human in One World: Reconstruction in a Feedforward Pass**|Boao Shi et.al.|[2606.27720](http://arxiv.org/abs/2606.27720)|null|
 |**2026-06-01**|**TROPHIES: Temporal Reconstruction of Places, Humans, and Cameras from Multi-view Videos**|Jinpeng Liu et.al.|[2606.02350](http://arxiv.org/abs/2606.02350)|null|
 |**2026-05-26**|**InHabit: Leveraging Image Foundation Models for Scalable 3D Human Placement**|Nikita Kister et.al.|[2604.19673](http://arxiv.org/abs/2604.19673)|null|
 |**2026-05-21**|**H-Flow: Self-supervised Human Scene Flow via Physics-inspired Joint Multi-modal Learning**|Zhanbo Huang et.al.|[2605.22629](http://arxiv.org/abs/2605.22629)|null|
@@ -1112,7 +1120,7 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260628>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260629>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
@@ -1426,12 +1434,20 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260628>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260629>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-26**|**Functional outcomes and naturalistic engagement with a purpose-built conversational AI for mental health (Ash)**|Kristen M. Van Swearingen et.al.|[2606.28241](http://arxiv.org/abs/2606.28241)|null|
+|**2026-06-26**|**Typing Behavior in Human-LLM Interaction: Keystroke Dynamics Reveal Cognitive Effort During Prompting**|Laura Schütz et.al.|[2606.28090](http://arxiv.org/abs/2606.28090)|null|
+|**2026-06-26**|**STAG: Spatio-temporal Evolving Structural Representation of Action Units for Micro-expression Recognition**|Nandani Sharma et.al.|[2606.28083](http://arxiv.org/abs/2606.28083)|null|
+|**2026-06-26**|**Context-Aware Explanations for Spatialized Document Layouts**|Wei Liu et.al.|[2606.28081](http://arxiv.org/abs/2606.28081)|null|
+|**2026-06-26**|**AI Persuasive Framing in Collective Dilemmas**|Anders Giovanni Møller et.al.|[2606.27951](http://arxiv.org/abs/2606.27951)|null|
+|**2026-06-26**|**A Multi-Attribute Latent Space for Visual Analysis of Watches**|Kai Lawonn et.al.|[2606.27897](http://arxiv.org/abs/2606.27897)|null|
+|**2026-06-26**|**HandMade: Spatial Prompting for Generative 3D Creation with Part-Labeled VR Sketches**|Jialin Huang et.al.|[2606.27738](http://arxiv.org/abs/2606.27738)|null|
+|**2026-06-26**|**DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums**|Dana Rezazadegan et.al.|[2606.27619](http://arxiv.org/abs/2606.27619)|null|
 |**2026-06-25**|**AI Healthcare Chatbots as Information Infrastructure: A Large-Scale Study of User-Reported Breakdowns**|Muhammad Hassan et.al.|[2606.27302](http://arxiv.org/abs/2606.27302)|null|
 |**2026-06-25**|**Reading the Same Data Differently: Interpretive Labor Across System Boundaries in Electronic Monitoring**|Yibo Meng et.al.|[2606.27301](http://arxiv.org/abs/2606.27301)|null|
 |**2026-06-25**|**"Everyone Says Them": Deception Typologies, Probabilistic Trust, and Grassroots Safety Knowledge Among Gay Dating App Users in China**|Yibo Meng et.al.|[2606.27284](http://arxiv.org/abs/2606.27284)|null|
@@ -3171,7 +3187,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260628>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260629>back to top</a>)</p>
 
 Notes: 
 
