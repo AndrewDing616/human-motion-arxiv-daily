@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.06.29
+### Automatically Updated on 2026.06.30
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-29**|**Orca: The World is in Your Mind**|Yihao Wang et.al.|[2606.30534](http://arxiv.org/abs/2606.30534)|null|
+|**2026-06-29**|**3D Scene-Adaptive Trajectory-Controllable Human Image Animation with Camera Movement**|Deyin Liu et.al.|[2606.30514](http://arxiv.org/abs/2606.30514)|null|
+|**2026-06-29**|**Internal-State Probes Read the Situation, Not the Action: Three Negative Results for Pre-Action Misalignment Monitoring**|Max Fomin et.al.|[2606.30449](http://arxiv.org/abs/2606.30449)|null|
+|**2026-06-29**|**FutureNav: Unified World-Action Modeling for Vision-and-Language Navigation**|Lingfeng Zhang et.al.|[2606.30367](http://arxiv.org/abs/2606.30367)|null|
+|**2026-06-29**|**X-Morph: Human Motion Priors for Scalable Robot Learning Across Morphologies**|Ritwik Sharma et.al.|[2606.30290](http://arxiv.org/abs/2606.30290)|null|
+|**2026-06-29**|**Towards Continual Motion-Language Agents: LoRA Variants for Incremental Motion Understanding and Generation**|Bertram Taetz et.al.|[2606.30266](http://arxiv.org/abs/2606.30266)|null|
+|**2026-06-29**|**FacePlex: Full-Duplex Joint Speech-Facial Motion Generation for Conversational Avatars**|Habin Lim et.al.|[2606.30145](http://arxiv.org/abs/2606.30145)|null|
+|**2026-06-29**|**SIR: Structured Image Representations for Explainable Robot Learning**|Paul Mattes et.al.|[2606.30101](http://arxiv.org/abs/2606.30101)|null|
+|**2026-06-29**|**CylindTrack: Depth-Aware Cylindrical Motion Modeling for Panoramic Multi-Object Tracking**|Buyin Deng et.al.|[2606.30097](http://arxiv.org/abs/2606.30097)|null|
+|**2026-06-29**|**OmniDance: Multimodal Driven Dance Video Generation with Large-scale Internet Data**|Kaixing Yang et.al.|[2606.30019](http://arxiv.org/abs/2606.30019)|null|
 |**2026-06-26**|**HumanMoveVQA: Can Video MLLMs reason about human movement in videos?**|Pulkit Gera et.al.|[2606.27999](http://arxiv.org/abs/2606.27999)|null|
 |**2026-06-26**|**Directing the World: Fast Autoregressive Video Generation with Compositional Human-Camera Control**|Haoyuan Wang et.al.|[2606.27964](http://arxiv.org/abs/2606.27964)|null|
 |**2026-06-26**|**Long-Term Prediction of Local and Global Human Motion with Occlusion Recovery**|Qiaoyue Yang et.al.|[2606.27900](http://arxiv.org/abs/2606.27900)|null|
@@ -961,12 +971,14 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260629>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260630>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-28**|**MoPe: Motion Permanence for Robust Monocular Gaussian Mapping in Dynamic Environments**|Qixin Xiao et.al.|[2606.29237](http://arxiv.org/abs/2606.29237)|null|
+|**2026-06-27**|**CoGS: Compositional Dynamic Human-Object Scenes Gaussian Splatting from Monocular Video**|Jerrin Bright et.al.|[2606.28820](http://arxiv.org/abs/2606.28820)|null|
 |**2026-06-26**|**Scene and Human in One World: Reconstruction in a Feedforward Pass**|Boao Shi et.al.|[2606.27720](http://arxiv.org/abs/2606.27720)|null|
 |**2026-06-01**|**TROPHIES: Temporal Reconstruction of Places, Humans, and Cameras from Multi-view Videos**|Jinpeng Liu et.al.|[2606.02350](http://arxiv.org/abs/2606.02350)|null|
 |**2026-05-26**|**InHabit: Leveraging Image Foundation Models for Scalable 3D Human Placement**|Nikita Kister et.al.|[2604.19673](http://arxiv.org/abs/2604.19673)|null|
@@ -1120,12 +1132,14 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260629>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260630>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-27**|**CoGS: Compositional Dynamic Human-Object Scenes Gaussian Splatting from Monocular Video**|Jerrin Bright et.al.|[2606.28820](http://arxiv.org/abs/2606.28820)|null|
+|**2026-06-26**|**IMU-HOI: A Symbiotic Framework for Coherent Human-Object Interaction and Motion Capture via Contact-Conscious Inertial Fusion**|Lizhou Lin et.al.|[2606.28604](http://arxiv.org/abs/2606.28604)|null|
 |**2026-06-24**|**SSMNBench: Diagnosing Image-based Cross-View Human-Object Understanding via Single-View Sufficiency and Multi-View Necessity**|Tianchen Guo et.al.|[2606.25634](http://arxiv.org/abs/2606.25634)|null|
 |**2026-06-23**|**Wh0: Generative World Models as Scalable Sources of Egocentric Human Hand Manipulation Data**|Yangtao Chen et.al.|[2606.22136](http://arxiv.org/abs/2606.22136)|null|
 |**2026-06-22**|**IMAGIN-4D: Image-Guided Controllable Interaction Generation**|Sai Kumar Dwivedi et.al.|[2606.23675](http://arxiv.org/abs/2606.23675)|null|
@@ -1434,12 +1448,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260629>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260630>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-29**|**Concept Catalyst: Exploring Scrutable Interfaces to Structure K-12 Teacher Interactions with Generative AI**|Gennie Mansi et.al.|[2606.30590](http://arxiv.org/abs/2606.30590)|null|
+|**2026-06-29**|**The Human Creativity Benchmark**|Aspen Hopkins et.al.|[2606.30561](http://arxiv.org/abs/2606.30561)|null|
+|**2026-06-29**|**To Tab or Not to Tab: Measuring Critical Engagement in AI Code Completion Tools Using Behavioral Signals and Attention Checks**|Jessica Hutchison et.al.|[2606.30549](http://arxiv.org/abs/2606.30549)|null|
+|**2026-06-29**|**Using Large Language Models as Low-Cost Statistical Estimators for Human-Response Data**|Haobo Yang et.al.|[2606.30372](http://arxiv.org/abs/2606.30372)|null|
+|**2026-06-29**|**Rehearsed Multi-Agent Live Product Demonstrations with Real-Time Voice Question Answering**|Rahul Khedar et.al.|[2606.30294](http://arxiv.org/abs/2606.30294)|null|
+|**2026-06-29**|**Consensus Clustering of Free-Viewing Gaze Data: New Insights into Human-Information Interaction**|Beryl Gnanaraj et.al.|[2606.30035](http://arxiv.org/abs/2606.30035)|null|
+|**2026-06-29**|**SICAGE: Speaker-Independent Culture-Aware Gesture Generation using TED4C-L Dataset**|Ariel Gjaci et.al.|[2606.30001](http://arxiv.org/abs/2606.30001)|null|
+|**2026-06-29**|**Legible Shared Autonomy: Implicit Communication of Robot Belief through Motion**|Jinwei Liu et.al.|[2606.29846](http://arxiv.org/abs/2606.29846)|null|
+|**2026-06-29**|**Making Multimodal LLMs Reliable Chart Data Extractors: A Benchmark and Training Framework**|Yuchen He et.al.|[2606.29808](http://arxiv.org/abs/2606.29808)|null|
+|**2026-06-29**|**DEEPMED Search: An Open-Source Agentic Platform for Medical Deep Research with Introspective Verification**|Maolin Liu et.al.|[2606.29746](http://arxiv.org/abs/2606.29746)|null|
 |**2026-06-26**|**Functional outcomes and naturalistic engagement with a purpose-built conversational AI for mental health (Ash)**|Kristen M. Van Swearingen et.al.|[2606.28241](http://arxiv.org/abs/2606.28241)|null|
 |**2026-06-26**|**Typing Behavior in Human-LLM Interaction: Keystroke Dynamics Reveal Cognitive Effort During Prompting**|Laura Schütz et.al.|[2606.28090](http://arxiv.org/abs/2606.28090)|null|
 |**2026-06-26**|**STAG: Spatio-temporal Evolving Structural Representation of Action Units for Micro-expression Recognition**|Nandani Sharma et.al.|[2606.28083](http://arxiv.org/abs/2606.28083)|null|
@@ -3187,7 +3211,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260629>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260630>back to top</a>)</p>
 
 Notes: 
 
