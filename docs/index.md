@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.06.30
+### Automatically Updated on 2026.07.01
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,7 +959,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-06-29**|**Orca: The World is in Your Mind**|Yihao Wang et.al.|[2606.30534](http://arxiv.org/abs/2606.30534)|null|
+|**2026-06-30**|**Human-as-Humanoid: Enabling Zero-Shot Humanoid Learning from Ego-Exo Human Videos with Human-Aligned Embodiments**|Xiaopeng Lin et.al.|[2606.32009](http://arxiv.org/abs/2606.32009)|null|
+|**2026-06-30**|**LUNA: Learning Universal 3D Human Animation Beyond Skinning**|Peng Li et.al.|[2606.31981](http://arxiv.org/abs/2606.31981)|null|
+|**2026-06-30**|**Reinforcement Learning-Based Control for an Inline Skating Humanoid Robot**|Ethan Marot et.al.|[2606.31807](http://arxiv.org/abs/2606.31807)|null|
+|**2026-06-30**|**DA-Studio: An Agentic System for End-to-End Data Analysis**|Yizhe Liu et.al.|[2606.31423](http://arxiv.org/abs/2606.31423)|null|
+|**2026-06-30**|**Scenario-conditioned flow matching for probabilistic generation of three-component ground-motion waveforms**|Yi Ding et.al.|[2606.31340](http://arxiv.org/abs/2606.31340)|null|
+|**2026-06-30**|**Safe Online Learning via Smooth Safety-Structured Policy Composition**|Hongpeng Cao et.al.|[2606.31320](http://arxiv.org/abs/2606.31320)|null|
+|**2026-06-30**|**ForgeDrive: Bidirectional Cross-Conditioning for Unified Visual-Action Generation in Autonomous Driving**|Xuchang Zhong et.al.|[2606.31226](http://arxiv.org/abs/2606.31226)|null|
+|**2026-06-30**|**Accelerating Merge with Motion Vector Difference via Filter Difference Analysis for VVenC**|Xinmin Feng et.al.|[2606.31084](http://arxiv.org/abs/2606.31084)|null|
+|**2026-06-30**|**Orca: The World is in Your Mind**|Yihao Wang et.al.|[2606.30534](http://arxiv.org/abs/2606.30534)|null|
+|**2026-06-29**|**Unveiling Transferability in Trajectory Prediction via Latent Scene Embeddings**|Theodor Westny et.al.|[2606.30777](http://arxiv.org/abs/2606.30777)|null|
 |**2026-06-29**|**3D Scene-Adaptive Trajectory-Controllable Human Image Animation with Camera Movement**|Deyin Liu et.al.|[2606.30514](http://arxiv.org/abs/2606.30514)|null|
 |**2026-06-29**|**Internal-State Probes Read the Situation, Not the Action: Three Negative Results for Pre-Action Misalignment Monitoring**|Max Fomin et.al.|[2606.30449](http://arxiv.org/abs/2606.30449)|null|
 |**2026-06-29**|**FutureNav: Unified World-Action Modeling for Vision-and-Language Navigation**|Lingfeng Zhang et.al.|[2606.30367](http://arxiv.org/abs/2606.30367)|null|
@@ -2079,6 +2088,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-30**|**PIAvatar: Physically Interactive Avatars via Deformation Gradient Decoupling**|Sang-Hun Han et.al.|[2606.21162](http://arxiv.org/abs/2606.21162)|null|
 |**2026-06-27**|**CoGS: Compositional Dynamic Human-Object Scenes Gaussian Splatting from Monocular Video**|Jerrin Bright et.al.|[2606.28820](http://arxiv.org/abs/2606.28820)|null|
 |**2026-06-26**|**IMU-HOI: A Symbiotic Framework for Coherent Human-Object Interaction and Motion Capture via Contact-Conscious Inertial Fusion**|Lizhou Lin et.al.|[2606.28604](http://arxiv.org/abs/2606.28604)|null|
 |**2026-06-24**|**SSMNBench: Diagnosing Image-based Cross-View Human-Object Understanding via Single-View Sufficiency and Multi-View Necessity**|Tianchen Guo et.al.|[2606.25634](http://arxiv.org/abs/2606.25634)|null|
@@ -2086,7 +2096,6 @@ layout: default
 |**2026-06-22**|**IMAGIN-4D: Image-Guided Controllable Interaction Generation**|Sai Kumar Dwivedi et.al.|[2606.23675](http://arxiv.org/abs/2606.23675)|null|
 |**2026-06-22**|**Discovering Crystal Structure Prediction Algorithms with an AI Co-Scientist**|Kiyoung Seong et.al.|[2606.22866](http://arxiv.org/abs/2606.22866)|null|
 |**2026-06-22**|**Policy-as-Data: Learning Generalizable HOI Diffusion Models from Simulated Physics**|Shujia Li et.al.|[2606.22806](http://arxiv.org/abs/2606.22806)|null|
-|**2026-06-19**|**PIAvatar: Physically Interactive Avatars via Deformation Gradient Decoupling**|Sang-Hun Han et.al.|[2606.21162](http://arxiv.org/abs/2606.21162)|null|
 |**2026-06-19**|**R2HandoverSim: A Simulation Framework and Benchmark for Robot-to-Human Object Handovers**|Hanxin Zhang et.al.|[2606.21011](http://arxiv.org/abs/2606.21011)|null|
 |**2026-06-17**|**Taming I2V models for Image HOI Editing: A Cognitive Benchmark and Agentic Self-Correcting Framework**|Jiayi Gao et.al.|[2606.19073](http://arxiv.org/abs/2606.19073)|null|
 |**2026-06-16**|**MOCHI: Motion Enhancement of Collaborative Human-object Interactions**|Jiye Lee et.al.|[2606.18243](http://arxiv.org/abs/2606.18243)|null|
@@ -2393,6 +2402,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-30**|**Investigating LLM-Powered Dissenting Minority Support in Power-Imbalanced Group Decision-Making: Counterargument and Mediation as Intervention Strategies**|Soohwan Lee et.al.|[2606.31762](http://arxiv.org/abs/2606.31762)|null|
+|**2026-06-30**|**From Idea to Prototype in an Afternoon: Scaffolded, AI-Assisted Rapid VA Prototyping**|Gennady Andrienko et.al.|[2606.31311](http://arxiv.org/abs/2606.31311)|null|
+|**2026-06-30**|**AA: A Multi-view Multimodal Dataset for Screen-based Gaze Estimation**|Chang Liu et.al.|[2606.31211](http://arxiv.org/abs/2606.31211)|null|
+|**2026-06-30**|**What Counts as an Error? Dual-Reference Benchmarking for Atypical ASR**|Hawau Olamide Toyin et.al.|[2606.31112](http://arxiv.org/abs/2606.31112)|null|
+|**2026-06-30**|**Building a Multimodal Dataset of Academic Paper for Keyword Extraction**|Jingyu Zhang et.al.|[2606.31069](http://arxiv.org/abs/2606.31069)|null|
+|**2026-06-30**|**Evaluating Interactivity: Toward Automated Assessment of AI-Generated Explorable Explanations**|Xiaozao Wang et.al.|[2606.31012](http://arxiv.org/abs/2606.31012)|null|
+|**2026-06-29**|**The Organizational Behavior of Agentic AI: Collective Intelligence in Human-Agent Workflows**|Canhui Liu et.al.|[2606.30986](http://arxiv.org/abs/2606.30986)|null|
+|**2026-06-29**|**Ethics and Social Responsibility in AI-Assisted Interviewing: An LLM-in-the-Loop Study of AI-Generated Follow-Up Questions**|He Zhang et.al.|[2606.30980](http://arxiv.org/abs/2606.30980)|null|
+|**2026-06-29**|**Anthropomorphism in AI Companion Communities: Age, Gender, and Emotional Correlates**|Afia Mubashir et.al.|[2606.30942](http://arxiv.org/abs/2606.30942)|null|
+|**2026-06-29**|**Debugging as Evidence-Driven Reasoning: Visualization Opportunities in Data-Intensive Programming**|Yongbo Chen et.al.|[2606.30884](http://arxiv.org/abs/2606.30884)|null|
 |**2026-06-29**|**Concept Catalyst: Exploring Scrutable Interfaces to Structure K-12 Teacher Interactions with Generative AI**|Gennie Mansi et.al.|[2606.30590](http://arxiv.org/abs/2606.30590)|null|
 |**2026-06-29**|**The Human Creativity Benchmark**|Aspen Hopkins et.al.|[2606.30561](http://arxiv.org/abs/2606.30561)|null|
 |**2026-06-29**|**To Tab or Not to Tab: Measuring Critical Engagement in AI Code Completion Tools Using Behavioral Signals and Attention Checks**|Jessica Hutchison et.al.|[2606.30549](http://arxiv.org/abs/2606.30549)|null|
