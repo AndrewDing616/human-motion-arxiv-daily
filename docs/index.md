@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.07.01
+### Automatically Updated on 2026.07.02
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-01**|**World from Motion: Generative Dynamic Gaussian Reconstruction from Monocular Video**|Liyuan Zhu et.al.|[2607.01202](http://arxiv.org/abs/2607.01202)|null|
+|**2026-07-01**|**Towards Metric-Agnostic Trajectory Forecasting**|Markus Knoche et.al.|[2607.01133](http://arxiv.org/abs/2607.01133)|null|
+|**2026-07-01**|**MoHallBench: A Benchmark for Motion Hallucination in Video Large Language Models**|Jiale Li et.al.|[2607.01117](http://arxiv.org/abs/2607.01117)|null|
+|**2026-07-01**|**Semantic-based Internet of Embodied Intelligence: Visions and Frontiers**|Yaheng Wang et.al.|[2607.00342](http://arxiv.org/abs/2607.00342)|null|
+|**2026-07-01**|**Learning When to Listen: Gated Affect Fusion for Human Motion Prediction**|Jingni Huang et.al.|[2607.00296](http://arxiv.org/abs/2607.00296)|null|
+|**2026-06-30**|**ELMP: Efficient Learning for Motion Planning via Analytical Policy Gradients**|Yixiao Li et.al.|[2607.00215](http://arxiv.org/abs/2607.00215)|null|
+|**2026-06-30**|**A Synthetic-Driven Vision System for Assembly Step Recognition**|Hui Zhang et.al.|[2607.00129](http://arxiv.org/abs/2607.00129)|null|
 |**2026-06-30**|**Human-as-Humanoid: Enabling Zero-Shot Humanoid Learning from Ego-Exo Human Videos with Human-Aligned Embodiments**|Xiaopeng Lin et.al.|[2606.32009](http://arxiv.org/abs/2606.32009)|null|
 |**2026-06-30**|**LUNA: Learning Universal 3D Human Animation Beyond Skinning**|Peng Li et.al.|[2606.31981](http://arxiv.org/abs/2606.31981)|null|
 |**2026-06-30**|**Reinforcement Learning-Based Control for an Inline Skating Humanoid Robot**|Ethan Marot et.al.|[2606.31807](http://arxiv.org/abs/2606.31807)|null|
@@ -2402,6 +2409,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-01**|**Touching and Feeling the Data: A Reusable Software Pipeline for Tactile Statistical Graphs in Accessible Education**|Lawrence Obiuwevwi et.al.|[2607.01214](http://arxiv.org/abs/2607.01214)|null|
+|**2026-07-01**|**Behavior-Adaptive Conversational Agents: Toward a Fluid Personality Framework**|Hasibur Rahman et.al.|[2607.01034](http://arxiv.org/abs/2607.01034)|null|
+|**2026-07-01**|**SenseWalk: Agent-Based Semantic Trajectory Simulation Powered by Large Language Models in Zoned Environments**|Ziyue Lin et.al.|[2607.00989](http://arxiv.org/abs/2607.00989)|null|
+|**2026-07-01**|**Visualizing Engineering Fundamentals: Design of Mixed Reality and Physical Toolkits for Effective Learning**|Mohammad Abu Nasir Rakib et.al.|[2607.00979](http://arxiv.org/abs/2607.00979)|null|
+|**2026-07-01**|**Understanding How Humans Inject Knowledge into Machine Learning Workflows through Visual Analytics**|Yiwen Xing et.al.|[2607.00969](http://arxiv.org/abs/2607.00969)|null|
+|**2026-07-01**|**Quantifying the Affective Gap: A Zero-Shot Evaluation of LLMs on Fine-Grained Emotion Taxonomies**|Lawrence Obiuwevwi et.al.|[2607.00968](http://arxiv.org/abs/2607.00968)|null|
+|**2026-07-01**|**A field experiment of social influence and behavioral contagion with bots on Reddit**|Hiroki Oda et.al.|[2607.00854](http://arxiv.org/abs/2607.00854)|null|
+|**2026-07-01**|**AI-Centered Grand Challenges in Visual Analytics for Healthcare: Synthesizing the VAHC 2025 Community Experience**|Jürgen Bernard et.al.|[2607.00542](http://arxiv.org/abs/2607.00542)|null|
+|**2026-07-01**|**You Shall Not Pass! Where and Why Developers Draw The Line on AI Autonomy**|Rudrajit Choudhuri et.al.|[2607.00533](http://arxiv.org/abs/2607.00533)|null|
+|**2026-07-01**|**AI, Trust, and Teaming: The Humans-as-Handlers Approach for Autonomous and Opaque AI Systems**|Nathan G. Wood et.al.|[2607.00523](http://arxiv.org/abs/2607.00523)|null|
 |**2026-06-30**|**Investigating LLM-Powered Dissenting Minority Support in Power-Imbalanced Group Decision-Making: Counterargument and Mediation as Intervention Strategies**|Soohwan Lee et.al.|[2606.31762](http://arxiv.org/abs/2606.31762)|null|
 |**2026-06-30**|**From Idea to Prototype in an Afternoon: Scaffolded, AI-Assisted Rapid VA Prototyping**|Gennady Andrienko et.al.|[2606.31311](http://arxiv.org/abs/2606.31311)|null|
 |**2026-06-30**|**AA: A Multi-view Multimodal Dataset for Screen-based Gaze Estimation**|Chang Liu et.al.|[2606.31211](http://arxiv.org/abs/2606.31211)|null|
