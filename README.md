@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.07.02
+### Automatically Updated on 2026.07.03
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-02**|**VT-WAM: Visual-Tactile World Action Model for Contact-Rich Manipulation**|Shuai Tian et.al.|[2607.02503](http://arxiv.org/abs/2607.02503)|null|
+|**2026-07-02**|**LIME: Learning Intent-aware Camera Motion from Egocentric Video**|Boyang Sun et.al.|[2607.02417](http://arxiv.org/abs/2607.02417)|null|
+|**2026-07-02**|**Bridge-WA: Predicting Where and How the World Changes for Robotic Action**|Yongjie Bai et.al.|[2607.02195](http://arxiv.org/abs/2607.02195)|null|
+|**2026-07-02**|**SAMoR: Motion Modelling for Articulated Objects of Any Skeleton and Topology**|Yuhao Zhang et.al.|[2607.02148](http://arxiv.org/abs/2607.02148)|null|
+|**2026-07-02**|**Training-free Controllable Human Motion Generation under Heterogeneous Constraints**|Xiaofei Hui et.al.|[2607.01990](http://arxiv.org/abs/2607.01990)|null|
+|**2026-07-02**|**Mastermind: Strategy-grounded Learning for Repository-Scale Vulnerability Reproduction**|Mingzhe Du et.al.|[2607.01764](http://arxiv.org/abs/2607.01764)|null|
+|**2026-07-01**|**WaveLander: A Generalizable Hierarchical Control Framework for UAV Landing on Wave-Disturbed Platforms via Reinforcement Learning**|Chun-Kit Li et.al.|[2607.01281](http://arxiv.org/abs/2607.01281)|null|
 |**2026-07-01**|**World from Motion: Generative Dynamic Gaussian Reconstruction from Monocular Video**|Liyuan Zhu et.al.|[2607.01202](http://arxiv.org/abs/2607.01202)|null|
 |**2026-07-01**|**Towards Metric-Agnostic Trajectory Forecasting**|Markus Knoche et.al.|[2607.01133](http://arxiv.org/abs/2607.01133)|null|
 |**2026-07-01**|**MoHallBench: A Benchmark for Motion Hallucination in Video Large Language Models**|Jiale Li et.al.|[2607.01117](http://arxiv.org/abs/2607.01117)|null|
@@ -987,12 +994,13 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260702>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260703>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-02**|**ComplexMimic: Human-Scene Interaction Imitation in Complex 3D Environments**|Lu Pan et.al.|[2607.02034](http://arxiv.org/abs/2607.02034)|null|
 |**2026-06-28**|**MoPe: Motion Permanence for Robust Monocular Gaussian Mapping in Dynamic Environments**|Qixin Xiao et.al.|[2606.29237](http://arxiv.org/abs/2606.29237)|null|
 |**2026-06-27**|**CoGS: Compositional Dynamic Human-Object Scenes Gaussian Splatting from Monocular Video**|Jerrin Bright et.al.|[2606.28820](http://arxiv.org/abs/2606.28820)|null|
 |**2026-06-26**|**Scene and Human in One World: Reconstruction in a Feedforward Pass**|Boao Shi et.al.|[2606.27720](http://arxiv.org/abs/2606.27720)|null|
@@ -1148,12 +1156,13 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260702>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260703>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-02**|**LongEgoRefer: A Benchmark for Long-Form Egocentric Video Referring Expression Comprehension**|Shunya Kato et.al.|[2607.02096](http://arxiv.org/abs/2607.02096)|null|
 |**2026-06-30**|**PIAvatar: Physically Interactive Avatars via Deformation Gradient Decoupling**|Sang-Hun Han et.al.|[2606.21162](http://arxiv.org/abs/2606.21162)|null|
 |**2026-06-27**|**CoGS: Compositional Dynamic Human-Object Scenes Gaussian Splatting from Monocular Video**|Jerrin Bright et.al.|[2606.28820](http://arxiv.org/abs/2606.28820)|null|
 |**2026-06-26**|**IMU-HOI: A Symbiotic Framework for Coherent Human-Object Interaction and Motion Capture via Contact-Conscious Inertial Fusion**|Lizhou Lin et.al.|[2606.28604](http://arxiv.org/abs/2606.28604)|null|
@@ -1464,12 +1473,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260702>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260703>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-02**|**When Do LLM Personas Support Visualization Design? A Cross-Model Study of Color Assignment and Chart Choice**|Shahreen Salim et.al.|[2607.02455](http://arxiv.org/abs/2607.02455)|null|
+|**2026-07-02**|**Physical surfaces make touch interactions in virtual reality precise, efficient, and bimanual**|Wen Ying et.al.|[2607.02430](http://arxiv.org/abs/2607.02430)|null|
+|**2026-07-02**|**Data Comics for Education: Evaluating Effectiveness, Benefits, and the Ethics of AI-Assisted Creation**|Zirui Shan et.al.|[2607.02361](http://arxiv.org/abs/2607.02361)|null|
+|**2026-07-02**|**Personality Without Persons? A Psychometric Critique of Big Five Testing in Large Language Models**|Kim Zierahn et.al.|[2607.02325](http://arxiv.org/abs/2607.02325)|null|
+|**2026-07-02**|**Copewell: A Multi-Agent Swarm Architecture for Equitable Mental Wellness Support**|Seren Yenikent et.al.|[2607.02245](http://arxiv.org/abs/2607.02245)|null|
+|**2026-07-02**|**What Types of Human-AI Teams Exist?**|Nathan Hughes et.al.|[2607.02198](http://arxiv.org/abs/2607.02198)|null|
+|**2026-07-02**|**Synthetic Contact with AI Reduces Cross-Partisan Animosity**|Benjamin Lira et.al.|[2607.02181](http://arxiv.org/abs/2607.02181)|null|
+|**2026-07-02**|**Choreographing the Way of Water: A Computational Framework for Aquatic Robotic Art**|Aswin Ramachandran et.al.|[2607.02174](http://arxiv.org/abs/2607.02174)|null|
+|**2026-07-02**|**Visual Analytics of Neighborhood Attribute Profiles for Exploring Structural Equivalence**|Kohei Arimoto et.al.|[2607.02163](http://arxiv.org/abs/2607.02163)|null|
+|**2026-07-02**|**A Social Norms Approach to Youth Social Media Design**|JaeWon Kim et.al.|[2607.01807](http://arxiv.org/abs/2607.01807)|null|
 |**2026-07-01**|**Touching and Feeling the Data: A Reusable Software Pipeline for Tactile Statistical Graphs in Accessible Education**|Lawrence Obiuwevwi et.al.|[2607.01214](http://arxiv.org/abs/2607.01214)|null|
 |**2026-07-01**|**Behavior-Adaptive Conversational Agents: Toward a Fluid Personality Framework**|Hasibur Rahman et.al.|[2607.01034](http://arxiv.org/abs/2607.01034)|null|
 |**2026-07-01**|**SenseWalk: Agent-Based Semantic Trajectory Simulation Powered by Large Language Models in Zoned Environments**|Ziyue Lin et.al.|[2607.00989](http://arxiv.org/abs/2607.00989)|null|
@@ -3247,7 +3266,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260702>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260703>back to top</a>)</p>
 
 Notes: 
 
