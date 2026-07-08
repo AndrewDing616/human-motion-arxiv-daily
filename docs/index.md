@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.07.07
+### Automatically Updated on 2026.07.08
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-07**|**Lift3D-VLA: Lifting VLA Models to 3D Geometry and Dynamics-Aware Manipulation**|Jiaming Liu et.al.|[2607.06564](http://arxiv.org/abs/2607.06564)|null|
+|**2026-07-07**|**Synthetic-to-Real Translation for Class-Agnostic Motion Prediction**|Yizheng Wu et.al.|[2607.06319](http://arxiv.org/abs/2607.06319)|null|
+|**2026-07-07**|**Optimal Transport Q-Learning for Flow Policy Steering and Acceleration**|Andreas Sochopoulos et.al.|[2607.06262](http://arxiv.org/abs/2607.06262)|null|
+|**2026-07-07**|**ThorArena: Benchmarking Humanoid Physical Interaction with Human Motion-Force Demonstrations**|Chenhao Yu et.al.|[2607.06052](http://arxiv.org/abs/2607.06052)|null|
+|**2026-07-07**|**SparseCtrl-HOI: Sparse Temporal Control for Human-Object Interaction Video Generation**|Shenbo Xie et.al.|[2607.05994](http://arxiv.org/abs/2607.05994)|null|
+|**2026-07-07**|**Spatially heterogeneous noise restructures flocking into geometry-locked and vortex states**|Ankush Semwal et.al.|[2607.05870](http://arxiv.org/abs/2607.05870)|null|
+|**2026-07-07**|**DeSeG: Decoupling Semantic Intent and Geometric Constraints for Physically Plausible Human-Scene Interaction**|Jiakun Li et.al.|[2607.05787](http://arxiv.org/abs/2607.05787)|null|
+|**2026-07-07**|**ARMS: Anchor-Relational Motion Streaming for Seamless Solo-Social Motion Transitions**|Huakun Liu et.al.|[2607.05733](http://arxiv.org/abs/2607.05733)|null|
+|**2026-07-06**|**IMR: Iterative Mode-World Weighted Regression for Multi-Agent Trajectory Prediction**|Honglin Wang et.al.|[2607.05705](http://arxiv.org/abs/2607.05705)|null|
 |**2026-07-06**|**From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model**|Wenhao Li et.al.|[2607.05396](http://arxiv.org/abs/2607.05396)|null|
 |**2026-07-06**|**UNIVERSE: Unified Video Action Models for Autonomous Driving with Flexible Mask-Modulated Modality Generation**|Mengmeng Liu et.al.|[2607.05133](http://arxiv.org/abs/2607.05133)|null|
 |**2026-07-06**|**InternVLA-A1.5: Unifying Understanding, Latent Foresight, and Action for Compositional Generalization**|Haoxiang Ma et.al.|[2607.04988](http://arxiv.org/abs/2607.04988)|null|
@@ -1953,6 +1962,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-07**|**DeSeG: Decoupling Semantic Intent and Geometric Constraints for Physically Plausible Human-Scene Interaction**|Jiakun Li et.al.|[2607.05787](http://arxiv.org/abs/2607.05787)|null|
 |**2026-07-06**|**GUSH3R: Everyone Everywhere All at Once as Gaussians**|Keito Abe et.al.|[2607.05243](http://arxiv.org/abs/2607.05243)|null|
 |**2026-07-03**|**ComplexMimic: Human-Scene Interaction Imitation in Complex 3D Environments**|Lu Pan et.al.|[2607.02034](http://arxiv.org/abs/2607.02034)|null|
 |**2026-06-28**|**MoPe: Motion Permanence for Robust Monocular Gaussian Mapping in Dynamic Environments**|Qixin Xiao et.al.|[2606.29237](http://arxiv.org/abs/2606.29237)|null|
@@ -2114,6 +2124,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-07**|**WristMimic: Full-Body Humanoid Control with Wrist-Guided Manipulation**|Wongyun Yu et.al.|[2607.06438](http://arxiv.org/abs/2607.06438)|null|
+|**2026-07-07**|**SparseCtrl-HOI: Sparse Temporal Control for Human-Object Interaction Video Generation**|Shenbo Xie et.al.|[2607.05994](http://arxiv.org/abs/2607.05994)|null|
 |**2026-07-05**|**Regime-Conditional Stabilisation of LLM-Augmented Cooperative Multi-Agent Reinforcement Learning**|Faid Keddouri et.al.|[2607.04470](http://arxiv.org/abs/2607.04470)|null|
 |**2026-07-04**|**SAGE: Synchronized Action-Gaze Recognition and Anticipation for Human Behavior Understanding**|Chenyi Kuang et.al.|[2607.04017](http://arxiv.org/abs/2607.04017)|null|
 |**2026-07-02**|**LongEgoRefer: A Benchmark for Long-Form Egocentric Video Referring Expression Comprehension**|Shunya Kato et.al.|[2607.02096](http://arxiv.org/abs/2607.02096)|null|
@@ -2431,6 +2443,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-07**|**GlassTENG: Self-Powered Triboelectric Nanogenerator based Sensing of Pulse, Jaw, and Upper Facial Activity from Everyday Glasses**|Raj N. Dave et.al.|[2607.06509](http://arxiv.org/abs/2607.06509)|null|
+|**2026-07-07**|**The Impact of Security and Privacy Controls on Users' Emotional Engagement with Generative AI Chatbots**|Jabari Kwesi et.al.|[2607.06371](http://arxiv.org/abs/2607.06371)|null|
+|**2026-07-07**|**Responsible Personalisation: The Double-Edged Sword of Personalisation in Human-Robot Interaction**|Antonio Andriella et.al.|[2607.06344](http://arxiv.org/abs/2607.06344)|null|
+|**2026-07-07**|**DS-MTNet:Structured Multi-Task EEG Decoding for Human-Machine Collaboration**|Xinjia Yu et.al.|[2607.06297](http://arxiv.org/abs/2607.06297)|null|
+|**2026-07-07**|**AlayaWorld: Long-Horizon and Playable Video World Generation**| AlayaWorld Team et.al.|[2607.06291](http://arxiv.org/abs/2607.06291)|null|
+|**2026-07-07**|**BlossomPsy: A User-Centric AI System for Adaptive and Engaging MBTI Personality Assessments**|Bingjia Huang et.al.|[2607.06149](http://arxiv.org/abs/2607.06149)|null|
+|**2026-07-07**|**Agents That Teach: Towards Designing Incidental Learning Back into AI-Assisted Software Development**|Rohit Mehra et.al.|[2607.06101](http://arxiv.org/abs/2607.06101)|null|
+|**2026-07-07**|**Designing Computerized Gait Analysis for Pediatric Care: Clinician Perspectives on Sensing, Workflow, and Care Environments**|Elizabeth Hong et.al.|[2607.06076](http://arxiv.org/abs/2607.06076)|null|
+|**2026-07-07**|**Prompt Coach: An Empirical Evaluation of an Agentic Tutor for Learning Prompt Engineering in Software Development**|Rohit Mehra et.al.|[2607.06074](http://arxiv.org/abs/2607.06074)|null|
+|**2026-07-07**|**Nested Episodic State Topology (NEST): A Graph-Theoretic Architecture of Cognitive States**| Ishant et.al.|[2607.06055](http://arxiv.org/abs/2607.06055)|null|
 |**2026-07-06**|**Rating the Pitch, Not the Product: User Evaluations of LLMs Reflect Expectations More Than Performance**|Robert Morabito et.al.|[2607.05113](http://arxiv.org/abs/2607.05113)|null|
 |**2026-07-06**|**Toward Personalized Social Robots for Child Well-being: Data Requirement Principles from a Recommender-System Perspective**|Jin Huang et.al.|[2607.05110](http://arxiv.org/abs/2607.05110)|null|
 |**2026-07-06**|**PAGE: Towards Practical Human-level Gaze Target Estimation**|Zhoutong Ye et.al.|[2607.04860](http://arxiv.org/abs/2607.04860)|null|
