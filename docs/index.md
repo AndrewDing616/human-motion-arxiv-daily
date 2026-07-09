@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.07.08
+### Automatically Updated on 2026.07.09
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-08**|**Dual Latent Memory in Vision-Language-Action Models for Robotic Manipulation**|Hongyu Qu et.al.|[2607.07608](http://arxiv.org/abs/2607.07608)|null|
+|**2026-07-08**|**Behavior Foundations for Quadruped Robots: ABot-C0 Technical Report**|Xufeng Zhao et.al.|[2607.07370](http://arxiv.org/abs/2607.07370)|null|
+|**2026-07-08**|**TouchWorld: A Predictive and Reactive Tactile Foundation Model for Dexterous Manipulation**|Jianyi Zhou et.al.|[2607.07287](http://arxiv.org/abs/2607.07287)|null|
+|**2026-07-08**|**Compositional Motion Generation from Demonstration with Object-Centric Neural Fields**|Ahmet Ercan Tekden et.al.|[2607.07129](http://arxiv.org/abs/2607.07129)|null|
+|**2026-07-08**|**Ego-Human Motion Prediction with 3D-Aware LLM**|Yujin Bae et.al.|[2607.07001](http://arxiv.org/abs/2607.07001)|null|
+|**2026-07-07**|**Retrieving and Refining Winning Noise Tickets for Diffusion-Based Motion Generation**|Sakuya Ota et.al.|[2607.06843](http://arxiv.org/abs/2607.06843)|null|
+|**2026-07-07**|**Vision Language Action (VLA) Models for Unmanned Aerial Robotics and Bimanual Manipulation: A Review**|Inkyu Sa et.al.|[2607.06706](http://arxiv.org/abs/2607.06706)|null|
+|**2026-07-07**|**The Treble Clef radio phoenix and its old nonthermal filaments**|A. Botteon et.al.|[2607.06659](http://arxiv.org/abs/2607.06659)|null|
 |**2026-07-07**|**Lift3D-VLA: Lifting VLA Models to 3D Geometry and Dynamics-Aware Manipulation**|Jiaming Liu et.al.|[2607.06564](http://arxiv.org/abs/2607.06564)|null|
 |**2026-07-07**|**Synthetic-to-Real Translation for Class-Agnostic Motion Prediction**|Yizheng Wu et.al.|[2607.06319](http://arxiv.org/abs/2607.06319)|null|
 |**2026-07-07**|**Optimal Transport Q-Learning for Flow Policy Steering and Acceleration**|Andreas Sochopoulos et.al.|[2607.06262](http://arxiv.org/abs/2607.06262)|null|
@@ -2443,6 +2451,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-08**|**Modeling Failure Dynamics in Time-Constrained Authentication Systems: Evidence of a Success Cliff in USSD Workflows**|Aklile Seyoum Mamo et.al.|[2607.07650](http://arxiv.org/abs/2607.07650)|null|
+|**2026-07-08**|**Two-player Alternate Uses Test: A Controlled Testbed for Interactive Human-AI and Human-Human Co-Creation**|Babak Hemmatian et.al.|[2607.07522](http://arxiv.org/abs/2607.07522)|null|
+|**2026-07-08**|**Creativity from Friction: Human-AI Interaction for Exploratory Structural Design**|Ricardo Maia Avelino et.al.|[2607.07521](http://arxiv.org/abs/2607.07521)|null|
+|**2026-07-08**|**Should We Dangle a Carrot? The Effect of Performance-based Incentives in Visualization Experiments**|Abhraneel Sarma et.al.|[2607.07463](http://arxiv.org/abs/2607.07463)|null|
+|**2026-07-08**|**Initiation Safety: A Missing Dimension in Generalist-Robot Safety**|Zhijin Meng et.al.|[2607.07420](http://arxiv.org/abs/2607.07420)|null|
+|**2026-07-08**|**Behavior Foundations for Quadruped Robots: ABot-C0 Technical Report**|Xufeng Zhao et.al.|[2607.07370](http://arxiv.org/abs/2607.07370)|null|
+|**2026-07-08**|**Multimodal Voice Activity Projection for Turn-Taking in Social Robots with Voice-Activity-Related Pretrained Encoders**|Antonio Cano et.al.|[2607.07294](http://arxiv.org/abs/2607.07294)|null|
+|**2026-07-08**|**Clinical Translation of Brain-Computer Interface in China: A Landscape Analysis of Investigator-Initiated Trials, Registered Clinical Trials, and Regulatory Approval**|Long Chen et.al.|[2607.07185](http://arxiv.org/abs/2607.07185)|null|
+|**2026-07-08**|**Bringing robustness to end-user programming**|Mickaël Baron et.al.|[2607.07116](http://arxiv.org/abs/2607.07116)|null|
+|**2026-07-08**|**CompoVista: A Composition-Graph-Based Visual Analytics System for Compositional Analysis of Traditional Chinese Paintings**|Dekun Qian et.al.|[2607.07105](http://arxiv.org/abs/2607.07105)|null|
 |**2026-07-07**|**GlassTENG: Self-Powered Triboelectric Nanogenerator based Sensing of Pulse, Jaw, and Upper Facial Activity from Everyday Glasses**|Raj N. Dave et.al.|[2607.06509](http://arxiv.org/abs/2607.06509)|null|
 |**2026-07-07**|**The Impact of Security and Privacy Controls on Users' Emotional Engagement with Generative AI Chatbots**|Jabari Kwesi et.al.|[2607.06371](http://arxiv.org/abs/2607.06371)|null|
 |**2026-07-07**|**Responsible Personalisation: The Double-Edged Sword of Personalisation in Human-Robot Interaction**|Antonio Andriella et.al.|[2607.06344](http://arxiv.org/abs/2607.06344)|null|
