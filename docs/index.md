@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.07.09
+### Automatically Updated on 2026.07.10
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,9 +959,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-09**|**ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation**|Kaifeng Zhao et.al.|[2607.08741](http://arxiv.org/abs/2607.08741)|null|
+|**2026-07-09**|**Pose-to-Biomechanics: Bridging 3D Human Pose Estimation and Biomechanical Attribute Prediction**|Ayda Eghbalian et.al.|[2607.08725](http://arxiv.org/abs/2607.08725)|null|
+|**2026-07-09**|**FSD-VLN: Fast-Slow Dual-System Modeling for Aerial Long-Horizon Vision-Language Navigation**|Xueke Zhu et.al.|[2607.08359](http://arxiv.org/abs/2607.08359)|null|
+|**2026-07-09**|**Understanding and Mitigating the Video-Action Generalization Gap via Temporal Ratio**|Utkarsh A. Mishra et.al.|[2607.08127](http://arxiv.org/abs/2607.08127)|null|
+|**2026-07-09**|**Behavior Foundations for Quadruped Robots: ABot-C0 Technical Report**|Xufeng Zhao et.al.|[2607.07370](http://arxiv.org/abs/2607.07370)|null|
+|**2026-07-09**|**TouchWorld: A Predictive and Reactive Tactile Foundation Model for Dexterous Manipulation**|Jianyi Zhou et.al.|[2607.07287](http://arxiv.org/abs/2607.07287)|null|
+|**2026-07-08**|**GIRAF: Towards Generalizable Human Interactions with Articulated Objects**|Xiaohan Zhang et.al.|[2607.07880](http://arxiv.org/abs/2607.07880)|null|
 |**2026-07-08**|**Dual Latent Memory in Vision-Language-Action Models for Robotic Manipulation**|Hongyu Qu et.al.|[2607.07608](http://arxiv.org/abs/2607.07608)|null|
-|**2026-07-08**|**Behavior Foundations for Quadruped Robots: ABot-C0 Technical Report**|Xufeng Zhao et.al.|[2607.07370](http://arxiv.org/abs/2607.07370)|null|
-|**2026-07-08**|**TouchWorld: A Predictive and Reactive Tactile Foundation Model for Dexterous Manipulation**|Jianyi Zhou et.al.|[2607.07287](http://arxiv.org/abs/2607.07287)|null|
 |**2026-07-08**|**Compositional Motion Generation from Demonstration with Object-Centric Neural Fields**|Ahmet Ercan Tekden et.al.|[2607.07129](http://arxiv.org/abs/2607.07129)|null|
 |**2026-07-08**|**Ego-Human Motion Prediction with 3D-Aware LLM**|Yujin Bae et.al.|[2607.07001](http://arxiv.org/abs/2607.07001)|null|
 |**2026-07-07**|**Retrieving and Refining Winning Noise Tickets for Diffusion-Based Motion Generation**|Sakuya Ota et.al.|[2607.06843](http://arxiv.org/abs/2607.06843)|null|
@@ -2132,6 +2137,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-09**|**ContactMimic: Humanoid Object Interaction via Contact Control**|Xinyao Li et.al.|[2607.08742](http://arxiv.org/abs/2607.08742)|null|
+|**2026-07-09**|**HumanForge: A Human-Centric Deepfake Video Benchmark with Multi-Agent Forgery Rationales**|Wenbo Xu et.al.|[2607.08705](http://arxiv.org/abs/2607.08705)|null|
 |**2026-07-07**|**WristMimic: Full-Body Humanoid Control with Wrist-Guided Manipulation**|Wongyun Yu et.al.|[2607.06438](http://arxiv.org/abs/2607.06438)|null|
 |**2026-07-07**|**SparseCtrl-HOI: Sparse Temporal Control for Human-Object Interaction Video Generation**|Shenbo Xie et.al.|[2607.05994](http://arxiv.org/abs/2607.05994)|null|
 |**2026-07-05**|**Regime-Conditional Stabilisation of LLM-Augmented Cooperative Multi-Agent Reinforcement Learning**|Faid Keddouri et.al.|[2607.04470](http://arxiv.org/abs/2607.04470)|null|
@@ -2451,6 +2458,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-09**|**Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis**|Kristina Schaaff et.al.|[2607.08748](http://arxiv.org/abs/2607.08748)|null|
+|**2026-07-09**|**Dimensionality Reduction Meets Network Science: Sensemaking on UMAP's kNN Graph**|Duen Horng Chau et.al.|[2607.08746](http://arxiv.org/abs/2607.08746)|null|
+|**2026-07-09**|**Sculptable Mesh Structures for Room-Scale Form-Finding**|Jesse T. Gonzalez et.al.|[2607.08736](http://arxiv.org/abs/2607.08736)|null|
+|**2026-07-09**|**HumanForge: A Human-Centric Deepfake Video Benchmark with Multi-Agent Forgery Rationales**|Wenbo Xu et.al.|[2607.08705](http://arxiv.org/abs/2607.08705)|null|
+|**2026-07-09**|**How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata**|Shayla Sharmin et.al.|[2607.08698](http://arxiv.org/abs/2607.08698)|null|
+|**2026-07-09**|**Federated Deep Learning for Privacy-Preserving Cardiovascular Disease Risk Prediction**|Hyunho Mo et.al.|[2607.08595](http://arxiv.org/abs/2607.08595)|null|
+|**2026-07-09**|**ImputeViz: A Visual Analytics Dashboard for Diagnosing Missing Data and Comparing Imputation Methods**|Aitik Dandapat et.al.|[2607.08579](http://arxiv.org/abs/2607.08579)|null|
+|**2026-07-09**|**VEGAS: Human-Aligned Video Caption Evaluation via Gaze**|Shenghui Chen et.al.|[2607.08489](http://arxiv.org/abs/2607.08489)|null|
+|**2026-07-09**|**Large-Language-Models-as-a-Judge in Theory-Agnostic Adaptive Metric-Alignment for Prototypical Networks in Personality Recognition**|Jing Jie Tan et.al.|[2607.08374](http://arxiv.org/abs/2607.08374)|null|
+|**2026-07-09**|**How Analysts Use AI in High-Stakes Crime Linkage: An Industrial Study**|Jessica Woodhams et.al.|[2607.08274](http://arxiv.org/abs/2607.08274)|null|
 |**2026-07-08**|**Modeling Failure Dynamics in Time-Constrained Authentication Systems: Evidence of a Success Cliff in USSD Workflows**|Aklile Seyoum Mamo et.al.|[2607.07650](http://arxiv.org/abs/2607.07650)|null|
 |**2026-07-08**|**Two-player Alternate Uses Test: A Controlled Testbed for Interactive Human-AI and Human-Human Co-Creation**|Babak Hemmatian et.al.|[2607.07522](http://arxiv.org/abs/2607.07522)|null|
 |**2026-07-08**|**Creativity from Friction: Human-AI Interaction for Exploratory Structural Design**|Ricardo Maia Avelino et.al.|[2607.07521](http://arxiv.org/abs/2607.07521)|null|
