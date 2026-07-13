@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.07.12
+### Automatically Updated on 2026.07.13
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-10**|**Wan-Dancer: A Hierarchical Framework for Minute-scale Coherent Music-to-Dance Generation**|Mingyang Huang et.al.|[2607.09581](http://arxiv.org/abs/2607.09581)|null|
+|**2026-07-09**|**SplatCtrl: Perception-Action Coupling via Gaussian Scene Representations and Reactive Robot Control**|Siddarth Jain et.al.|[2607.08948](http://arxiv.org/abs/2607.08948)|null|
 |**2026-07-09**|**ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation**|Kaifeng Zhao et.al.|[2607.08741](http://arxiv.org/abs/2607.08741)|null|
 |**2026-07-09**|**Pose-to-Biomechanics: Bridging 3D Human Pose Estimation and Biomechanical Attribute Prediction**|Ayda Eghbalian et.al.|[2607.08725](http://arxiv.org/abs/2607.08725)|null|
 |**2026-07-09**|**FSD-VLN: Fast-Slow Dual-System Modeling for Aerial Long-Horizon Vision-Language Navigation**|Xueke Zhu et.al.|[2607.08359](http://arxiv.org/abs/2607.08359)|null|
@@ -1975,6 +1977,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-10**|**4D Human-Scene Reconstruction from Low-Overlap Captures**|Minhyuk Hwang et.al.|[2607.09125](http://arxiv.org/abs/2607.09125)|null|
 |**2026-07-07**|**DeSeG: Decoupling Semantic Intent and Geometric Constraints for Physically Plausible Human-Scene Interaction**|Jiakun Li et.al.|[2607.05787](http://arxiv.org/abs/2607.05787)|null|
 |**2026-07-06**|**GUSH3R: Everyone Everywhere All at Once as Gaussians**|Keito Abe et.al.|[2607.05243](http://arxiv.org/abs/2607.05243)|null|
 |**2026-07-03**|**ComplexMimic: Human-Scene Interaction Imitation in Complex 3D Environments**|Lu Pan et.al.|[2607.02034](http://arxiv.org/abs/2607.02034)|null|
@@ -2458,6 +2461,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-10**|**Indirect and Direct AI Scaffolding for Computational Problem Posing: A Pilot Experience Report**|Shayla Sharmin et.al.|[2607.09628](http://arxiv.org/abs/2607.09628)|null|
+|**2026-07-10**|**KnitID: Machine-Knitted RFID Antennas for Battery-Free Authentication, Localization and Interaction**|Weiye Xu et.al.|[2607.09584](http://arxiv.org/abs/2607.09584)|null|
+|**2026-07-10**|**Learning When to Intervene on Habitual Behaviors: A Case Study in Oral Health Care**|Bhanu Teja Gullapalli et.al.|[2607.09518](http://arxiv.org/abs/2607.09518)|null|
+|**2026-07-10**|**Voting Biases in Decentralized Autonomous Organization (DAO) Governance**|Stefano Balietti et.al.|[2607.09435](http://arxiv.org/abs/2607.09435)|null|
+|**2026-07-10**|**Creativity, honesty and designed forgetting emerge in small hyperbolic language models**|Kwan Soo Shin et.al.|[2607.09306](http://arxiv.org/abs/2607.09306)|null|
+|**2026-07-10**|**LLMs for health: Perceived benefits, risks, intention to use AI chatbots, and willingness to self-disclose across sensitive health topics**|Gwenn Beets et.al.|[2607.09253](http://arxiv.org/abs/2607.09253)|null|
+|**2026-07-10**|**Configurable AI Coding Assistants: Designing For Developers Who Like to Be in Control**|Ekaterina Koshchenko et.al.|[2607.09215](http://arxiv.org/abs/2607.09215)|null|
+|**2026-07-10**|**Feeling UISTful: An Interactive Portrait of Scholarly Authorship, Readership, and the In-Between**|Sophia Liu et.al.|[2607.09155](http://arxiv.org/abs/2607.09155)|null|
+|**2026-07-10**|**Privacy Detective: A Narrative Game that Cultivates Student Developers' Privacy Awareness by Harnessing Legal Documents**|Shao-Yu Chu et.al.|[2607.09022](http://arxiv.org/abs/2607.09022)|null|
+|**2026-07-10**|**Central Tendency Bias in Human Selection of AI-Generated Design Variations**|Huiyang Chen et.al.|[2607.09018](http://arxiv.org/abs/2607.09018)|null|
 |**2026-07-09**|**Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis**|Kristina Schaaff et.al.|[2607.08748](http://arxiv.org/abs/2607.08748)|null|
 |**2026-07-09**|**Dimensionality Reduction Meets Network Science: Sensemaking on UMAP's kNN Graph**|Duen Horng Chau et.al.|[2607.08746](http://arxiv.org/abs/2607.08746)|null|
 |**2026-07-09**|**Sculptable Mesh Structures for Room-Scale Form-Finding**|Jesse T. Gonzalez et.al.|[2607.08736](http://arxiv.org/abs/2607.08736)|null|
