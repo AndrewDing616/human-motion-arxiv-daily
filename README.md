@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.07.13
+### Automatically Updated on 2026.07.14
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-13**|**A Minimalist Retargeting-Guided Reinforcement Learning Recipe for Dexterous Manipulation**|Yunhai Feng et.al.|[2607.11874](http://arxiv.org/abs/2607.11874)|null|
+|**2026-07-13**|**Automated Synthesis of Facial Mechanisms for Conversational Animatronic Robots**|Zongzheng Zhang et.al.|[2607.11688](http://arxiv.org/abs/2607.11688)|null|
+|**2026-07-13**|**WALA Learning Executable Latent Actions from Action-Labeled Demonstrations and Action-Free Videos**|Jiahao Liu et.al.|[2607.11397](http://arxiv.org/abs/2607.11397)|null|
+|**2026-07-13**|**CR-Solver: GPU-Accelerated Kinematics Solver for Tendon-driven Continuum Robots**|Heqing Yang et.al.|[2607.11340](http://arxiv.org/abs/2607.11340)|null|
+|**2026-07-13**|**Towards Predictive, Aligned, and Scalable Robot Learning**|Peijun Tang et.al.|[2607.11270](http://arxiv.org/abs/2607.11270)|null|
+|**2026-07-13**|**Classification of some cohomologically $C^0$ -stable continuous group actions on metric spaces**|Boris Petković et.al.|[2607.11171](http://arxiv.org/abs/2607.11171)|null|
+|**2026-07-13**|**PAKE: Learning Whole-Body Loco-Manipulation with Partial Kinematic Embeddings**|Zhengmao He et.al.|[2607.11041](http://arxiv.org/abs/2607.11041)|null|
+|**2026-07-13**|**EquiFusion: Kinematics-Agnostic Human Motion Prediction via Equivariant Latent Diffusion**|Cecilia Curreli et.al.|[2607.10984](http://arxiv.org/abs/2607.10984)|null|
+|**2026-07-12**|**Diversify Diffusion with Temperature Sampling and Variance-Corrective Time Shifting**|Peizhuo Li et.al.|[2607.10853](http://arxiv.org/abs/2607.10853)|null|
+|**2026-07-12**|**Dual-Process Atomic Skill Learning: Decoupling Semantic Reasoning and Real-Time Control**|Jun Chen et.al.|[2607.10625](http://arxiv.org/abs/2607.10625)|null|
 |**2026-07-10**|**Wan-Dancer: A Hierarchical Framework for Minute-scale Coherent Music-to-Dance Generation**|Mingyang Huang et.al.|[2607.09581](http://arxiv.org/abs/2607.09581)|null|
 |**2026-07-09**|**SplatCtrl: Perception-Action Coupling via Gaussian Scene Representations and Reactive Robot Control**|Siddarth Jain et.al.|[2607.08948](http://arxiv.org/abs/2607.08948)|null|
 |**2026-07-09**|**ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation**|Kaifeng Zhao et.al.|[2607.08741](http://arxiv.org/abs/2607.08741)|null|
@@ -1028,7 +1038,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260713>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260714>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -1193,15 +1203,15 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260713>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260714>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-13**|**WristMimic: Full-Body Humanoid Control with Wrist-Guided Manipulation**|Wongyun Yu et.al.|[2607.06438](http://arxiv.org/abs/2607.06438)|null|
 |**2026-07-09**|**ContactMimic: Humanoid Object Interaction via Contact Control**|Xinyao Li et.al.|[2607.08742](http://arxiv.org/abs/2607.08742)|null|
 |**2026-07-09**|**HumanForge: A Human-Centric Deepfake Video Benchmark with Multi-Agent Forgery Rationales**|Wenbo Xu et.al.|[2607.08705](http://arxiv.org/abs/2607.08705)|null|
-|**2026-07-07**|**WristMimic: Full-Body Humanoid Control with Wrist-Guided Manipulation**|Wongyun Yu et.al.|[2607.06438](http://arxiv.org/abs/2607.06438)|null|
 |**2026-07-07**|**SparseCtrl-HOI: Sparse Temporal Control for Human-Object Interaction Video Generation**|Shenbo Xie et.al.|[2607.05994](http://arxiv.org/abs/2607.05994)|null|
 |**2026-07-05**|**Regime-Conditional Stabilisation of LLM-Augmented Cooperative Multi-Agent Reinforcement Learning**|Faid Keddouri et.al.|[2607.04470](http://arxiv.org/abs/2607.04470)|null|
 |**2026-07-04**|**SAGE: Synchronized Action-Gaze Recognition and Anticipation for Human Behavior Understanding**|Chenyi Kuang et.al.|[2607.04017](http://arxiv.org/abs/2607.04017)|null|
@@ -1516,12 +1526,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260713>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260714>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-13**|**FIERO: Empowering Creative Writing Through Collaborative Game Play**|Chu Zhang et.al.|[2607.11837](http://arxiv.org/abs/2607.11837)|null|
+|**2026-07-13**|**Supporting Reflection in LLM-based Exploratory Search**|Giulia Di Fede et.al.|[2607.11810](http://arxiv.org/abs/2607.11810)|null|
+|**2026-07-13**|**HandPad: A Bimanual Hand Interface for Fluid Window Interactions in VR**|Wen Ying et.al.|[2607.11807](http://arxiv.org/abs/2607.11807)|null|
+|**2026-07-13**|**"We are all in big trouble! *Shock Emoji": Personal Narratives in Expressing Emotions, Opinions, and Data Regarding Climate Change in TikTok Short Videos**|Chu Zhang et.al.|[2607.11803](http://arxiv.org/abs/2607.11803)|null|
+|**2026-07-13**|**Forgetting Our Way to Shared Meaning: Effects of Forgetting on Conceptual Alignment in a Non-Partnership Coordination Game**|Landon Liu et.al.|[2607.11787](http://arxiv.org/abs/2607.11787)|null|
+|**2026-07-13**|**Playful AI in Professional Email: A Field Experiment on Tone and Recipient Engagement**|Ziv Ben-Zion et.al.|[2607.11749](http://arxiv.org/abs/2607.11749)|null|
+|**2026-07-13**|**An Explainable Agentic System for Detection of Conversational Scams with Summary-Based Memory**|Ahmed Omar Salim Adnan et.al.|[2607.11707](http://arxiv.org/abs/2607.11707)|null|
+|**2026-07-13**|**Requirement-Driven Design of Whole-Body Social Tactile Sensing via Virtual Human-Robot Interaction**|Dakarai Crowder et.al.|[2607.11690](http://arxiv.org/abs/2607.11690)|null|
+|**2026-07-13**|**ERR@HRI 3.0 Challenge: Multimodal Detection of Errors and Anticipation in Human-Robot Interactions**|Maria Teresa Parreira et.al.|[2607.11570](http://arxiv.org/abs/2607.11570)|null|
+|**2026-07-13**|**PaperRouter-Agent: A Content-Grounded LLM Agent for Personalized Hierarchical Paper Routing**|Keshen Zhou et.al.|[2607.11564](http://arxiv.org/abs/2607.11564)|null|
 |**2026-07-10**|**Indirect and Direct AI Scaffolding for Computational Problem Posing: A Pilot Experience Report**|Shayla Sharmin et.al.|[2607.09628](http://arxiv.org/abs/2607.09628)|null|
 |**2026-07-10**|**KnitID: Machine-Knitted RFID Antennas for Battery-Free Authentication, Localization and Interaction**|Weiye Xu et.al.|[2607.09584](http://arxiv.org/abs/2607.09584)|null|
 |**2026-07-10**|**Learning When to Intervene on Habitual Behaviors: A Case Study in Oral Health Care**|Bhanu Teja Gullapalli et.al.|[2607.09518](http://arxiv.org/abs/2607.09518)|null|
@@ -3359,7 +3379,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260713>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260714>back to top</a>)</p>
 
 Notes: 
 
