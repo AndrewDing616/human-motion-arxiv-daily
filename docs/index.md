@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.07.14
+### Automatically Updated on 2026.07.15
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-14**|**ReflectVLN: Training Vision-Language Navigation Agents with Reflective Reasoning**|Jiahang Wang et.al.|[2607.12680](http://arxiv.org/abs/2607.12680)|null|
+|**2026-07-14**|**Reducing Temporal Redundancy for Efficient Vision-Language-Action Inference**|Yuzhou Wu et.al.|[2607.12287](http://arxiv.org/abs/2607.12287)|null|
+|**2026-07-13**|**Oscillatory Active Brownian Motion: A Minimal Model for Sperm Dynamics**|Adrian Pacheco-Pozo et.al.|[2607.12158](http://arxiv.org/abs/2607.12158)|null|
 |**2026-07-13**|**A Minimalist Retargeting-Guided Reinforcement Learning Recipe for Dexterous Manipulation**|Yunhai Feng et.al.|[2607.11874](http://arxiv.org/abs/2607.11874)|null|
 |**2026-07-13**|**Automated Synthesis of Facial Mechanisms for Conversational Animatronic Robots**|Zongzheng Zhang et.al.|[2607.11688](http://arxiv.org/abs/2607.11688)|null|
 |**2026-07-13**|**WALA Learning Executable Latent Actions from Action-Labeled Demonstrations and Action-Free Videos**|Jiahao Liu et.al.|[2607.11397](http://arxiv.org/abs/2607.11397)|null|
@@ -2471,6 +2474,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-14**|**Sensing the properties of virtual objects without physical feedback**|Rhoslyn Roebuck Williams et.al.|[2607.12978](http://arxiv.org/abs/2607.12978)|null|
+|**2026-07-14**|**CD-MED: Cross-Domain Multimodal Emotion Descriptor for Visual Comparison of Digital Objects**|Elnara Kadyrgali et.al.|[2607.12958](http://arxiv.org/abs/2607.12958)|null|
+|**2026-07-14**|**GraphPolaris: A System for Query, Analysis, and Visualization of Graph Databases**|Michael Behrisch et.al.|[2607.12845](http://arxiv.org/abs/2607.12845)|null|
+|**2026-07-14**|**Practical Judgment, Virtue, and Intuition in the Use of Opaque AI-Enabled Systems**|Nathan G. Wood et.al.|[2607.12755](http://arxiv.org/abs/2607.12755)|null|
+|**2026-07-14**|**Aïra: Rethinking AI Research Assistants for Interdisciplinary Science**|Diya Mirji et.al.|[2607.12736](http://arxiv.org/abs/2607.12736)|null|
+|**2026-07-14**|**Evaluating Health Misinformation in Low-Resource Languages: Integrating Small Language Models with a Culturally-Sensitive Responsible NLP Framework (Bangla as a Case Study)**|Farnaz Farid et.al.|[2607.12336](http://arxiv.org/abs/2607.12336)|null|
+|**2026-07-14**|**Real-time Generation of Listener Nodding via Prediction of Kinematic Parameters for Avatar Dialogue Systems**|Kazushi Kato et.al.|[2607.12329](http://arxiv.org/abs/2607.12329)|null|
+|**2026-07-14**|**Towards Knitted Textile Electromechanical Systems**|John Martins et.al.|[2607.12237](http://arxiv.org/abs/2607.12237)|null|
+|**2026-07-13**|**From Chaos to Clarity: A Framework for Program-Level AI Learning Outcomes**|Grace Barkhuff et.al.|[2607.12221](http://arxiv.org/abs/2607.12221)|null|
+|**2026-07-13**|**Compos3D: Interactive Part-Based Composition for Creative Control in Generative 3D Models**|Faraz Faruqi et.al.|[2607.12193](http://arxiv.org/abs/2607.12193)|null|
 |**2026-07-13**|**FIERO: Empowering Creative Writing Through Collaborative Game Play**|Chu Zhang et.al.|[2607.11837](http://arxiv.org/abs/2607.11837)|null|
 |**2026-07-13**|**Supporting Reflection in LLM-based Exploratory Search**|Giulia Di Fede et.al.|[2607.11810](http://arxiv.org/abs/2607.11810)|null|
 |**2026-07-13**|**HandPad: A Bimanual Hand Interface for Fluid Window Interactions in VR**|Wen Ying et.al.|[2607.11807](http://arxiv.org/abs/2607.11807)|null|
