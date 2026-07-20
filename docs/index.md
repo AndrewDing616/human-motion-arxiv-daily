@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.07.19
+### Automatically Updated on 2026.07.20
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-17**|**Inertial Human Motion Capture: From Biomechanics to Recent Sensor Fusion Methods and Back**|Manon Kok et.al.|[2607.16000](http://arxiv.org/abs/2607.16000)|null|
+|**2026-07-17**|**Exo2EgoPose: Leveraging Exocentric Demonstrations for Vision-Language guided Egocentric 3D Hand Pose Forecasting**|Zhaofeng Shi et.al.|[2607.15890](http://arxiv.org/abs/2607.15890)|null|
+|**2026-07-17**|**EgoExoMoCap: Distributed Ego-Exo Human Motion Capture**|Jiaxi Jiang et.al.|[2607.15868](http://arxiv.org/abs/2607.15868)|null|
+|**2026-07-17**|**HybridSim: A Physics-Learning Hybrid Digital Twin for mmWave Human Sensing**|Weitao Xiong et.al.|[2607.15806](http://arxiv.org/abs/2607.15806)|null|
+|**2026-07-17**|**IMBench: A Benchmark for Intuitive Robotic Manipulation**|Anurag Maurya et.al.|[2607.15641](http://arxiv.org/abs/2607.15641)|null|
+|**2026-07-16**|**Xiaomi-Robotics-1: Scaling Vision-Language-Action Models with over 100K Hours of Real-World Trajectories**| Xiaomi Robotics Team et.al.|[2607.15330](http://arxiv.org/abs/2607.15330)|null|
 |**2026-07-16**|**Online Neural Space Time Memory for Dynamic Novel View Synthesis**|Baback Elmieh et.al.|[2607.15271](http://arxiv.org/abs/2607.15271)|null|
 |**2026-07-16**|**BadWAM: When World-Action Models Dream Right but Act Wrong**|Qi Li et.al.|[2607.15207](http://arxiv.org/abs/2607.15207)|null|
 |**2026-07-16**|**Catch, Throw, Repeat: Planning for Human-Robot Partner Juggling**|Jonathan Rainer Lippert et.al.|[2607.15129](http://arxiv.org/abs/2607.15129)|null|
@@ -2168,6 +2174,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-17**|**MotionForesight: Re-purposing Video Models for Future 3D Scene-Flow Prediction**|Homanga Bharadhwaj et.al.|[2607.16192](http://arxiv.org/abs/2607.16192)|null|
 |**2026-07-15**|**MultiRef-Compass: Towards Comprehensive Evaluation of Multi-Reference-to-Audio-Video Generation**|Xiaohan Zhang et.al.|[2607.14189](http://arxiv.org/abs/2607.14189)|null|
 |**2026-07-15**|**Unleashing Multimodal Large Language Models for Training-free HOI Detection in the Wild**|Ting Lei et.al.|[2607.13881](http://arxiv.org/abs/2607.13881)|null|
 |**2026-07-13**|**WristMimic: Full-Body Humanoid Control with Wrist-Guided Manipulation**|Wongyun Yu et.al.|[2607.06438](http://arxiv.org/abs/2607.06438)|null|
@@ -2491,6 +2498,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-17**|**Student Evaluation of Repeated AI Feedback Across a Semester of Writing**|Andres Karjus et.al.|[2607.16115](http://arxiv.org/abs/2607.16115)|null|
+|**2026-07-17**|**Attention-Guided Saliency Maps for Interpreting Visualization Literacy in VLMs**|Maeve Hutchinson et.al.|[2607.16105](http://arxiv.org/abs/2607.16105)|null|
+|**2026-07-17**|**A Human-Centric Evaluation of a Retrieval-Augmented Generation System for Explaining Quebec Insurance Contracts**|David Beauchemin et.al.|[2607.15963](http://arxiv.org/abs/2607.15963)|null|
+|**2026-07-17**|**When Not to Automate: A Formal Protocol for Human Preservation in AI-Optimized Organizations**|Jose Manuel de la Chica Rodriguez et.al.|[2607.15944](http://arxiv.org/abs/2607.15944)|null|
+|**2026-07-17**|**Red Light, Grey Zone: A Multi-Perspective Interactive Narrative for Autonomous Driving Ethics**|Mengyi Wei et.al.|[2607.15888](http://arxiv.org/abs/2607.15888)|null|
+|**2026-07-17**|**Perceived AGI: Believability as Dimensional Completeness, Not Capability**|Sebastian Cochinescu et.al.|[2607.15883](http://arxiv.org/abs/2607.15883)|null|
+|**2026-07-17**|**EgoExoMoCap: Distributed Ego-Exo Human Motion Capture**|Jiaxi Jiang et.al.|[2607.15868](http://arxiv.org/abs/2607.15868)|null|
+|**2026-07-17**|**Breakdowns for Human-Machine Creative Reflexivity**|Marianne Bossema et.al.|[2607.15866](http://arxiv.org/abs/2607.15866)|null|
+|**2026-07-17**|**Can't Stop: How Context and Individual Traits Influence Effectiveness of Different Gradual Interventions for Infinite Scrolling on Short-Form Video Platforms**|Luca-Maxim Meinhardt et.al.|[2607.15818](http://arxiv.org/abs/2607.15818)|null|
+|**2026-07-17**|**On the Structure of Address in Multi-Party Dialogue: From Discrete Labels to Continuous Levels**|Taiga Mori et.al.|[2607.15648](http://arxiv.org/abs/2607.15648)|null|
 |**2026-07-16**|**teLLMe Why (Ain't Nothing but a Jam): Exploratory Causal Analysis of Urban Driving Data**|Qiwei Li et.al.|[2607.15254](http://arxiv.org/abs/2607.15254)|null|
 |**2026-07-16**|**Divergent Gaze Patterns in Artistic Viewing: Spatial and Temporal Signatures of Attention Across Autistic Individuals, Artists, and Neurotypical Observers**|Mohammed Amine Kerkouri et.al.|[2607.15227](http://arxiv.org/abs/2607.15227)|null|
 |**2026-07-16**|**Self-Evolving Human-Centered Framework for Explainable Depression Symptom Annotation**|Hoang-Loc Cao et.al.|[2607.15202](http://arxiv.org/abs/2607.15202)|null|
