@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.07.20
+### Automatically Updated on 2026.07.21
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-20**|**Closing the Loop in Humanoid VLA: Persistent 3D Object Tokens for Verifiable Loco-Manipulation**|Peng Ren et.al.|[2607.18016](http://arxiv.org/abs/2607.18016)|null|
+|**2026-07-20**|**SAGE: Subgoal-Conditioned Action Generation for Latent World Model Planning**|Letian Cheng et.al.|[2607.17973](http://arxiv.org/abs/2607.17973)|null|
+|**2026-07-20**|**MEVION: Low-Cost Open-Source Data Collection System for Powerful and High-Speed Dual-Arm Manipulation**|Kento Kawaharazuka et.al.|[2607.17970](http://arxiv.org/abs/2607.17970)|null|
+|**2026-07-20**|**Receiver-Centered Robot-to-Human Handover with Grasp-Aware Object Orientation**|Federico Biagi et.al.|[2607.17839](http://arxiv.org/abs/2607.17839)|null|
+|**2026-07-19**|**A Systematic Evaluation of Trajectory Data Curation for LoRA Fine-Tuning of Code Agents**|Yunze Han et.al.|[2607.17205](http://arxiv.org/abs/2607.17205)|null|
+|**2026-07-18**|**User-Driven Learning from Demonstration: A Trajectory and Impedance Learning Method**|Zi-Qi Yang et.al.|[2607.16998](http://arxiv.org/abs/2607.16998)|null|
+|**2026-07-18**|**PAVXploreRL: Physical-Action-Visual World Model Reinforcement Learning with Action Exploration**|Han Wang et.al.|[2607.16602](http://arxiv.org/abs/2607.16602)|null|
 |**2026-07-17**|**Inertial Human Motion Capture: From Biomechanics to Recent Sensor Fusion Methods and Back**|Manon Kok et.al.|[2607.16000](http://arxiv.org/abs/2607.16000)|null|
 |**2026-07-17**|**Exo2EgoPose: Leveraging Exocentric Demonstrations for Vision-Language guided Egocentric 3D Hand Pose Forecasting**|Zhaofeng Shi et.al.|[2607.15890](http://arxiv.org/abs/2607.15890)|null|
 |**2026-07-17**|**EgoExoMoCap: Distributed Ego-Exo Human Motion Capture**|Jiaxi Jiang et.al.|[2607.15868](http://arxiv.org/abs/2607.15868)|null|
@@ -1061,7 +1068,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260720>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260721>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -1227,12 +1234,13 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260720>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260721>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-20**|**HOMIE: Human-object Centric Video Personalization via Multimodal Intelligent Enchancement**|Yiyang Cai et.al.|[2607.18217](http://arxiv.org/abs/2607.18217)|null|
 |**2026-07-17**|**MotionForesight: Re-purposing Video Models for Future 3D Scene-Flow Prediction**|Homanga Bharadhwaj et.al.|[2607.16192](http://arxiv.org/abs/2607.16192)|null|
 |**2026-07-15**|**MultiRef-Compass: Towards Comprehensive Evaluation of Multi-Reference-to-Audio-Video Generation**|Xiaohan Zhang et.al.|[2607.14189](http://arxiv.org/abs/2607.14189)|null|
 |**2026-07-15**|**Unleashing Multimodal Large Language Models for Training-free HOI Detection in the Wild**|Ting Lei et.al.|[2607.13881](http://arxiv.org/abs/2607.13881)|null|
@@ -1553,12 +1561,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260720>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260721>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-20**|**The Autonomous Agency Scale: A Behavioral Framework for Measuring Self-Directed Behavior in AI Systems**|Samuel Presgraves et.al.|[2607.17947](http://arxiv.org/abs/2607.17947)|null|
+|**2026-07-20**|**AlphaOracle: Oracle bone script decipherment via human-workflow-inspired deep learning**|Yuliang Liu et.al.|[2607.17849](http://arxiv.org/abs/2607.17849)|null|
+|**2026-07-20**|**I wanted it to feel more personal: Customization of social AI as AI individualism in practice**|Marita Skjuve et.al.|[2607.17826](http://arxiv.org/abs/2607.17826)|null|
+|**2026-07-20**|**Vis2Reg: Visibility-Aware Landmark-Free Geometric 3D--2D Registration for Liver Laparoscopy**|Jiaming Feng et.al.|[2607.17810](http://arxiv.org/abs/2607.17810)|null|
+|**2026-07-20**|**Persona-as-Configuration: Generative Stakeholder Reporting for Agricultural Floods**|Oliver Aleksander Larsen et.al.|[2607.17774](http://arxiv.org/abs/2607.17774)|null|
+|**2026-07-20**|**From Sign Language Generation to Humanoid Execution: Vision-Language Guided Retargeting with Collision Mitigation**|Nabeela Khan et.al.|[2607.17769](http://arxiv.org/abs/2607.17769)|null|
+|**2026-07-20**|**Toward Site-Aware MR Art Exhibitions: A SLAM-Based Deployment Pipeline for Spatial Coherence and Exhibition Experience**|Yawei Zhao et.al.|[2607.17665](http://arxiv.org/abs/2607.17665)|null|
+|**2026-07-20**|**Informal Learning Emerges in Everyday Human-LLM Interaction**|Zixin Chen et.al.|[2607.17643](http://arxiv.org/abs/2607.17643)|null|
+|**2026-07-20**|**It Matters How You Say It: Exploring Rhetorical Patterns for AI-Assisted Information Evaluation**|Sadra Sabouri et.al.|[2607.17627](http://arxiv.org/abs/2607.17627)|null|
+|**2026-07-20**|**Human-in-the-Loop User Feedback Affects Perceived Accuracy and Trust, but Task Subjectivity Matters**|Donald R. Honeycutt et.al.|[2607.17548](http://arxiv.org/abs/2607.17548)|null|
 |**2026-07-17**|**Student Evaluation of Repeated AI Feedback Across a Semester of Writing**|Andres Karjus et.al.|[2607.16115](http://arxiv.org/abs/2607.16115)|null|
 |**2026-07-17**|**Attention-Guided Saliency Maps for Interpreting Visualization Literacy in VLMs**|Maeve Hutchinson et.al.|[2607.16105](http://arxiv.org/abs/2607.16105)|null|
 |**2026-07-17**|**A Human-Centric Evaluation of a Retrieval-Augmented Generation System for Explaining Quebec Insurance Contracts**|David Beauchemin et.al.|[2607.15963](http://arxiv.org/abs/2607.15963)|null|
@@ -3446,7 +3464,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260720>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260721>back to top</a>)</p>
 
 Notes: 
 
