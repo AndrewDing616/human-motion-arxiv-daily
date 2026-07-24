@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.07.22
+### Automatically Updated on 2026.07.24
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-22**|**ODeform: Learning Continuous 4D Motion for Shape Deformation with Neural ODEs**|Yordanka Velikova et.al.|[2607.20670](http://arxiv.org/abs/2607.20670)|null|
+|**2026-07-22**|**Evolving Cache Schedules for Fast Diffusion Policy Inference**|Siying Wang et.al.|[2607.20293](http://arxiv.org/abs/2607.20293)|null|
+|**2026-07-22**|**Unified Prediction and Planning via Conflict-Aware Disjoint Parameter Training**|Taewon Seo et.al.|[2607.19971](http://arxiv.org/abs/2607.19971)|null|
+|**2026-07-22**|**Emergence of Hexanematic Order in a Growing Confluent Cell Monolayer**|Hon Lin Too et.al.|[2607.19963](http://arxiv.org/abs/2607.19963)|null|
+|**2026-07-22**|**What Matters in Humanoid General Motion Tracking? An Empirical Study**|Fabio Amadio et.al.|[2607.19903](http://arxiv.org/abs/2607.19903)|null|
 |**2026-07-21**|**End-to-end Conditional Diffusion for Realistic and Controllable Visual Traffic Scenario Generation**|Jingzheng Li et.al.|[2607.18637](http://arxiv.org/abs/2607.18637)|null|
 |**2026-07-21**|**PAVXploreRL: Physical-Action-Visual World Model Reinforcement Learning with Action Exploration**|Han Wang et.al.|[2607.16602](http://arxiv.org/abs/2607.16602)|null|
 |**2026-07-20**|**STeP: Signal Temporal Logic for Precise Specifications for Action Generation with Vision Language Models**|Kasra Torshizi et.al.|[2607.18580](http://arxiv.org/abs/2607.18580)|null|
@@ -2019,6 +2024,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-21**|**Crowd4D: Scene-Aware Monocular 4D Crowd Reconstruction**|Hongbo Kang et.al.|[2607.19517](http://arxiv.org/abs/2607.19517)|null|
 |**2026-07-15**|**EgoHTR: Egocentric 4D Demonstrations of Human Terrain Traversal**|Alex Brandes et.al.|[2607.13472](http://arxiv.org/abs/2607.13472)|null|
 |**2026-07-10**|**4D Human-Scene Reconstruction from Low-Overlap Captures**|Minhyuk Hwang et.al.|[2607.09125](http://arxiv.org/abs/2607.09125)|null|
 |**2026-07-07**|**DeSeG: Decoupling Semantic Intent and Geometric Constraints for Physically Plausible Human-Scene Interaction**|Jiakun Li et.al.|[2607.05787](http://arxiv.org/abs/2607.05787)|null|
@@ -2183,6 +2189,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-22**|**StreamHOI: Interaction-aware Temporal Memory Adaptation for Streaming HOI Video Generation**|Zejing Rao et.al.|[2607.20174](http://arxiv.org/abs/2607.20174)|null|
 |**2026-07-21**|**HOMIE: Human-object Centric Video Personalization via Multimodal Intelligent Enhancement**|Yiyang Cai et.al.|[2607.18217](http://arxiv.org/abs/2607.18217)|null|
 |**2026-07-17**|**MotionForesight: Re-purposing Video Models for Future 3D Scene-Flow Prediction**|Homanga Bharadhwaj et.al.|[2607.16192](http://arxiv.org/abs/2607.16192)|null|
 |**2026-07-15**|**MultiRef-Compass: Towards Comprehensive Evaluation of Multi-Reference-to-Audio-Video Generation**|Xiaohan Zhang et.al.|[2607.14189](http://arxiv.org/abs/2607.14189)|null|
@@ -2508,6 +2515,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-23**|**MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education**|Qian Wu et.al.|[2607.21570](http://arxiv.org/abs/2607.21570)|null|
+|**2026-07-23**|**Sources of Inequity and Fairness Risks inWellbeing Sensing**|Han Zhang et.al.|[2607.21527](http://arxiv.org/abs/2607.21527)|null|
+|**2026-07-23**|**Transparent by Design, Usable in Practice? A Formative Usability Study of a Conversational Product Advisor**|Kevin Schott et.al.|[2607.21513](http://arxiv.org/abs/2607.21513)|null|
+|**2026-07-23**|**A Needs Assessment for Measuring Geographic - Legislative Associations in the U.S. House of Representatives**|Ashu Gupta et.al.|[2607.21502](http://arxiv.org/abs/2607.21502)|null|
+|**2026-07-23**|**Thinkink: 2D Spatial Ink-native Interaction with LLMs**|Mohammad Hasan Payandeh et.al.|[2607.21468](http://arxiv.org/abs/2607.21468)|null|
+|**2026-07-23**|**CRAFT: Exploring Wearable Creative AI on Smart Glasses for Fiction Writing in Real-World Contexts**|Runze Cai et.al.|[2607.21394](http://arxiv.org/abs/2607.21394)|null|
+|**2026-07-23**|**AI Assistants Overassist**|Verona Teo et.al.|[2607.21306](http://arxiv.org/abs/2607.21306)|null|
+|**2026-07-23**|**Reimagining the Augmented Reality Accessibility Ecosystem for Deaf Students: Service Provider Perspectives in Experiential Learning**|Roshan Mathew et.al.|[2607.21289](http://arxiv.org/abs/2607.21289)|null|
+|**2026-07-23**|**Exploring the Design Space of LLM-Based Programming Support in CS Education: A Scoping Review through the Lens of Assistance Governance**|Minsun Kim et.al.|[2607.21257](http://arxiv.org/abs/2607.21257)|null|
+|**2026-07-23**|**QuantiBias: Benchmarking Quantization-Induced Bias in LLMs**|Emilio Ferrara et.al.|[2607.21063](http://arxiv.org/abs/2607.21063)|null|
 |**2026-07-21**|**The safety failures we are not instrumenting: a perspective on hidden safety-critical challenges in modern AI systems**|Gjergji Kasneci et.al.|[2607.19292](http://arxiv.org/abs/2607.19292)|null|
 |**2026-07-21**|**Caring Over Computing: An Ethical and Sociotechnical Perspective on Generative AI for Social Connectedness in Dementia Care**|Teis Arets et.al.|[2607.19007](http://arxiv.org/abs/2607.19007)|null|
 |**2026-07-21**|**AutoJourn: Multi-Perspective Summarisation, Bias Detection and Bias Neutralisation for LLM-Generated News in Automated Journalism**|Himel Ghosh et.al.|[2607.18983](http://arxiv.org/abs/2607.18983)|null|
