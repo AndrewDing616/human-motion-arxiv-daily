@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.07.27
+### Automatically Updated on 2026.07.28
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-27**|**Data Pyramid for Embodied Manipulation**|Yifan Ye et.al.|[2607.24744](http://arxiv.org/abs/2607.24744)|null|
+|**2026-07-27**|**τ: Learning Touch-Augmented Vision-Language-Action Models from Future Visual Supervision**|Ning Cheng et.al.|[2607.24485](http://arxiv.org/abs/2607.24485)|null|
+|**2026-07-27**|**Learning Reusable Hybrid Motion Priors for Humanoid Locomotion from Motion Imitation**|Valerio Belli et.al.|[2607.24083](http://arxiv.org/abs/2607.24083)|null|
+|**2026-07-27**|**WorldDiT: A Unified Diffusion Architecture for World and Action Modeling**|Sen Wang et.al.|[2607.23909](http://arxiv.org/abs/2607.23909)|null|
+|**2026-07-26**|**STEER: Steerable Dyadic Head Avatars**|Kartik Teotia et.al.|[2607.23840](http://arxiv.org/abs/2607.23840)|null|
+|**2026-07-26**|**$N_0$ -TWAM: Scaling Tactile-Native World-Action Model for Contact-Rich Manipulation**| NeoteAI Team et.al.|[2607.23783](http://arxiv.org/abs/2607.23783)|null|
+|**2026-07-26**|**MOJITO: Modal Joint Learning for Unified End-to-End Autonomous Driving**|Zhijing Cheng et.al.|[2607.23511](http://arxiv.org/abs/2607.23511)|null|
+|**2026-07-25**|**mmSimPrior: Learning Simulation Priors for Data-Efficient Real-World Generalizable Radar-Based Human Motion Reconstruction**|Cheng Guo et.al.|[2607.22973](http://arxiv.org/abs/2607.22973)|null|
 |**2026-07-24**|**AgentHOI: Multi-Agent Reasoning for Human-Object-Interaction Video Generation via Implicit Representation Alignment**|Ziyao Huang et.al.|[2607.22241](http://arxiv.org/abs/2607.22241)|null|
 |**2026-07-23**|**StARS: Socially Appropriate Robot Actions via a Recommender System-Driven Approach**|Erencem Ozbey et.al.|[2607.21802](http://arxiv.org/abs/2607.21802)|null|
 |**2026-07-22**|**GRACE: Gradient-Free Robot Action Generation via Combined Diffusion-MPPI Posterior Mean Estimation**|Leesai Park et.al.|[2607.21661](http://arxiv.org/abs/2607.21661)|null|
@@ -1078,7 +1086,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260727>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260728>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -1245,12 +1253,13 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260727>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260728>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-26**|**Real-Time Human-Centric World Modeling for Upper-Body Human-Object Interaction**|Chaonan Ji et.al.|[2607.23517](http://arxiv.org/abs/2607.23517)|null|
 |**2026-07-24**|**AgentHOI: Multi-Agent Reasoning for Human-Object-Interaction Video Generation via Implicit Representation Alignment**|Ziyao Huang et.al.|[2607.22241](http://arxiv.org/abs/2607.22241)|null|
 |**2026-07-22**|**StreamHOI: Interaction-aware Temporal Memory Adaptation for Streaming HOI Video Generation**|Zejing Rao et.al.|[2607.20174](http://arxiv.org/abs/2607.20174)|null|
 |**2026-07-21**|**HOMIE: Human-object Centric Video Personalization via Multimodal Intelligent Enhancement**|Yiyang Cai et.al.|[2607.18217](http://arxiv.org/abs/2607.18217)|null|
@@ -1574,12 +1583,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260727>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260728>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-27**|**Make or Take: How Students Navigate Self-Created and Instructor-Provided Cheat Sheets**|Helen Weixu Chen et.al.|[2607.24736](http://arxiv.org/abs/2607.24736)|null|
+|**2026-07-27**|**Leveling the Playing Field: Temporal Video Segmentation for Individuals with ADHD in Computing Education**|Veronica Pimenova et.al.|[2607.24612](http://arxiv.org/abs/2607.24612)|null|
+|**2026-07-27**|**Characterizing In-the-Wild Personal Listening Device Use to Inform Earable Application Design**|Supraja Ramesh et.al.|[2607.24603](http://arxiv.org/abs/2607.24603)|null|
+|**2026-07-27**|**Evaluating the Impact of Explainable AI on Trust in AI-Assisted Code Review**|Zhenhan Gao et.al.|[2607.24601](http://arxiv.org/abs/2607.24601)|null|
+|**2026-07-27**|**Designing Within the Lines: Practitioners' Perspectives and Visualisation Tool Evaluation in the Arabic Context**|Muna Alebri et.al.|[2607.24571](http://arxiv.org/abs/2607.24571)|null|
+|**2026-07-27**|**Proceedings of The First Reflection in Creative Experience (RiCE) Workshop**|Corey Ford et.al.|[2607.24558](http://arxiv.org/abs/2607.24558)|null|
+|**2026-07-27**|**RemiAssist: A Therapist-Supporting System for Photo-Based Reminiscence Therapy in Dementia Care**|Shuchang Xu et.al.|[2607.24536](http://arxiv.org/abs/2607.24536)|null|
+|**2026-07-27**|**Let Me Look at You: Advanced Facial Expression Modeling for Conversational Speech Synthesis**|Yifan Hu et.al.|[2607.24430](http://arxiv.org/abs/2607.24430)|null|
+|**2026-07-27**|**Order-Bound Companionship: The Practice of Emotional Labor in Professional Game Companionship**|Xiaohe Mo et.al.|[2607.24363](http://arxiv.org/abs/2607.24363)|null|
+|**2026-07-27**|**Modeling Duelling Contagions of True and False Information in the Face of Inherent Individual biases**|Vaibhav Krishna et.al.|[2607.24360](http://arxiv.org/abs/2607.24360)|null|
 |**2026-07-24**|**Gridnberg: A Topography-Aware Pedestrian Routing Dataset for New York City**|Ariel Noyman et.al.|[2607.22523](http://arxiv.org/abs/2607.22523)|null|
 |**2026-07-24**|**Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education**|Jennie Ren et.al.|[2607.22463](http://arxiv.org/abs/2607.22463)|null|
 |**2026-07-24**|**Unboxing Diffusion Models for the Arts: Interactive Model Bending and Practice-Based Explainability**|Ahmed M. Abuzuraiq et.al.|[2607.22428](http://arxiv.org/abs/2607.22428)|null|
@@ -3507,7 +3526,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260727>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260728>back to top</a>)</p>
 
 Notes: 
 
