@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.07.28
+### Automatically Updated on 2026.07.29
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-28**|**Schrödinger's Cat: Probabilistic Representation and Prediction of Potential Scene Kinematics**|Timy Phan et.al.|[2607.25984](http://arxiv.org/abs/2607.25984)|null|
+|**2026-07-27**|**Motion Generation With Environmental Constraints**|Előd Páll et.al.|[2607.25053](http://arxiv.org/abs/2607.25053)|null|
 |**2026-07-27**|**Data Pyramid for Embodied Manipulation**|Yifan Ye et.al.|[2607.24744](http://arxiv.org/abs/2607.24744)|null|
 |**2026-07-27**|**τ: Learning Touch-Augmented Vision-Language-Action Models from Future Visual Supervision**|Ning Cheng et.al.|[2607.24485](http://arxiv.org/abs/2607.24485)|null|
 |**2026-07-27**|**Learning Reusable Hybrid Motion Priors for Humanoid Locomotion from Motion Imitation**|Valerio Belli et.al.|[2607.24083](http://arxiv.org/abs/2607.24083)|null|
@@ -2528,6 +2530,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-28**|**LLM4OSC: Profile-Bound Natural Language Control with Deterministic Validation for Open Sound Control**|Yuan-Yi Fan et.al.|[2607.26024](http://arxiv.org/abs/2607.26024)|null|
+|**2026-07-28**|**Who is scientific code for? Maintaining human-readable landmarks in agent-written code**|Elle O'Brien et.al.|[2607.25975](http://arxiv.org/abs/2607.25975)|null|
+|**2026-07-28**|**E-MagDiP: Electro-Magnetic based Differential Privacy for EEG based Community Sensing**|Ayanga Imesha Kumari Kalupahana et.al.|[2607.25968](http://arxiv.org/abs/2607.25968)|null|
+|**2026-07-28**|**Faster, Higher, Stronger? The Impact of GenAI on Knowledge Work Productivity - Evidence from the Field**|Sven Bottesch et.al.|[2607.25922](http://arxiv.org/abs/2607.25922)|null|
+|**2026-07-28**|**AnnoBench: A Benchmark for Visualization Annotation Generation**|Md Rahat-uz-Zaman et.al.|[2607.25911](http://arxiv.org/abs/2607.25911)|null|
+|**2026-07-28**|**AI's Capability in Assisting Scientific Research in Physics, Astrophysics, and Cosmology II: Project Planning and Proposal Evaluation**|Jia Liu et.al.|[2607.25881](http://arxiv.org/abs/2607.25881)|null|
+|**2026-07-28**|**BioDisclose: An Actionability-Aware Benchmark for Biomedical Safety under Adversarial Elicitation**|Yinuo Zhu et.al.|[2607.25700](http://arxiv.org/abs/2607.25700)|null|
+|**2026-07-28**|**A Human-in-the-Loop Corpus for LLM-Based Simplification of Scientific Summaries**|Kyuri Im et.al.|[2607.25630](http://arxiv.org/abs/2607.25630)|null|
+|**2026-07-28**|**Beyond Epistemia: Epistemic Schizologia and Large Language Models as Techno-Semiotic Machines**|Federico Cabitza et.al.|[2607.25620](http://arxiv.org/abs/2607.25620)|null|
+|**2026-07-28**|**"Dragon Slayer Becomes the Dragon": How Players Perceive and Respond to Inequality in the Game World of Whiteout Survival**|Shiyu Lei et.al.|[2607.25574](http://arxiv.org/abs/2607.25574)|null|
 |**2026-07-27**|**Make or Take: How Students Navigate Self-Created and Instructor-Provided Cheat Sheets**|Helen Weixu Chen et.al.|[2607.24736](http://arxiv.org/abs/2607.24736)|null|
 |**2026-07-27**|**Leveling the Playing Field: Temporal Video Segmentation for Individuals with ADHD in Computing Education**|Veronica Pimenova et.al.|[2607.24612](http://arxiv.org/abs/2607.24612)|null|
 |**2026-07-27**|**Characterizing In-the-Wild Personal Listening Device Use to Inform Earable Application Design**|Supraja Ramesh et.al.|[2607.24603](http://arxiv.org/abs/2607.24603)|null|
