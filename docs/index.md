@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.07.29
+### Automatically Updated on 2026.07.30
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-28**|**Two2Four: Generative Quadruped Puppeteering from Human Motion**|Fatemeh Zargarbashi et.al.|[2607.26108](http://arxiv.org/abs/2607.26108)|null|
 |**2026-07-28**|**Schrödinger's Cat: Probabilistic Representation and Prediction of Potential Scene Kinematics**|Timy Phan et.al.|[2607.25984](http://arxiv.org/abs/2607.25984)|null|
 |**2026-07-27**|**Motion Generation With Environmental Constraints**|Előd Páll et.al.|[2607.25053](http://arxiv.org/abs/2607.25053)|null|
 |**2026-07-27**|**Data Pyramid for Embodied Manipulation**|Yifan Ye et.al.|[2607.24744](http://arxiv.org/abs/2607.24744)|null|
@@ -2530,6 +2531,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-29**|**APEX-Accounting**|Julien Benchek et.al.|[2607.27189](http://arxiv.org/abs/2607.27189)|null|
+|**2026-07-29**|**GraphQAG: A Knowledge-Graph-Guided Visual Analytics Framework for Question-Answer Pairs Generation**|Yize Li et.al.|[2607.27182](http://arxiv.org/abs/2607.27182)|null|
+|**2026-07-29**|**The Social Cost of an AI Teammate: How an Artificial Teammate Reshapes Human-Human Communication in Small-Team Decision-Making**|Nia Nixon et.al.|[2607.27179](http://arxiv.org/abs/2607.27179)|null|
+|**2026-07-29**|**Partner Capability Estimation for Task-Agnostic Adaptation in Ad-Hoc Teamwork**|Peter Tisnikar et.al.|[2607.27177](http://arxiv.org/abs/2607.27177)|null|
+|**2026-07-29**|**OmegaUse-OfficeVal: Benchmarking LLM Agents on Long-Horizon Office-Suite Tasks with Economic Grounding**|Jingbo Zhou et.al.|[2607.27155](http://arxiv.org/abs/2607.27155)|null|
+|**2026-07-29**|**TactiPlay: Multi-Granularity Tactical Parsing and Video-Anchored Match Review for Amateur Badminton Players**|Qiaoyi Chen et.al.|[2607.27125](http://arxiv.org/abs/2607.27125)|null|
+|**2026-07-29**|**Human diversity fuels collective creativity that large language models cannot simulate or sustain**|Mengchen Dong et.al.|[2607.26899](http://arxiv.org/abs/2607.26899)|null|
+|**2026-07-29**|**AI as Friction for Reflection Support in Ideation**|Janin Koch et.al.|[2607.26827](http://arxiv.org/abs/2607.26827)|null|
+|**2026-07-29**|**An Attention-Based Framework for Alzheimers Disease Classification Using Resting-State fMRI**|Harshiddhi Pathak et.al.|[2607.26746](http://arxiv.org/abs/2607.26746)|null|
+|**2026-07-29**|**Affective Tools for Thought: Towards Shared Attention and Affective Reorienting in AI-Supported Thinking**|Yifu Liu et.al.|[2607.26731](http://arxiv.org/abs/2607.26731)|null|
 |**2026-07-28**|**LLM4OSC: Profile-Bound Natural Language Control with Deterministic Validation for Open Sound Control**|Yuan-Yi Fan et.al.|[2607.26024](http://arxiv.org/abs/2607.26024)|null|
 |**2026-07-28**|**Who is scientific code for? Maintaining human-readable landmarks in agent-written code**|Elle O'Brien et.al.|[2607.25975](http://arxiv.org/abs/2607.25975)|null|
 |**2026-07-28**|**E-MagDiP: Electro-Magnetic based Differential Privacy for EEG based Community Sensing**|Ayanga Imesha Kumari Kalupahana et.al.|[2607.25968](http://arxiv.org/abs/2607.25968)|null|
