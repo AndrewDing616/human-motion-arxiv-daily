@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.07.30
+### Automatically Updated on 2026.07.31
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-30**|**A reduced viscoelastic FDTD formulation for ultrasound-driven shear wave propagation in soft tissue**|Gianmarco Pinton et.al.|[2607.28414](http://arxiv.org/abs/2607.28414)|null|
+|**2026-07-30**|**TacWAM: Anchor-Guided World Action Model with Mechanics-Aware Tactile Prediction**|Lei Jin et.al.|[2607.28391](http://arxiv.org/abs/2607.28391)|null|
+|**2026-07-30**|**Learning to Understand Body Language from Flight through Robust 3D Avatar Placing**|Dragos Costea et.al.|[2607.27865](http://arxiv.org/abs/2607.27865)|null|
+|**2026-07-30**|**MUGEN: A Unified Framework for Efficient Motion Understanding and Generation**|Zhankai Ye et.al.|[2607.27581](http://arxiv.org/abs/2607.27581)|null|
+|**2026-07-29**|**SciDataSailor: Deep Scientific Data Exploring**|Jiyong Rao et.al.|[2607.28098](http://arxiv.org/abs/2607.28098)|null|
+|**2026-07-29**|**SKY-Piano: A Multimodal Piano Performance Dataset**|Joonhyung Bae et.al.|[2607.27296](http://arxiv.org/abs/2607.27296)|null|
 |**2026-07-28**|**Two2Four: Generative Quadruped Puppeteering from Human Motion**|Fatemeh Zargarbashi et.al.|[2607.26108](http://arxiv.org/abs/2607.26108)|null|
 |**2026-07-28**|**Schrödinger's Cat: Probabilistic Representation and Prediction of Potential Scene Kinematics**|Timy Phan et.al.|[2607.25984](http://arxiv.org/abs/2607.25984)|null|
 |**2026-07-27**|**Motion Generation With Environmental Constraints**|Előd Páll et.al.|[2607.25053](http://arxiv.org/abs/2607.25053)|null|
@@ -2038,6 +2044,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-30**|**ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine**|Yukang Cao et.al.|[2607.28625](http://arxiv.org/abs/2607.28625)|null|
 |**2026-07-21**|**Crowd4D: Scene-Aware Monocular 4D Crowd Reconstruction**|Hongbo Kang et.al.|[2607.19517](http://arxiv.org/abs/2607.19517)|null|
 |**2026-07-15**|**EgoHTR: Egocentric 4D Demonstrations of Human Terrain Traversal**|Alex Brandes et.al.|[2607.13472](http://arxiv.org/abs/2607.13472)|null|
 |**2026-07-10**|**4D Human-Scene Reconstruction from Low-Overlap Captures**|Minhyuk Hwang et.al.|[2607.09125](http://arxiv.org/abs/2607.09125)|null|
@@ -2203,8 +2210,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-30**|**AgentHOI: Multi-Agent Reasoning for Human-Object-Interaction Video Generation via Implicit Representation Alignment**|Ziyao Huang et.al.|[2607.22241](http://arxiv.org/abs/2607.22241)|null|
 |**2026-07-26**|**Real-Time Human-Centric World Modeling for Upper-Body Human-Object Interaction**|Chaonan Ji et.al.|[2607.23517](http://arxiv.org/abs/2607.23517)|null|
-|**2026-07-24**|**AgentHOI: Multi-Agent Reasoning for Human-Object-Interaction Video Generation via Implicit Representation Alignment**|Ziyao Huang et.al.|[2607.22241](http://arxiv.org/abs/2607.22241)|null|
 |**2026-07-22**|**StreamHOI: Interaction-aware Temporal Memory Adaptation for Streaming HOI Video Generation**|Zejing Rao et.al.|[2607.20174](http://arxiv.org/abs/2607.20174)|null|
 |**2026-07-21**|**HOMIE: Human-object Centric Video Personalization via Multimodal Intelligent Enhancement**|Yiyang Cai et.al.|[2607.18217](http://arxiv.org/abs/2607.18217)|null|
 |**2026-07-17**|**MotionForesight: Re-purposing Video Models for Future 3D Scene-Flow Prediction**|Homanga Bharadhwaj et.al.|[2607.16192](http://arxiv.org/abs/2607.16192)|null|
@@ -2531,6 +2538,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-30**|**AISPA: User-Centric System Prompt Auditing for Large Language Model Applications**|Xiangning Lin et.al.|[2607.28617](http://arxiv.org/abs/2607.28617)|null|
+|**2026-07-30**|**CrossAtlas: Evaluating Projection Techniques for Spatial Referencing in Cross-Reality Collaboration**|Haoyang Yang et.al.|[2607.28583](http://arxiv.org/abs/2607.28583)|null|
+|**2026-07-30**|**Multi-Session User Experience Assessments of Computationally Optimized Automated Vehicle Functionality Visualizations**|Mark Colley et.al.|[2607.28552](http://arxiv.org/abs/2607.28552)|null|
+|**2026-07-30**|**Effects of Auditory Information for People With Visual Impairments in Highly Automated Vehicles**|Mark Colley et.al.|[2607.28544](http://arxiv.org/abs/2607.28544)|null|
+|**2026-07-30**|**Snapshot plots: displaying summary tables as parallel univariate plots with consistent color highlighting**|Matthias Schonlau et.al.|[2607.28302](http://arxiv.org/abs/2607.28302)|null|
+|**2026-07-30**|**Identifying a Level-up Pathway for AI-assisted Counterspeech through Elaboration**|Han Li et.al.|[2607.28239](http://arxiv.org/abs/2607.28239)|null|
+|**2026-07-30**|**Toward Annotation-Efficient Continuous Emotion Arousal Quantification via Group-Level EEG Dynamic Neural Synchrony**|Guandong Pan et.al.|[2607.28204](http://arxiv.org/abs/2607.28204)|null|
+|**2026-07-30**|**Student Perceptions and Preferences Regarding AI-Generated Instructional Videos in Computing Education**|Esse Ciego et.al.|[2607.28203](http://arxiv.org/abs/2607.28203)|null|
+|**2026-07-30**|**A Mathematical Framework for Reading the Autopsias' Meta - Compositional System**|Patricio F. Calatayud et.al.|[2607.28155](http://arxiv.org/abs/2607.28155)|null|
+|**2026-07-30**|**Investigating Effective Uncertainty Visualizations for Ordinal Crowdsourced Data of Crowding Conditions**|Bea Alexis Arcega et.al.|[2607.28072](http://arxiv.org/abs/2607.28072)|null|
 |**2026-07-29**|**APEX-Accounting**|Julien Benchek et.al.|[2607.27189](http://arxiv.org/abs/2607.27189)|null|
 |**2026-07-29**|**GraphQAG: A Knowledge-Graph-Guided Visual Analytics Framework for Question-Answer Pairs Generation**|Yize Li et.al.|[2607.27182](http://arxiv.org/abs/2607.27182)|null|
 |**2026-07-29**|**The Social Cost of an AI Teammate: How an Artificial Teammate Reshapes Human-Human Communication in Small-Team Decision-Making**|Nia Nixon et.al.|[2607.27179](http://arxiv.org/abs/2607.27179)|null|
