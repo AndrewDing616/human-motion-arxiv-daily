@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.08.02
+### Automatically Updated on 2026.08.03
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-31**|**STAGE: STyle-controllable Action GEneration for personalized autonomous driving**|Zihao Liu et.al.|[2607.29517](http://arxiv.org/abs/2607.29517)|null|
+|**2026-07-31**|**Temporal Policy: History-Initialized Action Generation for Robotic Learning from Demonstration**|Dylan Miller et.al.|[2607.29482](http://arxiv.org/abs/2607.29482)|null|
+|**2026-07-31**|**MoRAE: Flow-Friendly Self-Supervised Latents for Text-to-Motion Generation**|Yifei Zhu et.al.|[2607.29180](http://arxiv.org/abs/2607.29180)|null|
+|**2026-07-31**|**Interactive Generative Motion Editing via Scheduled Inpainting**|Dhruv Agrawal et.al.|[2607.29133](http://arxiv.org/abs/2607.29133)|null|
 |**2026-07-30**|**A reduced viscoelastic FDTD formulation for ultrasound-driven shear wave propagation in soft tissue**|Gianmarco Pinton et.al.|[2607.28414](http://arxiv.org/abs/2607.28414)|null|
 |**2026-07-30**|**TacWAM: Anchor-Guided World Action Model with Mechanics-Aware Tactile Prediction**|Lei Jin et.al.|[2607.28391](http://arxiv.org/abs/2607.28391)|null|
 |**2026-07-30**|**Learning to Understand Body Language from Flight through Robust 3D Avatar Placing**|Dragos Costea et.al.|[2607.27865](http://arxiv.org/abs/2607.27865)|null|
@@ -2538,6 +2542,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-31**|**Data Visualization Style Guides in Practice: Why They Emerge, How They Work, and When They Bend**|Alvitta Ottley et.al.|[2607.29645](http://arxiv.org/abs/2607.29645)|null|
+|**2026-07-31**|**The Theoretical Foundation of Socratic Tests: Dynamic, Multimodal, Conversational Examinations**|Ilya Mikhelson et.al.|[2607.29624](http://arxiv.org/abs/2607.29624)|null|
+|**2026-07-31**|**FriendBench: Benchmarking Dyadic Familiarity Inference in Humans and Multimodal Large Language Models**|Jeffrey M. Girard et.al.|[2607.29602](http://arxiv.org/abs/2607.29602)|null|
+|**2026-07-31**|**Triangulating Across U.S. Federal AI Transparency Regimes**|Emma Lurie et.al.|[2607.29540](http://arxiv.org/abs/2607.29540)|null|
+|**2026-07-31**|**STAGE: STyle-controllable Action GEneration for personalized autonomous driving**|Zihao Liu et.al.|[2607.29517](http://arxiv.org/abs/2607.29517)|null|
+|**2026-07-31**|**Exploratory Integration of EEG Spectral Features and Gaze Variability for Mild Cognitive Impairment Discrimination**|Takeru Mukunoki et.al.|[2607.29493](http://arxiv.org/abs/2607.29493)|null|
+|**2026-07-31**|**An Algorithmic Perspective on Information Visualization**|Wouter Meulemans et.al.|[2607.29360](http://arxiv.org/abs/2607.29360)|null|
+|**2026-07-31**|**The persuasive power of large language models does not depend on their perceived national origin**|Ningzhi Liu et.al.|[2607.29334](http://arxiv.org/abs/2607.29334)|null|
+|**2026-07-31**|**Hypergamigication Through Integrating Game Engines and Learning Management Systems: Ender's Game**|Araz Yusubov et.al.|[2607.29300](http://arxiv.org/abs/2607.29300)|null|
+|**2026-07-31**|**Language Models Agree With Each Other, Not With Readers**|Kazuki Nakayashiki et.al.|[2607.29274](http://arxiv.org/abs/2607.29274)|null|
 |**2026-07-30**|**AISPA: User-Centric System Prompt Auditing for Large Language Model Applications**|Xiangning Lin et.al.|[2607.28617](http://arxiv.org/abs/2607.28617)|null|
 |**2026-07-30**|**CrossAtlas: Evaluating Projection Techniques for Spatial Referencing in Cross-Reality Collaboration**|Haoyang Yang et.al.|[2607.28583](http://arxiv.org/abs/2607.28583)|null|
 |**2026-07-30**|**Multi-Session User Experience Assessments of Computationally Optimized Automated Vehicle Functionality Visualizations**|Mark Colley et.al.|[2607.28552](http://arxiv.org/abs/2607.28552)|null|
