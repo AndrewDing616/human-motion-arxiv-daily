@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.08.03
+### Automatically Updated on 2026.08.04
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-03**|**ChainVLA: Chaining Vision-Language-Action Queries through a Unified Execution State for Long-Horizon Manipulation**|Yuzhi Huang et.al.|[2608.02326](http://arxiv.org/abs/2608.02326)|null|
+|**2026-08-03**|**Sen-Cap: Sensor-Flexible and Noise-Resilient Human Motion Capture via LiDAR-Camera Integration**|Aoru Xue et.al.|[2608.02285](http://arxiv.org/abs/2608.02285)|null|
+|**2026-08-03**|**Learning Panorama-Aware VLA for Mobile Manipulation with Whole-Body Teleoperation**|Donglin Yang et.al.|[2608.02257](http://arxiv.org/abs/2608.02257)|null|
+|**2026-08-03**|**GenPrior: Unleashing Text-to-Motion Generative Priors for Zero-Shot Skeleton-based Action Recognition**|Jidong Kuang et.al.|[2608.02236](http://arxiv.org/abs/2608.02236)|null|
+|**2026-08-03**|**Look Where It Matters: Adaptive Visual Refinement for Vision-Language-Action Models**|Jin Cui et.al.|[2608.02197](http://arxiv.org/abs/2608.02197)|null|
+|**2026-08-03**|**Band topology and symmetry-driven magneto-optical response in two-dimensional d-wave altermagnets with staggered spin-orbit coupling**|Meysam Bagheri Tagani Carmine Autieri et.al.|[2608.02155](http://arxiv.org/abs/2608.02155)|null|
+|**2026-08-03**|**MemArbiter: Decision-Time Memory Arbitration for Long-Horizon LLM Agents**|Jiajun Dong et.al.|[2608.02113](http://arxiv.org/abs/2608.02113)|null|
+|**2026-08-03**|**Proxy Avatar Meets Low-Rank Caching: Real-Time One-Shot Emotion-Controllable Portrait Animation**|Haijie Yang et.al.|[2608.01978](http://arxiv.org/abs/2608.01978)|null|
+|**2026-08-03**|**UniMoCa: Unifying Motion and Camera Controls as Visual Proxies for Faithful Human Video Generation**|Liming Tan et.al.|[2608.01944](http://arxiv.org/abs/2608.01944)|null|
+|**2026-08-03**|**ReTouch: Empowering Contact-Rich Dexterous Manipulation with Online-Refined Tactile Prediction**|Shiqi Zhang et.al.|[2608.01824](http://arxiv.org/abs/2608.01824)|null|
 |**2026-07-31**|**STAGE: STyle-controllable Action GEneration for personalized autonomous driving**|Zihao Liu et.al.|[2607.29517](http://arxiv.org/abs/2607.29517)|null|
 |**2026-07-31**|**Temporal Policy: History-Initialized Action Generation for Robotic Learning from Demonstration**|Dylan Miller et.al.|[2607.29482](http://arxiv.org/abs/2607.29482)|null|
 |**2026-07-31**|**MoRAE: Flow-Friendly Self-Supervised Latents for Text-to-Motion Generation**|Yifei Zhu et.al.|[2607.29180](http://arxiv.org/abs/2607.29180)|null|
@@ -2214,6 +2224,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-31**|**RF-HOI: Recognize Human-Object Interaction with Radio Frequency Signals**|Lihao Wang et.al.|[2608.00289](http://arxiv.org/abs/2608.00289)|null|
 |**2026-07-30**|**AgentHOI: Multi-Agent Reasoning for Human-Object-Interaction Video Generation via Implicit Representation Alignment**|Ziyao Huang et.al.|[2607.22241](http://arxiv.org/abs/2607.22241)|null|
 |**2026-07-26**|**Real-Time Human-Centric World Modeling for Upper-Body Human-Object Interaction**|Chaonan Ji et.al.|[2607.23517](http://arxiv.org/abs/2607.23517)|null|
 |**2026-07-22**|**StreamHOI: Interaction-aware Temporal Memory Adaptation for Streaming HOI Video Generation**|Zejing Rao et.al.|[2607.20174](http://arxiv.org/abs/2607.20174)|null|
@@ -2542,6 +2553,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-03**|**Decomposing the Doer Effect in Programming Practice: Code Writing Stands Out Among Active Practice**|Arun Balajiee Lekshmi Narayanan et.al.|[2608.02541](http://arxiv.org/abs/2608.02541)|null|
+|**2026-08-03**|**On Defining Chart Types Boundaries**|Chang Han et.al.|[2608.02512](http://arxiv.org/abs/2608.02512)|null|
+|**2026-08-03**|**WIP: Chat-Debugging: Large Language Model as a Hardware Debugging Assistant**|Andrew Ash et.al.|[2608.02420](http://arxiv.org/abs/2608.02420)|null|
+|**2026-08-03**|**Embodied Empathy: A Multimodal AR and LLM-Powered System for Self-Attachment Psychotherapy with Self-Initiated Humour**|Xinyan Ye et.al.|[2608.02283](http://arxiv.org/abs/2608.02283)|null|
+|**2026-08-03**|**ManyFold: A Design Exploration of Data Visualization on Foldable Mobile Devices**|Julian Baader et.al.|[2608.02232](http://arxiv.org/abs/2608.02232)|null|
+|**2026-08-03**|**From Information to Delegation: Mapping Human-AI Financial Decision Making**|Iman Munire Bilal et.al.|[2608.02100](http://arxiv.org/abs/2608.02100)|null|
+|**2026-08-03**|**A 2-Block Architecture for Real-Time EEG Gait Decoding: A Pilot Study**|Shantanu Sarkar et.al.|[2608.02083](http://arxiv.org/abs/2608.02083)|null|
+|**2026-08-03**|**HaptoFlow: High-Fidelity Real-Time Vibrotactile Generation via Flow Matching for Virtual Reality**|Michikuni Eguchi et.al.|[2608.01974](http://arxiv.org/abs/2608.01974)|null|
+|**2026-08-03**|**3D Gaussian Splatting and Mesh-Based Digital Twins: An Exploratory Study for Virtual Reality Tourism**|Maximilian Warsinke et.al.|[2608.01969](http://arxiv.org/abs/2608.01969)|null|
+|**2026-08-03**|**Emotional Expression in Persuasion by Quadruped Virtual Agents: Toward Cross-Species Design Patterns**|Kaoru Sumi et.al.|[2608.01895](http://arxiv.org/abs/2608.01895)|null|
 |**2026-07-31**|**Data Visualization Style Guides in Practice: Why They Emerge, How They Work, and When They Bend**|Alvitta Ottley et.al.|[2607.29645](http://arxiv.org/abs/2607.29645)|null|
 |**2026-07-31**|**The Theoretical Foundation of Socratic Tests: Dynamic, Multimodal, Conversational Examinations**|Ilya Mikhelson et.al.|[2607.29624](http://arxiv.org/abs/2607.29624)|null|
 |**2026-07-31**|**FriendBench: Benchmarking Dyadic Familiarity Inference in Humans and Multimodal Large Language Models**|Jeffrey M. Girard et.al.|[2607.29602](http://arxiv.org/abs/2607.29602)|null|
