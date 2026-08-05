@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.08.04
+### Automatically Updated on 2026.08.05
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,7 +959,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-08-03**|**ChainVLA: Chaining Vision-Language-Action Queries through a Unified Execution State for Long-Horizon Manipulation**|Yuzhi Huang et.al.|[2608.02326](http://arxiv.org/abs/2608.02326)|null|
+|**2026-08-04**|**EvoHIL: Self-Evolving Reward and Flow-Matched Policy Optimization for Robust Human-in-the-Loop Reinforcement Learning**|Shuoqin Zhang et.al.|[2608.03872](http://arxiv.org/abs/2608.03872)|null|
+|**2026-08-04**|**LiLa-WAM: Lightweight Latent Reasoning World-Action Model for Robotic Manipulation**|Fan Yang et.al.|[2608.03701](http://arxiv.org/abs/2608.03701)|null|
+|**2026-08-04**|**Learning Biomechanically Plausible Human Motion from Sparse Radar Point Clouds**|Jonas Leo Mueller et.al.|[2608.03637](http://arxiv.org/abs/2608.03637)|null|
+|**2026-08-04**|**Residual Flow Matching with Dynamic Cross-Interaction for 3D Multi-Person Motion Prediction**|Wei Wei et.al.|[2608.03379](http://arxiv.org/abs/2608.03379)|null|
+|**2026-08-04**|**UniNav: A Unified World-Action Diffusion Model for Visual Navigation**|Changqing Zhou et.al.|[2608.03244](http://arxiv.org/abs/2608.03244)|null|
+|**2026-08-04**|**From Routes to Steps: Separating Semantic Progress from Local Execution in Vision-and-Language Navigation**|Xiangyun Huang et.al.|[2608.03143](http://arxiv.org/abs/2608.03143)|null|
+|**2026-08-04**|**How Should Vision-Language-Action Models Use Proprioceptive State?**|Yiren Zhao et.al.|[2608.03052](http://arxiv.org/abs/2608.03052)|null|
+|**2026-08-04**|**ChainVLA: Chaining Vision-Language-Action Queries through a Unified Execution State for Long-Horizon Manipulation**|Yuzhi Huang et.al.|[2608.02326](http://arxiv.org/abs/2608.02326)|null|
 |**2026-08-03**|**Sen-Cap: Sensor-Flexible and Noise-Resilient Human Motion Capture via LiDAR-Camera Integration**|Aoru Xue et.al.|[2608.02285](http://arxiv.org/abs/2608.02285)|null|
 |**2026-08-03**|**Learning Panorama-Aware VLA for Mobile Manipulation with Whole-Body Teleoperation**|Donglin Yang et.al.|[2608.02257](http://arxiv.org/abs/2608.02257)|null|
 |**2026-08-03**|**GenPrior: Unleashing Text-to-Motion Generative Priors for Zero-Shot Skeleton-based Action Recognition**|Jidong Kuang et.al.|[2608.02236](http://arxiv.org/abs/2608.02236)|null|
@@ -2224,6 +2231,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-04**|**Surface Keypoint Representation for Multi-Object and Articulated Human-Object Interaction Generation**|Xiaogang Peng et.al.|[2608.03158](http://arxiv.org/abs/2608.03158)|null|
 |**2026-07-31**|**RF-HOI: Recognize Human-Object Interaction with Radio Frequency Signals**|Lihao Wang et.al.|[2608.00289](http://arxiv.org/abs/2608.00289)|null|
 |**2026-07-30**|**AgentHOI: Multi-Agent Reasoning for Human-Object-Interaction Video Generation via Implicit Representation Alignment**|Ziyao Huang et.al.|[2607.22241](http://arxiv.org/abs/2607.22241)|null|
 |**2026-07-26**|**Real-Time Human-Centric World Modeling for Upper-Body Human-Object Interaction**|Chaonan Ji et.al.|[2607.23517](http://arxiv.org/abs/2607.23517)|null|
@@ -2553,6 +2561,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-04**|**Calibrating Trustworthiness: Co-Designing Metrics and Visualizations for Evaluating LLMs in Education**|Adam Coscia et.al.|[2608.04006](http://arxiv.org/abs/2608.04006)|null|
+|**2026-08-04**|**Semantic Bundling: Interactive Node and Edge Bundling to Simplify Knowledge Graphs using Large Language Models**|Adam Coscia et.al.|[2608.04002](http://arxiv.org/abs/2608.04002)|null|
+|**2026-08-04**|**How Usable Are Geospatial Foundation Models? A Systematic Evaluation of 89 Models**|Robin Young et.al.|[2608.03804](http://arxiv.org/abs/2608.03804)|null|
+|**2026-08-04**|**From Social Coding to Agentic Coding: Productivity and Relational Reconfiguration in Open-Source Communities**|Mengying Zhou et.al.|[2608.03585](http://arxiv.org/abs/2608.03585)|null|
+|**2026-08-04**|**Designing and Evaluating Granular Consent for Data Sharing in Cardiac Disease Prevention**|Pavithren V S Pakianathan et.al.|[2608.03533](http://arxiv.org/abs/2608.03533)|null|
+|**2026-08-04**|**ChartAnno: Evaluating MLLMs for Chart Annotation Generation**|Zhenghan Chen et.al.|[2608.03464](http://arxiv.org/abs/2608.03464)|null|
+|**2026-08-04**|**When AI Joins the Team! A Model of How AI Adoption Relates To Social Patterns in Software Engineering Teams**|Giusy Annunziata et.al.|[2608.03462](http://arxiv.org/abs/2608.03462)|null|
+|**2026-08-04**|**Cross-cultural evaluation of taste-sound correspondences in AI-generated music**|Matteo Spanio et.al.|[2608.03433](http://arxiv.org/abs/2608.03433)|null|
+|**2026-08-04**|**Residual Flow Matching with Dynamic Cross-Interaction for 3D Multi-Person Motion Prediction**|Wei Wei et.al.|[2608.03379](http://arxiv.org/abs/2608.03379)|null|
+|**2026-08-04**|**From Wearable Data to Personalized and Actionable Health Insights**|Esther Brown et.al.|[2608.03251](http://arxiv.org/abs/2608.03251)|null|
 |**2026-08-03**|**Decomposing the Doer Effect in Programming Practice: Code Writing Stands Out Among Active Practice**|Arun Balajiee Lekshmi Narayanan et.al.|[2608.02541](http://arxiv.org/abs/2608.02541)|null|
 |**2026-08-03**|**On Defining Chart Types Boundaries**|Chang Han et.al.|[2608.02512](http://arxiv.org/abs/2608.02512)|null|
 |**2026-08-03**|**WIP: Chat-Debugging: Large Language Model as a Hardware Debugging Assistant**|Andrew Ash et.al.|[2608.02420](http://arxiv.org/abs/2608.02420)|null|
