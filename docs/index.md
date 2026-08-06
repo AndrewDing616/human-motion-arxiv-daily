@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.08.05
+### Automatically Updated on 2026.08.06
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-05**|**Robust and Efficient Motion Reasoning for Privacy-Aware Classroom Incident Recognition**|Paritosh Parmar et.al.|[2608.05115](http://arxiv.org/abs/2608.05115)|null|
+|**2026-08-05**|**GASP: GPU-Accelerated Safe Planner for Real-Time Collision-Aware Motion Generation with Latent Trajectory Sampling**|Colin Merk et.al.|[2608.04612](http://arxiv.org/abs/2608.04612)|null|
+|**2026-08-05**|**CofactVLA: Deconfounding Vision-Language-Action Models via Counterfactual Intervention**|Yan Zhang et.al.|[2608.04396](http://arxiv.org/abs/2608.04396)|null|
+|**2026-08-04**|**Teaching Foundation Models to Read mmWave: Pose-Guided Kinematic Representation for Human Behavior Understanding**|Duo Zhang et.al.|[2608.04127](http://arxiv.org/abs/2608.04127)|null|
 |**2026-08-04**|**EvoHIL: Self-Evolving Reward and Flow-Matched Policy Optimization for Robust Human-in-the-Loop Reinforcement Learning**|Shuoqin Zhang et.al.|[2608.03872](http://arxiv.org/abs/2608.03872)|null|
 |**2026-08-04**|**LiLa-WAM: Lightweight Latent Reasoning World-Action Model for Robotic Manipulation**|Fan Yang et.al.|[2608.03701](http://arxiv.org/abs/2608.03701)|null|
 |**2026-08-04**|**Learning Biomechanically Plausible Human Motion from Sparse Radar Point Clouds**|Jonas Leo Mueller et.al.|[2608.03637](http://arxiv.org/abs/2608.03637)|null|
@@ -2561,6 +2565,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-05**|**DeepConnect: A Visual Analytics System for Bridging Interdisciplinary Research Collaborations**|Yingchaojie Feng et.al.|[2608.05134](http://arxiv.org/abs/2608.05134)|null|
+|**2026-08-05**|**Characterizing Visual Accessibility Issues in AI Developer Tools: An Empirical Study**|Sabrina Haque et.al.|[2608.05116](http://arxiv.org/abs/2608.05116)|null|
+|**2026-08-05**|**Robust and Efficient Motion Reasoning for Privacy-Aware Classroom Incident Recognition**|Paritosh Parmar et.al.|[2608.05115](http://arxiv.org/abs/2608.05115)|null|
+|**2026-08-05**|**ArtAnno: Annotating Implicit Semantics in Artworks through LLM Agent-Driven Bidirectional Human-AI Augmentation**|Xiaoyan Gu et.al.|[2608.05026](http://arxiv.org/abs/2608.05026)|null|
+|**2026-08-05**|**Exploring Cross-Reality Transitions between Projections and Head-Mounted Displays for Immersive Digital Art**|Xiangpeng Fu et.al.|[2608.04971](http://arxiv.org/abs/2608.04971)|null|
+|**2026-08-05**|**Reply, Delete, or Ignore? Examining How Content Creators Perceive and Select Comment Moderation Strategies**|Yunhee Shim et.al.|[2608.04951](http://arxiv.org/abs/2608.04951)|null|
+|**2026-08-05**|**Transition Techniques for Externally-Guided Multi-Scale Viewpoint Changes**|Matt Gottsacker et.al.|[2608.04912](http://arxiv.org/abs/2608.04912)|null|
+|**2026-08-05**|**AutoCue: Multimodal LLM-Assisted Externalization of Implicit Inputs as Instructional Visual Cues in Screencast Tutorials**|Shengyang Luo et.al.|[2608.04910](http://arxiv.org/abs/2608.04910)|null|
+|**2026-08-05**|**Exploring Fraction Comprehension and Interest in Elementary Education Through AI-Powered Personalized Learning**|Kenneth Holman et.al.|[2608.04892](http://arxiv.org/abs/2608.04892)|null|
+|**2026-08-05**|**Investigating Click Behaviors On Google Search Result Pages That Produce an AI Overview**|Athena Chapekis et.al.|[2608.04831](http://arxiv.org/abs/2608.04831)|null|
 |**2026-08-04**|**Calibrating Trustworthiness: Co-Designing Metrics and Visualizations for Evaluating LLMs in Education**|Adam Coscia et.al.|[2608.04006](http://arxiv.org/abs/2608.04006)|null|
 |**2026-08-04**|**Semantic Bundling: Interactive Node and Edge Bundling to Simplify Knowledge Graphs using Large Language Models**|Adam Coscia et.al.|[2608.04002](http://arxiv.org/abs/2608.04002)|null|
 |**2026-08-04**|**How Usable Are Geospatial Foundation Models? A Systematic Evaluation of 89 Models**|Robin Young et.al.|[2608.03804](http://arxiv.org/abs/2608.03804)|null|
