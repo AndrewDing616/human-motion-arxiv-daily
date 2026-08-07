@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.08.06
+### Automatically Updated on 2026.08.07
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-06**|**$ω$ -0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation**|Zhe Li et.al.|[2608.06375](http://arxiv.org/abs/2608.06375)|null|
+|**2026-08-06**|**Beyond Flat Policies: Hierarchical Post-Training for Embodied Agents in Robotic Manipulation**|He Kong et.al.|[2608.05999](http://arxiv.org/abs/2608.05999)|null|
+|**2026-08-06**|**A floor and a ceiling for the advancing contact angle**|Yong Sung Park et.al.|[2608.05515](http://arxiv.org/abs/2608.05515)|null|
+|**2026-08-05**|**World-to-Wrist: Task-Conditioned Future Wrist Modeling for Fine-Grained Robot Manipulation**|Yuhao Pan et.al.|[2608.05369](http://arxiv.org/abs/2608.05369)|null|
 |**2026-08-05**|**Robust and Efficient Motion Reasoning for Privacy-Aware Classroom Incident Recognition**|Paritosh Parmar et.al.|[2608.05115](http://arxiv.org/abs/2608.05115)|null|
 |**2026-08-05**|**GASP: GPU-Accelerated Safe Planner for Real-Time Collision-Aware Motion Generation with Latent Trajectory Sampling**|Colin Merk et.al.|[2608.04612](http://arxiv.org/abs/2608.04612)|null|
 |**2026-08-05**|**CofactVLA: Deconfounding Vision-Language-Action Models via Counterfactual Intervention**|Yan Zhang et.al.|[2608.04396](http://arxiv.org/abs/2608.04396)|null|
@@ -1120,7 +1124,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260806>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260807>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -1288,7 +1292,7 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260806>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260807>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
@@ -1620,12 +1624,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260806>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260807>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-06**|**MASS: Multiplayer World Models with Authoritative Shared State**|Ziqi Cai et.al.|[2608.06257](http://arxiv.org/abs/2608.06257)|null|
+|**2026-08-06**|**Robot Learning from Human Demonstrations: Handwritten Alphabet Trajectories and Human-Likeness Evaluation**|Alperen Kenan et.al.|[2608.06221](http://arxiv.org/abs/2608.06221)|null|
+|**2026-08-06**|**Design and Evaluation of a Touchscreen-Based Teleoperation Interface for Robotic Manipulators**|Juan José García Cárdenas et.al.|[2608.06219](http://arxiv.org/abs/2608.06219)|null|
+|**2026-08-06**|**What Current AI Benchmarks Leave Unmeasured: Modality, Search, Citations, and Implications (for Safety Evaluations)**|Ro Encarnación et.al.|[2608.06202](http://arxiv.org/abs/2608.06202)|null|
+|**2026-08-06**|**Reducing belief in conspiracy theories as they unfold using large language models**|Thomas H. Costello et.al.|[2608.06151](http://arxiv.org/abs/2608.06151)|null|
+|**2026-08-06**|**Decolonizing Linguistic Policies in Automated Speech Recognition: A Framework for Cross-Culturally Competent Speech AI**|Jay L. Cunningham et.al.|[2608.06141](http://arxiv.org/abs/2608.06141)|null|
+|**2026-08-06**|**Divergent Perceptuomotor Recalibration in Virtual Reality and Video-Passthrough Mixed Reality on the Same Head-Mounted Display**|Xiaoye Michael Wang et.al.|[2608.06132](http://arxiv.org/abs/2608.06132)|null|
+|**2026-08-06**|**"I don't know anything about laptops!" - User Perception of Digital Product Advisors Adapting to Their Knowledge Levels**|Kevin Schott et.al.|[2608.06091](http://arxiv.org/abs/2608.06091)|null|
+|**2026-08-06**|**Cleo: A Transparent and Controllable Chatbot for Conversational Commerce**|Kevin Schott et.al.|[2608.06068](http://arxiv.org/abs/2608.06068)|null|
+|**2026-08-06**|**FormBharo: Designing and Evaluating a Voice Agent for Conversational Form Filling in Rural India**|Aman Dalmia et.al.|[2608.06027](http://arxiv.org/abs/2608.06027)|null|
 |**2026-08-05**|**DeepConnect: A Visual Analytics System for Bridging Interdisciplinary Research Collaborations**|Yingchaojie Feng et.al.|[2608.05134](http://arxiv.org/abs/2608.05134)|null|
 |**2026-08-05**|**Characterizing Visual Accessibility Issues in AI Developer Tools: An Empirical Study**|Sabrina Haque et.al.|[2608.05116](http://arxiv.org/abs/2608.05116)|null|
 |**2026-08-05**|**Robust and Efficient Motion Reasoning for Privacy-Aware Classroom Incident Recognition**|Paritosh Parmar et.al.|[2608.05115](http://arxiv.org/abs/2608.05115)|null|
@@ -3633,7 +3647,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260806>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260807>back to top</a>)</p>
 
 Notes: 
 
