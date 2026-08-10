@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.08.09
+### Automatically Updated on 2026.08.10
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-07**|**WNM-3D: A World Navigation Model with 3D Scene Conditioning for Closed-Loop VLN**|Yuehao Huang et.al.|[2608.07267](http://arxiv.org/abs/2608.07267)|null|
+|**2026-08-07**|**Decoupling Intention from Trajectory: A Representational Deduction Framework for World Action Models**|Xiangkai Ma et.al.|[2608.06994](http://arxiv.org/abs/2608.06994)|null|
+|**2026-08-07**|**CustomDance: Customized 3D Dance Generation with Coarse-to-Fine Human-Centered Interactive Control**|Xulong Tang et.al.|[2608.06722](http://arxiv.org/abs/2608.06722)|null|
 |**2026-08-06**|**$ω$ -0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation**|Zhe Li et.al.|[2608.06375](http://arxiv.org/abs/2608.06375)|null|
 |**2026-08-06**|**Beyond Flat Policies: Hierarchical Post-Training for Embodied Agents in Robotic Manipulation**|He Kong et.al.|[2608.05999](http://arxiv.org/abs/2608.05999)|null|
 |**2026-08-06**|**A floor and a ceiling for the advancing contact angle**|Yong Sung Park et.al.|[2608.05515](http://arxiv.org/abs/2608.05515)|null|
@@ -1124,7 +1127,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260809>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260810>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -1292,7 +1295,7 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260809>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260810>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
@@ -1624,12 +1627,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260809>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260810>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-07**|**PsychoAgent: An Affect-Sensitive Cognitive Architecture for Conflict-Aware Memory in LLM Agents**|Mohammad Amanlou et.al.|[2608.07438](http://arxiv.org/abs/2608.07438)|null|
+|**2026-08-07**|**Hands-Off or Hands-On? Variation in Area Chair Practices and Implications for AI Support**|Ines Arous et.al.|[2608.07425](http://arxiv.org/abs/2608.07425)|null|
+|**2026-08-07**|**Uncovering expert objectives in production planning via inverse optimization: An industrial case study**|Shivi Dixit et.al.|[2608.07398](http://arxiv.org/abs/2608.07398)|null|
+|**2026-08-07**|**Beyond Call and Response: Modelling Reciprocal Coordination in Human-AI Vocal Ensembles**|Polina Proutskova et.al.|[2608.07376](http://arxiv.org/abs/2608.07376)|null|
+|**2026-08-07**|**Incidental Visualizations: Augmented Reality as a Medium for Contextual Information**|Matilde Heitor et.al.|[2608.07271](http://arxiv.org/abs/2608.07271)|null|
+|**2026-08-07**|**Exact Computation of Trait-induced Merge Trees for Bivariate Fields**|Petar Hristov et.al.|[2608.07181](http://arxiv.org/abs/2608.07181)|null|
+|**2026-08-07**|**PHOENIX: Fine-Tuned SLM-Powered Autonomous Satellite Lifetime Extension via Predictive Self-Healing and Multi-Agent AI Recovery**|Sumaiya Islam et.al.|[2608.07126](http://arxiv.org/abs/2608.07126)|null|
+|**2026-08-07**|**Thermodynamic Human-Computer Interaction**|Uzafir Ahmad Rafaq et.al.|[2608.07123](http://arxiv.org/abs/2608.07123)|null|
+|**2026-08-07**|**UncertaintyVis: Preserving Linguistic Uncertainty in Automated Text-to-Chart Generation**|Songheng Zhang et.al.|[2608.07093](http://arxiv.org/abs/2608.07093)|null|
+|**2026-08-07**|**Human-Centered Explainable AI for TinyML Edge Devices: A Pareto-Based Selection Framework with LLM-Guided Design**|Zeinab Dehghani et.al.|[2608.07091](http://arxiv.org/abs/2608.07091)|null|
 |**2026-08-06**|**MASS: Multiplayer World Models with Authoritative Shared State**|Ziqi Cai et.al.|[2608.06257](http://arxiv.org/abs/2608.06257)|null|
 |**2026-08-06**|**Robot Learning from Human Demonstrations: Handwritten Alphabet Trajectories and Human-Likeness Evaluation**|Alperen Kenan et.al.|[2608.06221](http://arxiv.org/abs/2608.06221)|null|
 |**2026-08-06**|**Design and Evaluation of a Touchscreen-Based Teleoperation Interface for Robotic Manipulators**|Juan José García Cárdenas et.al.|[2608.06219](http://arxiv.org/abs/2608.06219)|null|
@@ -3647,7 +3660,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260809>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260810>back to top</a>)</p>
 
 Notes: 
 

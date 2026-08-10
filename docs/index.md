@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.08.09
+### Automatically Updated on 2026.08.10
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-07**|**WNM-3D: A World Navigation Model with 3D Scene Conditioning for Closed-Loop VLN**|Yuehao Huang et.al.|[2608.07267](http://arxiv.org/abs/2608.07267)|null|
+|**2026-08-07**|**Decoupling Intention from Trajectory: A Representational Deduction Framework for World Action Models**|Xiangkai Ma et.al.|[2608.06994](http://arxiv.org/abs/2608.06994)|null|
+|**2026-08-07**|**CustomDance: Customized 3D Dance Generation with Coarse-to-Fine Human-Centered Interactive Control**|Xulong Tang et.al.|[2608.06722](http://arxiv.org/abs/2608.06722)|null|
 |**2026-08-06**|**$ω$ -0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation**|Zhe Li et.al.|[2608.06375](http://arxiv.org/abs/2608.06375)|null|
 |**2026-08-06**|**Beyond Flat Policies: Hierarchical Post-Training for Embodied Agents in Robotic Manipulation**|He Kong et.al.|[2608.05999](http://arxiv.org/abs/2608.05999)|null|
 |**2026-08-06**|**A floor and a ceiling for the advancing contact angle**|Yong Sung Park et.al.|[2608.05515](http://arxiv.org/abs/2608.05515)|null|
@@ -2569,6 +2572,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-07**|**PsychoAgent: An Affect-Sensitive Cognitive Architecture for Conflict-Aware Memory in LLM Agents**|Mohammad Amanlou et.al.|[2608.07438](http://arxiv.org/abs/2608.07438)|null|
+|**2026-08-07**|**Hands-Off or Hands-On? Variation in Area Chair Practices and Implications for AI Support**|Ines Arous et.al.|[2608.07425](http://arxiv.org/abs/2608.07425)|null|
+|**2026-08-07**|**Uncovering expert objectives in production planning via inverse optimization: An industrial case study**|Shivi Dixit et.al.|[2608.07398](http://arxiv.org/abs/2608.07398)|null|
+|**2026-08-07**|**Beyond Call and Response: Modelling Reciprocal Coordination in Human-AI Vocal Ensembles**|Polina Proutskova et.al.|[2608.07376](http://arxiv.org/abs/2608.07376)|null|
+|**2026-08-07**|**Incidental Visualizations: Augmented Reality as a Medium for Contextual Information**|Matilde Heitor et.al.|[2608.07271](http://arxiv.org/abs/2608.07271)|null|
+|**2026-08-07**|**Exact Computation of Trait-induced Merge Trees for Bivariate Fields**|Petar Hristov et.al.|[2608.07181](http://arxiv.org/abs/2608.07181)|null|
+|**2026-08-07**|**PHOENIX: Fine-Tuned SLM-Powered Autonomous Satellite Lifetime Extension via Predictive Self-Healing and Multi-Agent AI Recovery**|Sumaiya Islam et.al.|[2608.07126](http://arxiv.org/abs/2608.07126)|null|
+|**2026-08-07**|**Thermodynamic Human-Computer Interaction**|Uzafir Ahmad Rafaq et.al.|[2608.07123](http://arxiv.org/abs/2608.07123)|null|
+|**2026-08-07**|**UncertaintyVis: Preserving Linguistic Uncertainty in Automated Text-to-Chart Generation**|Songheng Zhang et.al.|[2608.07093](http://arxiv.org/abs/2608.07093)|null|
+|**2026-08-07**|**Human-Centered Explainable AI for TinyML Edge Devices: A Pareto-Based Selection Framework with LLM-Guided Design**|Zeinab Dehghani et.al.|[2608.07091](http://arxiv.org/abs/2608.07091)|null|
 |**2026-08-06**|**MASS: Multiplayer World Models with Authoritative Shared State**|Ziqi Cai et.al.|[2608.06257](http://arxiv.org/abs/2608.06257)|null|
 |**2026-08-06**|**Robot Learning from Human Demonstrations: Handwritten Alphabet Trajectories and Human-Likeness Evaluation**|Alperen Kenan et.al.|[2608.06221](http://arxiv.org/abs/2608.06221)|null|
 |**2026-08-06**|**Design and Evaluation of a Touchscreen-Based Teleoperation Interface for Robotic Manipulators**|Juan José García Cárdenas et.al.|[2608.06219](http://arxiv.org/abs/2608.06219)|null|
