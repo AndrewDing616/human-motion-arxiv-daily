@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.08.10
+### Automatically Updated on 2026.08.11
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-10**|**Energy-Structured Latent World Models with Neural Time Fields for Physically Constistent Open-World Motion Planning**|Yapeng Liu et.al.|[2608.09876](http://arxiv.org/abs/2608.09876)|null|
+|**2026-08-10**|**SLIM-0.5B: Learning Action-Grounded Predictive Latents for Robot Manipulation**|Jingkai Wang et.al.|[2608.09771](http://arxiv.org/abs/2608.09771)|null|
+|**2026-08-10**|**World Tokens: Enhancing Embodied Policies with Training-Time World Modeling**|Qu Tang et.al.|[2608.09730](http://arxiv.org/abs/2608.09730)|null|
+|**2026-08-10**|**Towards Collaborative Joint Perception and Prediction: Framework, Baseline Evaluation, and Deployment Perspectives**|Lei Wan et.al.|[2608.09541](http://arxiv.org/abs/2608.09541)|null|
+|**2026-08-10**|**HarnessWAM: Bridging Prediction and Deliberation in World Action Models**|Zhaopeng Gu et.al.|[2608.09516](http://arxiv.org/abs/2608.09516)|null|
+|**2026-08-10**|**JEPA-WAM: Learning Vision-Language-Action Policies with Joint-Embedding World Modeling**|Yihan Lin et.al.|[2608.09381](http://arxiv.org/abs/2608.09381)|null|
+|**2026-08-10**|**UniMoFlow: Grounding Instruction-Driven 3D Human Motion Editing in Generation**|Yilei Hua et.al.|[2608.09143](http://arxiv.org/abs/2608.09143)|null|
+|**2026-08-10**|**Trajectory Divergence Horizon Decision for Reliable Dual-Arm Surgical Subtask Manipulation**|Mingwu Su et.al.|[2608.09125](http://arxiv.org/abs/2608.09125)|null|
+|**2026-08-09**|**Preview-Based Relative-Motion Control of an Insertion Tool for Neural-Thread Placement in Pulsating Tissue**|Yongyan Cao et.al.|[2608.08860](http://arxiv.org/abs/2608.08860)|null|
+|**2026-08-09**|**DoRF++: Spherical Representation Learning over Doppler Radiance Fields for Robust Wi-Fi Sensing**|Navid Hasanzadeh et.al.|[2608.08381](http://arxiv.org/abs/2608.08381)|null|
 |**2026-08-07**|**WNM-3D: A World Navigation Model with 3D Scene Conditioning for Closed-Loop VLN**|Yuehao Huang et.al.|[2608.07267](http://arxiv.org/abs/2608.07267)|null|
 |**2026-08-07**|**Decoupling Intention from Trajectory: A Representational Deduction Framework for World Action Models**|Xiangkai Ma et.al.|[2608.06994](http://arxiv.org/abs/2608.06994)|null|
 |**2026-08-07**|**CustomDance: Customized 3D Dance Generation with Coarse-to-Fine Human-Centered Interactive Control**|Xulong Tang et.al.|[2608.06722](http://arxiv.org/abs/2608.06722)|null|
@@ -1127,12 +1137,13 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260810>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260811>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-10**|**Efficient Human-Contact Representation for Human-Scene Interaction**|Nghia Vu et.al.|[2608.09388](http://arxiv.org/abs/2608.09388)|null|
 |**2026-07-30**|**ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine**|Yukang Cao et.al.|[2607.28625](http://arxiv.org/abs/2607.28625)|null|
 |**2026-07-21**|**Crowd4D: Scene-Aware Monocular 4D Crowd Reconstruction**|Hongbo Kang et.al.|[2607.19517](http://arxiv.org/abs/2607.19517)|null|
 |**2026-07-15**|**EgoHTR: Egocentric 4D Demonstrations of Human Terrain Traversal**|Alex Brandes et.al.|[2607.13472](http://arxiv.org/abs/2607.13472)|null|
@@ -1295,7 +1306,7 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260810>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260811>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
@@ -1627,12 +1638,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260810>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260811>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-10**|**WhichTok? Comparing Three TikTok Data Acquisition Tools**|Gayoung Jeon et.al.|[2608.09917](http://arxiv.org/abs/2608.09917)|null|
+|**2026-08-10**|**Mirroring the Past: Exploring How Ancestral Digital Self Influences History Learning**|Duo Gong et.al.|[2608.09719](http://arxiv.org/abs/2608.09719)|null|
+|**2026-08-10**|**Designing PULSE: A Realtime Annotation Tool to Support Simulation Debriefing**|Caleb Vatral et.al.|[2608.09715](http://arxiv.org/abs/2608.09715)|null|
+|**2026-08-10**|**VeriForge: Mitigating Latent Knowledge Gaps in Narrative Drafting via Mixed-Initiative Scaffolding**|Ruqi Sun et.al.|[2608.09698](http://arxiv.org/abs/2608.09698)|null|
+|**2026-08-10**|**Removing Infrastructure Barriers in Human-Robot Collaboration Through Wireless Reconfigurable Cells**|Emma Takács et.al.|[2608.09658](http://arxiv.org/abs/2608.09658)|null|
+|**2026-08-10**|**LITEWAY: LIghtweight HAR via Temporal Efficient highWAY**|Dominique Nshimyimana et.al.|[2608.09421](http://arxiv.org/abs/2608.09421)|null|
+|**2026-08-10**|**Graphing the Everyday: A Neurosymbolic Approach to Eliciting Routines for Just-In-Time Adaptive Interventions**|Shakyani Jayasiriwardene et.al.|[2608.09294](http://arxiv.org/abs/2608.09294)|null|
+|**2026-08-10**|**Can Coding Agents Solve Repository-Level Issues with Rendered Code? An Exploratory Study of Visual Representations**|Weijie Liang et.al.|[2608.09268](http://arxiv.org/abs/2608.09268)|null|
+|**2026-08-10**|**Intuitive Directional Sense Presentation to the Torso Using McKibben-Based Surface Haptic Sensation in Immersive Space**|Kenta Yokoe et.al.|[2608.09177](http://arxiv.org/abs/2608.09177)|null|
+|**2026-08-10**|**Intuitive Hand Positional Guidance Using McKibben-Based Surface Tactile Sensations to Shoulder and Elbow**|Kenta Yokoe et.al.|[2608.09167](http://arxiv.org/abs/2608.09167)|null|
 |**2026-08-07**|**PsychoAgent: An Affect-Sensitive Cognitive Architecture for Conflict-Aware Memory in LLM Agents**|Mohammad Amanlou et.al.|[2608.07438](http://arxiv.org/abs/2608.07438)|null|
 |**2026-08-07**|**Hands-Off or Hands-On? Variation in Area Chair Practices and Implications for AI Support**|Ines Arous et.al.|[2608.07425](http://arxiv.org/abs/2608.07425)|null|
 |**2026-08-07**|**Uncovering expert objectives in production planning via inverse optimization: An industrial case study**|Shivi Dixit et.al.|[2608.07398](http://arxiv.org/abs/2608.07398)|null|
@@ -3660,7 +3681,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260810>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260811>back to top</a>)</p>
 
 Notes: 
 
