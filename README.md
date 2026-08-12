@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.08.11
+### Automatically Updated on 2026.08.12
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-11**|**Capturing Uncertainty in Human Motion for Representation Learning in Soccer**|Yizhou Xu et.al.|[2608.11203](http://arxiv.org/abs/2608.11203)|null|
+|**2026-08-11**|**Temporally Grounded Compositional Camera Motion Understanding via Geometric Knowledge Distillation**|Dazhao Du et.al.|[2608.10932](http://arxiv.org/abs/2608.10932)|null|
+|**2026-08-11**|**Nonlinear Model Predictive Control via Sequential Convex Programming for Drone-to-Drone Docking**|Neeraj Balachandar et.al.|[2608.10542](http://arxiv.org/abs/2608.10542)|null|
+|**2026-08-10**|**FACT: Failure-Aware Causal Training for World-Action Models**|Quanquan Peng et.al.|[2608.10232](http://arxiv.org/abs/2608.10232)|null|
+|**2026-08-10**|**MAD-HOI: Masked Autoregressive Diffusion for Generating Articulated Hand Object Interactions from Text**|Ananya Bal et.al.|[2608.10162](http://arxiv.org/abs/2608.10162)|null|
+|**2026-08-10**|**Navigating the Proximity-Safety Balance: Constraint Decomposition for Human Following in Pedestrian Crowds**|Shiting Gong et.al.|[2608.10056](http://arxiv.org/abs/2608.10056)|null|
 |**2026-08-10**|**Energy-Structured Latent World Models with Neural Time Fields for Physically Constistent Open-World Motion Planning**|Yapeng Liu et.al.|[2608.09876](http://arxiv.org/abs/2608.09876)|null|
 |**2026-08-10**|**SLIM-0.5B: Learning Action-Grounded Predictive Latents for Robot Manipulation**|Jingkai Wang et.al.|[2608.09771](http://arxiv.org/abs/2608.09771)|null|
 |**2026-08-10**|**World Tokens: Enhancing Embodied Policies with Training-Time World Modeling**|Qu Tang et.al.|[2608.09730](http://arxiv.org/abs/2608.09730)|null|
@@ -1137,7 +1143,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260811>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260812>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -1306,12 +1312,13 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260811>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260812>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-11**|**GESTO: Human-Centric Spatio-Temporal Memory for Reasoning in Dynamic Scenes**|Ermanno Bartoli et.al.|[2608.10886](http://arxiv.org/abs/2608.10886)|null|
 |**2026-08-04**|**Surface Keypoint Representation for Multi-Object and Articulated Human-Object Interaction Generation**|Xiaogang Peng et.al.|[2608.03158](http://arxiv.org/abs/2608.03158)|null|
 |**2026-07-31**|**RF-HOI: Recognize Human-Object Interaction with Radio Frequency Signals**|Lihao Wang et.al.|[2608.00289](http://arxiv.org/abs/2608.00289)|null|
 |**2026-07-30**|**AgentHOI: Multi-Agent Reasoning for Human-Object-Interaction Video Generation via Implicit Representation Alignment**|Ziyao Huang et.al.|[2607.22241](http://arxiv.org/abs/2607.22241)|null|
@@ -1638,12 +1645,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260811>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260812>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-11**|**Long-Horizon AI Research for Grothendieck Constant: A Case Study in Human-AI Mathematical Collaboration**|Alan Li et.al.|[2608.11195](http://arxiv.org/abs/2608.11195)|null|
+|**2026-08-11**|**R4DSG: Relative 4D Scene Graph Memory for Object-Centric Question Answering in Long Egocentric Video**|Ke Ma et.al.|[2608.11017](http://arxiv.org/abs/2608.11017)|null|
+|**2026-08-11**|**Auditable AI-Assisted Research Writing: An Engineering Discipline with Pre-Registered Process Observation**|Yang Zhou et.al.|[2608.10858](http://arxiv.org/abs/2608.10858)|null|
+|**2026-08-11**|**The GENEA Challenge 2026: A Large-Scale Disentangled Evaluation of Speech-Driven Gesture Generation on the Seamless Interaction Dataset**|Rajmund Nagy et.al.|[2608.10839](http://arxiv.org/abs/2608.10839)|null|
+|**2026-08-11**|**AI-Generated Interactive Fiction for Educational Use: A Pilot Study of Perceived Comprehensibility, Coherence, and Engagement**|Finn Rogosch et.al.|[2608.10818](http://arxiv.org/abs/2608.10818)|null|
+|**2026-08-11**|**Playable Pressure: Affective Dramaturgy and Selective Realism in the Design of a VR Emergency-Response Serious Game**|Jan K. Argasiński et.al.|[2608.10763](http://arxiv.org/abs/2608.10763)|null|
+|**2026-08-11**|**Your LLM, Your Style: Behavioral Mode Axes for LLM Behavioral Control**|Haoze Liu et.al.|[2608.10703](http://arxiv.org/abs/2608.10703)|null|
+|**2026-08-11**|**The Signal Rail: A Deterministic Motion Grammar for Communicating Conversational Agent State in Terminal Interfaces**|Matteo Grella et.al.|[2608.10689](http://arxiv.org/abs/2608.10689)|null|
+|**2026-08-11**|**Leveraging Human Reading Behavior for Keyphrase Extraction: A Webcam-based Eye-tracking Corpus**|Chengzhi Zhang et.al.|[2608.10688](http://arxiv.org/abs/2608.10688)|null|
+|**2026-08-11**|**Longitudinal Evidence That General-Purpose Chatbots Actively Foster Relational Engagement**|Lisa Mühl et.al.|[2608.10672](http://arxiv.org/abs/2608.10672)|null|
 |**2026-08-10**|**WhichTok? Comparing Three TikTok Data Acquisition Tools**|Gayoung Jeon et.al.|[2608.09917](http://arxiv.org/abs/2608.09917)|null|
 |**2026-08-10**|**Mirroring the Past: Exploring How Ancestral Digital Self Influences History Learning**|Duo Gong et.al.|[2608.09719](http://arxiv.org/abs/2608.09719)|null|
 |**2026-08-10**|**Designing PULSE: A Realtime Annotation Tool to Support Simulation Debriefing**|Caleb Vatral et.al.|[2608.09715](http://arxiv.org/abs/2608.09715)|null|
@@ -3681,7 +3698,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260811>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260812>back to top</a>)</p>
 
 Notes: 
 
