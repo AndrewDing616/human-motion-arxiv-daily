@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.08.13
+### Automatically Updated on 2026.08.14
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-13**|**TraVEL: Trajectory-Guided Video Embedding Learning for Driving-Video Retrieval**|Yi-Chung Chen et.al.|[2608.13495](http://arxiv.org/abs/2608.13495)|null|
+|**2026-08-13**|**Towards Context-Aware Clinical Motion Understanding in Daily Living at Home: Freezing of Gait Detection with Egocentric Vision**|Vayalet Stefanova et.al.|[2608.13283](http://arxiv.org/abs/2608.13283)|null|
+|**2026-08-13**|**Point Feature Descriptor via Directional Partition of Unity on Maps**|Phan Thanh An et.al.|[2608.12794](http://arxiv.org/abs/2608.12794)|null|
+|**2026-08-12**|**Dual-Layer Optical Security Framework for Cryptogram Camouflage Using Circular Harmonic Components**|Jorge-Enrique Rueda-P et.al.|[2608.12584](http://arxiv.org/abs/2608.12584)|null|
+|**2026-08-12**|**Multi-AUV Ad-hoc network-based Target Tracking: A Value Gradient Guidance Multi-Agent Diffusion Reinforcement Learning Approach**|Jiaao Ma et.al.|[2608.12436](http://arxiv.org/abs/2608.12436)|null|
 |**2026-08-12**|**DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation**|Yan Deng et.al.|[2608.12308](http://arxiv.org/abs/2608.12308)|null|
 |**2026-08-12**|**HSTGFormer: Hyper Spatial-Temporal Graph Transformer for 3D Human Pose Estimation**|Ruochen Li et.al.|[2608.12187](http://arxiv.org/abs/2608.12187)|null|
 |**2026-08-12**|**Autonomous Telerehabilitation via Skeletal Motion Prediction and Joint-Level Performance Assessment**|Lara Pereira et.al.|[2608.12145](http://arxiv.org/abs/2608.12145)|null|
@@ -2597,6 +2602,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-13**|**Safety vs. Social Image: Co-Designing Protection Mechanisms Against Ableist Harassment with People with Disabilities in Social Virtual Reality**|Kexin Zhang et.al.|[2608.13532](http://arxiv.org/abs/2608.13532)|null|
+|**2026-08-13**|**Before You Say It: Anticipating Verbal Behavior from Longitudinal Everyday Conversations with LLMs**|Yasith Samaradivakara et.al.|[2608.13454](http://arxiv.org/abs/2608.13454)|null|
+|**2026-08-13**|**Sensorimotor Stickies: A Reconfigurable On-Body Platform for Closed-Loop Sensorimotor Training**|Tianhong Catherine Yu et.al.|[2608.13412](http://arxiv.org/abs/2608.13412)|null|
+|**2026-08-13**|**More Than 63% of IEEE VIS Research Liable to be Retracted?! Ethics Approval Statements Protect Participants (and Researchers!)**|Lonni Besançon et.al.|[2608.13295](http://arxiv.org/abs/2608.13295)|null|
+|**2026-08-13**|**EEG Decoding Using CNN and LSTM Network**|Athanasios Karagounis et.al.|[2608.13285](http://arxiv.org/abs/2608.13285)|null|
+|**2026-08-13**|**Print&Fold: Printing and Folding Shape-accurate 3D Models**|Archit Kumar et.al.|[2608.13279](http://arxiv.org/abs/2608.13279)|null|
+|**2026-08-13**|**UniCon-Former: Unified Convolution Transformer is All You Need for Hand Gesture Recognition**|Mallika Garg et.al.|[2608.13217](http://arxiv.org/abs/2608.13217)|null|
+|**2026-08-13**|**CogChat: Knowledge Graph-Augmented Conversational AI with Heterogeneous Graph Transformer for Cognitive Grounding in Design Generation**|Jiin Choi et.al.|[2608.13216](http://arxiv.org/abs/2608.13216)|null|
+|**2026-08-13**|**Multi-Layer Context Camouflaging: A Semantic Superposition and Contextual Lamination Framework for Malpractice-Resilient Online Assessment**|Gupta Lovi Raj et.al.|[2608.13100](http://arxiv.org/abs/2608.13100)|null|
+|**2026-08-13**|**Tracing Methamphetamine abuse in under-treatment drivers: How biomechanical and oculomotor features help detect at-risk drivers?**|Hamed Salmanzadeh et.al.|[2608.13054](http://arxiv.org/abs/2608.13054)|null|
 |**2026-08-12**|**How Organizations Use AI: Evidence from ChatGPT**|Aaron Chatterji et.al.|[2608.12236](http://arxiv.org/abs/2608.12236)|null|
 |**2026-08-12**|**"Pharos Night: Crown Pursuit": An AI-Native Deck-Building and Tactical Arena Game Design Based on Multi-Agent Systems**|Ting-Chen Hsu et.al.|[2608.12216](http://arxiv.org/abs/2608.12216)|null|
 |**2026-08-12**|**IF:CARGO: LLM-Based Semantic Compilation for Al-Native Rule Programming Games**|Ting-Chen Hsu et.al.|[2608.12195](http://arxiv.org/abs/2608.12195)|null|
