@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.08.16
+### Automatically Updated on 2026.08.17
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-14**|**BICPO-VLA: Behavior-Identified Continuation Preference Optimization for Smooth Asynchronous Vision-Language-Action Control**|Ming Shang et.al.|[2608.13924](http://arxiv.org/abs/2608.13924)|null|
 |**2026-08-13**|**TraVEL: Trajectory-Guided Video Embedding Learning for Driving-Video Retrieval**|Yi-Chung Chen et.al.|[2608.13495](http://arxiv.org/abs/2608.13495)|null|
 |**2026-08-13**|**Towards Context-Aware Clinical Motion Understanding in Daily Living at Home: Freezing of Gait Detection with Egocentric Vision**|Vayalet Stefanova et.al.|[2608.13283](http://arxiv.org/abs/2608.13283)|null|
 |**2026-08-13**|**Point Feature Descriptor via Directional Partition of Unity on Maps**|Phan Thanh An et.al.|[2608.12794](http://arxiv.org/abs/2608.12794)|null|
@@ -2602,6 +2603,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-14**|**Visualizing Uncertainty in Non-linear Projections with Ensembles**|Kai Nylund et.al.|[2608.14513](http://arxiv.org/abs/2608.14513)|null|
+|**2026-08-14**|**From Style Replication to Style Exploration: Enabling Art Style Exploration with Analyze-Experiment-Resituate Framework**|Wen-Fan Wang et.al.|[2608.14405](http://arxiv.org/abs/2608.14405)|null|
+|**2026-08-14**|**Ten simple rules for non-visual, reproducible and accessible bioinformatics**|Jacqueline G. Kientsch et.al.|[2608.14400](http://arxiv.org/abs/2608.14400)|null|
+|**2026-08-14**|**Epistemic Tensions: Reframing A Visualization Co-Design through Entanglement Theory**|Wei Wei et.al.|[2608.14364](http://arxiv.org/abs/2608.14364)|null|
+|**2026-08-14**|**Intelligent Detection of Mechanical, Electrical, and Plumbing (MEP) Metrics Based on 2D Floor Plans**|Tarandeep Singh Mandhiratta et.al.|[2608.14317](http://arxiv.org/abs/2608.14317)|null|
+|**2026-08-14**|**Human and Artificial Intelligence - Promoting Trustworthy and Understandable Collaboration**|Gilbert Drzyzga et.al.|[2608.14291](http://arxiv.org/abs/2608.14291)|null|
+|**2026-08-14**|**Designing Mobile and Wearable Sensor-Fused Conversational Agents for Health and Wellbeing**|Hansoo Lee et.al.|[2608.14273](http://arxiv.org/abs/2608.14273)|null|
+|**2026-08-14**|**Physics-Bounded mmWave Sensing for Schedulable, Privacy-Preserving Human Pose Estimation**|Shuntian Zheng et.al.|[2608.14176](http://arxiv.org/abs/2608.14176)|null|
+|**2026-08-14**|**Act2Intention: A Benchmark For Developing Active Mobile Agents Through Inferring User Intention from GUI Actions**|Xiaokai Yan et.al.|[2608.14132](http://arxiv.org/abs/2608.14132)|null|
+|**2026-08-14**|**AlignFace: Human-Aligned Face Similarity Metric with Interpretable Concept Relations**|Ying Huang et.al.|[2608.14130](http://arxiv.org/abs/2608.14130)|null|
 |**2026-08-13**|**Safety vs. Social Image: Co-Designing Protection Mechanisms Against Ableist Harassment with People with Disabilities in Social Virtual Reality**|Kexin Zhang et.al.|[2608.13532](http://arxiv.org/abs/2608.13532)|null|
 |**2026-08-13**|**Before You Say It: Anticipating Verbal Behavior from Longitudinal Everyday Conversations with LLMs**|Yasith Samaradivakara et.al.|[2608.13454](http://arxiv.org/abs/2608.13454)|null|
 |**2026-08-13**|**Sensorimotor Stickies: A Reconfigurable On-Body Platform for Closed-Loop Sensorimotor Training**|Tianhong Catherine Yu et.al.|[2608.13412](http://arxiv.org/abs/2608.13412)|null|

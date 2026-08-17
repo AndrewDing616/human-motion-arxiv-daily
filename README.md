@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.08.16
+### Automatically Updated on 2026.08.17
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-14**|**BICPO-VLA: Behavior-Identified Continuation Preference Optimization for Smooth Asynchronous Vision-Language-Action Control**|Ming Shang et.al.|[2608.13924](http://arxiv.org/abs/2608.13924)|null|
 |**2026-08-13**|**TraVEL: Trajectory-Guided Video Embedding Learning for Driving-Video Retrieval**|Yi-Chung Chen et.al.|[2608.13495](http://arxiv.org/abs/2608.13495)|null|
 |**2026-08-13**|**Towards Context-Aware Clinical Motion Understanding in Daily Living at Home: Freezing of Gait Detection with Egocentric Vision**|Vayalet Stefanova et.al.|[2608.13283](http://arxiv.org/abs/2608.13283)|null|
 |**2026-08-13**|**Point Feature Descriptor via Directional Partition of Unity on Maps**|Phan Thanh An et.al.|[2608.12794](http://arxiv.org/abs/2608.12794)|null|
@@ -1155,7 +1156,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260816>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260817>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -1324,7 +1325,7 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260816>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260817>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
@@ -1657,12 +1658,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260816>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260817>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-14**|**Visualizing Uncertainty in Non-linear Projections with Ensembles**|Kai Nylund et.al.|[2608.14513](http://arxiv.org/abs/2608.14513)|null|
+|**2026-08-14**|**From Style Replication to Style Exploration: Enabling Art Style Exploration with Analyze-Experiment-Resituate Framework**|Wen-Fan Wang et.al.|[2608.14405](http://arxiv.org/abs/2608.14405)|null|
+|**2026-08-14**|**Ten simple rules for non-visual, reproducible and accessible bioinformatics**|Jacqueline G. Kientsch et.al.|[2608.14400](http://arxiv.org/abs/2608.14400)|null|
+|**2026-08-14**|**Epistemic Tensions: Reframing A Visualization Co-Design through Entanglement Theory**|Wei Wei et.al.|[2608.14364](http://arxiv.org/abs/2608.14364)|null|
+|**2026-08-14**|**Intelligent Detection of Mechanical, Electrical, and Plumbing (MEP) Metrics Based on 2D Floor Plans**|Tarandeep Singh Mandhiratta et.al.|[2608.14317](http://arxiv.org/abs/2608.14317)|null|
+|**2026-08-14**|**Human and Artificial Intelligence - Promoting Trustworthy and Understandable Collaboration**|Gilbert Drzyzga et.al.|[2608.14291](http://arxiv.org/abs/2608.14291)|null|
+|**2026-08-14**|**Designing Mobile and Wearable Sensor-Fused Conversational Agents for Health and Wellbeing**|Hansoo Lee et.al.|[2608.14273](http://arxiv.org/abs/2608.14273)|null|
+|**2026-08-14**|**Physics-Bounded mmWave Sensing for Schedulable, Privacy-Preserving Human Pose Estimation**|Shuntian Zheng et.al.|[2608.14176](http://arxiv.org/abs/2608.14176)|null|
+|**2026-08-14**|**Act2Intention: A Benchmark For Developing Active Mobile Agents Through Inferring User Intention from GUI Actions**|Xiaokai Yan et.al.|[2608.14132](http://arxiv.org/abs/2608.14132)|null|
+|**2026-08-14**|**AlignFace: Human-Aligned Face Similarity Metric with Interpretable Concept Relations**|Ying Huang et.al.|[2608.14130](http://arxiv.org/abs/2608.14130)|null|
 |**2026-08-13**|**Safety vs. Social Image: Co-Designing Protection Mechanisms Against Ableist Harassment with People with Disabilities in Social Virtual Reality**|Kexin Zhang et.al.|[2608.13532](http://arxiv.org/abs/2608.13532)|null|
 |**2026-08-13**|**Before You Say It: Anticipating Verbal Behavior from Longitudinal Everyday Conversations with LLMs**|Yasith Samaradivakara et.al.|[2608.13454](http://arxiv.org/abs/2608.13454)|null|
 |**2026-08-13**|**Sensorimotor Stickies: A Reconfigurable On-Body Platform for Closed-Loop Sensorimotor Training**|Tianhong Catherine Yu et.al.|[2608.13412](http://arxiv.org/abs/2608.13412)|null|
@@ -3730,7 +3741,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260816>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260817>back to top</a>)</p>
 
 Notes: 
 
