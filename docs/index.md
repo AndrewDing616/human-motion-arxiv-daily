@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.08.17
+### Automatically Updated on 2026.08.18
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-17**|**Security of Foundation-Model-Powered Embodied Agents: Attack Surfaces, Attacks, Defenses, and Evaluation**|Jiawei Liu et.al.|[2608.16843](http://arxiv.org/abs/2608.16843)|null|
+|**2026-08-17**|**FabriMAE I Trust Myself? Self-Evaluating VLA Action Generation with Markov Attention Entropy**| Aniri et.al.|[2608.16697](http://arxiv.org/abs/2608.16697)|null|
+|**2026-08-17**|**NebulaVLA: A Dual-Frequency Vision-Language-Action Model With Guide Action for Robotic Manipulation**|Cong Zhao et.al.|[2608.16503](http://arxiv.org/abs/2608.16503)|null|
+|**2026-08-17**|**HiPHI: A Large-Scale Benchmark for High-Precision Human Motion and Object-Interaction**|Jiahao Ji et.al.|[2608.16222](http://arxiv.org/abs/2608.16222)|null|
+|**2026-08-17**|**KeyID: Decoupled Drafting and Keyframe Editing for Identity-Preserving Video Generation**|Jianjie Luo et.al.|[2608.16154](http://arxiv.org/abs/2608.16154)|null|
+|**2026-08-17**|**Unified Condition-Action Modeling for Accurate One-Step Action Generation**|Xinyu Zhou et.al.|[2608.16153](http://arxiv.org/abs/2608.16153)|null|
+|**2026-08-17**|**Spatial Temporal Synergy: Balancing Change and Invariance in Text Driven 3D Human Motion Editing**|Shaohui Lin et.al.|[2608.16008](http://arxiv.org/abs/2608.16008)|null|
+|**2026-08-17**|**A Plug-and-Play 2D Motion Interface for Real-World Motion Language Models**|Kaname Yokoyama et.al.|[2608.15984](http://arxiv.org/abs/2608.15984)|null|
+|**2026-08-16**|**RAPAC-DP: Response-Aligned Pending-Action Compensation for Diffusion Policies under Delayed Execution**|Tao Wang et.al.|[2608.15924](http://arxiv.org/abs/2608.15924)|null|
+|**2026-08-16**|**GigaBrain-0.7: Scaling Embodied Foundation Models to Emergent Capabilities with a Three-System Architecture**| GigaBrain Team et.al.|[2608.15875](http://arxiv.org/abs/2608.15875)|null|
 |**2026-08-14**|**BICPO-VLA: Behavior-Identified Continuation Preference Optimization for Smooth Asynchronous Vision-Language-Action Control**|Ming Shang et.al.|[2608.13924](http://arxiv.org/abs/2608.13924)|null|
 |**2026-08-13**|**TraVEL: Trajectory-Guided Video Embedding Learning for Driving-Video Retrieval**|Yi-Chung Chen et.al.|[2608.13495](http://arxiv.org/abs/2608.13495)|null|
 |**2026-08-13**|**Towards Context-Aware Clinical Motion Understanding in Daily Living at Home: Freezing of Gait Detection with Egocentric Vision**|Vayalet Stefanova et.al.|[2608.13283](http://arxiv.org/abs/2608.13283)|null|
@@ -2272,6 +2282,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-15**|**HOIMask: Towards Generative Masked Modeling for Human Object Interaction Generation**|Yihong Ji et.al.|[2608.15141](http://arxiv.org/abs/2608.15141)|null|
 |**2026-08-11**|**GESTO: Human-Centric Spatio-Temporal Memory for Reasoning in Dynamic Scenes**|Ermanno Bartoli et.al.|[2608.10886](http://arxiv.org/abs/2608.10886)|null|
 |**2026-08-04**|**Surface Keypoint Representation for Multi-Object and Articulated Human-Object Interaction Generation**|Xiaogang Peng et.al.|[2608.03158](http://arxiv.org/abs/2608.03158)|null|
 |**2026-07-31**|**RF-HOI: Recognize Human-Object Interaction with Radio Frequency Signals**|Lihao Wang et.al.|[2608.00289](http://arxiv.org/abs/2608.00289)|null|
@@ -2603,6 +2614,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-17**|**Evaluating Beyond the Screen: Collective Assessment of AI-Generated Business Plans with Resource-Constrained Entrepreneurs**|Qi Zhao et.al.|[2608.16886](http://arxiv.org/abs/2608.16886)|null|
+|**2026-08-17**|**Prediction market visualizations, betting, and uncertainty: A study of Reddit Posts and Comments**|Subham Sah et.al.|[2608.16814](http://arxiv.org/abs/2608.16814)|null|
+|**2026-08-17**|**Closing the Affective Loop: Multimodal Speaker-Listener Emotion-Dynamics-Aware Empathetic Social Robots**|Zi Haur Pang et.al.|[2608.16686](http://arxiv.org/abs/2608.16686)|null|
+|**2026-08-17**|**Oto-Meal: Earable Sensing with PPG and IMU for Personalized Meal Awareness**|Yuxuan Hou et.al.|[2608.16678](http://arxiv.org/abs/2608.16678)|null|
+|**2026-08-17**|**Love in the Age of AI: An Integrative Process Model of Romantic Human-Chatbot Relationships**|Natalia Szymczyk et.al.|[2608.16633](http://arxiv.org/abs/2608.16633)|null|
+|**2026-08-17**|**The User Side of AI Model Lifecycles: Evidence from the Keep4o Movement**|Yiwen Wu et.al.|[2608.16574](http://arxiv.org/abs/2608.16574)|null|
+|**2026-08-17**|**One Residual with Three Reuses: A Wristband Front End for Gesture Sensing**|Sam Rifaki et.al.|[2608.16542](http://arxiv.org/abs/2608.16542)|null|
+|**2026-08-17**|**Automating Learner Assessment: Benchmarking Machine Learning and Deep Learning Models for EEG-Based Familiarity Prediction**|Isuru Nanayakkara et.al.|[2608.16541](http://arxiv.org/abs/2608.16541)|null|
+|**2026-08-17**|**Matched Outcomes, Divergent Gaze: How Foveated MLLMs Search Compared to Humans**|Mohamed Amine Kerkouri et.al.|[2608.16514](http://arxiv.org/abs/2608.16514)|null|
+|**2026-08-17**|**Computational KJ-Ho: An Analyst-Bias-Free Insight Extraction Framework from Large-Scale Qualitative Data Using Domain-Specialized LLMs**|Kasumi Ban et.al.|[2608.16467](http://arxiv.org/abs/2608.16467)|null|
 |**2026-08-14**|**Visualizing Uncertainty in Non-linear Projections with Ensembles**|Kai Nylund et.al.|[2608.14513](http://arxiv.org/abs/2608.14513)|null|
 |**2026-08-14**|**From Style Replication to Style Exploration: Enabling Art Style Exploration with Analyze-Experiment-Resituate Framework**|Wen-Fan Wang et.al.|[2608.14405](http://arxiv.org/abs/2608.14405)|null|
 |**2026-08-14**|**Ten simple rules for non-visual, reproducible and accessible bioinformatics**|Jacqueline G. Kientsch et.al.|[2608.14400](http://arxiv.org/abs/2608.14400)|null|
