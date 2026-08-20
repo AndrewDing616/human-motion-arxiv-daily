@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.08.19
+### Automatically Updated on 2026.08.20
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,15 +959,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-19**|**CL4D: Contrastive Language-4D Pretraining for Vision-Language Reasoning in Dynamic Scenes**|Kumal Hewagamage et.al.|[2608.18734](http://arxiv.org/abs/2608.18734)|null|
+|**2026-08-19**|**EATR-Stereo: Embodiment-Aware Token Routing of Paired Stereo Evidence for Humanoid Vision-Language-Action Control**|Songwei Wu et.al.|[2608.17453](http://arxiv.org/abs/2608.17453)|null|
+|**2026-08-19**|**Unified Condition-Action Modeling for Accurate One-Step Action Generation**|Xinyu Zhou et.al.|[2608.16153](http://arxiv.org/abs/2608.16153)|null|
 |**2026-08-18**|**Encoded but Not Actionable: Auditing the Decode-Generate-Steer Gap in Frozen LLMs for Geometric Constraints**|Man Liang et.al.|[2608.17843](http://arxiv.org/abs/2608.17843)|null|
 |**2026-08-18**|**NeuroPath: Brain-Inspired Dual-Pathway Graph Convolutional Networks for Skeleton-Based Action Recognition**|Kanglei Zhou et.al.|[2608.17487](http://arxiv.org/abs/2608.17487)|null|
-|**2026-08-18**|**EATR-Stereo: Embodiment-Aware Routing of Paired Stereo Evidence for Humanoid Vision-Language-Action Control**|Songwei Wu et.al.|[2608.17453](http://arxiv.org/abs/2608.17453)|null|
 |**2026-08-17**|**Security of Foundation-Model-Powered Embodied Agents: Attack Surfaces, Attacks, Defenses, and Evaluation**|Jiawei Liu et.al.|[2608.16843](http://arxiv.org/abs/2608.16843)|null|
 |**2026-08-17**|**FabriMAE I Trust Myself? Self-Evaluating VLA Action Generation with Markov Attention Entropy**| Aniri et.al.|[2608.16697](http://arxiv.org/abs/2608.16697)|null|
 |**2026-08-17**|**NebulaVLA: A Dual-Frequency Vision-Language-Action Model With Guide Action for Robotic Manipulation**|Cong Zhao et.al.|[2608.16503](http://arxiv.org/abs/2608.16503)|null|
 |**2026-08-17**|**HiPHI: A Large-Scale Benchmark for High-Precision Human Motion and Object-Interaction**|Jiahao Ji et.al.|[2608.16222](http://arxiv.org/abs/2608.16222)|null|
 |**2026-08-17**|**KeyID: Decoupled Drafting and Keyframe Editing for Identity-Preserving Video Generation**|Jianjie Luo et.al.|[2608.16154](http://arxiv.org/abs/2608.16154)|null|
-|**2026-08-17**|**Unified Condition-Action Modeling for Accurate One-Step Action Generation**|Xinyu Zhou et.al.|[2608.16153](http://arxiv.org/abs/2608.16153)|null|
 |**2026-08-17**|**Spatial Temporal Synergy: Balancing Change and Invariance in Text Driven 3D Human Motion Editing**|Shaohui Lin et.al.|[2608.16008](http://arxiv.org/abs/2608.16008)|null|
 |**2026-08-17**|**A Plug-and-Play 2D Motion Interface for Real-World Motion Language Models**|Kaname Yokoyama et.al.|[2608.15984](http://arxiv.org/abs/2608.15984)|null|
 |**2026-08-16**|**RAPAC-DP: Response-Aligned Pending-Action Compensation for Diffusion Policies under Delayed Execution**|Tao Wang et.al.|[2608.15924](http://arxiv.org/abs/2608.15924)|null|
@@ -2285,6 +2286,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-19**|**RoboEdit: Turning Human Manipulation Videos into Scalable Robot Experience**|Yaowei Guo et.al.|[2608.18948](http://arxiv.org/abs/2608.18948)|null|
 |**2026-08-18**|**CoinVE-200K: A Large-Scale High-Quality Dataset for Compositional Instruction-Guided Video Editing**|Fuchen Long et.al.|[2608.17566](http://arxiv.org/abs/2608.17566)|null|
 |**2026-08-15**|**HOIMask: Towards Generative Masked Modeling for Human Object Interaction Generation**|Yihong Ji et.al.|[2608.15141](http://arxiv.org/abs/2608.15141)|null|
 |**2026-08-11**|**GESTO: Human-Centric Spatio-Temporal Memory for Reasoning in Dynamic Scenes**|Ermanno Bartoli et.al.|[2608.10886](http://arxiv.org/abs/2608.10886)|null|
@@ -2618,6 +2620,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-19**|**LearnAI: Just-in-Time AI Co-Creation Across Disciplines at a University**|Weihao Qu et.al.|[2608.19164](http://arxiv.org/abs/2608.19164)|null|
+|**2026-08-19**|**Trade-offs in Data Color Palette Design Tools**|Shiyi He et.al.|[2608.19148](http://arxiv.org/abs/2608.19148)|null|
+|**2026-08-19**|**When Readability and Source Retention Diverge: An Evaluability Gap in AI Translation**|Chenchen Mao et.al.|[2608.19083](http://arxiv.org/abs/2608.19083)|null|
+|**2026-08-19**|**Robust and Efficient Feature Extraction for Spike Sorting via the Walsh-Hadamard Transform**|Emily Yang et.al.|[2608.19048](http://arxiv.org/abs/2608.19048)|null|
+|**2026-08-19**|**TractorBeam: Personalized AI Sensemaking Support via Collaborative Machine Annotation**|Sireesh Gururaja et.al.|[2608.18994](http://arxiv.org/abs/2608.18994)|null|
+|**2026-08-19**|**A revised framework for the assessment of psychological safety in autonomous vehicles**|Yandika Sirgabsou et.al.|[2608.18801](http://arxiv.org/abs/2608.18801)|null|
+|**2026-08-19**|**Scoring and Gamification to Encourage Sustainable Use of Compute Clusters**|Maximilian MacDonald et.al.|[2608.18786](http://arxiv.org/abs/2608.18786)|null|
+|**2026-08-19**|**Engineering Psychological Safety in Autonomous Vehicles: A Systems-Theoretic Framework for Psychological Safety in Autonomous Vehicles and its Validation in Real-World Scenarios**|Yandika Sirgabsou et.al.|[2608.18778](http://arxiv.org/abs/2608.18778)|null|
+|**2026-08-19**|**Model Literacy: An Extra Summative Evaluation Factor for Visual Analytics**|Lei Xia et.al.|[2608.18721](http://arxiv.org/abs/2608.18721)|null|
+|**2026-08-19**|**Sounds Uncertain: Exploring the Affective Aspects of Sonification for Uncertainty Visualization**|Marcel-Simon Dutt et.al.|[2608.18680](http://arxiv.org/abs/2608.18680)|null|
 |**2026-08-18**|**Colour Blinded by the Noise**|Harriet Mason et.al.|[2608.17976](http://arxiv.org/abs/2608.17976)|null|
 |**2026-08-18**|**Analysis of Types of Inquiries in Student-AI Interaction: A case study of two CS2 tasks**|Matin Amoozadeh et.al.|[2608.17919](http://arxiv.org/abs/2608.17919)|null|
 |**2026-08-18**|**AdaLens: Interactive Storyline for Monitoring and Steering Long-Running Agentic Data Analysis**|Yangtian Liu et.al.|[2608.17834](http://arxiv.org/abs/2608.17834)|null|
