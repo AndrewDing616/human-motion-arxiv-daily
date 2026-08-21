@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.08.20
+### Automatically Updated on 2026.08.21
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,8 +959,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-20**|**RoMAN-Flow: Taming Autoregressive Normalizing Flows for Offline Reinforcement Learning in Robotic Manipulation**|Shaoxuan Wang et.al.|[2608.20208](http://arxiv.org/abs/2608.20208)|null|
+|**2026-08-20**|**G-MARK: Grounded Multi-Agent Reasoning for Cooperative Driving via Knowledge Graphs**|Bhavya Gupta et.al.|[2608.19964](http://arxiv.org/abs/2608.19964)|null|
+|**2026-08-20**|**Learning to Beat: Phenotype-Guided Latent Flow with Regional Motion Priors for Biventricular Motion Synthesis**|Xuan Yang et.al.|[2608.19738](http://arxiv.org/abs/2608.19738)|null|
+|**2026-08-20**|**EATR-Stereo: Embodiment-Aware Token Routing of Paired Stereo Evidence for Humanoid Vision-Language-Action Control**|Songwei Wu et.al.|[2608.17453](http://arxiv.org/abs/2608.17453)|null|
 |**2026-08-19**|**CL4D: Contrastive Language-4D Pretraining for Vision-Language Reasoning in Dynamic Scenes**|Kumal Hewagamage et.al.|[2608.18734](http://arxiv.org/abs/2608.18734)|null|
-|**2026-08-19**|**EATR-Stereo: Embodiment-Aware Token Routing of Paired Stereo Evidence for Humanoid Vision-Language-Action Control**|Songwei Wu et.al.|[2608.17453](http://arxiv.org/abs/2608.17453)|null|
 |**2026-08-19**|**Unified Condition-Action Modeling for Accurate One-Step Action Generation**|Xinyu Zhou et.al.|[2608.16153](http://arxiv.org/abs/2608.16153)|null|
 |**2026-08-18**|**Encoded but Not Actionable: Auditing the Decode-Generate-Steer Gap in Frozen LLMs for Geometric Constraints**|Man Liang et.al.|[2608.17843](http://arxiv.org/abs/2608.17843)|null|
 |**2026-08-18**|**NeuroPath: Brain-Inspired Dual-Pathway Graph Convolutional Networks for Skeleton-Based Action Recognition**|Kanglei Zhou et.al.|[2608.17487](http://arxiv.org/abs/2608.17487)|null|
@@ -2620,6 +2623,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-20**|**Inter-X++: A Comprehensive Benchmark for Multimodal Human-Human Interaction Analysis**|Liang Xu et.al.|[2608.20312](http://arxiv.org/abs/2608.20312)|null|
+|**2026-08-20**|**From Agent Behaviour to Agent-Friendly Documentation: An Empirical Study of How Coding Agents Discover, Read, and Write Technical Documentation**|Zhijun Gao et.al.|[2608.20195](http://arxiv.org/abs/2608.20195)|null|
+|**2026-08-20**|**Navigating and Retrieving Information in Immersive Model-Based Design Reviews: An Exploratory Study**|Victor Romero et.al.|[2608.20128](http://arxiv.org/abs/2608.20128)|null|
+|**2026-08-20**|**What Do Visualization Instructors Want Students to Learn? Introducing a Concept Inventory for Visualization Design**|Medina Lamkin et.al.|[2608.20090](http://arxiv.org/abs/2608.20090)|null|
+|**2026-08-20**|**Designing Human-mediated AI Guidance: Ready Together for Personalized Family Emergency Preparedness**|Nini Kurashvili et.al.|[2608.19950](http://arxiv.org/abs/2608.19950)|null|
+|**2026-08-20**|**Evaluating Smart Home Device User Responses to their (Un)Confirmed Privacy Expectations**|Tania Khatun et.al.|[2608.19873](http://arxiv.org/abs/2608.19873)|null|
+|**2026-08-20**|**Dancing Through Soundscapes: Designing a Low-Cost, Sound-Based Device for Sensing and Interpreting Movement and Dance**|Swen E. Gaudl et.al.|[2608.19827](http://arxiv.org/abs/2608.19827)|null|
+|**2026-08-20**|**Calming Robot Pitches? Exploring the Influence of Robot Voice Pitch on Children's Stress Levels**|Nina G. M. van Roij et.al.|[2608.19826](http://arxiv.org/abs/2608.19826)|null|
+|**2026-08-20**|**Grounding Mindfulness in Embodied Tangibles: A Scoping Review & Theoretical Framework for HCI Design**|Tharaka Sachintha Ratnayake et.al.|[2608.19673](http://arxiv.org/abs/2608.19673)|null|
+|**2026-08-20**|**IRIS: Navigating and Reflecting on Writing Traces Using Intelligent Document Histories**|David Zhou et.al.|[2608.19614](http://arxiv.org/abs/2608.19614)|null|
 |**2026-08-19**|**LearnAI: Just-in-Time AI Co-Creation Across Disciplines at a University**|Weihao Qu et.al.|[2608.19164](http://arxiv.org/abs/2608.19164)|null|
 |**2026-08-19**|**Trade-offs in Data Color Palette Design Tools**|Shiyi He et.al.|[2608.19148](http://arxiv.org/abs/2608.19148)|null|
 |**2026-08-19**|**When Readability and Source Retention Diverge: An Evaluability Gap in AI Translation**|Chenchen Mao et.al.|[2608.19083](http://arxiv.org/abs/2608.19083)|null|

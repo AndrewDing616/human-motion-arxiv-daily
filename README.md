@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.08.20
+### Automatically Updated on 2026.08.21
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,8 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-20**|**RoMAN-Flow: Taming Autoregressive Normalizing Flows for Offline Reinforcement Learning in Robotic Manipulation**|Shaoxuan Wang et.al.|[2608.20208](http://arxiv.org/abs/2608.20208)|null|
+|**2026-08-20**|**G-MARK: Grounded Multi-Agent Reasoning for Cooperative Driving via Knowledge Graphs**|Bhavya Gupta et.al.|[2608.19964](http://arxiv.org/abs/2608.19964)|null|
+|**2026-08-20**|**Learning to Beat: Phenotype-Guided Latent Flow with Regional Motion Priors for Biventricular Motion Synthesis**|Xuan Yang et.al.|[2608.19738](http://arxiv.org/abs/2608.19738)|null|
+|**2026-08-20**|**EATR-Stereo: Embodiment-Aware Token Routing of Paired Stereo Evidence for Humanoid Vision-Language-Action Control**|Songwei Wu et.al.|[2608.17453](http://arxiv.org/abs/2608.17453)|null|
 |**2026-08-19**|**CL4D: Contrastive Language-4D Pretraining for Vision-Language Reasoning in Dynamic Scenes**|Kumal Hewagamage et.al.|[2608.18734](http://arxiv.org/abs/2608.18734)|null|
-|**2026-08-19**|**EATR-Stereo: Embodiment-Aware Token Routing of Paired Stereo Evidence for Humanoid Vision-Language-Action Control**|Songwei Wu et.al.|[2608.17453](http://arxiv.org/abs/2608.17453)|null|
 |**2026-08-19**|**Unified Condition-Action Modeling for Accurate One-Step Action Generation**|Xinyu Zhou et.al.|[2608.16153](http://arxiv.org/abs/2608.16153)|null|
 |**2026-08-18**|**Encoded but Not Actionable: Auditing the Decode-Generate-Steer Gap in Frozen LLMs for Geometric Constraints**|Man Liang et.al.|[2608.17843](http://arxiv.org/abs/2608.17843)|null|
 |**2026-08-18**|**NeuroPath: Brain-Inspired Dual-Pathway Graph Convolutional Networks for Skeleton-Based Action Recognition**|Kanglei Zhou et.al.|[2608.17487](http://arxiv.org/abs/2608.17487)|null|
@@ -1170,7 +1173,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260820>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260821>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -1339,7 +1342,7 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260820>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260821>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
@@ -1675,12 +1678,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260820>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260821>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-20**|**Inter-X++: A Comprehensive Benchmark for Multimodal Human-Human Interaction Analysis**|Liang Xu et.al.|[2608.20312](http://arxiv.org/abs/2608.20312)|null|
+|**2026-08-20**|**From Agent Behaviour to Agent-Friendly Documentation: An Empirical Study of How Coding Agents Discover, Read, and Write Technical Documentation**|Zhijun Gao et.al.|[2608.20195](http://arxiv.org/abs/2608.20195)|null|
+|**2026-08-20**|**Navigating and Retrieving Information in Immersive Model-Based Design Reviews: An Exploratory Study**|Victor Romero et.al.|[2608.20128](http://arxiv.org/abs/2608.20128)|null|
+|**2026-08-20**|**What Do Visualization Instructors Want Students to Learn? Introducing a Concept Inventory for Visualization Design**|Medina Lamkin et.al.|[2608.20090](http://arxiv.org/abs/2608.20090)|null|
+|**2026-08-20**|**Designing Human-mediated AI Guidance: Ready Together for Personalized Family Emergency Preparedness**|Nini Kurashvili et.al.|[2608.19950](http://arxiv.org/abs/2608.19950)|null|
+|**2026-08-20**|**Evaluating Smart Home Device User Responses to their (Un)Confirmed Privacy Expectations**|Tania Khatun et.al.|[2608.19873](http://arxiv.org/abs/2608.19873)|null|
+|**2026-08-20**|**Dancing Through Soundscapes: Designing a Low-Cost, Sound-Based Device for Sensing and Interpreting Movement and Dance**|Swen E. Gaudl et.al.|[2608.19827](http://arxiv.org/abs/2608.19827)|null|
+|**2026-08-20**|**Calming Robot Pitches? Exploring the Influence of Robot Voice Pitch on Children's Stress Levels**|Nina G. M. van Roij et.al.|[2608.19826](http://arxiv.org/abs/2608.19826)|null|
+|**2026-08-20**|**Grounding Mindfulness in Embodied Tangibles: A Scoping Review & Theoretical Framework for HCI Design**|Tharaka Sachintha Ratnayake et.al.|[2608.19673](http://arxiv.org/abs/2608.19673)|null|
+|**2026-08-20**|**IRIS: Navigating and Reflecting on Writing Traces Using Intelligent Document Histories**|David Zhou et.al.|[2608.19614](http://arxiv.org/abs/2608.19614)|null|
 |**2026-08-19**|**LearnAI: Just-in-Time AI Co-Creation Across Disciplines at a University**|Weihao Qu et.al.|[2608.19164](http://arxiv.org/abs/2608.19164)|null|
 |**2026-08-19**|**Trade-offs in Data Color Palette Design Tools**|Shiyi He et.al.|[2608.19148](http://arxiv.org/abs/2608.19148)|null|
 |**2026-08-19**|**When Readability and Source Retention Diverge: An Evaluability Gap in AI Translation**|Chenchen Mao et.al.|[2608.19083](http://arxiv.org/abs/2608.19083)|null|
@@ -3788,7 +3801,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260820>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260821>back to top</a>)</p>
 
 Notes: 
 
