@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.08.23
+### Automatically Updated on 2026.08.24
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-21**|**Gaussian-Mixture Latent Flow for Stochastic 3D Human Motion Prediction**|Yue Ma et.al.|[2608.21093](http://arxiv.org/abs/2608.21093)|null|
+|**2026-08-21**|**Natural Sit-to-Stand Motion Synthesis For Humanoids via Guided Assistance Curricula and Staged Rewards**|Meet Pal Singh et.al.|[2608.20823](http://arxiv.org/abs/2608.20823)|null|
+|**2026-08-21**|**SPARC: Single-Pass Scaling for Motion Forecasting with Conformal Bayesian Last Layers**|Sakif Hossain et.al.|[2608.20802](http://arxiv.org/abs/2608.20802)|null|
+|**2026-08-21**|**ArtiMo: Agent-Driven Articulated Mesh Animation**|Chunyu Zou et.al.|[2608.20699](http://arxiv.org/abs/2608.20699)|null|
+|**2026-08-20**|**RISE: Adaptive Imagination for World Action Models**|Hongbo Lu et.al.|[2608.20430](http://arxiv.org/abs/2608.20430)|null|
 |**2026-08-20**|**RoMAN-Flow: Taming Autoregressive Normalizing Flows for Offline Reinforcement Learning in Robotic Manipulation**|Shaoxuan Wang et.al.|[2608.20208](http://arxiv.org/abs/2608.20208)|null|
 |**2026-08-20**|**G-MARK: Grounded Multi-Agent Reasoning for Cooperative Driving via Knowledge Graphs**|Bhavya Gupta et.al.|[2608.19964](http://arxiv.org/abs/2608.19964)|null|
 |**2026-08-20**|**Learning to Beat: Phenotype-Guided Latent Flow with Regional Motion Priors for Biventricular Motion Synthesis**|Xuan Yang et.al.|[2608.19738](http://arxiv.org/abs/2608.19738)|null|
@@ -2289,6 +2294,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-21**|**Identity-Aware Human-Object Interaction Motion Captioning**|Yiming Wang et.al.|[2608.20690](http://arxiv.org/abs/2608.20690)|null|
 |**2026-08-19**|**RoboEdit: Turning Human Manipulation Videos into Scalable Robot Experience**|Yaowei Guo et.al.|[2608.18948](http://arxiv.org/abs/2608.18948)|null|
 |**2026-08-18**|**CoinVE-200K: A Large-Scale High-Quality Dataset for Compositional Instruction-Guided Video Editing**|Fuchen Long et.al.|[2608.17566](http://arxiv.org/abs/2608.17566)|null|
 |**2026-08-15**|**HOIMask: Towards Generative Masked Modeling for Human Object Interaction Generation**|Yihong Ji et.al.|[2608.15141](http://arxiv.org/abs/2608.15141)|null|
@@ -2623,6 +2629,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-21**|**Event-Time Confounding Under Bursty Human Dynamics**|Michael Iannelli et.al.|[2608.21294](http://arxiv.org/abs/2608.21294)|null|
+|**2026-08-21**|**Supporting The Many Lives of Personal Data with Rebite: LLM-Powered Goal-Directed Framing in Food Journaling**|Weijun Li et.al.|[2608.21289](http://arxiv.org/abs/2608.21289)|null|
+|**2026-08-21**|**Who Trusts AI with Their Emotions? Trust Formation and Sociodemographic Variation in LLM Use for Emotional Support**|Natalia Amat-Lefort et.al.|[2608.21220](http://arxiv.org/abs/2608.21220)|null|
+|**2026-08-21**|**From Search Agents to Dissemination Interfaces: Understanding Human Trust in Health Information from Conversational Search**|Xin Sun et.al.|[2608.21177](http://arxiv.org/abs/2608.21177)|null|
+|**2026-08-21**|**Distilling Black-Box Machine Learning into a Small, Self-Explaining Language Model for Learning Analytics**|Chenguang Pan et.al.|[2608.21165](http://arxiv.org/abs/2608.21165)|null|
+|**2026-08-21**|**Teaching is a Process: The TOSS Framework for Modeling Human Teaching Decisions in Human-Interactive Robot Learning**|Bernhard Hilpert et.al.|[2608.21083](http://arxiv.org/abs/2608.21083)|null|
+|**2026-08-21**|**PromptResponse: Optimizing Prompts for LLM Coding Tasks**|Erik Thureck et.al.|[2608.21074](http://arxiv.org/abs/2608.21074)|null|
+|**2026-08-21**|**Beyond Truth Discovery: A Two-Stage Framework to Assess the Severity of False Claim during Disasters**|Ruichen Yao et.al.|[2608.20983](http://arxiv.org/abs/2608.20983)|null|
+|**2026-08-21**|**Beyond the Traceback: Using LLMs for Adaptive Explanations of Programming Errors**|Alexandru-Radu Moraru et.al.|[2608.20896](http://arxiv.org/abs/2608.20896)|null|
+|**2026-08-21**|**Live Artifacts: Authoring Dynamic Media via Live Layers Encapsulating Generative Specifications**|Leixian Shen et.al.|[2608.20880](http://arxiv.org/abs/2608.20880)|null|
 |**2026-08-20**|**Inter-X++: A Comprehensive Benchmark for Multimodal Human-Human Interaction Analysis**|Liang Xu et.al.|[2608.20312](http://arxiv.org/abs/2608.20312)|null|
 |**2026-08-20**|**From Agent Behaviour to Agent-Friendly Documentation: An Empirical Study of How Coding Agents Discover, Read, and Write Technical Documentation**|Zhijun Gao et.al.|[2608.20195](http://arxiv.org/abs/2608.20195)|null|
 |**2026-08-20**|**Navigating and Retrieving Information in Immersive Model-Based Design Reviews: An Exploratory Study**|Victor Romero et.al.|[2608.20128](http://arxiv.org/abs/2608.20128)|null|
