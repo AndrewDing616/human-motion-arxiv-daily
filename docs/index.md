@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.08.24
+### Automatically Updated on 2026.08.25
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-24**|**Spatiotemporally Decoupled Autoregressive Diffusion Model for Human Motion Generation**|Chengqun Yang et.al.|[2608.23279](http://arxiv.org/abs/2608.23279)|null|
+|**2026-08-24**|**Progressively Learning Heterogeneous Skills in a Unified Latent Space**|Yue-Yi Zhang et.al.|[2608.23258](http://arxiv.org/abs/2608.23258)|null|
+|**2026-08-24**|**CSymPlan: Certified Symbolic Planning and Control for High-DOF Manipulators**|Aditya Narendra et.al.|[2608.22983](http://arxiv.org/abs/2608.22983)|null|
+|**2026-08-23**|**What is the effect of running-specific prostheses on long jumps? Optimization-based prediction and analysis using biomechanical models**|Anna Lena Emonds et.al.|[2608.22507](http://arxiv.org/abs/2608.22507)|null|
+|**2026-08-23**|**EMPIRE: Explicit Manipulation Planning as a Learnable Intermediate Representation for Egocentric Hand-Motion Forecasting**|Wen Wang et.al.|[2608.22449](http://arxiv.org/abs/2608.22449)|null|
+|**2026-08-23**|**WAM-OPD: On-Policy Distillation for World Action Models**|Liuhaichen Yang et.al.|[2608.22364](http://arxiv.org/abs/2608.22364)|null|
+|**2026-08-23**|**TransHands: Repurposing Human Pose Encoders as Hand Pose Encoders**|Milo Piccioli et.al.|[2608.22341](http://arxiv.org/abs/2608.22341)|null|
+|**2026-08-23**|**Beyond Instance Slots: Semantically Rich World Models for Physical Interaction Planning**|Juntao Cheng et.al.|[2608.22294](http://arxiv.org/abs/2608.22294)|null|
+|**2026-08-22**|**Inferring Action from Future Latent State for Robotic Manipulation**|Fenghao Lei et.al.|[2608.22067](http://arxiv.org/abs/2608.22067)|null|
 |**2026-08-21**|**Gaussian-Mixture Latent Flow for Stochastic 3D Human Motion Prediction**|Yue Ma et.al.|[2608.21093](http://arxiv.org/abs/2608.21093)|null|
 |**2026-08-21**|**Natural Sit-to-Stand Motion Synthesis For Humanoids via Guided Assistance Curricula and Staged Rewards**|Meet Pal Singh et.al.|[2608.20823](http://arxiv.org/abs/2608.20823)|null|
 |**2026-08-21**|**SPARC: Single-Pass Scaling for Motion Forecasting with Conformal Bayesian Last Layers**|Sakif Hossain et.al.|[2608.20802](http://arxiv.org/abs/2608.20802)|null|
@@ -2629,6 +2638,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-24**|**When "Do Not" Is Not Deny: Security Rules in CLAUDE.md vs Built-In Controls**|Ting Yan et.al.|[2608.23550](http://arxiv.org/abs/2608.23550)|null|
+|**2026-08-24**|**Multisensor Measurement of Train Driver Mental Fatigue: From Simulation to Reality**|Esther Bosch et.al.|[2608.23361](http://arxiv.org/abs/2608.23361)|null|
+|**2026-08-24**|**Beyond the Mirror: Balancing Interaction Modality and Avatar Fidelity in Public 3D Virtual Try-On Systems**|Yueqian Guo et.al.|[2608.23345](http://arxiv.org/abs/2608.23345)|null|
+|**2026-08-24**|**Evaluating SAT Solver Metrics as Predictors of Human-Perceived Nonogram Difficulty**|Changdao He et.al.|[2608.23300](http://arxiv.org/abs/2608.23300)|null|
+|**2026-08-24**|**Expectations and Practices around AI Disclosure in CS Research**|Arati Mohapatra et.al.|[2608.23271](http://arxiv.org/abs/2608.23271)|null|
+|**2026-08-24**|**AI emotional support is better only when chosen, but shifts preferences even when it is not**|Yaoxi Shi et.al.|[2608.23196](http://arxiv.org/abs/2608.23196)|null|
+|**2026-08-24**|**A Simulator-Grounded Framework For Constructing Verifiable Muscle-Grounded QA From 3D Tongue Meshes**|Seungho Eum et.al.|[2608.23137](http://arxiv.org/abs/2608.23137)|null|
+|**2026-08-24**|**What Makes an Initial Reaction Ready for Discussion?: Multi-Persona AI Support for Stance Reflection and Writing**|Sky Shih-Kai Hong et.al.|[2608.23050](http://arxiv.org/abs/2608.23050)|null|
+|**2026-08-24**|**Free-Energy-Gated Plasticity for Real-Time Online Motor Learning in Physical Human--Robot Interaction**|Hiroki Sawada et.al.|[2608.23000](http://arxiv.org/abs/2608.23000)|null|
+|**2026-08-24**|**LLM Pedagogical Behavior in AI Tutoring Interactions**|Suhyeon Lee et.al.|[2608.22993](http://arxiv.org/abs/2608.22993)|null|
 |**2026-08-21**|**Event-Time Confounding Under Bursty Human Dynamics**|Michael Iannelli et.al.|[2608.21294](http://arxiv.org/abs/2608.21294)|null|
 |**2026-08-21**|**Supporting The Many Lives of Personal Data with Rebite: LLM-Powered Goal-Directed Framing in Food Journaling**|Weijun Li et.al.|[2608.21289](http://arxiv.org/abs/2608.21289)|null|
 |**2026-08-21**|**Who Trusts AI with Their Emotions? Trust Formation and Sociodemographic Variation in LLM Use for Emotional Support**|Natalia Amat-Lefort et.al.|[2608.21220](http://arxiv.org/abs/2608.21220)|null|
