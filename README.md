@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.08.25
+### Automatically Updated on 2026.08.26
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-25**|**GaussianWAM: Distilling Geometry and Semantics from 3D Gaussian Fields into World-Action Models**|Zijian Zhang et.al.|[2608.24714](http://arxiv.org/abs/2608.24714)|null|
+|**2026-08-25**|**From State to Action: OODA-Tool for Reliable Multi-Turn Tool Use**|Rongfeng Guo et.al.|[2608.24368](http://arxiv.org/abs/2608.24368)|null|
+|**2026-08-25**|**SeMoCo: A Semantic-First Motion Codec for Motion Language Modeling**|Tianlv Huang et.al.|[2608.24334](http://arxiv.org/abs/2608.24334)|null|
+|**2026-08-25**|**MetaRAG: Belief-Action Aligned Policy Optimization for Agentic RAG**|Qiuyi Qi et.al.|[2608.24214](http://arxiv.org/abs/2608.24214)|null|
+|**2026-08-24**|**Learning to Act While Waiting: RL Finetuning of Generalist Robot Policies Under Inference Latency**|Brian Zhu et.al.|[2608.23831](http://arxiv.org/abs/2608.23831)|null|
 |**2026-08-24**|**Spatiotemporally Decoupled Autoregressive Diffusion Model for Human Motion Generation**|Chengqun Yang et.al.|[2608.23279](http://arxiv.org/abs/2608.23279)|null|
 |**2026-08-24**|**Progressively Learning Heterogeneous Skills in a Unified Latent Space**|Yue-Yi Zhang et.al.|[2608.23258](http://arxiv.org/abs/2608.23258)|null|
 |**2026-08-24**|**CSymPlan: Certified Symbolic Planning and Control for High-DOF Manipulators**|Aditya Narendra et.al.|[2608.22983](http://arxiv.org/abs/2608.22983)|null|
@@ -1187,7 +1192,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260825>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260826>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -1356,15 +1361,15 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260825>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260826>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-25**|**CoinVE-200K: A Large-Scale High-Quality Dataset for Compositional Instruction-Guided Video Editing**|Fuchen Long et.al.|[2608.17566](http://arxiv.org/abs/2608.17566)|null|
 |**2026-08-21**|**Identity-Aware Human-Object Interaction Motion Captioning**|Yiming Wang et.al.|[2608.20690](http://arxiv.org/abs/2608.20690)|null|
 |**2026-08-19**|**RoboEdit: Turning Human Manipulation Videos into Scalable Robot Experience**|Yaowei Guo et.al.|[2608.18948](http://arxiv.org/abs/2608.18948)|null|
-|**2026-08-18**|**CoinVE-200K: A Large-Scale High-Quality Dataset for Compositional Instruction-Guided Video Editing**|Fuchen Long et.al.|[2608.17566](http://arxiv.org/abs/2608.17566)|null|
 |**2026-08-15**|**HOIMask: Towards Generative Masked Modeling for Human Object Interaction Generation**|Yihong Ji et.al.|[2608.15141](http://arxiv.org/abs/2608.15141)|null|
 |**2026-08-11**|**GESTO: Human-Centric Spatio-Temporal Memory for Reasoning in Dynamic Scenes**|Ermanno Bartoli et.al.|[2608.10886](http://arxiv.org/abs/2608.10886)|null|
 |**2026-08-04**|**Surface Keypoint Representation for Multi-Object and Articulated Human-Object Interaction Generation**|Xiaogang Peng et.al.|[2608.03158](http://arxiv.org/abs/2608.03158)|null|
@@ -1693,12 +1698,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260825>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260826>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-25**|**Ten Years Later: Replicating Two Color Discrimination Studies**|Shadmaan Hye et.al.|[2608.24789](http://arxiv.org/abs/2608.24789)|null|
+|**2026-08-25**|**Shaping the Future of Generative AI for Black Communities: A Frame Analysis of Public Discourse and Empirical Scholarly Research**|Angela D. R. Smith et.al.|[2608.24767](http://arxiv.org/abs/2608.24767)|null|
+|**2026-08-25**|**Learning to Prefer Reliably: Error-Augmented Emotion Preference Optimization with Calibrated Fusion**|Zilong Huang et.al.|[2608.24730](http://arxiv.org/abs/2608.24730)|null|
+|**2026-08-25**|**Who Falls for SMiSh? Learning Through Survey Data Where to Best Target Awareness Training for Mobile Messaging Attacks**|Cori Faklaris et.al.|[2608.24669](http://arxiv.org/abs/2608.24669)|null|
+|**2026-08-25**|**StrokeGuard: A Multi-Agent Guided System for Prehospital Stroke Assessment**|Wentao Yang et.al.|[2608.24555](http://arxiv.org/abs/2608.24555)|null|
+|**2026-08-25**|**VizAnchor: Decoding Manipulation Intent from Tampering Visualizations via Dual-Anchor Reasoning**|Xiaotian Zhang et.al.|[2608.24535](http://arxiv.org/abs/2608.24535)|null|
+|**2026-08-25**|**Latent-surrealism: Revisiting surrealism and its aesthetics in relation to contemporary AI-Generated cultural production**|Anca-Simona Horvath et.al.|[2608.24367](http://arxiv.org/abs/2608.24367)|null|
+|**2026-08-25**|**Mind the Student: Behavioral and Contextual Cues for Automated Engagement Prediction in Online Learning**|Alperen Kantarci et.al.|[2608.24340](http://arxiv.org/abs/2608.24340)|null|
+|**2026-08-25**|**How Do Professional Editors Evaluate the Editing Quality of AI-Generated Cinematic Video Ads?**|Po-Ming Law et.al.|[2608.24329](http://arxiv.org/abs/2608.24329)|null|
+|**2026-08-25**|**When AI "Works," When Does Help Begin?: Intergenerational Support Around Older Adults' LLM Usage**|Hyehyun Chu et.al.|[2608.24297](http://arxiv.org/abs/2608.24297)|null|
 |**2026-08-24**|**When "Do Not" Is Not Deny: Security Rules in CLAUDE.md vs Built-In Controls**|Ting Yan et.al.|[2608.23550](http://arxiv.org/abs/2608.23550)|null|
 |**2026-08-24**|**Multisensor Measurement of Train Driver Mental Fatigue: From Simulation to Reality**|Esther Bosch et.al.|[2608.23361](http://arxiv.org/abs/2608.23361)|null|
 |**2026-08-24**|**Beyond the Mirror: Balancing Interaction Modality and Avatar Fidelity in Public 3D Virtual Try-On Systems**|Yueqian Guo et.al.|[2608.23345](http://arxiv.org/abs/2608.23345)|null|
@@ -3836,7 +3851,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260825>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260826>back to top</a>)</p>
 
 Notes: 
 

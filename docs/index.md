@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.08.25
+### Automatically Updated on 2026.08.26
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-25**|**GaussianWAM: Distilling Geometry and Semantics from 3D Gaussian Fields into World-Action Models**|Zijian Zhang et.al.|[2608.24714](http://arxiv.org/abs/2608.24714)|null|
+|**2026-08-25**|**From State to Action: OODA-Tool for Reliable Multi-Turn Tool Use**|Rongfeng Guo et.al.|[2608.24368](http://arxiv.org/abs/2608.24368)|null|
+|**2026-08-25**|**SeMoCo: A Semantic-First Motion Codec for Motion Language Modeling**|Tianlv Huang et.al.|[2608.24334](http://arxiv.org/abs/2608.24334)|null|
+|**2026-08-25**|**MetaRAG: Belief-Action Aligned Policy Optimization for Agentic RAG**|Qiuyi Qi et.al.|[2608.24214](http://arxiv.org/abs/2608.24214)|null|
+|**2026-08-24**|**Learning to Act While Waiting: RL Finetuning of Generalist Robot Policies Under Inference Latency**|Brian Zhu et.al.|[2608.23831](http://arxiv.org/abs/2608.23831)|null|
 |**2026-08-24**|**Spatiotemporally Decoupled Autoregressive Diffusion Model for Human Motion Generation**|Chengqun Yang et.al.|[2608.23279](http://arxiv.org/abs/2608.23279)|null|
 |**2026-08-24**|**Progressively Learning Heterogeneous Skills in a Unified Latent Space**|Yue-Yi Zhang et.al.|[2608.23258](http://arxiv.org/abs/2608.23258)|null|
 |**2026-08-24**|**CSymPlan: Certified Symbolic Planning and Control for High-DOF Manipulators**|Aditya Narendra et.al.|[2608.22983](http://arxiv.org/abs/2608.22983)|null|
@@ -2303,9 +2308,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-25**|**CoinVE-200K: A Large-Scale High-Quality Dataset for Compositional Instruction-Guided Video Editing**|Fuchen Long et.al.|[2608.17566](http://arxiv.org/abs/2608.17566)|null|
 |**2026-08-21**|**Identity-Aware Human-Object Interaction Motion Captioning**|Yiming Wang et.al.|[2608.20690](http://arxiv.org/abs/2608.20690)|null|
 |**2026-08-19**|**RoboEdit: Turning Human Manipulation Videos into Scalable Robot Experience**|Yaowei Guo et.al.|[2608.18948](http://arxiv.org/abs/2608.18948)|null|
-|**2026-08-18**|**CoinVE-200K: A Large-Scale High-Quality Dataset for Compositional Instruction-Guided Video Editing**|Fuchen Long et.al.|[2608.17566](http://arxiv.org/abs/2608.17566)|null|
 |**2026-08-15**|**HOIMask: Towards Generative Masked Modeling for Human Object Interaction Generation**|Yihong Ji et.al.|[2608.15141](http://arxiv.org/abs/2608.15141)|null|
 |**2026-08-11**|**GESTO: Human-Centric Spatio-Temporal Memory for Reasoning in Dynamic Scenes**|Ermanno Bartoli et.al.|[2608.10886](http://arxiv.org/abs/2608.10886)|null|
 |**2026-08-04**|**Surface Keypoint Representation for Multi-Object and Articulated Human-Object Interaction Generation**|Xiaogang Peng et.al.|[2608.03158](http://arxiv.org/abs/2608.03158)|null|
@@ -2638,6 +2643,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-25**|**Ten Years Later: Replicating Two Color Discrimination Studies**|Shadmaan Hye et.al.|[2608.24789](http://arxiv.org/abs/2608.24789)|null|
+|**2026-08-25**|**Shaping the Future of Generative AI for Black Communities: A Frame Analysis of Public Discourse and Empirical Scholarly Research**|Angela D. R. Smith et.al.|[2608.24767](http://arxiv.org/abs/2608.24767)|null|
+|**2026-08-25**|**Learning to Prefer Reliably: Error-Augmented Emotion Preference Optimization with Calibrated Fusion**|Zilong Huang et.al.|[2608.24730](http://arxiv.org/abs/2608.24730)|null|
+|**2026-08-25**|**Who Falls for SMiSh? Learning Through Survey Data Where to Best Target Awareness Training for Mobile Messaging Attacks**|Cori Faklaris et.al.|[2608.24669](http://arxiv.org/abs/2608.24669)|null|
+|**2026-08-25**|**StrokeGuard: A Multi-Agent Guided System for Prehospital Stroke Assessment**|Wentao Yang et.al.|[2608.24555](http://arxiv.org/abs/2608.24555)|null|
+|**2026-08-25**|**VizAnchor: Decoding Manipulation Intent from Tampering Visualizations via Dual-Anchor Reasoning**|Xiaotian Zhang et.al.|[2608.24535](http://arxiv.org/abs/2608.24535)|null|
+|**2026-08-25**|**Latent-surrealism: Revisiting surrealism and its aesthetics in relation to contemporary AI-Generated cultural production**|Anca-Simona Horvath et.al.|[2608.24367](http://arxiv.org/abs/2608.24367)|null|
+|**2026-08-25**|**Mind the Student: Behavioral and Contextual Cues for Automated Engagement Prediction in Online Learning**|Alperen Kantarci et.al.|[2608.24340](http://arxiv.org/abs/2608.24340)|null|
+|**2026-08-25**|**How Do Professional Editors Evaluate the Editing Quality of AI-Generated Cinematic Video Ads?**|Po-Ming Law et.al.|[2608.24329](http://arxiv.org/abs/2608.24329)|null|
+|**2026-08-25**|**When AI "Works," When Does Help Begin?: Intergenerational Support Around Older Adults' LLM Usage**|Hyehyun Chu et.al.|[2608.24297](http://arxiv.org/abs/2608.24297)|null|
 |**2026-08-24**|**When "Do Not" Is Not Deny: Security Rules in CLAUDE.md vs Built-In Controls**|Ting Yan et.al.|[2608.23550](http://arxiv.org/abs/2608.23550)|null|
 |**2026-08-24**|**Multisensor Measurement of Train Driver Mental Fatigue: From Simulation to Reality**|Esther Bosch et.al.|[2608.23361](http://arxiv.org/abs/2608.23361)|null|
 |**2026-08-24**|**Beyond the Mirror: Balancing Interaction Modality and Avatar Fidelity in Public 3D Virtual Try-On Systems**|Yueqian Guo et.al.|[2608.23345](http://arxiv.org/abs/2608.23345)|null|
