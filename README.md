@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.08.27
+### Automatically Updated on 2026.08.28
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,12 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-27**|**GRAFT: Grounded and Efficient Online Reinforcement Adaptation for Fine-Grained Robot Manipulation**|Yibo Qiu et.al.|[2608.27079](http://arxiv.org/abs/2608.27079)|null|
+|**2026-08-27**|**Multi-Person Human Motion Forecasting in Complex Scenes**|Serdar Ozsoy et.al.|[2608.27039](http://arxiv.org/abs/2608.27039)|null|
+|**2026-08-27**|**Decoupling Planning and Control for Instructable Agents**|Zineng Tang et.al.|[2608.26788](http://arxiv.org/abs/2608.26788)|null|
+|**2026-08-27**|**LM-X: Explainable Action Modeling with Progress, Event, and Uncertainty Prediction for Generalist Robot Manipulation**|Jin Lou et.al.|[2608.25757](http://arxiv.org/abs/2608.25757)|null|
 |**2026-08-26**|**TacForcing: Streaming Action Generation with Execution-Time Tactile Feedback**|Jianbo Zhou et.al.|[2608.25798](http://arxiv.org/abs/2608.25798)|null|
-|**2026-08-26**|**LM-X: Explainable Action Modeling with Progress, Event, and Uncertainty Prediction for Generalist Robot Manipulation**|Jin Lou et.al.|[2608.25757](http://arxiv.org/abs/2608.25757)|null|
 |**2026-08-26**|**Reassembling Distributed Risk: Trajectory-Conditioned Action Generation for Multi-Turn Agent Safety**|Yanbo Dai et.al.|[2608.25711](http://arxiv.org/abs/2608.25711)|null|
 |**2026-08-26**|**PRISM: Projection-Integrated Sampling-Based MPC with Bayesian Cost Tuning for Bimanual Manipulation**|Alinjar Dan et.al.|[2608.25666](http://arxiv.org/abs/2608.25666)|null|
 |**2026-08-26**|**AffectSim: A Controllable Interactive 3D Simulation Benchmark for Embodied Affective Perception**|Ke Xing et.al.|[2608.25664](http://arxiv.org/abs/2608.25664)|null|
 |**2026-08-26**|**V-Link: Recovering Lost Visual Representations in Action DiT for Vision-Language-Action Models**|Yehao Lu et.al.|[2608.25308](http://arxiv.org/abs/2608.25308)|null|
+|**2026-08-25**|**GameWAM: A World Action Model for Video Games**|Yuncheng Guo et.al.|[2608.26200](http://arxiv.org/abs/2608.26200)|null|
 |**2026-08-25**|**GaussianWAM: Distilling Geometry and Semantics from 3D Gaussian Fields into World-Action Models**|Zijian Zhang et.al.|[2608.24714](http://arxiv.org/abs/2608.24714)|null|
 |**2026-08-25**|**From State to Action: OODA-Tool for Reliable Multi-Turn Tool Use**|Rongfeng Guo et.al.|[2608.24368](http://arxiv.org/abs/2608.24368)|null|
 |**2026-08-25**|**SeMoCo: A Semantic-First Motion Codec for Motion Language Modeling**|Tianlv Huang et.al.|[2608.24334](http://arxiv.org/abs/2608.24334)|null|
@@ -1198,7 +1202,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260827>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260828>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -1367,12 +1371,14 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260827>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260828>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-27**|**Reconstructing Humans and Objects in Interaction using Large Reconstruction Models**|Agniv Chatterjee et.al.|[2608.27407](http://arxiv.org/abs/2608.27407)|null|
+|**2026-08-27**|**Multi-Person Human Motion Forecasting in Complex Scenes**|Serdar Ozsoy et.al.|[2608.27039](http://arxiv.org/abs/2608.27039)|null|
 |**2026-08-25**|**CoinVE-200K: A Large-Scale High-Quality Dataset for Compositional Instruction-Guided Video Editing**|Fuchen Long et.al.|[2608.17566](http://arxiv.org/abs/2608.17566)|null|
 |**2026-08-21**|**Identity-Aware Human-Object Interaction Motion Captioning**|Yiming Wang et.al.|[2608.20690](http://arxiv.org/abs/2608.20690)|null|
 |**2026-08-19**|**RoboEdit: Turning Human Manipulation Videos into Scalable Robot Experience**|Yaowei Guo et.al.|[2608.18948](http://arxiv.org/abs/2608.18948)|null|
@@ -1704,12 +1710,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260827>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260828>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-27**|**Do User-Authored Permission Policies Improve Protection Against AI Agent Overreach?**|Ting Yan et.al.|[2608.27443](http://arxiv.org/abs/2608.27443)|null|
+|**2026-08-27**|**Beyond Harassment: Exploring the Harm Experienced by People with Disabilities in Social Virtual Reality**|Xinran Adeline Li et.al.|[2608.27390](http://arxiv.org/abs/2608.27390)|null|
+|**2026-08-27**|**Comparative Evaluation of 3D Reconstruction Methods for Immersive Visualization of Laboratory Objects**|Brian De La Cruz et.al.|[2608.27301](http://arxiv.org/abs/2608.27301)|null|
+|**2026-08-27**|**BrailleBench: Investigating Multi-Criteria Braille Comprehension in Large Language Models**|Jinghan Zhang et.al.|[2608.27268](http://arxiv.org/abs/2608.27268)|null|
+|**2026-08-27**|**A Point-of-Prescription Safety-Check System for Adverse Drug Reactions in Rural Bangladeshi Hospitals: A Feasibility Study**|Shahir Abdullah et.al.|[2608.27239](http://arxiv.org/abs/2608.27239)|null|
+|**2026-08-27**|**Surrounded by Friends: Design and Evaluation of Immersive Layouts of Egocentric Network for Visual Analytics**|Kentaro Takahira et.al.|[2608.27194](http://arxiv.org/abs/2608.27194)|null|
+|**2026-08-27**|**Soft Active Electromyography Interface for Machine Learning-Enabled Silent Speech Recognition**|Yuta Kurotaki et.al.|[2608.27048](http://arxiv.org/abs/2608.27048)|null|
+|**2026-08-27**|**Exploring Normativity in Stable Diffusion: Insights for XAI in the Arts**|Michelle Dutoit et.al.|[2608.26980](http://arxiv.org/abs/2608.26980)|null|
+|**2026-08-27**|**Evaluating human and LLM screening workflows in a conceptually complex scoping review: Recall--workload trade-offs and run-to-run consistency**|Nikol Figalová et.al.|[2608.26885](http://arxiv.org/abs/2608.26885)|null|
+|**2026-08-27**|**Dynamic Tree Colors: Adaptive Discriminable Hierarchies with Minimum Instability**|Tobias Mertz et.al.|[2608.26734](http://arxiv.org/abs/2608.26734)|null|
 |**2026-08-26**|**MyoMechanix: Biomechanically-Grounded Compositional Skilled Activity Understanding and Coaching**|Hao Yin et.al.|[2608.26094](http://arxiv.org/abs/2608.26094)|null|
 |**2026-08-26**|**From Producing to Validating: How AI Is Deskilling Freelancers**|Nakul Rajpal et.al.|[2608.26089](http://arxiv.org/abs/2608.26089)|null|
 |**2026-08-26**|**Gaming Together on Discord: Teen Gamer's Cross-Platform Practices**|Elena Koung et.al.|[2608.25942](http://arxiv.org/abs/2608.25942)|null|
@@ -3867,7 +3883,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260827>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260828>back to top</a>)</p>
 
 Notes: 
 
