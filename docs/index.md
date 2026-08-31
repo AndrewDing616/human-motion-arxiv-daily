@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.08.30
+### Automatically Updated on 2026.08.31
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,7 +959,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-08-27**|**GRAFT: Grounded and Efficient Online Reinforcement Adaptation for Fine-Grained Robot Manipulation**|Yibo Qiu et.al.|[2608.27079](http://arxiv.org/abs/2608.27079)|null|
+|**2026-08-28**|**PanelShield: Verifiable Closed-Loop Safe Planning for Robotic Industrial Panel Operation**|Guipeng Xin et.al.|[2608.28305](http://arxiv.org/abs/2608.28305)|null|
+|**2026-08-28**|**PAMoR: Parameterized Affective Motion Generation in Real Time for Humanoid Robots**|Yan Pan et.al.|[2608.28213](http://arxiv.org/abs/2608.28213)|null|
+|**2026-08-28**|**GRAFT: Grounded and Efficient Online Reinforcement Adaptation for Fine-Grained Robot Manipulation**|Yibo Qiu et.al.|[2608.27079](http://arxiv.org/abs/2608.27079)|null|
 |**2026-08-27**|**Multi-Person Human Motion Forecasting in Complex Scenes**|Serdar Ozsoy et.al.|[2608.27039](http://arxiv.org/abs/2608.27039)|null|
 |**2026-08-27**|**Decoupling Planning and Control for Instructable Agents**|Zineng Tang et.al.|[2608.26788](http://arxiv.org/abs/2608.26788)|null|
 |**2026-08-27**|**LM-X: Explainable Action Modeling with Progress, Event, and Uncertainty Prediction for Generalist Robot Manipulation**|Jin Lou et.al.|[2608.25757](http://arxiv.org/abs/2608.25757)|null|
@@ -2318,11 +2320,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-28**|**GraspHOI: Full-Body 3D Human-Object Reconstruction with Finger-Level Grasps from a Single In-the-Wild Image**|Semin Kim et.al.|[2608.28386](http://arxiv.org/abs/2608.28386)|null|
+|**2026-08-28**|**RoboEdit: Turning Human Manipulation Videos into Scalable Robot Experience**|Yaowei Guo et.al.|[2608.18948](http://arxiv.org/abs/2608.18948)|null|
+|**2026-08-27**|**VidParse: Online Parsing of Egocentric Procedures Like a Pro**|Anubhav Gupta et.al.|[2608.27562](http://arxiv.org/abs/2608.27562)|null|
 |**2026-08-27**|**Reconstructing Humans and Objects in Interaction using Large Reconstruction Models**|Agniv Chatterjee et.al.|[2608.27407](http://arxiv.org/abs/2608.27407)|null|
 |**2026-08-27**|**Multi-Person Human Motion Forecasting in Complex Scenes**|Serdar Ozsoy et.al.|[2608.27039](http://arxiv.org/abs/2608.27039)|null|
 |**2026-08-25**|**CoinVE-200K: A Large-Scale High-Quality Dataset for Compositional Instruction-Guided Video Editing**|Fuchen Long et.al.|[2608.17566](http://arxiv.org/abs/2608.17566)|null|
 |**2026-08-21**|**Identity-Aware Human-Object Interaction Motion Captioning**|Yiming Wang et.al.|[2608.20690](http://arxiv.org/abs/2608.20690)|null|
-|**2026-08-19**|**RoboEdit: Turning Human Manipulation Videos into Scalable Robot Experience**|Yaowei Guo et.al.|[2608.18948](http://arxiv.org/abs/2608.18948)|null|
 |**2026-08-15**|**HOIMask: Towards Generative Masked Modeling for Human Object Interaction Generation**|Yihong Ji et.al.|[2608.15141](http://arxiv.org/abs/2608.15141)|null|
 |**2026-08-11**|**GESTO: Human-Centric Spatio-Temporal Memory for Reasoning in Dynamic Scenes**|Ermanno Bartoli et.al.|[2608.10886](http://arxiv.org/abs/2608.10886)|null|
 |**2026-08-04**|**Surface Keypoint Representation for Multi-Object and Articulated Human-Object Interaction Generation**|Xiaogang Peng et.al.|[2608.03158](http://arxiv.org/abs/2608.03158)|null|
@@ -2655,6 +2659,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-28**|**Between Algorithm (AI) and Intuition (Human): Preserving Designer Agency in AI-Assisted Sensemaking of Qualitative UX Data**|Md Haseen Akhtar et.al.|[2608.28420](http://arxiv.org/abs/2608.28420)|null|
+|**2026-08-28**|**AI as Teammate: Rethinking Task Distribution in Medical Training**|Fendi Tsim et.al.|[2608.28373](http://arxiv.org/abs/2608.28373)|null|
+|**2026-08-28**|**It Takes Three to Converse: Empirical Observations on How the Developer, the Convener and the Participant Shaped 119 Polis Conversations**|Lodewijk Gelauff et.al.|[2608.28368](http://arxiv.org/abs/2608.28368)|null|
+|**2026-08-28**|**Generative AI Alignment with Hinduism's Theological Plurality and Sacred Representation**|Dipto Das et.al.|[2608.28228](http://arxiv.org/abs/2608.28228)|null|
+|**2026-08-28**|**CrabOS: An Operating System for Human-AI Co-inhabitation**|Qi Yang et.al.|[2608.28165](http://arxiv.org/abs/2608.28165)|null|
+|**2026-08-28**|**Gen-TAS: A Generative AI-Aided Hardware-Software Task Allocation Framework for FPGA-GPP Heterogeneous Systems**|Mary Kong et.al.|[2608.28160](http://arxiv.org/abs/2608.28160)|null|
+|**2026-08-28**|**User Preferences for UI Anchoring in MR: Effects of Task Mobility and Interface Properties**|João Belo et.al.|[2608.28064](http://arxiv.org/abs/2608.28064)|null|
+|**2026-08-28**|**Too Much of the Same: From Algorithmic to Human Bias in Learning to Defer**|Dario Pesenti et.al.|[2608.28050](http://arxiv.org/abs/2608.28050)|null|
+|**2026-08-28**|**FocusGen: Expanding Visual Design Exploration with a Simulated Focus Group of Persona Agents**|Jaewon Choi et.al.|[2608.28001](http://arxiv.org/abs/2608.28001)|null|
+|**2026-08-28**|**Graphionale: How Graph Visualizations of LLM Rationales Affect Human Decision Making**|Xinru Wang et.al.|[2608.27932](http://arxiv.org/abs/2608.27932)|null|
 |**2026-08-27**|**Do User-Authored Permission Policies Improve Protection Against AI Agent Overreach?**|Ting Yan et.al.|[2608.27443](http://arxiv.org/abs/2608.27443)|null|
 |**2026-08-27**|**Beyond Harassment: Exploring the Harm Experienced by People with Disabilities in Social Virtual Reality**|Xinran Adeline Li et.al.|[2608.27390](http://arxiv.org/abs/2608.27390)|null|
 |**2026-08-27**|**Comparative Evaluation of 3D Reconstruction Methods for Immersive Visualization of Laboratory Objects**|Brian De La Cruz et.al.|[2608.27301](http://arxiv.org/abs/2608.27301)|null|
