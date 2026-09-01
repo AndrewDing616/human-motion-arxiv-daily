@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.08.31
+### Automatically Updated on 2026.09.01
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-31**|**PAVE: Predictive Alignment and Value-Guided Evolution for World-Action Policies**|Botong Zhao et.al.|[2608.30378](http://arxiv.org/abs/2608.30378)|null|
+|**2026-08-31**|**LangBP: Language-Guided Reasoning and Acting for Joint Bidding and Pricing**|Jiaqi Ding et.al.|[2608.30343](http://arxiv.org/abs/2608.30343)|null|
+|**2026-08-31**|**CometVLA: Co-Training on an Embodied Data Pyramid towards Physical Understanding**|Hanwen Wan et.al.|[2608.30289](http://arxiv.org/abs/2608.30289)|null|
+|**2026-08-30**|**AcrossWAM1.0:A Modular Latent World-Action Stack for Compact Robot Policies**|Yafei Zhang et.al.|[2608.29937](http://arxiv.org/abs/2608.29937)|null|
+|**2026-08-30**|**DriftingVLA: Native One-Step Vision-Language-Action Generation via Per-Dimension Temporal Drifting**|Yuxuan Gao et.al.|[2608.29749](http://arxiv.org/abs/2608.29749)|null|
+|**2026-08-29**|**AdaVLA: Adaptive Step Flow Matching for Training-free Acceleration of Vision-Language-Action Models**|Sunghwan Han et.al.|[2608.29208](http://arxiv.org/abs/2608.29208)|null|
+|**2026-08-29**|**Brain-Language-Action (BLA) Models: Language-Conditioned EEG for Robotics Control**|Alexandr Plashchinsky et.al.|[2608.28967](http://arxiv.org/abs/2608.28967)|null|
 |**2026-08-28**|**PanelShield: Verifiable Closed-Loop Safe Planning for Robotic Industrial Panel Operation**|Guipeng Xin et.al.|[2608.28305](http://arxiv.org/abs/2608.28305)|null|
 |**2026-08-28**|**PAMoR: Parameterized Affective Motion Generation in Real Time for Humanoid Robots**|Yan Pan et.al.|[2608.28213](http://arxiv.org/abs/2608.28213)|null|
 |**2026-08-28**|**GRAFT: Grounded and Efficient Online Reinforcement Adaptation for Fine-Grained Robot Manipulation**|Yibo Qiu et.al.|[2608.27079](http://arxiv.org/abs/2608.27079)|null|
@@ -2320,7 +2327,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-08-28**|**GraspHOI: Full-Body 3D Human-Object Reconstruction with Finger-Level Grasps from a Single In-the-Wild Image**|Semin Kim et.al.|[2608.28386](http://arxiv.org/abs/2608.28386)|null|
+|**2026-08-31**|**GraspHOI: Full-Body 3D Human-Object Reconstruction with Finger-Level Grasps from a Single In-the-Wild Image**|Semin Kim et.al.|[2608.28386](http://arxiv.org/abs/2608.28386)|null|
 |**2026-08-28**|**RoboEdit: Turning Human Manipulation Videos into Scalable Robot Experience**|Yaowei Guo et.al.|[2608.18948](http://arxiv.org/abs/2608.18948)|null|
 |**2026-08-27**|**VidParse: Online Parsing of Egocentric Procedures Like a Pro**|Anubhav Gupta et.al.|[2608.27562](http://arxiv.org/abs/2608.27562)|null|
 |**2026-08-27**|**Reconstructing Humans and Objects in Interaction using Large Reconstruction Models**|Agniv Chatterjee et.al.|[2608.27407](http://arxiv.org/abs/2608.27407)|null|
@@ -2659,6 +2666,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-31**|**InsightToast: Proactive Information Retrieval & Glanceable Visualization in the Side Channel of Data-Rich Meetings**|Mohammad Abolnejadian et.al.|[2608.31115](http://arxiv.org/abs/2608.31115)|null|
+|**2026-08-31**|**Augmenting Interviewer Judgments of Patient Experience with Automatic Language Analysis**|Aowen Shi et.al.|[2608.31007](http://arxiv.org/abs/2608.31007)|null|
+|**2026-08-31**|**You Shouldn't Have Asked: A Pragmatics-Inspired Taxonomy for Evaluating LLM Refusals**|Ruoxuan Li et.al.|[2608.30856](http://arxiv.org/abs/2608.30856)|null|
+|**2026-08-31**|**LipCoder: Voice-Enabled Coding Toolkit**|Hayoon Kim et.al.|[2608.30793](http://arxiv.org/abs/2608.30793)|null|
+|**2026-08-31**|**Domain-Grounded Tool Orchestration for LLM-Guided Scientific Analysis**|Jeff Lee et.al.|[2608.30696](http://arxiv.org/abs/2608.30696)|null|
+|**2026-08-31**|**Inferring Value Criteria from Ordinal Preferences: An Iterative In-Context Learning Framework for Music Generation**|Futa Hidaka et.al.|[2608.30694](http://arxiv.org/abs/2608.30694)|null|
+|**2026-08-31**|**User Experience in Human-Machine Interaction: Insights from Field Studies in Autonomous Mobility**|Helen Schneider et.al.|[2608.30526](http://arxiv.org/abs/2608.30526)|null|
+|**2026-08-31**|**TSExplorer: An interactive data annotation and exploration tool for time-series data**|Einari Vaaras et.al.|[2608.30514](http://arxiv.org/abs/2608.30514)|null|
+|**2026-08-31**|**Towards Cognitive Process-Aware Proactive Writing Support**|Masahiro Yoshida et.al.|[2608.30424](http://arxiv.org/abs/2608.30424)|null|
+|**2026-08-31**|**Augmenting Human Performance with an XR Agent Learning from Online Behavior and BCI Evidence**|Ziheng Li et.al.|[2608.30369](http://arxiv.org/abs/2608.30369)|null|
 |**2026-08-28**|**Between Algorithm (AI) and Intuition (Human): Preserving Designer Agency in AI-Assisted Sensemaking of Qualitative UX Data**|Md Haseen Akhtar et.al.|[2608.28420](http://arxiv.org/abs/2608.28420)|null|
 |**2026-08-28**|**AI as Teammate: Rethinking Task Distribution in Medical Training**|Fendi Tsim et.al.|[2608.28373](http://arxiv.org/abs/2608.28373)|null|
 |**2026-08-28**|**It Takes Three to Converse: Empirical Observations on How the Developer, the Convener and the Participant Shaped 119 Polis Conversations**|Lodewijk Gelauff et.al.|[2608.28368](http://arxiv.org/abs/2608.28368)|null|
