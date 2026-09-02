@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.09.01
+### Automatically Updated on 2026.09.02
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-01**|**What, Where, and How: Probing Spatiotemporal Representations in Video Foundation Models**|Sharon S. Musa et.al.|[2609.01551](http://arxiv.org/abs/2609.01551)|null|
+|**2026-09-01**|**Seeing the World and the Self from Egocentric Video**|Kai Guan et.al.|[2609.01276](http://arxiv.org/abs/2609.01276)|null|
+|**2026-09-01**|**GeoPAR: Large-Scale Multi-Agent Combinatorial Optimization with Geometry-Guided Parallel Autoregressive Learning**|Wenjian Wu et.al.|[2609.00577](http://arxiv.org/abs/2609.00577)|null|
 |**2026-08-31**|**PAVE: Predictive Alignment and Value-Guided Evolution for World-Action Policies**|Botong Zhao et.al.|[2608.30378](http://arxiv.org/abs/2608.30378)|null|
 |**2026-08-31**|**LangBP: Language-Guided Reasoning and Acting for Joint Bidding and Pricing**|Jiaqi Ding et.al.|[2608.30343](http://arxiv.org/abs/2608.30343)|null|
 |**2026-08-31**|**CometVLA: Co-Training on an Embodied Data Pyramid towards Physical Understanding**|Hanwen Wan et.al.|[2608.30289](http://arxiv.org/abs/2608.30289)|null|
@@ -1211,7 +1214,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260901>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260902>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -1380,7 +1383,7 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260901>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260902>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
@@ -1721,12 +1724,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260901>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260902>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-01**|**Designing Proactive Thought Partners for Writing**|Chao Zhang et.al.|[2609.01588](http://arxiv.org/abs/2609.01588)|null|
+|**2026-09-01**|**Evaluating Usability in Biomedical Visualization: Rethinking Heuristic Evaluation for Spatial Omics and Multidisciplinary Research Platforms**|Yulia A. Levites Strekalova et.al.|[2609.01569](http://arxiv.org/abs/2609.01569)|null|
+|**2026-09-01**|**Better Situational Awareness in AR-HRC? A Comparative Study of Augmented Reality and Mobile Interfaces for Human-Robot Collaboration**|Zhehan Qu et.al.|[2609.01461](http://arxiv.org/abs/2609.01461)|null|
+|**2026-09-01**|**Cross-Modal Guidance for Out-of-View Object Search in Simulated Prosthetic Vision**|Adyah Rastogi et.al.|[2609.01438](http://arxiv.org/abs/2609.01438)|null|
+|**2026-09-01**|**InSight: A Benchmark for Agentic Claim Verification in Interactive Visualizations**|Maeve Hutchinson et.al.|[2609.01383](http://arxiv.org/abs/2609.01383)|null|
+|**2026-09-01**|**GazeRefine: Expert Gaze as a Test-Time Prompt for Training-Free Medical Image Segmentation**|Mohammed Oussama Benyahia et.al.|[2609.01310](http://arxiv.org/abs/2609.01310)|null|
+|**2026-09-01**|**Beyond Technological Solutionism: Rethinking XR in Healthcare**|Md Haseen Akhtar et.al.|[2609.01028](http://arxiv.org/abs/2609.01028)|null|
+|**2026-09-01**|**Disclosure-Gated User Simulation for Companion-Agent Evaluation**|Yao Liu et.al.|[2609.00982](http://arxiv.org/abs/2609.00982)|null|
+|**2026-09-01**|**Ctrl-F-Resist. Practices, Challenges, and Technical Needs of Civil Society Organizations Monitoring the Far-Right Online**|Elisabeth Steffen et.al.|[2609.00808](http://arxiv.org/abs/2609.00808)|null|
+|**2026-09-01**|**TEIDAN: A Multilingual Multiparty Dialogue Corpus**|Taiga Mori et.al.|[2609.00802](http://arxiv.org/abs/2609.00802)|null|
 |**2026-08-31**|**InsightToast: Proactive Information Retrieval & Glanceable Visualization in the Side Channel of Data-Rich Meetings**|Mohammad Abolnejadian et.al.|[2608.31115](http://arxiv.org/abs/2608.31115)|null|
 |**2026-08-31**|**Augmenting Interviewer Judgments of Patient Experience with Automatic Language Analysis**|Aowen Shi et.al.|[2608.31007](http://arxiv.org/abs/2608.31007)|null|
 |**2026-08-31**|**You Shouldn't Have Asked: A Pragmatics-Inspired Taxonomy for Evaluating LLM Refusals**|Ruoxuan Li et.al.|[2608.30856](http://arxiv.org/abs/2608.30856)|null|
@@ -3914,7 +3927,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260901>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260902>back to top</a>)</p>
 
 Notes: 
 

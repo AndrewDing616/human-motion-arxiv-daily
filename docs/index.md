@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.09.01
+### Automatically Updated on 2026.09.02
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-01**|**What, Where, and How: Probing Spatiotemporal Representations in Video Foundation Models**|Sharon S. Musa et.al.|[2609.01551](http://arxiv.org/abs/2609.01551)|null|
+|**2026-09-01**|**Seeing the World and the Self from Egocentric Video**|Kai Guan et.al.|[2609.01276](http://arxiv.org/abs/2609.01276)|null|
+|**2026-09-01**|**GeoPAR: Large-Scale Multi-Agent Combinatorial Optimization with Geometry-Guided Parallel Autoregressive Learning**|Wenjian Wu et.al.|[2609.00577](http://arxiv.org/abs/2609.00577)|null|
 |**2026-08-31**|**PAVE: Predictive Alignment and Value-Guided Evolution for World-Action Policies**|Botong Zhao et.al.|[2608.30378](http://arxiv.org/abs/2608.30378)|null|
 |**2026-08-31**|**LangBP: Language-Guided Reasoning and Acting for Joint Bidding and Pricing**|Jiaqi Ding et.al.|[2608.30343](http://arxiv.org/abs/2608.30343)|null|
 |**2026-08-31**|**CometVLA: Co-Training on an Embodied Data Pyramid towards Physical Understanding**|Hanwen Wan et.al.|[2608.30289](http://arxiv.org/abs/2608.30289)|null|
@@ -2666,6 +2669,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-01**|**Designing Proactive Thought Partners for Writing**|Chao Zhang et.al.|[2609.01588](http://arxiv.org/abs/2609.01588)|null|
+|**2026-09-01**|**Evaluating Usability in Biomedical Visualization: Rethinking Heuristic Evaluation for Spatial Omics and Multidisciplinary Research Platforms**|Yulia A. Levites Strekalova et.al.|[2609.01569](http://arxiv.org/abs/2609.01569)|null|
+|**2026-09-01**|**Better Situational Awareness in AR-HRC? A Comparative Study of Augmented Reality and Mobile Interfaces for Human-Robot Collaboration**|Zhehan Qu et.al.|[2609.01461](http://arxiv.org/abs/2609.01461)|null|
+|**2026-09-01**|**Cross-Modal Guidance for Out-of-View Object Search in Simulated Prosthetic Vision**|Adyah Rastogi et.al.|[2609.01438](http://arxiv.org/abs/2609.01438)|null|
+|**2026-09-01**|**InSight: A Benchmark for Agentic Claim Verification in Interactive Visualizations**|Maeve Hutchinson et.al.|[2609.01383](http://arxiv.org/abs/2609.01383)|null|
+|**2026-09-01**|**GazeRefine: Expert Gaze as a Test-Time Prompt for Training-Free Medical Image Segmentation**|Mohammed Oussama Benyahia et.al.|[2609.01310](http://arxiv.org/abs/2609.01310)|null|
+|**2026-09-01**|**Beyond Technological Solutionism: Rethinking XR in Healthcare**|Md Haseen Akhtar et.al.|[2609.01028](http://arxiv.org/abs/2609.01028)|null|
+|**2026-09-01**|**Disclosure-Gated User Simulation for Companion-Agent Evaluation**|Yao Liu et.al.|[2609.00982](http://arxiv.org/abs/2609.00982)|null|
+|**2026-09-01**|**Ctrl-F-Resist. Practices, Challenges, and Technical Needs of Civil Society Organizations Monitoring the Far-Right Online**|Elisabeth Steffen et.al.|[2609.00808](http://arxiv.org/abs/2609.00808)|null|
+|**2026-09-01**|**TEIDAN: A Multilingual Multiparty Dialogue Corpus**|Taiga Mori et.al.|[2609.00802](http://arxiv.org/abs/2609.00802)|null|
 |**2026-08-31**|**InsightToast: Proactive Information Retrieval & Glanceable Visualization in the Side Channel of Data-Rich Meetings**|Mohammad Abolnejadian et.al.|[2608.31115](http://arxiv.org/abs/2608.31115)|null|
 |**2026-08-31**|**Augmenting Interviewer Judgments of Patient Experience with Automatic Language Analysis**|Aowen Shi et.al.|[2608.31007](http://arxiv.org/abs/2608.31007)|null|
 |**2026-08-31**|**You Shouldn't Have Asked: A Pragmatics-Inspired Taxonomy for Evaluating LLM Refusals**|Ruoxuan Li et.al.|[2608.30856](http://arxiv.org/abs/2608.30856)|null|
