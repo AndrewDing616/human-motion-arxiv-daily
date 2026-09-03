@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.09.02
+### Automatically Updated on 2026.09.03
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,10 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-02**|**World-Coherent Decoding: Self-Verifying Test-Time Planning for World Action Models**|Chuhan Zhang et.al.|[2609.02159](http://arxiv.org/abs/2609.02159)|null|
+|**2026-09-02**|**OmegaUse-SOP: SOP Engineering for Professional Computer Use from Human Demonstrations**|Yixiong Xiao et.al.|[2609.02149](http://arxiv.org/abs/2609.02149)|null|
+|**2026-09-02**|**Unified Motion Retargeting for Humanoids with Learned Point Cloud Correspondence**|Hanyang Cao et.al.|[2609.02134](http://arxiv.org/abs/2609.02134)|null|
+|**2026-09-02**|**PAVE: Predictive Alignment and Value-Guided Evolution for World-Action Policies**|Botong Zhao et.al.|[2608.30378](http://arxiv.org/abs/2608.30378)|null|
+|**2026-09-01**|**Kirin: Animal Motion Generation from In-the-Wild Video**|Brian Nlong Zhao et.al.|[2609.01823](http://arxiv.org/abs/2609.01823)|null|
 |**2026-09-01**|**What, Where, and How: Probing Spatiotemporal Representations in Video Foundation Models**|Sharon S. Musa et.al.|[2609.01551](http://arxiv.org/abs/2609.01551)|null|
 |**2026-09-01**|**Seeing the World and the Self from Egocentric Video**|Kai Guan et.al.|[2609.01276](http://arxiv.org/abs/2609.01276)|null|
 |**2026-09-01**|**GeoPAR: Large-Scale Multi-Agent Combinatorial Optimization with Geometry-Guided Parallel Autoregressive Learning**|Wenjian Wu et.al.|[2609.00577](http://arxiv.org/abs/2609.00577)|null|
-|**2026-08-31**|**PAVE: Predictive Alignment and Value-Guided Evolution for World-Action Policies**|Botong Zhao et.al.|[2608.30378](http://arxiv.org/abs/2608.30378)|null|
 |**2026-08-31**|**LangBP: Language-Guided Reasoning and Acting for Joint Bidding and Pricing**|Jiaqi Ding et.al.|[2608.30343](http://arxiv.org/abs/2608.30343)|null|
 |**2026-08-31**|**CometVLA: Co-Training on an Embodied Data Pyramid towards Physical Understanding**|Hanwen Wan et.al.|[2608.30289](http://arxiv.org/abs/2608.30289)|null|
 |**2026-08-30**|**AcrossWAM1.0:A Modular Latent World-Action Stack for Compact Robot Policies**|Yafei Zhang et.al.|[2608.29937](http://arxiv.org/abs/2608.29937)|null|
@@ -1214,7 +1218,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260902>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260903>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -1383,7 +1387,7 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260902>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260903>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
@@ -1724,12 +1728,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260902>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260903>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-02**|**BuildOcc: A Large Language Model Occupant Agent Platform for Building Energy Research**|Wooyoung Jung et.al.|[2609.02729](http://arxiv.org/abs/2609.02729)|null|
+|**2026-09-02**|**Large Language Model-Driven Context-Aware Eco-Feedback Generation and Evaluation**|Wooyoung Jung et.al.|[2609.02719](http://arxiv.org/abs/2609.02719)|null|
+|**2026-09-02**|**The PIONEER Project: A PrIvacy companion for mOtivatioN and knowlEdge transfER**|Simon Althaus et.al.|[2609.02700](http://arxiv.org/abs/2609.02700)|null|
+|**2026-09-02**|**Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning**|Vera Rief et.al.|[2609.02611](http://arxiv.org/abs/2609.02611)|null|
+|**2026-09-02**|**EEG-based Visual Retrieval and Reconstruction: From Neurally Visible Optimal Layer to Hierarchical Diffusion Generation**|Minyi Wang et.al.|[2609.02582](http://arxiv.org/abs/2609.02582)|null|
+|**2026-09-02**|**Beauty is in the AI of the beholder: MLLMs systematically overrate facial attractiveness**|Santiago Grandas et.al.|[2609.02512](http://arxiv.org/abs/2609.02512)|null|
+|**2026-09-02**|**Orthogonal Ensembles and Tested Explanations for Performer-Independent Body-Motion Emotion Recognition**|Naoto Nishida et.al.|[2609.02510](http://arxiv.org/abs/2609.02510)|null|
+|**2026-09-02**|**Decoding Decision Correctness from EEG Under High Cognitive Workload in Virtual Reality: Implications for Collaborative Brain-Computer Interface Teams**|Christopher Baker et.al.|[2609.02436](http://arxiv.org/abs/2609.02436)|null|
+|**2026-09-02**|**Removing Speech, Keeping Activities: A Privacy Firewall for Acoustic Sensing in Assisted Living**|Pavlos Nicolaou et.al.|[2609.02376](http://arxiv.org/abs/2609.02376)|null|
+|**2026-09-02**|**Towards a Foundational Ontology for Identifying and Resolving Contradictions in Dialogue-based Human-Robot Interactions**|Maitreyee Tewari et.al.|[2609.02364](http://arxiv.org/abs/2609.02364)|null|
 |**2026-09-01**|**Designing Proactive Thought Partners for Writing**|Chao Zhang et.al.|[2609.01588](http://arxiv.org/abs/2609.01588)|null|
 |**2026-09-01**|**Evaluating Usability in Biomedical Visualization: Rethinking Heuristic Evaluation for Spatial Omics and Multidisciplinary Research Platforms**|Yulia A. Levites Strekalova et.al.|[2609.01569](http://arxiv.org/abs/2609.01569)|null|
 |**2026-09-01**|**Better Situational Awareness in AR-HRC? A Comparative Study of Augmented Reality and Mobile Interfaces for Human-Robot Collaboration**|Zhehan Qu et.al.|[2609.01461](http://arxiv.org/abs/2609.01461)|null|
@@ -3927,7 +3941,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260902>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260903>back to top</a>)</p>
 
 Notes: 
 
