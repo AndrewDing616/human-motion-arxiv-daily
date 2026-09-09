@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.09.08
+### Automatically Updated on 2026.09.09
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-08**|**TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model**|Anqi Li et.al.|[2609.09158](http://arxiv.org/abs/2609.09158)|null|
+|**2026-09-08**|**DeCAL: Towards Physically-Grounded Dexterous Vision-Language-Action Models via Contact-Aware Latent Co-Imagination**|Yankai Fu et.al.|[2609.09119](http://arxiv.org/abs/2609.09119)|null|
+|**2026-09-08**|**ReMoMask-2: Latent Retrieval-Augmented Masked Motion Generation**|Yiran Wang et.al.|[2609.08365](http://arxiv.org/abs/2609.08365)|null|
+|**2026-09-08**|**DriveMotion: A Large-Scale Multi-Source Benchmark for Driver Motion Sequence Modeling and Forecasting**|Yuhang Wang et.al.|[2609.08117](http://arxiv.org/abs/2609.08117)|null|
+|**2026-09-07**|**Flexible Motion Generation from Language and Style References**|Kai Weixian Lan et.al.|[2609.08032](http://arxiv.org/abs/2609.08032)|null|
+|**2026-09-07**|**SPOT: Spatial Perception-Oriented Long-Horizon Humanoid Teleoperation**|Lixing Fang et.al.|[2609.07933](http://arxiv.org/abs/2609.07933)|null|
+|**2026-09-07**|**ICI-VLA: In-Context Imitation with Spatiotemporally Aligned Demonstrations for Vision-Language-Action Models**|Songhua Yang et.al.|[2609.07581](http://arxiv.org/abs/2609.07581)|null|
+|**2026-09-07**|**Predictive-Coding-Based Autonomous Regulation of Internally Generated and Externally Coupled Processing in Human-Robot Interaction**|Henrique Oyama et.al.|[2609.06888](http://arxiv.org/abs/2609.06888)|null|
+|**2026-09-06**|**Learning to Use Imagination: Progress-Conditioned Future Utilization for World Action Models**|Yijie Zhu et.al.|[2609.06578](http://arxiv.org/abs/2609.06578)|null|
+|**2026-09-05**|**MobileVLA-R1 2.0: RL-Enhanced Reasoning for Mobile Robot Control**|Ting Huang et.al.|[2609.06251](http://arxiv.org/abs/2609.06251)|null|
 |**2026-09-04**|**TacPAC: Tactile Prediction and Real-Time Action Correction in World-Action Models for Contact-Rich Manipulation**|Zipei Ma et.al.|[2609.05266](http://arxiv.org/abs/2609.05266)|null|
 |**2026-09-04**|**From Interaction Traces to Persistent Skills: Online Evolution for Computer-Use Agents**|Longtao Hu et.al.|[2609.04869](http://arxiv.org/abs/2609.04869)|null|
 |**2026-09-04**|**Dressing in Motion: A Human Motion-Aware Diffusion Policy for Robot-Assisted Dressing**|Haoxiang Sun et.al.|[2609.04759](http://arxiv.org/abs/2609.04759)|null|
@@ -1227,7 +1237,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260908>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260909>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -1396,12 +1406,14 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260908>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260909>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-05**|**FineHOI: Part-Aware Dense Representations for Zero-Shot Human-Object Interaction Detection**|Francesco Tonini et.al.|[2609.05959](http://arxiv.org/abs/2609.05959)|null|
+|**2026-09-05**|**A4A: Cross-Embodiment Transfer of Action-Oriented 4D Affordances from Human Demonstrations**|Yifan Han et.al.|[2609.05892](http://arxiv.org/abs/2609.05892)|null|
 |**2026-08-31**|**GraspHOI: Full-Body 3D Human-Object Reconstruction with Finger-Level Grasps from a Single In-the-Wild Image**|Semin Kim et.al.|[2608.28386](http://arxiv.org/abs/2608.28386)|null|
 |**2026-08-28**|**RoboEdit: Turning Human Manipulation Videos into Scalable Robot Experience**|Yaowei Guo et.al.|[2608.18948](http://arxiv.org/abs/2608.18948)|null|
 |**2026-08-27**|**VidParse: Online Parsing of Egocentric Procedures Like a Pro**|Anubhav Gupta et.al.|[2608.27562](http://arxiv.org/abs/2608.27562)|null|
@@ -1737,12 +1749,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260908>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260909>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-08**|**Travel Package Booking Application with API Bot**|K Sai Karthik et.al.|[2609.09112](http://arxiv.org/abs/2609.09112)|null|
+|**2026-09-08**|**Performance of Clinical AI System and Physicians and Frontier Language Models in primary care diagnostics**|Andy Nkansah et.al.|[2609.09070](http://arxiv.org/abs/2609.09070)|null|
+|**2026-09-08**|**Location-Independent Robot-Assisted Finishing Using Digital Twins and Extended Reality**|Jose Outeiro et.al.|[2609.09061](http://arxiv.org/abs/2609.09061)|null|
+|**2026-09-08**|**Do Reasoning Representations Help Humans Evaluate LLM Outputs?**|Jaewoo Lim et.al.|[2609.09038](http://arxiv.org/abs/2609.09038)|null|
+|**2026-09-08**|**Embedded Human-Centered Data Science in a Graduate Programming Course: A Framework and Case Study**|Victoria Chui et.al.|[2609.08982](http://arxiv.org/abs/2609.08982)|null|
+|**2026-09-08**|**To Stop or Not to Stop: Exploring the Intention-Behavior Gaps in Smartphone Usage**|Jian Zheng et.al.|[2609.08909](http://arxiv.org/abs/2609.08909)|null|
+|**2026-09-08**|**Healthcare Utilization, Chronic Condition Management, and Workplace Functioning Among Users of a Purpose-Built Mental Health AI (Ash): Cross-Sectional Study**|Kristen M. Van Swearingen et.al.|[2609.08890](http://arxiv.org/abs/2609.08890)|null|
+|**2026-09-08**|**ArmPoser: Real-Time, Calibration-Free Arm Pose Estimation from Smartwatch IMU**|Bishnu Dev et.al.|[2609.08806](http://arxiv.org/abs/2609.08806)|null|
+|**2026-09-08**|**A Controlled Comparison of Manual and Teleoperated Intraocular Instrument Motion for an Input Device**|Korab Hoxha et.al.|[2609.08770](http://arxiv.org/abs/2609.08770)|null|
+|**2026-09-08**|**Rescuing Performance from the Demo: Co-Designing Drum Gesture Mappings with a Percussionist**|Jordie Shier et.al.|[2609.08587](http://arxiv.org/abs/2609.08587)|null|
 |**2026-09-04**|**Diffusion TV: Experiencing Diffusion Models through Tangible, Embodied Interaction**|Sihwa Park et.al.|[2609.05404](http://arxiv.org/abs/2609.05404)|null|
 |**2026-09-04**|**From Interpretability Methods to Interpretable Models**|Julien Colin et.al.|[2609.05399](http://arxiv.org/abs/2609.05399)|null|
 |**2026-09-04**|**TherMosaic: Accelerating Perceived Thermal Transitions Through Spatiotemporal Thermal Feedback**|Zining Zhang et.al.|[2609.05347](http://arxiv.org/abs/2609.05347)|null|
@@ -3970,7 +3992,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260908>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260909>back to top</a>)</p>
 
 Notes: 
 
