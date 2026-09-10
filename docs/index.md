@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.09.09
+### Automatically Updated on 2026.09.10
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-09**|**IdeaAMBIG: Benchmarking Implementation-Critical Gaps in Research-Idea Specifications**|Yiling Ma et.al.|[2609.10539](http://arxiv.org/abs/2609.10539)|null|
+|**2026-09-09**|**Decoupled Self-Forcing Distillation for Streaming Talking Head Generation**|Yanru An et.al.|[2609.10317](http://arxiv.org/abs/2609.10317)|null|
+|**2026-09-09**|**3rd Place Solution to Human Motion Challenges in Real-World and Clinical Settings (MoCha) @ECCV2026: Language-Aligned Motion Representations for Domain-Generalizable UPDRS-Gait Severity Estimation**|Soojie Kim et.al.|[2609.10187](http://arxiv.org/abs/2609.10187)|null|
+|**2026-09-09**|**Modality-Decoupled Federated Learning for Privacy-Preserving Embodied Intelligence in 6G**|Zhuodong Liu et.al.|[2609.09591](http://arxiv.org/abs/2609.09591)|null|
+|**2026-09-08**|**MotionBlind: Probing the Illusion of Motion Understanding in Video-LLMs**|Dhairya Bhatia et.al.|[2609.09528](http://arxiv.org/abs/2609.09528)|null|
+|**2026-09-08**|**Valerant: An Automatic Navigable Game Map Generator via Action-Conditioned World Model Exploration**|Yiran Qiao et.al.|[2609.09418](http://arxiv.org/abs/2609.09418)|null|
 |**2026-09-08**|**TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model**|Anqi Li et.al.|[2609.09158](http://arxiv.org/abs/2609.09158)|null|
 |**2026-09-08**|**DeCAL: Towards Physically-Grounded Dexterous Vision-Language-Action Models via Contact-Aware Latent Co-Imagination**|Yankai Fu et.al.|[2609.09119](http://arxiv.org/abs/2609.09119)|null|
 |**2026-09-08**|**ReMoMask-2: Latent Retrieval-Augmented Masked Motion Generation**|Yiran Wang et.al.|[2609.08365](http://arxiv.org/abs/2609.08365)|null|
@@ -2694,6 +2700,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-09**|**MOONWALK: Mediating Operations with Intent-Evidence-Action Alignment Across Junior-Supervisor Review Workflows in Animation/VFX Pre-Production**|Shih-Yu Lai et.al.|[2609.10385](http://arxiv.org/abs/2609.10385)|null|
+|**2026-09-09**|**A Confidence-Aware Multimodal Fusion Framework for Industrial Human-Robot Collaboration**|Xinyu Liu et.al.|[2609.10339](http://arxiv.org/abs/2609.10339)|null|
+|**2026-09-09**|**TimeCues Studio: A Workspace for Music Annotation and Algorithm Prototyping**|Sapir Caduri et.al.|[2609.10338](http://arxiv.org/abs/2609.10338)|null|
+|**2026-09-09**|**Senseful Consense: Towards Simplified Cookie Banners using Plain Language**|Minela Bećirović et.al.|[2609.10271](http://arxiv.org/abs/2609.10271)|null|
+|**2026-09-09**|**Seeing the Voice, Preserving the Self: A Participatory Design Approach to Deaf-Centric Text-to-Speech**|Shela Atemnkeng et.al.|[2609.10199](http://arxiv.org/abs/2609.10199)|null|
+|**2026-09-09**|**Streaming P300 Acquisition and Statistical Signal Validation Across Five EEG Platforms: A Hardware-Agnostic BrainFlow/LSL Pipeline**|Isabella Guan et.al.|[2609.10047](http://arxiv.org/abs/2609.10047)|null|
+|**2026-09-09**|**Somatosensory Activation and Attentional States in Creative Making**|Katherine Rees et.al.|[2609.09960](http://arxiv.org/abs/2609.09960)|null|
+|**2026-09-09**|**Pairit: A Platform for Live Experiments on Human-AI Collaboration**|Harang Ju et.al.|[2609.09789](http://arxiv.org/abs/2609.09789)|null|
+|**2026-09-09**|**How Far Do Capability Cues Travel? Anthropomorphism and Differentiated Trust in a Platform-Embedded AI Assistant**|Chenchen Mao et.al.|[2609.09713](http://arxiv.org/abs/2609.09713)|null|
+|**2026-09-09**|**AppetiteCheck: Feasibility of Momentary Vagus Nerve Stimulation as an Implicit Intervention for Eating Behavior**|Tan Gemicioglu et.al.|[2609.09700](http://arxiv.org/abs/2609.09700)|null|
 |**2026-09-08**|**Travel Package Booking Application with API Bot**|K Sai Karthik et.al.|[2609.09112](http://arxiv.org/abs/2609.09112)|null|
 |**2026-09-08**|**Performance of Clinical AI System and Physicians and Frontier Language Models in primary care diagnostics**|Andy Nkansah et.al.|[2609.09070](http://arxiv.org/abs/2609.09070)|null|
 |**2026-09-08**|**Location-Independent Robot-Assisted Finishing Using Digital Twins and Extended Reality**|Jose Outeiro et.al.|[2609.09061](http://arxiv.org/abs/2609.09061)|null|
