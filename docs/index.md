@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.09.10
+### Automatically Updated on 2026.09.11
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-10**|**World in World: Explore the World with World Models**|Chenxi Song et.al.|[2609.11548](http://arxiv.org/abs/2609.11548)|null|
+|**2026-09-10**|**Multi-Modal Controlled Coherent Motion Generation**|Yifei Liu et.al.|[2609.11439](http://arxiv.org/abs/2609.11439)|null|
+|**2026-09-10**|**Morphology-Aware Human Motion Retargeting for Wheeled-Humanoid Loco-Manipulation**|Chenbo Xia et.al.|[2609.11357](http://arxiv.org/abs/2609.11357)|null|
+|**2026-09-10**|**Can AI Remediate Backend Failures Safely? GuardedAct with Blast-Radius-Aware Sandboxing**|Wanrong Cai et.al.|[2609.11264](http://arxiv.org/abs/2609.11264)|null|
+|**2026-09-10**|**Harness Robotic OS: A Unified Embodied-Agent Runtime for Closed-Loop Quadruped Inspection**|Yaoyuan Yan et.al.|[2609.11225](http://arxiv.org/abs/2609.11225)|null|
+|**2026-09-10**|**ReCHOIR: Contact-guided Human Object Interaction Retargeting to Diverse Characters**|Chaelin Kim et.al.|[2609.10982](http://arxiv.org/abs/2609.10982)|null|
+|**2026-09-10**|**ObstaDiff: Generalizable Diffusion Policy Learning via Obstacle-aware Representations**|Jiawen Wang et.al.|[2609.10918](http://arxiv.org/abs/2609.10918)|null|
+|**2026-09-10**|**IMLE-VLA: Fast Single-Step Action Generation for Vision-Language-Action Policies**|Kian Hosseinkhani et.al.|[2609.10915](http://arxiv.org/abs/2609.10915)|null|
 |**2026-09-09**|**IdeaAMBIG: Benchmarking Implementation-Critical Gaps in Research-Idea Specifications**|Yiling Ma et.al.|[2609.10539](http://arxiv.org/abs/2609.10539)|null|
 |**2026-09-09**|**Decoupled Self-Forcing Distillation for Streaming Talking Head Generation**|Yanru An et.al.|[2609.10317](http://arxiv.org/abs/2609.10317)|null|
 |**2026-09-09**|**3rd Place Solution to Human Motion Challenges in Real-World and Clinical Settings (MoCha) @ECCV2026: Language-Aligned Motion Representations for Domain-Generalizable UPDRS-Gait Severity Estimation**|Soojie Kim et.al.|[2609.10187](http://arxiv.org/abs/2609.10187)|null|
@@ -2359,6 +2367,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-10**|**ReCHOIR: Contact-guided Human Object Interaction Retargeting to Diverse Characters**|Chaelin Kim et.al.|[2609.10982](http://arxiv.org/abs/2609.10982)|null|
 |**2026-09-05**|**FineHOI: Part-Aware Dense Representations for Zero-Shot Human-Object Interaction Detection**|Francesco Tonini et.al.|[2609.05959](http://arxiv.org/abs/2609.05959)|null|
 |**2026-09-05**|**A4A: Cross-Embodiment Transfer of Action-Oriented 4D Affordances from Human Demonstrations**|Yifan Han et.al.|[2609.05892](http://arxiv.org/abs/2609.05892)|null|
 |**2026-08-31**|**GraspHOI: Full-Body 3D Human-Object Reconstruction with Finger-Level Grasps from a Single In-the-Wild Image**|Semin Kim et.al.|[2608.28386](http://arxiv.org/abs/2608.28386)|null|
@@ -2700,6 +2709,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-10**|**Caption-once, Frames-on-Demand: Visual-Need Routing for Budget-Aware Agentic Long Video Understanding**|Weitong Cai et.al.|[2609.11899](http://arxiv.org/abs/2609.11899)|null|
+|**2026-09-10**|**MotionQ: Operator-Conditioned Motion Quotients for Cross-Observation WiFi Gesture Recognition**|Xiang Zhang et.al.|[2609.11818](http://arxiv.org/abs/2609.11818)|null|
+|**2026-09-10**|**Understanding Operator Attitudes Toward AI-Supported Decision Making in Maritime Operations**|Doreen Jirak et.al.|[2609.11805](http://arxiv.org/abs/2609.11805)|null|
+|**2026-09-10**|**Bigger than the EAR BOX: A Theory-Grounded Review of XR Accessibility Research for Deaf and Hard of Hearing Communities**|Shuxu Huffman et.al.|[2609.11706](http://arxiv.org/abs/2609.11706)|null|
+|**2026-09-10**|**Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration**|Youngseok Seo et.al.|[2609.11529](http://arxiv.org/abs/2609.11529)|null|
+|**2026-09-10**|**Design Reflections on Transition to LLM-Aided Novel Visualizations**|Richard Brath et.al.|[2609.11503](http://arxiv.org/abs/2609.11503)|null|
+|**2026-09-10**|**The Convention Gap: Towards Measuring Implicit Communication in Cooperative AI Evaluation**|Makoto Fukushima et.al.|[2609.11489](http://arxiv.org/abs/2609.11489)|null|
+|**2026-09-10**|**CARLAverse: A Highly Modular, Distributed, and Multimodal Framework for Human-in-the-Loop Simulation**|Patrick Rebling et.al.|[2609.11478](http://arxiv.org/abs/2609.11478)|null|
+|**2026-09-10**|**Are Caption Metrics Broken? Latency, Deaf and Hard of Hearing User Ratings, and Bias across Technologies**|Bernard Thompson et.al.|[2609.11408](http://arxiv.org/abs/2609.11408)|null|
+|**2026-09-10**|**A Voice-Interactive Multi-Agent System for Smart Operating Rooms: Architecture Design and Key Technologies**|Tianxiang Zhou et.al.|[2609.11231](http://arxiv.org/abs/2609.11231)|null|
 |**2026-09-09**|**MOONWALK: Mediating Operations with Intent-Evidence-Action Alignment Across Junior-Supervisor Review Workflows in Animation/VFX Pre-Production**|Shih-Yu Lai et.al.|[2609.10385](http://arxiv.org/abs/2609.10385)|null|
 |**2026-09-09**|**A Confidence-Aware Multimodal Fusion Framework for Industrial Human-Robot Collaboration**|Xinyu Liu et.al.|[2609.10339](http://arxiv.org/abs/2609.10339)|null|
 |**2026-09-09**|**TimeCues Studio: A Workspace for Music Annotation and Algorithm Prototyping**|Sapir Caduri et.al.|[2609.10338](http://arxiv.org/abs/2609.10338)|null|
