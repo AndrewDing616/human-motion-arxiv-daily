@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.09.12
+### Automatically Updated on 2026.09.16
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-15**|**Tracking the Unseen: An Occlusion-Robust Framework for Target Tracking Under Full and Long-Term Occlusion**|Mais Mohammed et.al.|[2609.17427](http://arxiv.org/abs/2609.17427)|null|
+|**2026-09-15**|**Concise tensors with maximal symmetries**|Annika Holtrup et.al.|[2609.17280](http://arxiv.org/abs/2609.17280)|null|
+|**2026-09-15**|**Weave: Learning Whole-Body Dexterous Loco-Manipulation from Human-Object Interactions**|Liu Cao et.al.|[2609.16683](http://arxiv.org/abs/2609.16683)|null|
+|**2026-09-15**|**ProxiDex: Learning Dynamics-Guided Proximity Policy for Dexterous Manipulation**|Yushan Bai et.al.|[2609.16586](http://arxiv.org/abs/2609.16586)|null|
+|**2026-09-14**|**ConGraspXL: Controllable Constraint-Conditioned Dexterous Grasping Motion Synthesis**|Hui Zhang et.al.|[2609.16319](http://arxiv.org/abs/2609.16319)|null|
+|**2026-09-14**|**Volumetric Harmonic Field Navigation for Quadrotors**|Shuxiu Jia et.al.|[2609.15680](http://arxiv.org/abs/2609.15680)|null|
+|**2026-09-14**|**Assistance Torque Estimation via Dynamics-Aware Optimization for Lower-Limb Exoskeleton in Complex Environments**|Xiao-Yin Liu et.al.|[2609.15352](http://arxiv.org/abs/2609.15352)|null|
+|**2026-09-14**|**X-WBC: A Cross-Embodiment Foundation Model for Humanoid Whole-Body Control**|Juntong Zhang et.al.|[2609.15213](http://arxiv.org/abs/2609.15213)|null|
+|**2026-09-14**|**GRAVA: Grounded Reasoning-to-Action Representation and Learning for Autonomous Driving**|Xiao Liu et.al.|[2609.15169](http://arxiv.org/abs/2609.15169)|null|
+|**2026-09-14**|**MoVT: Video-Augmented Motion Tokenizer for Text-to-Motion Generation**|Beibei Jing et.al.|[2609.14965](http://arxiv.org/abs/2609.14965)|null|
 |**2026-09-10**|**World in World: Explore the World with World Models**|Chenxi Song et.al.|[2609.11548](http://arxiv.org/abs/2609.11548)|null|
 |**2026-09-10**|**Multi-Modal Controlled Coherent Motion Generation**|Yifei Liu et.al.|[2609.11439](http://arxiv.org/abs/2609.11439)|null|
 |**2026-09-10**|**Morphology-Aware Human Motion Retargeting for Wheeled-Humanoid Loco-Manipulation**|Chenbo Xia et.al.|[2609.11357](http://arxiv.org/abs/2609.11357)|null|
@@ -1251,7 +1261,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260912>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -1420,12 +1430,14 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260912>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-15**|**Weave: Learning Whole-Body Dexterous Loco-Manipulation from Human-Object Interactions**|Liu Cao et.al.|[2609.16683](http://arxiv.org/abs/2609.16683)|null|
+|**2026-09-15**|**UniDex-ViTac: Learning Unified Visuo-Tactile Dexterous Manipulation Policy from Human Video Data**|Hyesung Lee et.al.|[2609.16504](http://arxiv.org/abs/2609.16504)|null|
 |**2026-09-10**|**ReCHOIR: Contact-guided Human Object Interaction Retargeting to Diverse Characters**|Chaelin Kim et.al.|[2609.10982](http://arxiv.org/abs/2609.10982)|null|
 |**2026-09-05**|**FineHOI: Part-Aware Dense Representations for Zero-Shot Human-Object Interaction Detection**|Francesco Tonini et.al.|[2609.05959](http://arxiv.org/abs/2609.05959)|null|
 |**2026-09-05**|**A4A: Cross-Embodiment Transfer of Action-Oriented 4D Affordances from Human Demonstrations**|Yifan Han et.al.|[2609.05892](http://arxiv.org/abs/2609.05892)|null|
@@ -1764,12 +1776,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260912>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-15**|**Quick-View Takeaways: How Does Title Framing Influences Pattern Identification in Line Charts?**|Jasmine Lim et.al.|[2609.17485](http://arxiv.org/abs/2609.17485)|null|
+|**2026-09-15**|**How Does Title Framing Influence Pattern Identification in Line Charts?**|Jasmine Lim et.al.|[2609.17455](http://arxiv.org/abs/2609.17455)|null|
+|**2026-09-15**|**CareMirror: Bringing Caregiver Wellbeing into the Dementia Care Ecosystem**|Jiayue Melissa Shi et.al.|[2609.17434](http://arxiv.org/abs/2609.17434)|null|
+|**2026-09-15**|**Lexplorer: Navigating the Complexity of Legal Document Landscapes**|Daniel Fürst et.al.|[2609.17366](http://arxiv.org/abs/2609.17366)|null|
+|**2026-09-15**|**Evaluating Ambient Clinical Scribes in India: The Need for Multilingual Real-World Clinical Conversation Data**|Siddharth D Jaiswal et.al.|[2609.17355](http://arxiv.org/abs/2609.17355)|null|
+|**2026-09-15**|**LumiNote: LLM-Assisted Multimodal Instruction for VR Stage Lighting Education**|Danxuan Liang et.al.|[2609.17335](http://arxiv.org/abs/2609.17335)|null|
+|**2026-09-15**|**When AI Becomes Hard to Understand: Cognitive Demands in Real-World Human-AI Conversations**|Yingcan Carol Wang et.al.|[2609.17301](http://arxiv.org/abs/2609.17301)|null|
+|**2026-09-15**|**"Piecing Data Connections Together Like a Puzzle": Effects of Increasing Task Complexity on the Effectiveness of Data Storytelling Enhanced Visualisations**|Mikaela Elizabeth Milesi et.al.|[2609.17278](http://arxiv.org/abs/2609.17278)|null|
+|**2026-09-15**|**[MM/AI] Mental Models in Human-AI Interaction: Methods and Challenges in the Generative and Agentic AI Era (Workshop)**|Téo Sanchez et.al.|[2609.17206](http://arxiv.org/abs/2609.17206)|null|
+|**2026-09-15**|**A Scenario-Knowledge-Driven Pipeline for Just-in-Time Assistance**|Zhiyuan Li et.al.|[2609.17132](http://arxiv.org/abs/2609.17132)|null|
 |**2026-09-10**|**Caption-once, Frames-on-Demand: Visual-Need Routing for Budget-Aware Agentic Long Video Understanding**|Weitong Cai et.al.|[2609.11899](http://arxiv.org/abs/2609.11899)|null|
 |**2026-09-10**|**MotionQ: Operator-Conditioned Motion Quotients for Cross-Observation WiFi Gesture Recognition**|Xiang Zhang et.al.|[2609.11818](http://arxiv.org/abs/2609.11818)|null|
 |**2026-09-10**|**Understanding Operator Attitudes Toward AI-Supported Decision Making in Maritime Operations**|Doreen Jirak et.al.|[2609.11805](http://arxiv.org/abs/2609.11805)|null|
@@ -4027,7 +4049,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260912>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 
 Notes: 
 
