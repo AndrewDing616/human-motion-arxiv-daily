@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.09.16
+### Automatically Updated on 2026.09.17
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-16**|**Gated Residual Body-Hand Coordination for Whole-Body Humanoid Teleoperation**|Ruiming Wu et.al.|[2609.18763](http://arxiv.org/abs/2609.18763)|null|
+|**2026-09-16**|**PASSAGE: Scaling Scene-Aligned Motion Learning for Perceptive Humanoid Traversal in Cluttered Environments**|Yuxuan Ma et.al.|[2609.18732](http://arxiv.org/abs/2609.18732)|null|
+|**2026-09-16**|**VibeAvatar: Aligning Phonetic Kinematics and Human Aesthetics for High-Fidelity Talking Avatar Synthesis**|Qilin Wang et.al.|[2609.18632](http://arxiv.org/abs/2609.18632)|null|
+|**2026-09-16**|**HAP: A Hand-Driven Active Perception Framework for Egocentric Head Motion Prediction**|Yunji Feng et.al.|[2609.18548](http://arxiv.org/abs/2609.18548)|null|
+|**2026-09-16**|**Reinforcement Learning for Real-Time Vision-Language-Action Policies**|Perry Dong et.al.|[2609.18207](http://arxiv.org/abs/2609.18207)|null|
+|**2026-09-16**|**WholeBodyWAM: Learning Whole-Body World Action Models with Scalable Motion Priors**|Bowei Zhang et.al.|[2609.18197](http://arxiv.org/abs/2609.18197)|null|
+|**2026-09-16**|**OpenDexGrasp: Open-vocabulary Task-Oriented Dexterous Grasping**|Jiyao Zhang et.al.|[2609.18117](http://arxiv.org/abs/2609.18117)|null|
+|**2026-09-16**|**A Comprehensive Review of Generative Physical Artificial Intelligence**|Satyam Gaba et.al.|[2609.18111](http://arxiv.org/abs/2609.18111)|null|
+|**2026-09-16**|**Technical Report: One-Step Drifting Action Heads for GR00T N1.7**|Xihe Shao et.al.|[2609.18108](http://arxiv.org/abs/2609.18108)|null|
 |**2026-09-15**|**Tracking the Unseen: An Occlusion-Robust Framework for Target Tracking Under Full and Long-Term Occlusion**|Mais Mohammed et.al.|[2609.17427](http://arxiv.org/abs/2609.17427)|null|
 |**2026-09-15**|**Concise tensors with maximal symmetries**|Annika Holtrup et.al.|[2609.17280](http://arxiv.org/abs/2609.17280)|null|
 |**2026-09-15**|**Weave: Learning Whole-Body Dexterous Loco-Manipulation from Human-Object Interactions**|Liu Cao et.al.|[2609.16683](http://arxiv.org/abs/2609.16683)|null|
@@ -2721,6 +2730,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-16**|**EarStreAM: A Closed-Loop Earable System for Personalized Stress-Adaptive Meditation**|Jonas Hummel et.al.|[2609.19127](http://arxiv.org/abs/2609.19127)|null|
+|**2026-09-16**|**Affora: A Design System for Agent-Friendly Interfaces**|Jin Gao et.al.|[2609.19125](http://arxiv.org/abs/2609.19125)|null|
+|**2026-09-16**|**Examining the Difference in Human Behavior Between Virtual and Real-World Human-Robot Teaming**|Sean Dallas et.al.|[2609.18900](http://arxiv.org/abs/2609.18900)|null|
+|**2026-09-16**|**Calmables: Demonstrating Closed-Loop Infrared Earables for Thermal Biofeedback and Relaxation Support**|Valeria Zitz et.al.|[2609.18726](http://arxiv.org/abs/2609.18726)|null|
+|**2026-09-16**|**"Okay, I've Actually Softened My Take on This": How People in Decentralized Social Media Reason about the Appropriateness of Generative AI**|Romina Mahinpei et.al.|[2609.18709](http://arxiv.org/abs/2609.18709)|null|
+|**2026-09-16**|**RankGround: Efficient High-Resolution GUI Grounding via Lightweight Reranker-Guided Crop Selection**|Liyang Fan et.al.|[2609.18690](http://arxiv.org/abs/2609.18690)|null|
+|**2026-09-16**|**Integrating Flipped Learning and Generative AI for Practice-Based Design Education: Evidence from a Knit Yarn Design Course**|Hong Qu et.al.|[2609.18505](http://arxiv.org/abs/2609.18505)|null|
+|**2026-09-16**|**EasyFashion: A Human-AI Co-Creation System for Personalized Fashion Design and Sewing Pattern Generation**|Hong Qu et.al.|[2609.18483](http://arxiv.org/abs/2609.18483)|null|
+|**2026-09-16**|**Verify, Offload, Extend & Recommend: Selective Complementarity in AI Support for Physical Activity Planning with Longitudinal Patient Data**|Pavithren V S Pakianathan et.al.|[2609.18479](http://arxiv.org/abs/2609.18479)|null|
+|**2026-09-16**|**Hardware-Free Robotics Laboratories in Mixed Reality**|Santiago Berrezueta-Guzman et.al.|[2609.18434](http://arxiv.org/abs/2609.18434)|null|
 |**2026-09-15**|**Quick-View Takeaways: How Does Title Framing Influences Pattern Identification in Line Charts?**|Jasmine Lim et.al.|[2609.17485](http://arxiv.org/abs/2609.17485)|null|
 |**2026-09-15**|**How Does Title Framing Influence Pattern Identification in Line Charts?**|Jasmine Lim et.al.|[2609.17455](http://arxiv.org/abs/2609.17455)|null|
 |**2026-09-15**|**CareMirror: Bringing Caregiver Wellbeing into the Dementia Care Ecosystem**|Jiayue Melissa Shi et.al.|[2609.17434](http://arxiv.org/abs/2609.17434)|null|
