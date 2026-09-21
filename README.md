@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.09.20
+### Automatically Updated on 2026.09.21
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-18**|**MAAP: Multi-Agent Active Perception for Collaborative Manipulation**|Bruno N. Y. Chen et.al.|[2609.21929](http://arxiv.org/abs/2609.21929)|null|
+|**2026-09-18**|**Beyond Kinematics: Benchmarking Simulation Fidelity for Muscle-Driven Imitation Learning**|Ayah G. Ahmad et.al.|[2609.21909](http://arxiv.org/abs/2609.21909)|null|
+|**2026-09-18**|**Potential-Field Action Representation for Reinforcement Learning in Contact-Rich Manipulation**|Xinyu Liu et.al.|[2609.21609](http://arxiv.org/abs/2609.21609)|null|
+|**2026-09-18**|**2nd Place Solution to the HANDS 2026 Workshop Challenge-Dexterous Grasp Motion Track: Single-Shot Trajectory Warping for Grasp Motion Generation**|Muneeb A. Khan et.al.|[2609.21511](http://arxiv.org/abs/2609.21511)|null|
+|**2026-09-18**|**MT-WAM: Reorienting the One-Pass Predictive Representation Toward Action Generation**|Yiguang Yang et.al.|[2609.21474](http://arxiv.org/abs/2609.21474)|null|
+|**2026-09-18**|**ME-Dex 1.0: Bringing Heterogeneous Tactile Sensing into World Action Modeling**|Xuancheng Zhang et.al.|[2609.21449](http://arxiv.org/abs/2609.21449)|null|
+|**2026-09-18**|**FOCAL-VLA: Subtask-Guided Geometry Distillation and Implicit World Modeling for Vision-Language-Action Models**|Zhiyuan Gao et.al.|[2609.21228](http://arxiv.org/abs/2609.21228)|null|
+|**2026-09-17**|**Learning Scene-Aware Humanoid Locomotion through 3D Clutter from Immersive Human Demonstrations**|Beichen Wang et.al.|[2609.21107](http://arxiv.org/abs/2609.21107)|null|
+|**2026-09-17**|**Catch Me If You Can: Real-Time Feedback Denoising for Responsive VLAs**|Yiheng Ji et.al.|[2609.21022](http://arxiv.org/abs/2609.21022)|null|
+|**2026-09-17**|**ForeTac-VLA: A Forecasting-Based Tactile-Vision-Language-Action Model for Contact-Rich Robotic Manipulation**|Zhengyu Tao et.al.|[2609.20980](http://arxiv.org/abs/2609.20980)|null|
 |**2026-09-17**|**GeoAAC: Geometry-Based Adaptive Action Chunking from Denoising Trajectories in VLA Policies**|Xin Chen et.al.|[2609.20776](http://arxiv.org/abs/2609.20776)|null|
 |**2026-09-17**|**MILER: Semantic Mid-Level Representation for Sim-to-Real Reinforcement Learning in Unstructured Autonomous Driving**|Thomas Steinecker et.al.|[2609.20747](http://arxiv.org/abs/2609.20747)|null|
 |**2026-09-17**|**MoWAM: Explicit Future Motion Prediction for Efficient World Action Models**|Jiayu Wang et.al.|[2609.20709](http://arxiv.org/abs/2609.20709)|null|
@@ -1279,12 +1289,13 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260920>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260921>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-17**|**Learning Scene-Aware Humanoid Locomotion through 3D Clutter from Immersive Human Demonstrations**|Beichen Wang et.al.|[2609.21107](http://arxiv.org/abs/2609.21107)|null|
 |**2026-08-10**|**Efficient Human-Contact Representation for Human-Scene Interaction**|Nghia Vu et.al.|[2608.09388](http://arxiv.org/abs/2608.09388)|null|
 |**2026-07-30**|**ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine**|Yukang Cao et.al.|[2607.28625](http://arxiv.org/abs/2607.28625)|null|
 |**2026-07-21**|**Crowd4D: Scene-Aware Monocular 4D Crowd Reconstruction**|Hongbo Kang et.al.|[2607.19517](http://arxiv.org/abs/2607.19517)|null|
@@ -1448,7 +1459,7 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260920>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260921>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
@@ -1795,12 +1806,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260920>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260921>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-18**|**A Sociotechnical Review of Algorithms in Health Systems: Technical, Cost, and Human-Centered Considerations**|Victoria Chui et.al.|[2609.22070](http://arxiv.org/abs/2609.22070)|null|
+|**2026-09-18**|**Value-Sensitive Delegation in Everyday AI Agent Use: Evidence from OpenClaw**|Renkai Ma et.al.|[2609.22067](http://arxiv.org/abs/2609.22067)|null|
+|**2026-09-18**|**How Researchers Use and Verify AI Coding Assistants: Tasks and Validation Practices in Scientific Programming**|Gabrielle O'Brien et.al.|[2609.22049](http://arxiv.org/abs/2609.22049)|null|
+|**2026-09-18**|**Gricea: An Open Science Platform for Conversational AI Research**|Nikhil Sharma et.al.|[2609.22039](http://arxiv.org/abs/2609.22039)|null|
+|**2026-09-18**|**Beyond Reactive Assistance: PV-Care Using Low-Density EEG and AI to Provide Proactive, Context-Aware Help for MCI**|Simon L Liu et.al.|[2609.22024](http://arxiv.org/abs/2609.22024)|null|
+|**2026-09-18**|**When Should a Failing Robot Ask? Initiating Corrective Human-Robot Dialogue from Audited Sensor Evidence**|Eshika Pathak et.al.|[2609.21942](http://arxiv.org/abs/2609.21942)|null|
+|**2026-09-18**|**Can I Trust My Body? A Three-Year Autoethnography of ChatGPT's Place in My Support System for Panic Attacks**|Dongyijie Primo Pan et.al.|[2609.21925](http://arxiv.org/abs/2609.21925)|null|
+|**2026-09-18**|**Depressive symptoms are reflected differently across digital contexts**|Yajing Wang et.al.|[2609.21919](http://arxiv.org/abs/2609.21919)|null|
+|**2026-09-18**|**Comparing Haptic Feedback Across Hand Tracking and Controllers in VR Object Interaction Tasks**|Natalia Ocampo et.al.|[2609.21869](http://arxiv.org/abs/2609.21869)|null|
+|**2026-09-18**|**Beyond Counting Blessings: Tracing the Evolution of Gratitude Practices and Technology Needs**| Qiuyue et.al.|[2609.21853](http://arxiv.org/abs/2609.21853)|null|
 |**2026-09-17**|**The Data Hospital: A Workflow-Based Concept for Explainable Research Data Quality Assistance**|Lennard Scheurer et.al.|[2609.20782](http://arxiv.org/abs/2609.20782)|null|
 |**2026-09-17**|**Semantic Action Graph: A Shared Representation for Agent Grounding and Human Interpretation of Sports Highlights**|Tica Lin et.al.|[2609.20768](http://arxiv.org/abs/2609.20768)|null|
 |**2026-09-17**|**What Parents Can See: Divergent Accounts of Youth AI Companion Use in Parenting and Teenager Subreddits**|Thomas Berkane et.al.|[2609.20720](http://arxiv.org/abs/2609.20720)|null|
@@ -4088,7 +4109,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260920>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260921>back to top</a>)</p>
 
 Notes: 
 
