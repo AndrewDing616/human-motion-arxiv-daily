@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.09.21
+### Automatically Updated on 2026.09.22
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-21**|**DexTacWAM: A Visuo-Tactile World-Action Model for Dexterous Manipulation**|Haoran Yuan et.al.|[2609.24976](http://arxiv.org/abs/2609.24976)|null|
+|**2026-09-21**|**DualWAM: Dual-System World Action Models for Asynchronous Global Planning and Local Refinement**|Yixin Zheng et.al.|[2609.24868](http://arxiv.org/abs/2609.24868)|null|
+|**2026-09-21**|**PredActor: Predictive Action Diffusion for Steerable Onboard Humanoid Control**|Lei Ye et.al.|[2609.24840](http://arxiv.org/abs/2609.24840)|null|
+|**2026-09-21**|**MIRA: Real-Time Full-Duplex Human-Robot Interaction for Embodied Companions**|Lijian Lin et.al.|[2609.24547](http://arxiv.org/abs/2609.24547)|null|
+|**2026-09-21**|**Dexterous Robot Manipulation from Human Demonstrations via Contact-Anchored Retargeting and Residual Policy Learning**|Zihao Yang et.al.|[2609.24093](http://arxiv.org/abs/2609.24093)|null|
+|**2026-09-21**|**What Matters in Designing World Action Models: An Empirical Study**|Chao Tang et.al.|[2609.24048](http://arxiv.org/abs/2609.24048)|null|
+|**2026-09-20**|**VISTA: Video-Injected Stylized Text-to-Animation**|Monseej Purkayastha et.al.|[2609.23817](http://arxiv.org/abs/2609.23817)|null|
+|**2026-09-20**|**MoSAT: Human Motion Generation from Spatial Audio and Textual Description**|Shuyang Xu et.al.|[2609.23797](http://arxiv.org/abs/2609.23797)|null|
+|**2026-09-20**|**EgoWild2Dex: Learning Dexterous Robotic Manipulation from In-the-Wild Human Experience**|Kunyang Lin et.al.|[2609.23755](http://arxiv.org/abs/2609.23755)|null|
+|**2026-09-20**|**PRIMO: Prior-Informed Odometry from Human-Motion Tracking for Humanoid Robots**|Xu Han et.al.|[2609.23610](http://arxiv.org/abs/2609.23610)|null|
 |**2026-09-18**|**MAAP: Multi-Agent Active Perception for Collaborative Manipulation**|Bruno N. Y. Chen et.al.|[2609.21929](http://arxiv.org/abs/2609.21929)|null|
 |**2026-09-18**|**Beyond Kinematics: Benchmarking Simulation Fidelity for Muscle-Driven Imitation Learning**|Ayah G. Ahmad et.al.|[2609.21909](http://arxiv.org/abs/2609.21909)|null|
 |**2026-09-18**|**Potential-Field Action Representation for Reinforcement Learning in Contact-Rich Manipulation**|Xinyu Liu et.al.|[2609.21609](http://arxiv.org/abs/2609.21609)|null|
@@ -2406,6 +2416,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-20**|**HOIBlender: Blending Lightweight Detection with Vision-Language Priors for Efficient Human-Object Interaction Detection**|Junwen Chen et.al.|[2609.23431](http://arxiv.org/abs/2609.23431)|null|
 |**2026-09-16**|**ViLoMan: Learning Visual-Proprioceptive Whole-Body Loco-Manipulation Skills for Humanoid Robots**|Zejie Tian et.al.|[2609.19340](http://arxiv.org/abs/2609.19340)|null|
 |**2026-09-15**|**Weave: Learning Whole-Body Dexterous Loco-Manipulation from Human-Object Interactions**|Liu Cao et.al.|[2609.16683](http://arxiv.org/abs/2609.16683)|null|
 |**2026-09-15**|**UniDex-ViTac: Learning Unified Visuo-Tactile Dexterous Manipulation Policy from Human Video Data**|Hyesung Lee et.al.|[2609.16504](http://arxiv.org/abs/2609.16504)|null|
@@ -2751,6 +2762,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-21**|**Passthrough Rigidity: The Behavioral and Visuomotor Costs of Mediated Perception**|Markus D. Solbach et.al.|[2609.25002](http://arxiv.org/abs/2609.25002)|null|
+|**2026-09-21**|**Who Does What in AI Auditing? Designing Human-AI Collaboration for Auditing Generative AI**|Eunkyu Park et.al.|[2609.24986](http://arxiv.org/abs/2609.24986)|null|
+|**2026-09-21**|**onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction**|Lei Yang et.al.|[2609.24983](http://arxiv.org/abs/2609.24983)|null|
+|**2026-09-21**|**Generative Tutorial: Towards Live Contextualized Visual Instructions for Physical Tasks**|Muzhe Wu et.al.|[2609.24955](http://arxiv.org/abs/2609.24955)|null|
+|**2026-09-21**|**Whose Facts Count? A Culturally Responsive Audit of LLM Evaluation Benchmarks**|Fatima Tuz Zahra et.al.|[2609.24934](http://arxiv.org/abs/2609.24934)|null|
+|**2026-09-21**|**EMooly: Supporting Autistic Children in Collaborative Social-Emotional Learning with Caregiver Participation through Interactive AI-infused and AR Activities**|Yue Lyu et.al.|[2609.24899](http://arxiv.org/abs/2609.24899)|null|
+|**2026-09-21**|**A Global Comparison of Schemas, Transparency, and Interoperability in Public-Sector AI Registers and Inventories**|Dipto Das et.al.|[2609.24883](http://arxiv.org/abs/2609.24883)|null|
+|**2026-09-21**|**ATCion: Exploring the Design of Icon-based Visual Aids for Enhancing In-cockpit Air Traffic Control Communication**|Yue Lyu et.al.|[2609.24863](http://arxiv.org/abs/2609.24863)|null|
+|**2026-09-21**|**Small-world Networks of Agents Brainstorm AI Risks to Support Ideation**|Ke Zhou et.al.|[2609.24859](http://arxiv.org/abs/2609.24859)|null|
+|**2026-09-21**|**CRiDiT: Instantiating a run-time testbed for trust calibration in AI-infused systems**|Yuntian Ding et.al.|[2609.24833](http://arxiv.org/abs/2609.24833)|null|
 |**2026-09-18**|**A Sociotechnical Review of Algorithms in Health Systems: Technical, Cost, and Human-Centered Considerations**|Victoria Chui et.al.|[2609.22070](http://arxiv.org/abs/2609.22070)|null|
 |**2026-09-18**|**Value-Sensitive Delegation in Everyday AI Agent Use: Evidence from OpenClaw**|Renkai Ma et.al.|[2609.22067](http://arxiv.org/abs/2609.22067)|null|
 |**2026-09-18**|**How Researchers Use and Verify AI Coding Assistants: Tasks and Validation Practices in Scientific Programming**|Gabrielle O'Brien et.al.|[2609.22049](http://arxiv.org/abs/2609.22049)|null|
