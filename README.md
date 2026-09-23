@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.09.22
+### Automatically Updated on 2026.09.23
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-22**|**Non-determinism in group actions and topological minimal self-joinings**|Nicolás Bitar et.al.|[2609.26479](http://arxiv.org/abs/2609.26479)|null|
+|**2026-09-22**|**Latent Dataset Distillation for Human Motion Prediction**|Ge Tian et.al.|[2609.26430](http://arxiv.org/abs/2609.26430)|null|
+|**2026-09-22**|**Sample, Simulate, Select: Physics-in-the-Loop Text-to-Motion for Humanoids Without Training**|Raphael Memmesheimer et.al.|[2609.26420](http://arxiv.org/abs/2609.26420)|null|
+|**2026-09-22**|**Skytopia: Monocular Drone Navigation with Action-Conditioned Latent World Models**|Yuhang Zhang et.al.|[2609.26007](http://arxiv.org/abs/2609.26007)|null|
+|**2026-09-22**|**An Action Is Worth One Patch: Unified World-Action Modeling with PatchWAM**|Tianheng Wang et.al.|[2609.25961](http://arxiv.org/abs/2609.25961)|null|
+|**2026-09-22**|**MedVLA: A Hierarchical Vision-Language-Action Framework for Closed-Loop Precision Medical Robot Manipulation**|Junjie Xie et.al.|[2609.25756](http://arxiv.org/abs/2609.25756)|null|
+|**2026-09-22**|**PLAT: Sparse Timed Keyframe Motion Tracking for Humanoid Control via Privileged Latent Transition Learning**|Zepeng Wang et.al.|[2609.25754](http://arxiv.org/abs/2609.25754)|null|
+|**2026-09-22**|**MachEmbodied-U0: Unified Understanding and Generation Model for Embodied Intelligence**|Haoran Wen et.al.|[2609.25627](http://arxiv.org/abs/2609.25627)|null|
+|**2026-09-22**|**IndustrialVLA-Bench: A Traceable Multi-Axis Evaluation of Open Robot Policy Models**|Yiqi Wang et.al.|[2609.25562](http://arxiv.org/abs/2609.25562)|null|
+|**2026-09-22**|**RoboMP-DINOv2: Prompts, Not Filters for Robust Robot Manipulation**|Han Qi et.al.|[2609.25506](http://arxiv.org/abs/2609.25506)|null|
 |**2026-09-21**|**DexTacWAM: A Visuo-Tactile World-Action Model for Dexterous Manipulation**|Haoran Yuan et.al.|[2609.24976](http://arxiv.org/abs/2609.24976)|null|
 |**2026-09-21**|**DualWAM: Dual-System World Action Models for Asynchronous Global Planning and Local Refinement**|Yixin Zheng et.al.|[2609.24868](http://arxiv.org/abs/2609.24868)|null|
 |**2026-09-21**|**PredActor: Predictive Action Diffusion for Steerable Onboard Humanoid Control**|Lei Ye et.al.|[2609.24840](http://arxiv.org/abs/2609.24840)|null|
@@ -1299,7 +1309,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260922>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260923>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -1469,7 +1479,7 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260922>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260923>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
@@ -1817,12 +1827,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260922>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260923>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-22**|**Does AI Save Time on Product Design? A Randomized Controlled Experiment of AI Prompt-to-Design Workflows**|Remy Stewart et.al.|[2609.26725](http://arxiv.org/abs/2609.26725)|null|
+|**2026-09-22**|**Stepping into the Margins: How Readers Want AI to Generate Footnotes**|Piper Vasicek et.al.|[2609.26673](http://arxiv.org/abs/2609.26673)|null|
+|**2026-09-22**|**Receptiveness, Not Sycophancy: Distinguishing Engagement from Deference in Language Models**|Calvin Isley et.al.|[2609.26579](http://arxiv.org/abs/2609.26579)|null|
+|**2026-09-22**|**E3Sense: Head-Confined Multimodal Sensing of Learner Engagement**|Sidharth Anupkrishnan et.al.|[2609.26569](http://arxiv.org/abs/2609.26569)|null|
+|**2026-09-22**|**Bespoke: Generating MOOC-Quality Industry-Personalized Lecture Videos at Scale**|Romain Puech et.al.|[2609.26540](http://arxiv.org/abs/2609.26540)|null|
+|**2026-09-22**|**Do Vision Model See Like the Brain? A Comparison Across EEG Encoding Model**|Shashank Baghel et.al.|[2609.26512](http://arxiv.org/abs/2609.26512)|null|
+|**2026-09-22**|**The Ethics of Artificial Intelligence in Military Operations**|Nicolas Drapier et.al.|[2609.26507](http://arxiv.org/abs/2609.26507)|null|
+|**2026-09-22**|**Benchmarking Robots for Everyday Environments: From Lab Experiments to Real-World Operations**|Raphael Memmesheimer et.al.|[2609.26490](http://arxiv.org/abs/2609.26490)|null|
+|**2026-09-22**|**AI-Generated Email Drafts Shift Culturally Distinctive Communication Styles in Professional Email**|Shintaro Sakai et.al.|[2609.26403](http://arxiv.org/abs/2609.26403)|null|
+|**2026-09-22**|**Faithful Faithfulness Evaluations: Challenges & Pitfalls Learned from a Breast MRI Case Study**|Peachapong Poolpol et.al.|[2609.25978](http://arxiv.org/abs/2609.25978)|null|
 |**2026-09-21**|**Passthrough Rigidity: The Behavioral and Visuomotor Costs of Mediated Perception**|Markus D. Solbach et.al.|[2609.25002](http://arxiv.org/abs/2609.25002)|null|
 |**2026-09-21**|**Who Does What in AI Auditing? Designing Human-AI Collaboration for Auditing Generative AI**|Eunkyu Park et.al.|[2609.24986](http://arxiv.org/abs/2609.24986)|null|
 |**2026-09-21**|**onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction**|Lei Yang et.al.|[2609.24983](http://arxiv.org/abs/2609.24983)|null|
@@ -4130,7 +4150,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260922>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260923>back to top</a>)</p>
 
 Notes: 
 
