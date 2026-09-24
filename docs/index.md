@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.09.23
+### Automatically Updated on 2026.09.24
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-23**|**MemBodied: Recurrent Associative Memory for Vision-Language-Action Models**|Tej Deep Pala et.al.|[2609.28256](http://arxiv.org/abs/2609.28256)|null|
+|**2026-09-23**|**MVP: A Motion-Predictive Speculative Vision Pipeline with Non-Blocking Drift Correction**|Raul Taranco et.al.|[2609.27706](http://arxiv.org/abs/2609.27706)|null|
+|**2026-09-23**|**EBRL: Asynchronous Embodied RL by Multi-Grained Resource Management**|Liang Mi et.al.|[2609.27547](http://arxiv.org/abs/2609.27547)|null|
+|**2026-09-23**|**Latent evolving World Action Model**|Xueji Fang et.al.|[2609.27455](http://arxiv.org/abs/2609.27455)|null|
+|**2026-09-23**|**From Metrics to Decisions in NBA Analytics: A Critical Integrative Review and Decision-Readiness Framework**|Yang Zhou et.al.|[2609.27245](http://arxiv.org/abs/2609.27245)|null|
+|**2026-09-22**|**Fast Direction-Conditioned Reachability for Motion Prediction Under Model Uncertainty**|Hrishav Das et.al.|[2609.27077](http://arxiv.org/abs/2609.27077)|null|
 |**2026-09-22**|**Non-determinism in group actions and topological minimal self-joinings**|Nicolás Bitar et.al.|[2609.26479](http://arxiv.org/abs/2609.26479)|null|
 |**2026-09-22**|**Latent Dataset Distillation for Human Motion Prediction**|Ge Tian et.al.|[2609.26430](http://arxiv.org/abs/2609.26430)|null|
 |**2026-09-22**|**Sample, Simulate, Select: Physics-in-the-Loop Text-to-Motion for Humanoids Without Training**|Raphael Memmesheimer et.al.|[2609.26420](http://arxiv.org/abs/2609.26420)|null|
@@ -2772,6 +2778,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-23**|**Multimodal Voice Activity Projection for Social Robot Mediation: Expected Behavior and Deployment Constraints**|Antonio Cano et.al.|[2609.28317](http://arxiv.org/abs/2609.28317)|null|
+|**2026-09-23**|**Talk2Escape: Conversational Grounding for Vision-and-Language Navigation**|Zerui Li et.al.|[2609.28296](http://arxiv.org/abs/2609.28296)|null|
+|**2026-09-23**|**LLM-Assisted Workflow for Structural Difference Visualization in Evolving Software Requirements**|Koi McFarland et.al.|[2609.28002](http://arxiv.org/abs/2609.28002)|null|
+|**2026-09-23**|**Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement**|Sander de Jong et.al.|[2609.27726](http://arxiv.org/abs/2609.27726)|null|
+|**2026-09-23**|**Brain-to-Language Decoding: Tasks, Signals, Methods, Evaluation, Practical Use and Beyond**|Yiqian Yang et.al.|[2609.27650](http://arxiv.org/abs/2609.27650)|null|
+|**2026-09-23**|**ViMoWear: Visual Motion-Guided sEMG-IMU Representation Learning for Subject-Independent Thumb Gesture Recognition**|Wenjuan Zhong et.al.|[2609.27595](http://arxiv.org/abs/2609.27595)|null|
+|**2026-09-23**|**When Visual Quality Misleads: Intent Recognition under Rendered Avatar Distortions**|Ning-Hsuan Chang et.al.|[2609.27560](http://arxiv.org/abs/2609.27560)|null|
+|**2026-09-23**|**Forced Yet Free: What Magicians' Forcing Reveals Beyond Intentional Binding**|Koichi Toida et.al.|[2609.27416](http://arxiv.org/abs/2609.27416)|null|
+|**2026-09-23**|**Psychoacoustically Aligned Latent Smoothing for Adversarial Robustness of Full-Duplex Speech-to-Speech Dialogue Models**|Kian Shamsaie et.al.|[2609.27378](http://arxiv.org/abs/2609.27378)|null|
+|**2026-09-23**|**Neither Silence nor Overlap Is Failure: Intent-Conditioned Evaluation of Turn-Taking in Full-Duplex Spoken Dialogue Models**|Kian Shamsaie et.al.|[2609.27372](http://arxiv.org/abs/2609.27372)|null|
 |**2026-09-22**|**Does AI Save Time on Product Design? A Randomized Controlled Experiment of AI Prompt-to-Design Workflows**|Remy Stewart et.al.|[2609.26725](http://arxiv.org/abs/2609.26725)|null|
 |**2026-09-22**|**Stepping into the Margins: How Readers Want AI to Generate Footnotes**|Piper Vasicek et.al.|[2609.26673](http://arxiv.org/abs/2609.26673)|null|
 |**2026-09-22**|**Receptiveness, Not Sycophancy: Distinguishing Engagement from Deference in Language Models**|Calvin Isley et.al.|[2609.26579](http://arxiv.org/abs/2609.26579)|null|
