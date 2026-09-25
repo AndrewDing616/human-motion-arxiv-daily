@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.09.24
+### Automatically Updated on 2026.09.25
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-24**|**Rolling-WAM: World Action Models with Rolling Imagination**|Yinghua Zhou et.al.|[2609.30247](http://arxiv.org/abs/2609.30247)|null|
+|**2026-09-24**|**Ego-Exo4D Human Meshes Dataset: 4D Human Motion Reconstruction for Ego-Exo Captures**|Abhiram Maddukuri et.al.|[2609.30187](http://arxiv.org/abs/2609.30187)|null|
+|**2026-09-24**|**Faster Visuomotor Policy Learning on Action Manifolds via Riemannian MeanFlow**|S. Talha Bukhari et.al.|[2609.30127](http://arxiv.org/abs/2609.30127)|null|
+|**2026-09-24**|**BeyondRetarget: Learning Executable Humanoid Motions Directly from Monocular Video**|Tianyu Xiong et.al.|[2609.29850](http://arxiv.org/abs/2609.29850)|null|
+|**2026-09-24**|**Design and Evaluation of LLM Chaining-Based Task Planning for General Purpose Service Robots**|Lucas Da Mota Bruno et.al.|[2609.29043](http://arxiv.org/abs/2609.29043)|null|
+|**2026-09-24**|**CAMP: Cooperative Arm-Hand Motion Planning in Constrained Spaces**|Ziyuan Wang et.al.|[2609.29021](http://arxiv.org/abs/2609.29021)|null|
+|**2026-09-24**|**Streaming-WAM: Action-Conditioned World-Action Model for Asynchronous Robot Manipulation**|Xuyao Huang et.al.|[2609.28927](http://arxiv.org/abs/2609.28927)|null|
+|**2026-09-23**|**DeltaWAM: Delta World Action Models for Bimanual Manipulation**|Han Yan et.al.|[2609.28811](http://arxiv.org/abs/2609.28811)|null|
+|**2026-09-23**|**Morphometric Imitation: From Morphology and Contact Aware Hand Retargeting to Sim-to-Real Visuomotor Policy**|Tara Sadjadpour et.al.|[2609.28660](http://arxiv.org/abs/2609.28660)|null|
 |**2026-09-23**|**MemBodied: Recurrent Associative Memory for Vision-Language-Action Models**|Tej Deep Pala et.al.|[2609.28256](http://arxiv.org/abs/2609.28256)|null|
 |**2026-09-23**|**MVP: A Motion-Predictive Speculative Vision Pipeline with Non-Blocking Drift Correction**|Raul Taranco et.al.|[2609.27706](http://arxiv.org/abs/2609.27706)|null|
 |**2026-09-23**|**EBRL: Asynchronous Embodied RL by Multi-Grained Resource Management**|Liang Mi et.al.|[2609.27547](http://arxiv.org/abs/2609.27547)|null|
@@ -2778,6 +2787,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-24**|**Beyond Driving: Envisioning Activities in Future Autonomous Vehicles through Experience-Centered Design**|Keqi Chen et.al.|[2609.30076](http://arxiv.org/abs/2609.30076)|null|
+|**2026-09-24**|**Guardrails or Roadblocks? Effects of Pedagogical Style and Context Awareness in AI Teaching Assistants for Programming**|Madeleine Eastwood et.al.|[2609.29995](http://arxiv.org/abs/2609.29995)|null|
+|**2026-09-24**|**Will It Teach as Intended? How Teachers Configure Educational AI Chatbots**|Bahare Riahi et.al.|[2609.29993](http://arxiv.org/abs/2609.29993)|null|
+|**2026-09-24**|**Improving Calibration of Black-Box Radiology AI Using Test-Time Augmentation**|Nathan Le et.al.|[2609.29931](http://arxiv.org/abs/2609.29931)|null|
+|**2026-09-24**|**Working with Agentic `Teammates': When a New Organizational Actor Collides with the Human Ecosystem of Work**|Rida Qadri et.al.|[2609.29901](http://arxiv.org/abs/2609.29901)|null|
+|**2026-09-24**|**PUBG Ally: A Conversational Embodied Agent as an AI Teammate**|Beomsoo Kim et.al.|[2609.29837](http://arxiv.org/abs/2609.29837)|null|
+|**2026-09-24**|**Voice Agents under Acoustic Stress: From Signal Degradation to Interaction and Action**|Amir Ivry et.al.|[2609.29452](http://arxiv.org/abs/2609.29452)|null|
+|**2026-09-24**|**Calibrating LLM Judges for Human and AI Conversations**|Maike Züfle et.al.|[2609.29431](http://arxiv.org/abs/2609.29431)|null|
+|**2026-09-24**|**Controlling Backchannels in Streamable Full-duplex Models**|Maike Züfle et.al.|[2609.29418](http://arxiv.org/abs/2609.29418)|null|
+|**2026-09-24**|**When No One Owns the Judgment: Accountability Under Contribution Dissolution in Human-AI Collaboration**|Hengzhi Ye et.al.|[2609.29312](http://arxiv.org/abs/2609.29312)|null|
 |**2026-09-23**|**Multimodal Voice Activity Projection for Social Robot Mediation: Expected Behavior and Deployment Constraints**|Antonio Cano et.al.|[2609.28317](http://arxiv.org/abs/2609.28317)|null|
 |**2026-09-23**|**Talk2Escape: Conversational Grounding for Vision-and-Language Navigation**|Zerui Li et.al.|[2609.28296](http://arxiv.org/abs/2609.28296)|null|
 |**2026-09-23**|**LLM-Assisted Workflow for Structural Difference Visualization in Evolving Software Requirements**|Koi McFarland et.al.|[2609.28002](http://arxiv.org/abs/2609.28002)|null|
