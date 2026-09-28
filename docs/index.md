@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.09.27
+### Automatically Updated on 2026.09.28
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-25**|**Trust Guided Decision Transformer**|Chainesh Gautam et.al.|[2609.31586](http://arxiv.org/abs/2609.31586)|null|
+|**2026-09-25**|**Generate, Track, Improve: Perceptive Multi-Skill Humanoid Locomotion with RL-Fine-Tuned Motion Generators**|Zachary Olkin et.al.|[2609.31577](http://arxiv.org/abs/2609.31577)|null|
+|**2026-09-25**|**ActKV: Efficient LLM Agents through Action-Guided KV Cache Management**|Zihan Wang et.al.|[2609.31395](http://arxiv.org/abs/2609.31395)|null|
+|**2026-09-25**|**InternW0- $Δ$ : A World Action Model Bridging Predictive Dynamics and Actions with 20K+ Hours of Open Data**|Xingyu Miao et.al.|[2609.31394](http://arxiv.org/abs/2609.31394)|null|
+|**2026-09-25**|**FRAM: Trajectory-Guided Visual Feature Selection for Compact Language-Conditioned Robot Manipulation**|Hiroshi Ito et.al.|[2609.30965](http://arxiv.org/abs/2609.30965)|null|
+|**2026-09-25**|**Causeway: Restoring Task Accessibility for Instruction Switching in VLA Policies**|Qingzi Wang et.al.|[2609.30913](http://arxiv.org/abs/2609.30913)|null|
+|**2026-09-25**|**Fast Plans, Faithful Actions: Closing the Planning-Execution Gap in Hierarchical Vision-Language-Action Models**|Chuanliang Xie et.al.|[2609.30833](http://arxiv.org/abs/2609.30833)|null|
+|**2026-09-25**|**HIRE: History-Conditioned Interaction Reasoning and High-Rate Execution for Visually Aliased Precision Manipulation**|Rongji Li et.al.|[2609.30828](http://arxiv.org/abs/2609.30828)|null|
+|**2026-09-25**|**Motion Style Slider: Endpoint-Supervised Continuous Style Control for Human Motion Diffusion**|Chen-Chieh Liao et.al.|[2609.30795](http://arxiv.org/abs/2609.30795)|null|
+|**2026-09-25**|**Timo: $\textbf{T}$aming Mult$\textbf{i}$modal Diffusion Transformer for Human $\textbf{Mo}$ tion Generation**|Zhao Wang et.al.|[2609.30761](http://arxiv.org/abs/2609.30761)|null|
 |**2026-09-24**|**Rolling-WAM: World Action Models with Rolling Imagination**|Yinghua Zhou et.al.|[2609.30247](http://arxiv.org/abs/2609.30247)|null|
 |**2026-09-24**|**Ego-Exo4D Human Meshes Dataset: 4D Human Motion Reconstruction for Ego-Exo Captures**|Abhiram Maddukuri et.al.|[2609.30187](http://arxiv.org/abs/2609.30187)|null|
 |**2026-09-24**|**Faster Visuomotor Policy Learning on Action Manifolds via Riemannian MeanFlow**|S. Talha Bukhari et.al.|[2609.30127](http://arxiv.org/abs/2609.30127)|null|
@@ -2787,6 +2797,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-25**|**Adapting for AI: How elementary teachers adjust their practices for an AI-integrated curriculum**|Fasika Melese et.al.|[2609.31569](http://arxiv.org/abs/2609.31569)|null|
+|**2026-09-25**|**PANEL: An Open-Source, Self-Hosted Web Platform for Human Evaluation of Generative Models**|Matteo Spanio et.al.|[2609.31392](http://arxiv.org/abs/2609.31392)|null|
+|**2026-09-25**|**EEG-based Word Association Paradigm for Adult ADHD Screening: An Exploratory Pilot Study**|Caroline Peng et.al.|[2609.31359](http://arxiv.org/abs/2609.31359)|null|
+|**2026-09-25**|**Cognitive Skills in the Age of AI: Computing Students and Experts Perceptions**|Neha Rani et.al.|[2609.31272](http://arxiv.org/abs/2609.31272)|null|
+|**2026-09-25**|**Evaluating the Impact of Adaptive Extended Reality on Human-Robot Interaction Across the Reality-Virtuality Continuum**|Carl Tornberg et.al.|[2609.31138](http://arxiv.org/abs/2609.31138)|null|
+|**2026-09-25**|**Comparative Evaluation of an XR Pen-based Control Interface for Semi-Autonomous Mobile Robot Navigation in Service Environments**|Alicia Torc et.al.|[2609.31117](http://arxiv.org/abs/2609.31117)|null|
+|**2026-09-25**|**Confident, Not Wiser: The Dunning-Kruger Effect in Human-AI Interaction**|Daniela Fernandes et.al.|[2609.31095](http://arxiv.org/abs/2609.31095)|null|
+|**2026-09-25**|**From Segments to Trajectories: Evolving Affective Graphs with Evidence Retrieval for Continuous EEG Emotion Recognition**|Chi Yang et.al.|[2609.30890](http://arxiv.org/abs/2609.30890)|null|
+|**2026-09-25**|**CDBG: Causally Motivated Dual-Invariance Learning against Topological and Predictive Shifts in EEG Workload Recognition**|Yuzhe Zhang et.al.|[2609.30831](http://arxiv.org/abs/2609.30831)|null|
+|**2026-09-25**|**Sampling Safe Futures: Multimodal Trajectory Planning for Personalized Safety in Anthropomorphic AI**|Benedetta Picano et.al.|[2609.30780](http://arxiv.org/abs/2609.30780)|null|
 |**2026-09-24**|**Beyond Driving: Envisioning Activities in Future Autonomous Vehicles through Experience-Centered Design**|Keqi Chen et.al.|[2609.30076](http://arxiv.org/abs/2609.30076)|null|
 |**2026-09-24**|**Guardrails or Roadblocks? Effects of Pedagogical Style and Context Awareness in AI Teaching Assistants for Programming**|Madeleine Eastwood et.al.|[2609.29995](http://arxiv.org/abs/2609.29995)|null|
 |**2026-09-24**|**Will It Teach as Intended? How Teachers Configure Educational AI Chatbots**|Bahare Riahi et.al.|[2609.29993](http://arxiv.org/abs/2609.29993)|null|
