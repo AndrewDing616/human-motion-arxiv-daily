@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.09.28
+### Automatically Updated on 2026.09.29
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-28**|**DexRoam: Learning Mobile Bimanual Dexterous Manipulation from Egocentric Whole-Body Human Demonstrations**|Rui Zhou et.al.|[2609.35761](http://arxiv.org/abs/2609.35761)|null|
+|**2026-09-28**|**X-Reset: Scaling Object-Centric Reinforcement Learning via Cross-Embodiment Resets**|Prithwish Dan et.al.|[2609.35715](http://arxiv.org/abs/2609.35715)|null|
+|**2026-09-28**|**EvolvingAvatar: Interactive 3D Head Generation That Adapts as Conversations Unfold**|Junjie Chen et.al.|[2609.35616](http://arxiv.org/abs/2609.35616)|null|
+|**2026-09-28**|**Uni-VLaT: Whole-Body Tactile Adaptation of VLA Policies for Humanoid Loco-Manipulation**|Zihao Wang et.al.|[2609.35450](http://arxiv.org/abs/2609.35450)|null|
+|**2026-09-28**|**BiMoGen: Bidirectional Motion-Text Generation via Unified Masked Discrete Diffusion**|Wanjiang Weng et.al.|[2609.35407](http://arxiv.org/abs/2609.35407)|null|
+|**2026-09-28**|**FlexiWorld: Learning and Planning via Flexible Action Chunks Across Multiple Time Scales**|Shidu Ren et.al.|[2609.35138](http://arxiv.org/abs/2609.35138)|null|
+|**2026-09-28**|**On Asynchrony and Reversibility in CCS**|Hernán Melgratti et.al.|[2609.34925](http://arxiv.org/abs/2609.34925)|null|
+|**2026-09-28**|**Where Do Embodied Decisions Come From? Rethinking Latent and Explicit Reasoning**|Yuan Lin et.al.|[2609.34794](http://arxiv.org/abs/2609.34794)|null|
+|**2026-09-28**|**DexWeave: Learning Dexterous Humanoid Loco-Manipulation from Human Demonstrations**|Naichuan Sun et.al.|[2609.34724](http://arxiv.org/abs/2609.34724)|null|
+|**2026-09-28**|**Triangular Resampling for Long-Horizon Motion Generation**|Kunhang Li et.al.|[2609.34697](http://arxiv.org/abs/2609.34697)|null|
 |**2026-09-25**|**Trust Guided Decision Transformer**|Chainesh Gautam et.al.|[2609.31586](http://arxiv.org/abs/2609.31586)|null|
 |**2026-09-25**|**Generate, Track, Improve: Perceptive Multi-Skill Humanoid Locomotion with RL-Fine-Tuned Motion Generators**|Zachary Olkin et.al.|[2609.31577](http://arxiv.org/abs/2609.31577)|null|
 |**2026-09-25**|**ActKV: Efficient LLM Agents through Action-Guided KV Cache Management**|Zihan Wang et.al.|[2609.31395](http://arxiv.org/abs/2609.31395)|null|
@@ -1334,7 +1344,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260929>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -1504,12 +1514,14 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260929>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-28**|**HOI-Retarget: Contact-Centric Retargeting for Human-Object Interaction**|Jihwan Shin et.al.|[2609.34674](http://arxiv.org/abs/2609.34674)|null|
+|**2026-09-26**|**Harnessing Coupled Stream Completion For Human-Object Ineraction Modeling**|Dawei Guan et.al.|[2609.32551](http://arxiv.org/abs/2609.32551)|null|
 |**2026-09-20**|**HOIBlender: Blending Lightweight Detection with Vision-Language Priors for Efficient Human-Object Interaction Detection**|Junwen Chen et.al.|[2609.23431](http://arxiv.org/abs/2609.23431)|null|
 |**2026-09-16**|**ViLoMan: Learning Visual-Proprioceptive Whole-Body Loco-Manipulation Skills for Humanoid Robots**|Zejie Tian et.al.|[2609.19340](http://arxiv.org/abs/2609.19340)|null|
 |**2026-09-15**|**Weave: Learning Whole-Body Dexterous Loco-Manipulation from Human-Object Interactions**|Liu Cao et.al.|[2609.16683](http://arxiv.org/abs/2609.16683)|null|
@@ -1852,12 +1864,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260929>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-28**|**Reliability-Gated Fusion of Consumer Head and Foot IMUs for Lower-Body 3D Pose**|Zhilin Guo et.al.|[2609.35764](http://arxiv.org/abs/2609.35764)|null|
+|**2026-09-28**|**Reclaiming the social in social media**|Luca Benn et.al.|[2609.35413](http://arxiv.org/abs/2609.35413)|null|
+|**2026-09-28**|**Alignment Games: A Framework for Conceptual Repair in Human-AI Collaboration**|Hari Subramonyam et.al.|[2609.35197](http://arxiv.org/abs/2609.35197)|null|
+|**2026-09-28**|**The Future of Visualization Dashboards in the Age of Generative AI**|Vaishali Dhanoa et.al.|[2609.35170](http://arxiv.org/abs/2609.35170)|null|
+|**2026-09-28**|**Toward a Culturally Adapted Chinese Language Agent: A Wizard-of-Oz Study of Nonverbal Behavior in Chinese-German Intercultural Interaction**|Siddhant Jain et.al.|[2609.35150](http://arxiv.org/abs/2609.35150)|null|
+|**2026-09-28**|**Making the Invisible Visible: A Framework for Reflective AI Use in Software Engineering Education**|Ali Shakiba et.al.|[2609.34997](http://arxiv.org/abs/2609.34997)|null|
+|**2026-09-28**|**One Sensor, Whole Body - 3D Body Pose from a Single Consumer Earbud IMU**|Zhilin Guo et.al.|[2609.34978](http://arxiv.org/abs/2609.34978)|null|
+|**2026-09-28**|**From Early Participation to Later Completion: Evidence from a Large-Scale Self-Paced Learning Programme**|Sakshi Sharma et.al.|[2609.34953](http://arxiv.org/abs/2609.34953)|null|
+|**2026-09-28**|**"Black Mirror?": Public Sensemaking of AI-Powered Lifelogging**|Ying Ma et.al.|[2609.34950](http://arxiv.org/abs/2609.34950)|null|
+|**2026-09-28**|**AI Tools Adoption across the Double Diamond Workflow: Phase, Mode, and Barriers in Designer Practice**|Sepideh Tajarmakan et.al.|[2609.34655](http://arxiv.org/abs/2609.34655)|null|
 |**2026-09-25**|**Adapting for AI: How elementary teachers adjust their practices for an AI-integrated curriculum**|Fasika Melese et.al.|[2609.31569](http://arxiv.org/abs/2609.31569)|null|
 |**2026-09-25**|**PANEL: An Open-Source, Self-Hosted Web Platform for Human Evaluation of Generative Models**|Matteo Spanio et.al.|[2609.31392](http://arxiv.org/abs/2609.31392)|null|
 |**2026-09-25**|**EEG-based Word Association Paradigm for Adult ADHD Screening: An Exploratory Pilot Study**|Caroline Peng et.al.|[2609.31359](http://arxiv.org/abs/2609.31359)|null|
@@ -4205,7 +4227,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260929>back to top</a>)</p>
 
 Notes: 
 
