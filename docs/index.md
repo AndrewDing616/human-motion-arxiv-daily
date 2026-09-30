@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.09.29
+### Automatically Updated on 2026.09.30
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-29**|**Comparing Utility of Inertial, Occupancy, Semantic, and Intent Information in Human Motion Prediction During Daily Tasks**|Max Burns et.al.|[2609.37971](http://arxiv.org/abs/2609.37971)|null|
+|**2026-09-29**|**PhysWAM: Physically Consistent World Action Model for Autonomous Driving**|Dhruv Parikh et.al.|[2609.37970](http://arxiv.org/abs/2609.37970)|null|
+|**2026-09-29**|**CogWAM: Aligning Semantic Cognition with World Action Modeling via Event-Driven Interfaces**|Sen Wang et.al.|[2609.37721](http://arxiv.org/abs/2609.37721)|null|
+|**2026-09-29**|**Generative Interactions: Weaving Multiparty Human Motion with Bilevel Latent Dynamics**|Ojas Shirekar et.al.|[2609.37708](http://arxiv.org/abs/2609.37708)|null|
+|**2026-09-29**|**FP2: Equipping Robotic Foundation Models with Force Control**|Hongjie Fang et.al.|[2609.37433](http://arxiv.org/abs/2609.37433)|null|
+|**2026-09-29**|**BeatDance: Generating Beat-Consistent 3D Dance with Hierarchical Spatial-Temporal Modeling**|Xiaojian Shen et.al.|[2609.37400](http://arxiv.org/abs/2609.37400)|null|
+|**2026-09-29**|**Direct Experience World-Model Optimization: Learning the World Beyond Action Imitation**|Xiangcheng Zhan et.al.|[2609.37398](http://arxiv.org/abs/2609.37398)|null|
+|**2026-09-29**|**Why Cross-Skeleton Retargeting Is Non-Identifiable: Structural Limits of Generative Motion Models**|Zhiyuan Li et.al.|[2609.37297](http://arxiv.org/abs/2609.37297)|null|
+|**2026-09-29**|**V-JEPA Policy: Building Effective World-Action Models on Predictive Visual Latents**|Yang Zhang et.al.|[2609.37250](http://arxiv.org/abs/2609.37250)|null|
+|**2026-09-29**|**AESOP: Asymmetric Human-Camera Generation with Translation-Intensity Control**|Jingzhong Lin et.al.|[2609.37229](http://arxiv.org/abs/2609.37229)|null|
 |**2026-09-28**|**DexRoam: Learning Mobile Bimanual Dexterous Manipulation from Egocentric Whole-Body Human Demonstrations**|Rui Zhou et.al.|[2609.35761](http://arxiv.org/abs/2609.35761)|null|
 |**2026-09-28**|**X-Reset: Scaling Object-Centric Reinforcement Learning via Cross-Embodiment Resets**|Prithwish Dan et.al.|[2609.35715](http://arxiv.org/abs/2609.35715)|null|
 |**2026-09-28**|**EvolvingAvatar: Interactive 3D Head Generation That Adapts as Conversations Unfold**|Junjie Chen et.al.|[2609.35616](http://arxiv.org/abs/2609.35616)|null|
@@ -2461,9 +2471,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-29**|**Counterfactual Video Generation Enables Scalable Humanoid Loco-Manipulation**|Zihan Wang et.al.|[2609.38172](http://arxiv.org/abs/2609.38172)|null|
+|**2026-09-29**|**Harnessing Coupled Stream Completion For Human-Object Interaction Modeling**|Dawei Guan et.al.|[2609.32551](http://arxiv.org/abs/2609.32551)|null|
+|**2026-09-29**|**HOIBlender: Blending Lightweight Detection with Vision-Language Priors for Efficient Human-Object Interaction Detection**|Junwen Chen et.al.|[2609.23431](http://arxiv.org/abs/2609.23431)|null|
 |**2026-09-28**|**HOI-Retarget: Contact-Centric Retargeting for Human-Object Interaction**|Jihwan Shin et.al.|[2609.34674](http://arxiv.org/abs/2609.34674)|null|
-|**2026-09-26**|**Harnessing Coupled Stream Completion For Human-Object Ineraction Modeling**|Dawei Guan et.al.|[2609.32551](http://arxiv.org/abs/2609.32551)|null|
-|**2026-09-20**|**HOIBlender: Blending Lightweight Detection with Vision-Language Priors for Efficient Human-Object Interaction Detection**|Junwen Chen et.al.|[2609.23431](http://arxiv.org/abs/2609.23431)|null|
 |**2026-09-16**|**ViLoMan: Learning Visual-Proprioceptive Whole-Body Loco-Manipulation Skills for Humanoid Robots**|Zejie Tian et.al.|[2609.19340](http://arxiv.org/abs/2609.19340)|null|
 |**2026-09-15**|**Weave: Learning Whole-Body Dexterous Loco-Manipulation from Human-Object Interactions**|Liu Cao et.al.|[2609.16683](http://arxiv.org/abs/2609.16683)|null|
 |**2026-09-15**|**UniDex-ViTac: Learning Unified Visuo-Tactile Dexterous Manipulation Policy from Human Video Data**|Hyesung Lee et.al.|[2609.16504](http://arxiv.org/abs/2609.16504)|null|
@@ -2809,6 +2820,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-29**|**Gender bias across LLMs is common and highly heterogenous**|Edoardo Bolzoni et.al.|[2609.38036](http://arxiv.org/abs/2609.38036)|null|
+|**2026-09-29**|**Critical Thinking with Generative AI: A Constraint-First Design Pilot of a Thinking-Partner Intervention**|Fatima Tuz Zahra et.al.|[2609.38029](http://arxiv.org/abs/2609.38029)|null|
+|**2026-09-29**|**A Task-Driven Framework for Multiscale Ocean Flow Dynamics through Integrated Simulation and Visualization**|James Kress et.al.|[2609.37964](http://arxiv.org/abs/2609.37964)|null|
+|**2026-09-29**|**Towards the Threshold: A Fall-Risk Anchored Pareto Framework for Virtual Reality Gait Feedback Selection for Individuals with Multiple Sclerosis**|Nafisa Anjum et.al.|[2609.37952](http://arxiv.org/abs/2609.37952)|null|
+|**2026-09-29**|**Fluency Without Evidence: Constraint-First Design and the Limits of Self-Report in AI-Assisted Learning**|Fatima T. Zahra et.al.|[2609.37880](http://arxiv.org/abs/2609.37880)|null|
+|**2026-09-29**|**CommSketch: How Speaking while Sketching Steers Human--AI Design Ideation**|Weiyan Shi et.al.|[2609.37813](http://arxiv.org/abs/2609.37813)|null|
+|**2026-09-29**|**Beyond Productivity: Measuring Developers' Cognitive Load During GenAI-Supported Software Development**|Charlotte Brandebusemeyer et.al.|[2609.37645](http://arxiv.org/abs/2609.37645)|null|
+|**2026-09-29**|**Rhythm Is a Dancer: Designing Interactive Rhythm Feedback for Beginner Dancers**|Bettina Eska et.al.|[2609.37641](http://arxiv.org/abs/2609.37641)|null|
+|**2026-09-29**|**Rational Clarification by Assistive Agents via Value-of-Information Reasoning**|T. Duy Nguyen-Hien et.al.|[2609.37588](http://arxiv.org/abs/2609.37588)|null|
+|**2026-09-29**|**Shaping Opinion: Quantifying the Psychological Impact of Autonomous Multi-Agent LLM Interactions**|Marcos Rodriguez-Vega et.al.|[2609.37369](http://arxiv.org/abs/2609.37369)|null|
 |**2026-09-28**|**Reliability-Gated Fusion of Consumer Head and Foot IMUs for Lower-Body 3D Pose**|Zhilin Guo et.al.|[2609.35764](http://arxiv.org/abs/2609.35764)|null|
 |**2026-09-28**|**Reclaiming the social in social media**|Luca Benn et.al.|[2609.35413](http://arxiv.org/abs/2609.35413)|null|
 |**2026-09-28**|**Alignment Games: A Framework for Conceptual Repair in Human-AI Collaboration**|Hari Subramonyam et.al.|[2609.35197](http://arxiv.org/abs/2609.35197)|null|
