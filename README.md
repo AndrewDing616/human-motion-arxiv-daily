@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.10.01
+### Automatically Updated on 2026.10.02
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-01**|**DuoMind: Enabling Distributed Multi-Robot Coordination with Semantic Communication**|Hanchu Zhou et.al.|[2610.02161](http://arxiv.org/abs/2610.02161)|null|
+|**2026-10-01**|**SkeleWAM: Skeleton World-Action Modeling for Efficient Robotic Manipulation**|Juyi Sheng et.al.|[2610.02120](http://arxiv.org/abs/2610.02120)|null|
+|**2026-10-01**|**UniWAM: Unified World-Action Model**|Jiayi Chen et.al.|[2610.02054](http://arxiv.org/abs/2610.02054)|null|
+|**2026-10-01**|**Robot Learning on Discrete Surfaces: Theory and Applications**|Matteo Dalle Vedove et.al.|[2610.01910](http://arxiv.org/abs/2610.01910)|null|
+|**2026-10-01**|**Selection-Based Structured Reasoning: Toward Efficient Multimodal Search Agents**|Feiyu Gavin Zhu et.al.|[2610.01892](http://arxiv.org/abs/2610.01892)|null|
+|**2026-10-01**|**Flowing Faster to Coordinate: One-Step Online Multi-Agent Flow Policies**|Zhuoran Li et.al.|[2610.01882](http://arxiv.org/abs/2610.01882)|null|
+|**2026-10-01**|**ChunkVLA-AM: Parallel Action Chunking for Vision-Language-Action Robot Control in Additive Manufacturing**|Zhugang Liu et.al.|[2610.01856](http://arxiv.org/abs/2610.01856)|null|
+|**2026-10-01**|**ATI-VLA: Action-Centric Predictive Vision-Language-Action Models via Actionable Alignment Then Adaptive Injection**|Yijie Zhu et.al.|[2610.01741](http://arxiv.org/abs/2610.01741)|null|
+|**2026-10-01**|**ActiveWAM: Evidence-Aware Active Vision for World-Action Models**|Renjun Wu et.al.|[2610.01698](http://arxiv.org/abs/2610.01698)|null|
+|**2026-10-01**|**SuperMotion: Source-Preserving Denoising for Text-Driven Human Motion Editing**|Fa-Ting Hong et.al.|[2610.01517](http://arxiv.org/abs/2610.01517)|null|
 |**2026-09-30**|**Learning Skills from Historical Action Trajectories: Action Experience Dictionary for World Action Models**|Qi Lyu et.al.|[2609.40219](http://arxiv.org/abs/2609.40219)|null|
 |**2026-09-30**|**Rethinking Legibility in Social Robot Hallway Navigation: Impact of Intent Representation and Human Distraction**|Pranav Goyal et.al.|[2609.40158](http://arxiv.org/abs/2609.40158)|null|
 |**2026-09-30**|**Dream4ACT: A Shared Visual Action Interface for Multi-Embodiment Video-Action Modeling**|Xiangyu Zhu et.al.|[2609.40153](http://arxiv.org/abs/2609.40153)|null|
@@ -1364,7 +1374,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261002>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -1534,7 +1544,7 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261002>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
@@ -1886,12 +1896,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261002>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-01**|**One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars**|Ramazan Fazylov et.al.|[2610.02207](http://arxiv.org/abs/2610.02207)|null|
+|**2026-10-01**|**Catscan: Visualizing Pipelines of CPU Performance Simulation**|Aaron Lindsay et.al.|[2610.02121](http://arxiv.org/abs/2610.02121)|null|
+|**2026-10-01**|**SPHERE: Adaptive VR Indoor Scene Generation via LLM-Enhanced Spatial Preference Learning and Human-in-the-Loop RL**|Hyeonmin Lee et.al.|[2610.02023](http://arxiv.org/abs/2610.02023)|null|
+|**2026-10-01**|**XAI Evaluation Cards: A Practical Method for Designing Human-Centred XAI Evaluations**|Kristýna Sirka Kacafírková et.al.|[2610.02011](http://arxiv.org/abs/2610.02011)|null|
+|**2026-10-01**|**Interactive Power Flow in the Browser**|Samuel Talkington et.al.|[2610.01922](http://arxiv.org/abs/2610.01922)|null|
+|**2026-10-01**|**Where LLMs Fail with Visualization DSLs**|Chang Han et.al.|[2610.01873](http://arxiv.org/abs/2610.01873)|null|
+|**2026-10-01**|**Designing for Interpretation Uncertainty: Architecture and Principles for Topological Learning Analytics Dashboards**|Hitoshi Inoue et.al.|[2610.01749](http://arxiv.org/abs/2610.01749)|null|
+|**2026-10-01**|**Who Thinks First? Designing Productive Friction with Engage-to-Unlock GenAI**|Xiaotian Su et.al.|[2610.01518](http://arxiv.org/abs/2610.01518)|null|
+|**2026-10-01**|**ibUMAP: Coherent and Scalable Field Evaluation for UMAP Optimization**|Bin Chen et.al.|[2610.01445](http://arxiv.org/abs/2610.01445)|null|
+|**2026-10-01**|**PROMO: Preference-conditioned Multi-Objective Reinforcement Learning for Quadrupedal Robots**|Amr Mousa et.al.|[2610.01260](http://arxiv.org/abs/2610.01260)|null|
 |**2026-09-30**|**Rethinking Legibility in Social Robot Hallway Navigation: Impact of Intent Representation and Human Distraction**|Pranav Goyal et.al.|[2609.40158](http://arxiv.org/abs/2609.40158)|null|
 |**2026-09-30**|**Who Asked for This? Inline Annotations as Authoring Transactions for Provenance in Agentic Authoring**|Chang Xiao et.al.|[2609.40126](http://arxiv.org/abs/2609.40126)|null|
 |**2026-09-30**|**JuryFlow: Disagreement-Guided Human-in-the-Loop Multi-Agent Evaluation**|Mufeng Yang et.al.|[2609.40103](http://arxiv.org/abs/2609.40103)|null|
@@ -4269,7 +4289,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261002>back to top</a>)</p>
 
 Notes: 
 
