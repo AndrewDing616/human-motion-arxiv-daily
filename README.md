@@ -1915,7 +1915,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2026-10-02**|**Interactive Machine Learning Interfaces for Disease Risk Prediction: Effects on Risk Perception and Behaviour**|Tiffany Ngai et.al.|[2610.03511](http://arxiv.org/abs/2610.03511)|null|
-|**2026-10-02**|**Harmonic Eigenspace: A Web-based Application for Navigating and Composing Microtonal Harmony**|David Dalmazzoa et.al.|[2610.03398](http://arxiv.org/abs/2610.03398)|null|
+|**2026-10-02**|**Harmonic Eigenspace: A Web-based Application for Navigating and Composing Microtonal Harmony**|David Dalmazzo et.al.|[2610.03398](http://arxiv.org/abs/2610.03398)|null|
 |**2026-10-02**|**Seeing through the Eyes of AI: Situated Explainability in Augmented Reality**|Ana Stanescu et.al.|[2610.03232](http://arxiv.org/abs/2610.03232)|null|
 |**2026-10-02**|**The Effects of Air-Conditioning and Road-Traffic Noise on Perceived, Cognitive, and EEG Responses in a University Classroom**|Yuanzhi Su et.al.|[2610.03210](http://arxiv.org/abs/2610.03210)|null|
 |**2026-10-02**|**TSGuard: A Real-Time Framework for Detecting and Imputing Missing Data in Streaming Time Series**|Imane Hocine et.al.|[2610.03147](http://arxiv.org/abs/2610.03147)|null|

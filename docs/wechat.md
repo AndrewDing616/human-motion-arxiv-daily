@@ -4160,7 +4160,7 @@
 - 2026-04-13, **HeartSway: Exploring Biodata as Poetic Traces in Public Space**, Zeyu Huang et.al., Paper: [http://arxiv.org/abs/2604.11701](http://arxiv.org/abs/2604.11701)
 - 2026-09-08, **Healthcare Utilization, Chronic Condition Management, and Workplace Functioning Among Users of a Purpose-Built Mental Health AI (Ash): Cross-Sectional Study**, Kristen M. Van Swearingen et.al., Paper: [http://arxiv.org/abs/2609.08890](http://arxiv.org/abs/2609.08890)
 - 2026-02-25, **Heads Up!: Towards In Situ Photogrammetry Annotations and Augmented Reality Visualizations for Guided Backcountry Skiing**, Christoph Albert Johns et.al., Paper: [http://arxiv.org/abs/2602.21771](http://arxiv.org/abs/2602.21771)
-- 2026-10-02, **Harmonic Eigenspace: A Web-based Application for Navigating and Composing Microtonal Harmony**, David Dalmazzoa et.al., Paper: [http://arxiv.org/abs/2610.03398](http://arxiv.org/abs/2610.03398)
+- 2026-10-02, **Harmonic Eigenspace: A Web-based Application for Navigating and Composing Microtonal Harmony**, David Dalmazzo et.al., Paper: [http://arxiv.org/abs/2610.03398](http://arxiv.org/abs/2610.03398)
 - 2026-09-16, **Hardware-Free Robotics Laboratories in Mixed Reality**, Santiago Berrezueta-Guzman et.al., Paper: [http://arxiv.org/abs/2609.18434](http://arxiv.org/abs/2609.18434)
 - 2026-08-03, **HaptoFlow: High-Fidelity Real-Time Vibrotactile Generation via Flow Matching for Virtual Reality**, Michikuni Eguchi et.al., Paper: [http://arxiv.org/abs/2608.01974](http://arxiv.org/abs/2608.01974)
 - 2026-03-05, **Haptics in Cognition: Disruptor or Enabler of Memory?**, Bibeg Limbu et.al., Paper: [http://arxiv.org/abs/2603.05019](http://arxiv.org/abs/2603.05019)
