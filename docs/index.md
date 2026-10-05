@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.10.04
+### Automatically Updated on 2026.10.05
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-02**|**FlowHMR: Physically Plausible Motion Capture from Video**|Zhanke Wang et.al.|[2610.03691](http://arxiv.org/abs/2610.03691)|null|
+|**2026-10-02**|**World Action Learning via Interaction-Centric Spectral Latent Guidance**|Zhiming Liu et.al.|[2610.03607](http://arxiv.org/abs/2610.03607)|null|
+|**2026-10-02**|**DR-IPC: Disturbance-Resilient Integrated Planning and Control for LiDAR-Based Quadrotor Navigation**|Peng Liu et.al.|[2610.03530](http://arxiv.org/abs/2610.03530)|null|
+|**2026-10-02**|**KungfuAthleteBot: learning high-dynamic humanoid motion from video with unified robust recovery**|Zhongxiang Lei et.al.|[2610.03388](http://arxiv.org/abs/2610.03388)|null|
+|**2026-10-02**|**A Benchmark for Spatially Grounded Gesture Generation**|Anna Deichler et.al.|[2610.03105](http://arxiv.org/abs/2610.03105)|null|
+|**2026-10-02**|**Parasitic Co-Denoising: Unlocking 3D Human Motion Generation in a Frozen Video Diffusion Model**|Yunjiao Zhou et.al.|[2610.03047](http://arxiv.org/abs/2610.03047)|null|
+|**2026-10-02**|**Rethinking Fixed Temporal Grids: Frequency-Disentangled Motion Generation**|Yunjiao Zhou et.al.|[2610.03012](http://arxiv.org/abs/2610.03012)|null|
+|**2026-10-02**|**TACD: Distilling Efficient Text-to-Motion Models via Terminal Amplification Control**|Wei-Jin Huang et.al.|[2610.02867](http://arxiv.org/abs/2610.02867)|null|
+|**2026-10-02**|**Register-Routed Delayed Fusion: Rewiring Shortcut-Prone Observation Fusion in Visuomotor Imitation**|Jieting Long et.al.|[2610.02813](http://arxiv.org/abs/2610.02813)|null|
+|**2026-10-02**|**Controlling Polar Exposure to Delay Memorization in Diffusion Models**|Xuanchen Wang et.al.|[2610.02780](http://arxiv.org/abs/2610.02780)|null|
 |**2026-10-01**|**DuoMind: Enabling Distributed Multi-Robot Coordination with Semantic Communication**|Hanchu Zhou et.al.|[2610.02161](http://arxiv.org/abs/2610.02161)|null|
 |**2026-10-01**|**SkeleWAM: Skeleton World-Action Modeling for Efficient Robotic Manipulation**|Juyi Sheng et.al.|[2610.02120](http://arxiv.org/abs/2610.02120)|null|
 |**2026-10-01**|**UniWAM: Unified World-Action Model**|Jiayi Chen et.al.|[2610.02054](http://arxiv.org/abs/2610.02054)|null|
@@ -2323,6 +2333,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-02**|**CrowdOcc: Monocular Semantic Scene Completion for Quadruped Robots in Crowded Indoor Environments**|Feiyang Chen et.al.|[2610.03031](http://arxiv.org/abs/2610.03031)|null|
 |**2026-09-17**|**Learning Scene-Aware Humanoid Locomotion through 3D Clutter from Immersive Human Demonstrations**|Beichen Wang et.al.|[2609.21107](http://arxiv.org/abs/2609.21107)|null|
 |**2026-08-10**|**Efficient Human-Contact Representation for Human-Scene Interaction**|Nghia Vu et.al.|[2608.09388](http://arxiv.org/abs/2608.09388)|null|
 |**2026-07-30**|**ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine**|Yukang Cao et.al.|[2607.28625](http://arxiv.org/abs/2607.28625)|null|
@@ -2491,6 +2502,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-02**|**COSMI: COmpositional Synthesis of Multi-object Interactions**|Daniel Eskandar et.al.|[2610.03252](http://arxiv.org/abs/2610.03252)|null|
 |**2026-09-29**|**PAMI: Part Anchored Motion for Text to Human-Object Interaction Generation**|Chuqiao Li et.al.|[2609.38466](http://arxiv.org/abs/2609.38466)|null|
 |**2026-09-29**|**Counterfactual Video Generation Enables Scalable Humanoid Loco-Manipulation**|Zihan Wang et.al.|[2609.38172](http://arxiv.org/abs/2609.38172)|null|
 |**2026-09-29**|**Harnessing Coupled Stream Completion For Human-Object Interaction Modeling**|Dawei Guan et.al.|[2609.32551](http://arxiv.org/abs/2609.32551)|null|
@@ -2841,6 +2853,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-02**|**Interactive Machine Learning Interfaces for Disease Risk Prediction: Effects on Risk Perception and Behaviour**|Tiffany Ngai et.al.|[2610.03511](http://arxiv.org/abs/2610.03511)|null|
+|**2026-10-02**|**Harmonic Eigenspace: A Web-based Application for Navigating and Composing Microtonal Harmony**|David Dalmazzoa et.al.|[2610.03398](http://arxiv.org/abs/2610.03398)|null|
+|**2026-10-02**|**Seeing through the Eyes of AI: Situated Explainability in Augmented Reality**|Ana Stanescu et.al.|[2610.03232](http://arxiv.org/abs/2610.03232)|null|
+|**2026-10-02**|**The Effects of Air-Conditioning and Road-Traffic Noise on Perceived, Cognitive, and EEG Responses in a University Classroom**|Yuanzhi Su et.al.|[2610.03210](http://arxiv.org/abs/2610.03210)|null|
+|**2026-10-02**|**TSGuard: A Real-Time Framework for Detecting and Imputing Missing Data in Streaming Time Series**|Imane Hocine et.al.|[2610.03147](http://arxiv.org/abs/2610.03147)|null|
+|**2026-10-02**|**A Benchmark for Spatially Grounded Gesture Generation**|Anna Deichler et.al.|[2610.03105](http://arxiv.org/abs/2610.03105)|null|
+|**2026-10-02**|**Personalized Automatic Speech Recognition for a Dysarthric and Tracheostomic Speaker using Artificial Conversations**|David Nadrchal et.al.|[2610.03017](http://arxiv.org/abs/2610.03017)|null|
+|**2026-10-02**|**Tracking Human Daily Cognitive Activity from EEG and Biometric Data**|Alina Gutoreva et.al.|[2610.02971](http://arxiv.org/abs/2610.02971)|null|
+|**2026-10-02**|**Co-Designing AI For Mental Health Support With Young Adults of Color (YOC): Needs, Expectations, and Implications for AI Literacy**|Elaine Dabin Jeon et.al.|[2610.02812](http://arxiv.org/abs/2610.02812)|null|
+|**2026-10-02**|**Characterizing the Performance Gap in Human Activity Recognition for Older Adults**|Hossein Khayami et.al.|[2610.02711](http://arxiv.org/abs/2610.02711)|null|
 |**2026-10-01**|**One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars**|Ramazan Fazylov et.al.|[2610.02207](http://arxiv.org/abs/2610.02207)|null|
 |**2026-10-01**|**Catscan: Visualizing Pipelines of CPU Performance Simulation**|Aaron Lindsay et.al.|[2610.02121](http://arxiv.org/abs/2610.02121)|null|
 |**2026-10-01**|**SPHERE: Adaptive VR Indoor Scene Generation via LLM-Enhanced Spatial Preference Learning and Human-in-the-Loop RL**|Hyeonmin Lee et.al.|[2610.02023](http://arxiv.org/abs/2610.02023)|null|
