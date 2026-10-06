@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.10.05
+### Automatically Updated on 2026.10.06
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-05**|**TAPDreamer: Transferable Adversarial Patches for World Action Models**|Xuanyu Lu et.al.|[2610.06814](http://arxiv.org/abs/2610.06814)|null|
+|**2026-10-05**|**RealtimeWAM: One-Step Asynchronous World Action Models**|Chengtao Lv et.al.|[2610.06617](http://arxiv.org/abs/2610.06617)|null|
+|**2026-10-05**|**Encoded but Not in Control: Revealing the Grounding Gap in Vision-Language Robot Policies**|Shaohan Jiang et.al.|[2610.06235](http://arxiv.org/abs/2610.06235)|null|
+|**2026-10-05**|**Bridging the Evidence-to-Execution Gap:A Reflective Agent for Multi-Objective Peptide Design**|Haosen Zhang et.al.|[2610.06190](http://arxiv.org/abs/2610.06190)|null|
+|**2026-10-05**|**Controllable and Photorealistic Pedestrian Risky Motion Generation for End-to-End Driving Safety Evaluation**|Siyuan Liu et.al.|[2610.06171](http://arxiv.org/abs/2610.06171)|null|
+|**2026-10-05**|**From Traces to Agentic Worlds: Agentic Language World Models for Interactive Environment Simulation**|Quanyu Long et.al.|[2610.06100](http://arxiv.org/abs/2610.06100)|null|
+|**2026-10-05**|**When to Switch: Reliable Action-Chunk Extension for Vision-Language-Action Models**|Seonghoon Yu et.al.|[2610.05719](http://arxiv.org/abs/2610.05719)|null|
+|**2026-10-05**|**Dataset-Free Compliant Humanoid Loco-Manipulation with Dynamic Online Posture**|Seungho Yeom et.al.|[2610.05678](http://arxiv.org/abs/2610.05678)|null|
+|**2026-10-04**|**EvoMem-VLA: State-Evolution Memory for Long-Horizon Robot Manipulation**|Yuheng Na et.al.|[2610.05418](http://arxiv.org/abs/2610.05418)|null|
+|**2026-10-04**|**CleanMDM: Clean Motion Diffusion Model for Multimodal Motion Cleanup**|Zhe Li et.al.|[2610.05411](http://arxiv.org/abs/2610.05411)|null|
 |**2026-10-02**|**FlowHMR: Physically Plausible Motion Capture from Video**|Zhanke Wang et.al.|[2610.03691](http://arxiv.org/abs/2610.03691)|null|
 |**2026-10-02**|**World Action Learning via Interaction-Centric Spectral Latent Guidance**|Zhiming Liu et.al.|[2610.03607](http://arxiv.org/abs/2610.03607)|null|
 |**2026-10-02**|**DR-IPC: Disturbance-Resilient Integrated Planning and Control for LiDAR-Based Quadrotor Navigation**|Peng Liu et.al.|[2610.03530](http://arxiv.org/abs/2610.03530)|null|
@@ -2502,6 +2512,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-05**|**InterMimicGen: Scaling Humanoid Loco-Manipulation through Self-Evolving Motion Imitation**|Yucheng Zhang et.al.|[2610.06850](http://arxiv.org/abs/2610.06850)|null|
+|**2026-10-05**|**Harnessing Multimodal Large Language Models for Training-Free Human-Object Interaction Detection**|Zhaolin Cai et.al.|[2610.06394](http://arxiv.org/abs/2610.06394)|null|
+|**2026-10-03**|**PatternDex: Learning Interaction Patterns to Guide Reinforcement Learning of Bimanual Dexterous Manipulation of Articulated Objects**|David Minkwan Kim et.al.|[2610.04765](http://arxiv.org/abs/2610.04765)|null|
 |**2026-10-02**|**COSMI: COmpositional Synthesis of Multi-object Interactions**|Daniel Eskandar et.al.|[2610.03252](http://arxiv.org/abs/2610.03252)|null|
 |**2026-09-29**|**PAMI: Part Anchored Motion for Text to Human-Object Interaction Generation**|Chuqiao Li et.al.|[2609.38466](http://arxiv.org/abs/2609.38466)|null|
 |**2026-09-29**|**Counterfactual Video Generation Enables Scalable Humanoid Loco-Manipulation**|Zihan Wang et.al.|[2609.38172](http://arxiv.org/abs/2609.38172)|null|
@@ -2853,6 +2866,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-05**|**Mind Perception Influences Perceived AI Companionability**|Jaime Banks et.al.|[2610.06681](http://arxiv.org/abs/2610.06681)|null|
+|**2026-10-05**|**TrustmeWatcher: An Application for Workplace Micro-Sensing and Explainable Well-Being Feedback**|Chengyu Yu et.al.|[2610.06657](http://arxiv.org/abs/2610.06657)|null|
+|**2026-10-05**|**If My Toy Could Talk: How Young Children Imagine, Design, and Test AI-Enabled Toys**|Feiwen Xiao et.al.|[2610.06619](http://arxiv.org/abs/2610.06619)|null|
+|**2026-10-05**|**AICoFe Demo: AI-based Collaborative Feedback System**|Alvaro Becerra et.al.|[2610.06532](http://arxiv.org/abs/2610.06532)|null|
+|**2026-10-05**|**AISSA Demo: AI-based Student Slides Analysis Tool for Automated Grading and Feedback**|Alvaro Becerra et.al.|[2610.06506](http://arxiv.org/abs/2610.06506)|null|
+|**2026-10-05**|**Traversability-Aware Cooperative Path Planning for Human-UGV Casualty Evacuation**|Kristian Dalland et.al.|[2610.06487](http://arxiv.org/abs/2610.06487)|null|
+|**2026-10-05**|**What Did the AI Take On? Characterizing Cognitive Delegation in LLM Reasoning**|Yoonsu Kim et.al.|[2610.06328](http://arxiv.org/abs/2610.06328)|null|
+|**2026-10-05**|**A State Based Dispatch Controller for Hospital Delivery Robots with Shared Human and Infrastructure Resources**|Krzysztof Siwek et.al.|[2610.05971](http://arxiv.org/abs/2610.05971)|null|
+|**2026-10-05**|**Hierarchical Reinforcement Learning for Collision-Free Locomotion of an Underactuated Biped**|Jagannath Prasad Sahoo et.al.|[2610.05855](http://arxiv.org/abs/2610.05855)|null|
+|**2026-10-05**|**Supporting Couples' Social Well-being in Daily Life: A Needs Assessment and Co-design with Co-located Couples**|Yuna Naito et.al.|[2610.05822](http://arxiv.org/abs/2610.05822)|null|
 |**2026-10-02**|**Interactive Machine Learning Interfaces for Disease Risk Prediction: Effects on Risk Perception and Behaviour**|Tiffany Ngai et.al.|[2610.03511](http://arxiv.org/abs/2610.03511)|null|
 |**2026-10-02**|**Harmonic Eigenspace: A Web-based Application for Navigating and Composing Microtonal Harmony**|David Dalmazzo et.al.|[2610.03398](http://arxiv.org/abs/2610.03398)|null|
 |**2026-10-02**|**Seeing through the Eyes of AI: Situated Explainability in Augmented Reality**|Ana Stanescu et.al.|[2610.03232](http://arxiv.org/abs/2610.03232)|null|
