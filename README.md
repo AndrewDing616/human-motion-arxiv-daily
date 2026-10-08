@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.10.07
+### Automatically Updated on 2026.10.08
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-07**|**RoboPrompt: Intuitive Robot Policy Steering with Sparse Human Input**|Yanwen Zou et.al.|[2610.10534](http://arxiv.org/abs/2610.10534)|null|
+|**2026-10-07**|**HuMBLE: Human Motion-Driven Behavior Learning for Embodied Locomotion**|Mike Zhang et.al.|[2610.10489](http://arxiv.org/abs/2610.10489)|null|
+|**2026-10-07**|**Video Prediction Policy 2: Predict Better, Act Better**|Yanjiang Guo et.al.|[2610.10270](http://arxiv.org/abs/2610.10270)|null|
+|**2026-10-07**|**Do Vision-Language-Action Models Understand Instructions? A Mechanistic Interpretability Study on Language Grounding**|Theodor Wulff et.al.|[2610.10178](http://arxiv.org/abs/2610.10178)|null|
+|**2026-10-07**|**RealtimeWAM: How Fast Can I Run My World Action Model?**|Huanan Liu et.al.|[2610.10079](http://arxiv.org/abs/2610.10079)|null|
+|**2026-10-07**|**Juno: Taming Predictive Latents for Vision-Language-Action Models**|Yuchen Zhu et.al.|[2610.09940](http://arxiv.org/abs/2610.09940)|null|
+|**2026-10-07**|**DynaConTalk: Wavelet-Constrained Diffusion for Long-Form and Controllable Holistic Co-Speech 3D Motion**|Yifei Zhu et.al.|[2610.09846](http://arxiv.org/abs/2610.09846)|null|
+|**2026-10-07**|**Black-Box Adversarial Patch Attacks on VLAs via Ancestor VLM Exploitation**|Xiaoyi Pang et.al.|[2610.09708](http://arxiv.org/abs/2610.09708)|null|
+|**2026-10-07**|**Controllable Crowd Generation through World-Model Planning**|JunGyu Lee et.al.|[2610.09438](http://arxiv.org/abs/2610.09438)|null|
+|**2026-10-07**|**Event-Aligned Visual Action Reasoning for World Action Models**|Xiaomeng Yang et.al.|[2610.09427](http://arxiv.org/abs/2610.09427)|null|
 |**2026-10-06**|**One for All, All for One: Coordinated Multi-Agent Diffusion Steering via Stochastic Optimal Control**|Riccardo Barbano et.al.|[2610.08595](http://arxiv.org/abs/2610.08595)|null|
 |**2026-10-06**|**HuC-VideoMAE: Human-Centric Video Masked Autoencoding from synthetic data**|Ricardo Pizarro et.al.|[2610.08433](http://arxiv.org/abs/2610.08433)|null|
 |**2026-10-06**|**From Legs to Wheels: Embodiment-Aware Human Motion Retargeting for Mobile-Base Humanoids**|Jiyeon Koo et.al.|[2610.08381](http://arxiv.org/abs/2610.08381)|null|
@@ -1404,7 +1414,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20261007>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261008>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -1576,12 +1586,14 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20261007>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261008>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-07**|**ECHO: Embodied Camera Observations of Human Object Carrying**|Xuefei Sun et.al.|[2610.10438](http://arxiv.org/abs/2610.10438)|null|
+|**2026-10-07**|**COOL: Curiosity-Driven Object Ownership Learning for Personalized Robotic Assistance**|Samira Huber et.al.|[2610.09358](http://arxiv.org/abs/2610.09358)|null|
 |**2026-10-06**|**Event-Driven Proactive Robot Assistance through Vision-Language Reasoning**|Fengkai Liu et.al.|[2610.08344](http://arxiv.org/abs/2610.08344)|null|
 |**2026-10-06**|**RefRoute: Decoupling Conditioning Cost from References via Compact Residual Conditioning and Spatial Routing**|Wanning He et.al.|[2610.07720](http://arxiv.org/abs/2610.07720)|null|
 |**2026-10-05**|**InterMimicGen: Scaling Humanoid Loco-Manipulation through Self-Evolving Motion Imitation**|Yucheng Zhang et.al.|[2610.06850](http://arxiv.org/abs/2610.06850)|null|
@@ -1934,12 +1946,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20261007>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261008>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-07**|**How assigned AI use before class shapes active student engagement in class**|Dan J. Wang et.al.|[2610.10463](http://arxiv.org/abs/2610.10463)|null|
+|**2026-10-07**|**MemoCare: An Interactive Multimodal Mobile System for Automated Cognitive Screening**|Duy-Cat Can et.al.|[2610.10448](http://arxiv.org/abs/2610.10448)|null|
+|**2026-10-07**|**CrossWeave: Bridging Perspectives Across Online Communities with a Dual-Pane Design**|Fei Fang et.al.|[2610.10441](http://arxiv.org/abs/2610.10441)|null|
+|**2026-10-07**|**PalmSpace: Towards a Versatile On-Palm Interaction Space through Unified Touch Modeling**|Chentao Li et.al.|[2610.10370](http://arxiv.org/abs/2610.10370)|null|
+|**2026-10-07**|**The Handover Problem: Governing Autonomy Transitions in Human-AI Collaboration**|Vicente Pelechano et.al.|[2610.10352](http://arxiv.org/abs/2610.10352)|null|
+|**2026-10-07**|**Active Inference for Interaction-Mediated Control of a High-Dimensional Robotic Arm**|Fraser C. Paterson et.al.|[2610.10275](http://arxiv.org/abs/2610.10275)|null|
+|**2026-10-07**|**DuoSketch: How Pairs Navigate Challenges in AI-Supported Collaborative Design Ideation**|Weiyan Shi et.al.|[2610.10249](http://arxiv.org/abs/2610.10249)|null|
+|**2026-10-07**|**MorphCL: Morphological Contrastive Learning for Inertial-based Human Activity Recognition**|Marius Bock et.al.|[2610.10245](http://arxiv.org/abs/2610.10245)|null|
+|**2026-10-07**|**EEG and Eye-Tracking Evidence That AI Disclosure Shapes Face Evaluation**|Teodora Mitrevska et.al.|[2610.10182](http://arxiv.org/abs/2610.10182)|null|
+|**2026-10-07**|**A Scale For Value Alignment In Human-AI Interaction**|Lena Hegemann et.al.|[2610.09911](http://arxiv.org/abs/2610.09911)|null|
 |**2026-10-06**|**reVISit-XR: Bringing Extended Reality into Embeddable, Trackable, and Replayable Visualization Studies**|Shano Liang et.al.|[2610.08700](http://arxiv.org/abs/2610.08700)|null|
 |**2026-10-06**|**Juicy Interactive Visualization: Evaluating How Excessive Feedback Design Shapes Visualization Engagement**|Shano Liang et.al.|[2610.08681](http://arxiv.org/abs/2610.08681)|null|
 |**2026-10-06**|**A Space-Agnostic Visual Game Analytics Tool with Adaptive Spatial Reconstruction for Mixed Reality Game Development**|Nahian Rifaat et.al.|[2610.08619](http://arxiv.org/abs/2610.08619)|null|
@@ -4357,7 +4379,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20261007>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261008>back to top</a>)</p>
 
 Notes: 
 
