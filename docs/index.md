@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.10.08
+### Automatically Updated on 2026.10.09
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-08**|**CSF: Contextual Safety Filtering for Motion Generators**|Lizhi Yang et.al.|[2610.12467](http://arxiv.org/abs/2610.12467)|null|
+|**2026-10-08**|**WorldGuide: Goal-Directed Video World Model for Procedural Task Execution**|Ankan Deria et.al.|[2610.12459](http://arxiv.org/abs/2610.12459)|null|
+|**2026-10-08**|**Generative Neural Retargeting for Human-to-Robot Dexterous Manipulation**|Dechen Gao et.al.|[2610.12440](http://arxiv.org/abs/2610.12440)|null|
+|**2026-10-08**|**MAMHOI: Factorizing Scene-Aware Human-Object Interaction through Affordances**|Mingyuan Lei et.al.|[2610.12416](http://arxiv.org/abs/2610.12416)|null|
+|**2026-10-08**|**A Physics-Informed Collision Learning Framework for Collaborative Robot Motion Generation**|Chen Cai et.al.|[2610.12404](http://arxiv.org/abs/2610.12404)|null|
+|**2026-10-08**|**Controllable Exaggeration for Generative Motion Models via Training-Time Adaptation and Inference-Time Guidance**|Amirhossein Zamani et.al.|[2610.12316](http://arxiv.org/abs/2610.12316)|null|
+|**2026-10-08**|**PLaW-VLA: Predictive Latent World Modeling for Vision-Language-Action Policies**|Yu Liu et.al.|[2610.12285](http://arxiv.org/abs/2610.12285)|null|
+|**2026-10-08**|**Unifying Policy Learning and State Prediction through Spatial Language Modeling**|Minye Wu et.al.|[2610.12172](http://arxiv.org/abs/2610.12172)|null|
+|**2026-10-08**|**Recompose and Refine Latent Reasoning Flows for Vision-Language-Action Models**|Hongyu Shi et.al.|[2610.12090](http://arxiv.org/abs/2610.12090)|null|
+|**2026-10-08**|**Humanoid World Action Model With Joint State--Action Generation**|Yan Yang et.al.|[2610.12026](http://arxiv.org/abs/2610.12026)|null|
 |**2026-10-07**|**RoboPrompt: Intuitive Robot Policy Steering with Sparse Human Input**|Yanwen Zou et.al.|[2610.10534](http://arxiv.org/abs/2610.10534)|null|
 |**2026-10-07**|**HuMBLE: Human Motion-Driven Behavior Learning for Embodied Locomotion**|Mike Zhang et.al.|[2610.10489](http://arxiv.org/abs/2610.10489)|null|
 |**2026-10-07**|**Video Prediction Policy 2: Predict Better, Act Better**|Yanjiang Guo et.al.|[2610.10270](http://arxiv.org/abs/2610.10270)|null|
@@ -2363,6 +2373,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-08**|**MAMHOI: Factorizing Scene-Aware Human-Object Interaction through Affordances**|Mingyuan Lei et.al.|[2610.12416](http://arxiv.org/abs/2610.12416)|null|
 |**2026-10-05**|**Online Neural Space Time Memory for Dynamic Novel View Synthesis**|Baback Elmieh et.al.|[2607.15271](http://arxiv.org/abs/2607.15271)|null|
 |**2026-10-02**|**CrowdOcc: Monocular Semantic Scene Completion for Quadruped Robots in Crowded Indoor Environments**|Feiyang Chen et.al.|[2610.03031](http://arxiv.org/abs/2610.03031)|null|
 |**2026-09-17**|**Learning Scene-Aware Humanoid Locomotion through 3D Clutter from Immersive Human Demonstrations**|Beichen Wang et.al.|[2609.21107](http://arxiv.org/abs/2609.21107)|null|
@@ -2533,6 +2544,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-08**|**MAMHOI: Factorizing Scene-Aware Human-Object Interaction through Affordances**|Mingyuan Lei et.al.|[2610.12416](http://arxiv.org/abs/2610.12416)|null|
+|**2026-10-08**|**From Solo to Ensemble: A Hierarchical Framework for Composable Multi-Agent Human-Object Interaction**|Zekai Deng et.al.|[2610.11722](http://arxiv.org/abs/2610.11722)|null|
 |**2026-10-07**|**ECHO: Embodied Camera Observations of Human Object Carrying**|Xuefei Sun et.al.|[2610.10438](http://arxiv.org/abs/2610.10438)|null|
 |**2026-10-07**|**COOL: Curiosity-Driven Object Ownership Learning for Personalized Robotic Assistance**|Samira Huber et.al.|[2610.09358](http://arxiv.org/abs/2610.09358)|null|
 |**2026-10-06**|**Event-Driven Proactive Robot Assistance through Vision-Language Reasoning**|Fengkai Liu et.al.|[2610.08344](http://arxiv.org/abs/2610.08344)|null|
@@ -2891,6 +2904,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-08**|**Hybrid Cinematography: Previsualizing and Managing Hallucination Risk in Generative Video Reshooting**| Nhan et.al.|[2610.12455](http://arxiv.org/abs/2610.12455)|null|
+|**2026-10-08**|**"Hot-Blooded" vs "Cold-Blooded": Simulating the Behavioral Phenotypes of Childhood Aggression via Generative Agents**|Liping Fu et.al.|[2610.11951](http://arxiv.org/abs/2610.11951)|null|
+|**2026-10-08**|**From Surface to Depth: Towards Cognitive Appraisal Reasoning in Multimodal Emotion Understanding**|Jia Li et.al.|[2610.11918](http://arxiv.org/abs/2610.11918)|null|
+|**2026-10-08**|**STcubeOperator: A Framework for Analyzing Spatiotemporal Event Data**|Julius Rauscher et.al.|[2610.11894](http://arxiv.org/abs/2610.11894)|null|
+|**2026-10-08**|**NeuroDivSim: An Interactive Tool for Model-Based Reflection on Cognitive Diversity in Interface Design**|Eske Beckefeld et.al.|[2610.11590](http://arxiv.org/abs/2610.11590)|null|
+|**2026-10-08**|**Design Creativity Bench: Measuring creativity in LLM-Generated UI**|Aman Rusia et.al.|[2610.11539](http://arxiv.org/abs/2610.11539)|null|
+|**2026-10-08**|**SpheriColor: Colormaps for Spherical Geospatial Input Topographies**|Julius Rauscher et.al.|[2610.11470](http://arxiv.org/abs/2610.11470)|null|
+|**2026-10-08**|**It's Always 10:10: Reference Images Break a Bias That Prompts Only Dent**|Luca Cazzaniga et.al.|[2610.11320](http://arxiv.org/abs/2610.11320)|null|
+|**2026-10-08**|**Magic Pen: Automatic Pen Mode Switching for Document Annotation**|Kevin Desousa et.al.|[2610.11255](http://arxiv.org/abs/2610.11255)|null|
+|**2026-10-08**|**TAP3D: Thermal-Assisted 3D Human Point Clouds**|Xie Zhang et.al.|[2610.11241](http://arxiv.org/abs/2610.11241)|null|
 |**2026-10-07**|**How assigned AI use before class shapes active student engagement in class**|Dan J. Wang et.al.|[2610.10463](http://arxiv.org/abs/2610.10463)|null|
 |**2026-10-07**|**MemoCare: An Interactive Multimodal Mobile System for Automated Cognitive Screening**|Duy-Cat Can et.al.|[2610.10448](http://arxiv.org/abs/2610.10448)|null|
 |**2026-10-07**|**CrossWeave: Bridging Perspectives Across Online Communities with a Dual-Pane Design**|Fei Fang et.al.|[2610.10441](http://arxiv.org/abs/2610.10441)|null|
