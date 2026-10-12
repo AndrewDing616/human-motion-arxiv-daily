@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.10.11
+### Automatically Updated on 2026.10.12
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-09**|**JitterVLA: A Replay Benchmark for Motion Quality in VLA-Driven Human-Robot Manipulation**|Faith Ogunwoye et.al.|[2610.13628](http://arxiv.org/abs/2610.13628)|null|
+|**2026-10-09**|**ELMA: Benchmarking Anaphoric Compositions for Long-Term Text-to-Motion Generation**|Shun Kato et.al.|[2610.13549](http://arxiv.org/abs/2610.13549)|null|
+|**2026-10-09**|**PartiGen: Part-Aware Representations for Language-Conditioned Humanoid Motion Generation**|Chuxuan Huang et.al.|[2610.13373](http://arxiv.org/abs/2610.13373)|null|
+|**2026-10-09**|**Sonic-AMG: Streaming Human Motion Generation from Spatial Audio**|Jingcheng Ni et.al.|[2610.13300](http://arxiv.org/abs/2610.13300)|null|
+|**2026-10-09**|**VICAR: Video Imitation with Contact-Aware Retargeting for Humanoid Interactive Skills**|Dvij Kalaria et.al.|[2610.13079](http://arxiv.org/abs/2610.13079)|null|
+|**2026-10-09**|**Evo-World: A Lightweight Vision-Language-Action Model with Future Motion Prediction via Optical-Flow Supervision**|Zile Zhong et.al.|[2610.12936](http://arxiv.org/abs/2610.12936)|null|
+|**2026-10-08**|**PriMoRetarget: Humanoid Motion Transfer Through Prioritized Motion Retargeting**|Nicholas Ioannidis et.al.|[2610.12642](http://arxiv.org/abs/2610.12642)|null|
 |**2026-10-08**|**CSF: Contextual Safety Filtering for Motion Generators**|Lizhi Yang et.al.|[2610.12467](http://arxiv.org/abs/2610.12467)|null|
 |**2026-10-08**|**WorldGuide: Goal-Directed Video World Model for Procedural Task Execution**|Ankan Deria et.al.|[2610.12459](http://arxiv.org/abs/2610.12459)|null|
 |**2026-10-08**|**Generative Neural Retargeting for Human-to-Robot Dexterous Manipulation**|Dechen Gao et.al.|[2610.12440](http://arxiv.org/abs/2610.12440)|null|
@@ -2904,6 +2911,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-09**|**Nimbus Studio reproduces reference BCI decoding pipelines: a validation study on public benchmarks across protocols and paradigms**|Sergey Musienko et.al.|[2610.13894](http://arxiv.org/abs/2610.13894)|null|
+|**2026-10-09**|**JitterVLA: A Replay Benchmark for Motion Quality in VLA-Driven Human-Robot Manipulation**|Faith Ogunwoye et.al.|[2610.13628](http://arxiv.org/abs/2610.13628)|null|
+|**2026-10-09**|**HoldLight: Making Indoor Climbing More Accessible for Blind and Low-Vision Climbers through Layered Route Preview and Real-Time Next-Hold Guidance**|Chenyu Du et.al.|[2610.13445](http://arxiv.org/abs/2610.13445)|null|
+|**2026-10-09**|**olBlend: Language-Guided Molecular Blend Retrieval with Mixture Odor Prediction**|Dian Jin et.al.|[2610.13188](http://arxiv.org/abs/2610.13188)|null|
+|**2026-10-09**|**From Observation to Intervention: Identifiability of Latent User Bias in Human-AI Interaction**|Lucas Biechy et.al.|[2610.13185](http://arxiv.org/abs/2610.13185)|null|
+|**2026-10-09**|**How Anthropomorphic Attitudes Toward Agents Divide User Behavior, and How Design Should Change**|Tingyu Cao et.al.|[2610.13156](http://arxiv.org/abs/2610.13156)|null|
+|**2026-10-09**|**Work2Skill: Capturing Human GUI Experience for Reusable Agent Skill Induction**|Yuqi Huang et.al.|[2610.12984](http://arxiv.org/abs/2610.12984)|null|
+|**2026-10-09**|**The AI Side of the Human-AI Companion Relationship: Contributions to Users' Mental Models**|Richard A. Fabes et.al.|[2610.12891](http://arxiv.org/abs/2610.12891)|null|
+|**2026-10-09**|**Beyond the Monolithic Interface: A Research Agenda for Plural Conversational AI**|Avijit Ghosh et.al.|[2610.12878](http://arxiv.org/abs/2610.12878)|null|
+|**2026-10-09**|**From Instructional Intent to Classroom-Ready Lessons: Investigating Teacher-AI Collaboration in Lesson Authoring for Secondary Computing Education**|Tahreem Yasir et.al.|[2610.12834](http://arxiv.org/abs/2610.12834)|null|
 |**2026-10-08**|**Hybrid Cinematography: Previsualizing and Managing Hallucination Risk in Generative Video Reshooting**| Nhan et.al.|[2610.12455](http://arxiv.org/abs/2610.12455)|null|
 |**2026-10-08**|**"Hot-Blooded" vs "Cold-Blooded": Simulating the Behavioral Phenotypes of Childhood Aggression via Generative Agents**|Liping Fu et.al.|[2610.11951](http://arxiv.org/abs/2610.11951)|null|
 |**2026-10-08**|**From Surface to Depth: Towards Cognitive Appraisal Reasoning in Multimodal Emotion Understanding**|Jia Li et.al.|[2610.11918](http://arxiv.org/abs/2610.11918)|null|
