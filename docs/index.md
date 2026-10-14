@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.10.13
+### Automatically Updated on 2026.10.14
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-13**|**LoopWAM: Closed-Loop Generalist Policy Improvement from Deployment Rollouts**|Wenxuan Guo et.al.|[2610.18873](http://arxiv.org/abs/2610.18873)|null|
+|**2026-10-13**|**Interaction Latents as Actions for Contact-Rich Manipulation**|Yuhang Zheng et.al.|[2610.18855](http://arxiv.org/abs/2610.18855)|null|
+|**2026-10-13**|**Contact Trajectory Prompting: In-Context Transfer of Contact-Rich Behaviors from a Single Demonstration**|Xian Nie et.al.|[2610.18848](http://arxiv.org/abs/2610.18848)|null|
+|**2026-10-13**|**EqC: Equilibrium Energy Control for Introspective Lifelong Robot Learning**|Haodong Yang et.al.|[2610.18790](http://arxiv.org/abs/2610.18790)|null|
+|**2026-10-13**|**UniW(A)M: A Unified Mixture-of-Experts Framework for World and World-Action Models**|Jingbo Xu et.al.|[2610.18697](http://arxiv.org/abs/2610.18697)|null|
+|**2026-10-13**|**WAVE-0: Bridging VLA Policies and WAMs with Lightweight Latent Future Prediction**|Haomin Wang et.al.|[2610.18568](http://arxiv.org/abs/2610.18568)|null|
+|**2026-10-13**|**Thinker-WM: A Unified World Model with Shared Multimodal Representations for Embodied Intelligence**| Thinker Team et.al.|[2610.18447](http://arxiv.org/abs/2610.18447)|null|
+|**2026-10-13**|**Let the Mind Conceive, Let the Hand Achieve: Following Multimodal Instructions for Long-Horizon Robotic Manipulation**|Youpeng Wen et.al.|[2610.18352](http://arxiv.org/abs/2610.18352)|null|
+|**2026-10-13**|**ForeTac: Predictive Contact Guidance for Generative Robot Policies**|Zhiyuan Chen et.al.|[2610.18118](http://arxiv.org/abs/2610.18118)|null|
+|**2026-10-13**|**Agentic Robot Creation through Generation, Verification, and Revision**|Xuebing Li et.al.|[2610.17881](http://arxiv.org/abs/2610.17881)|null|
 |**2026-10-09**|**JitterVLA: A Replay Benchmark for Motion Quality in VLA-Driven Human-Robot Manipulation**|Faith Ogunwoye et.al.|[2610.13628](http://arxiv.org/abs/2610.13628)|null|
 |**2026-10-09**|**ELMA: Benchmarking Anaphoric Compositions for Long-Term Text-to-Motion Generation**|Shun Kato et.al.|[2610.13549](http://arxiv.org/abs/2610.13549)|null|
 |**2026-10-09**|**PartiGen: Part-Aware Representations for Language-Conditioned Humanoid Motion Generation**|Chuxuan Huang et.al.|[2610.13373](http://arxiv.org/abs/2610.13373)|null|
@@ -2380,6 +2390,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-11**|**Semantic Saliency from Multi-Modal Large Language Model Scene Understanding Maps**|Ziqi Wen et.al.|[2610.15467](http://arxiv.org/abs/2610.15467)|null|
 |**2026-10-08**|**MAMHOI: Factorizing Scene-Aware Human-Object Interaction through Affordances**|Mingyuan Lei et.al.|[2610.12416](http://arxiv.org/abs/2610.12416)|null|
 |**2026-10-05**|**Online Neural Space Time Memory for Dynamic Novel View Synthesis**|Baback Elmieh et.al.|[2607.15271](http://arxiv.org/abs/2607.15271)|null|
 |**2026-10-02**|**CrowdOcc: Monocular Semantic Scene Completion for Quadruped Robots in Crowded Indoor Environments**|Feiyang Chen et.al.|[2610.03031](http://arxiv.org/abs/2610.03031)|null|
@@ -2551,11 +2562,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-13**|**Benchmarking Multimodal Large Language Models for Zero-Shot Human-Object Interaction**|Oriol Rabasseda et.al.|[2610.18161](http://arxiv.org/abs/2610.18161)|null|
+|**2026-10-13**|**DexStitch: Learning and Composing Dexterous Skills from Human Videos via Contact-Aware Robotic Inpainting**|Byeonggyeol Choi et.al.|[2610.17789](http://arxiv.org/abs/2610.17789)|null|
+|**2026-10-13**|**The Human--VLA Communication Gap: What Humans Leave Implicit and What Policies Cannot Recover**|Yiqing Xu et.al.|[2610.17746](http://arxiv.org/abs/2610.17746)|null|
+|**2026-10-12**|**MFlowHOI: Whole-Body Human-Object Interaction Generation via Part-Aware MeanFlow**|Qiang He et.al.|[2610.16252](http://arxiv.org/abs/2610.16252)|null|
+|**2026-10-12**|**Proactive Robot Assistance via Event-Driven Reasoning over State Changes**|Fengkai Liu et.al.|[2610.08344](http://arxiv.org/abs/2610.08344)|null|
+|**2026-10-10**|**Scalable Multi-Human Cooperative Manipulation via Commander-Executor Coordination**|Buzhen Huang et.al.|[2610.14911](http://arxiv.org/abs/2610.14911)|null|
 |**2026-10-08**|**MAMHOI: Factorizing Scene-Aware Human-Object Interaction through Affordances**|Mingyuan Lei et.al.|[2610.12416](http://arxiv.org/abs/2610.12416)|null|
 |**2026-10-08**|**From Solo to Ensemble: A Hierarchical Framework for Composable Multi-Agent Human-Object Interaction**|Zekai Deng et.al.|[2610.11722](http://arxiv.org/abs/2610.11722)|null|
 |**2026-10-07**|**ECHO: Embodied Camera Observations of Human Object Carrying**|Xuefei Sun et.al.|[2610.10438](http://arxiv.org/abs/2610.10438)|null|
 |**2026-10-07**|**COOL: Curiosity-Driven Object Ownership Learning for Personalized Robotic Assistance**|Samira Huber et.al.|[2610.09358](http://arxiv.org/abs/2610.09358)|null|
-|**2026-10-06**|**Event-Driven Proactive Robot Assistance through Vision-Language Reasoning**|Fengkai Liu et.al.|[2610.08344](http://arxiv.org/abs/2610.08344)|null|
 |**2026-10-06**|**RefRoute: Decoupling Conditioning Cost from References via Compact Residual Conditioning and Spatial Routing**|Wanning He et.al.|[2610.07720](http://arxiv.org/abs/2610.07720)|null|
 |**2026-10-05**|**InterMimicGen: Scaling Humanoid Loco-Manipulation through Self-Evolving Motion Imitation**|Yucheng Zhang et.al.|[2610.06850](http://arxiv.org/abs/2610.06850)|null|
 |**2026-10-05**|**Harnessing Multimodal Large Language Models for Training-Free Human-Object Interaction Detection**|Zhaolin Cai et.al.|[2610.06394](http://arxiv.org/abs/2610.06394)|null|
@@ -2911,6 +2927,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-13**|**What Human-AI Interaction Leaves Behind: Residual Human States -- A Trajectory-Based Framework and Multi-Study Analysis**|David Herrera-Poyatos et.al.|[2610.18765](http://arxiv.org/abs/2610.18765)|null|
+|**2026-10-13**|**Bio-Inspired Electrotactile Feedback: A Framework and Impacts of Multimodal Cues**|Melika Emami et.al.|[2610.18746](http://arxiv.org/abs/2610.18746)|null|
+|**2026-10-13**|**AIRRI: Towards a Human-Readable, Machine-Resistant Reading Interface**|Emory Salaun et.al.|[2610.18724](http://arxiv.org/abs/2610.18724)|null|
+|**2026-10-13**|**Knowing the User Is Not Knowing What We Established: Grounding Awareness in Personal Agents**|Jiajun Chen et.al.|[2610.18684](http://arxiv.org/abs/2610.18684)|null|
+|**2026-10-13**|**Communicating Uncertainty in AI-Supported Nurse Scheduling: Expert Co-Design and Evaluation of an Explainable AI Prototype**|Alice Rollwagen et.al.|[2610.18679](http://arxiv.org/abs/2610.18679)|null|
+|**2026-10-13**|**Known-Voice Cloning and the Limits of Personality Transfer for Character Design**|Johanna Magdalena Kuch et.al.|[2610.18669](http://arxiv.org/abs/2610.18669)|null|
+|**2026-10-13**|**From Mind Mapping to Dream Interpretation: Understanding Muslim Users' Engagement with GenAI Tools in Religious Context**|Ishrat Jahan et.al.|[2610.18549](http://arxiv.org/abs/2610.18549)|null|
+|**2026-10-13**|**How Safe Is ChatGPT Health Advice? Evidence from Real User Conversations in Four Global South Countries**|Shreyasi Roy Chowdhury et.al.|[2610.18465](http://arxiv.org/abs/2610.18465)|null|
+|**2026-10-13**|**Understanding the "Why": Investigating the Design of Privacy Support Tools (PSTs) through the Lens of Psychological Needs**|Sara Hahn et.al.|[2610.18366](http://arxiv.org/abs/2610.18366)|null|
+|**2026-10-13**|**Exploring Object Recall in an Object-Rich AR Office Scene**|Sangita Kunapuli et.al.|[2610.18183](http://arxiv.org/abs/2610.18183)|null|
 |**2026-10-09**|**Nimbus Studio reproduces reference BCI decoding pipelines: a validation study on public benchmarks across protocols and paradigms**|Sergey Musienko et.al.|[2610.13894](http://arxiv.org/abs/2610.13894)|null|
 |**2026-10-09**|**JitterVLA: A Replay Benchmark for Motion Quality in VLA-Driven Human-Robot Manipulation**|Faith Ogunwoye et.al.|[2610.13628](http://arxiv.org/abs/2610.13628)|null|
 |**2026-10-09**|**HoldLight: Making Indoor Climbing More Accessible for Blind and Low-Vision Climbers through Layered Route Preview and Real-Time Next-Hold Guidance**|Chenyu Du et.al.|[2610.13445](http://arxiv.org/abs/2610.13445)|null|
