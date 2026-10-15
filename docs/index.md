@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.10.14
+### Automatically Updated on 2026.10.15
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-14**|**SafeDriveVLA: Navigation-Conditioned World Model Dreaming for Conflict-Aware End-to-End Autonomous Driving**|Shaoyuan Xie et.al.|[2610.20609](http://arxiv.org/abs/2610.20609)|null|
+|**2026-10-14**|**CoWear: Towards Collaborative Wearable Inertial Localization with Multiple Smart Devices**|Zhuoyuan She et.al.|[2610.20596](http://arxiv.org/abs/2610.20596)|null|
+|**2026-10-14**|**PingpongDuo: Agile Humanoid Table Tennis Doubles with Safe Team Coordination**|Haoran Jiang et.al.|[2610.20579](http://arxiv.org/abs/2610.20579)|null|
+|**2026-10-14**|**Atomic-WAM: Execution-Grounded Atomic-Motion Reasoning for World Action Models**|Shijun Shi et.al.|[2610.20157](http://arxiv.org/abs/2610.20157)|null|
+|**2026-10-14**|**DreamHMR: From Video Generation to Human Motion Modeling via Structural Focusing**|Zhengjie Xu et.al.|[2610.20124](http://arxiv.org/abs/2610.20124)|null|
+|**2026-10-14**|**Complementary Future Token Pruning for World Action Models**|Baekseung Kim et.al.|[2610.19957](http://arxiv.org/abs/2610.19957)|null|
+|**2026-10-14**|**OmniPoser: Flexible Human Motion Recovery in the Wild with Masked Flow Matching**|Minghao Liu et.al.|[2610.19857](http://arxiv.org/abs/2610.19857)|null|
+|**2026-10-14**|**One-shot Human Video-Guided Adaptation for Vision-Language-Action Models**|Qi Chen et.al.|[2610.19746](http://arxiv.org/abs/2610.19746)|null|
+|**2026-10-14**|**VLRLA: Deployment-Time Adaptation of Vision-Language-Action Models through In-Context Reinforcement Learning**|Diyuan Shi et.al.|[2610.19517](http://arxiv.org/abs/2610.19517)|null|
+|**2026-10-14**|**Spacecraft Pose Tracking via Kinematic Prediction and Selective Event Correction**|Yonglong Zhang et.al.|[2610.19465](http://arxiv.org/abs/2610.19465)|null|
 |**2026-10-13**|**LoopWAM: Closed-Loop Generalist Policy Improvement from Deployment Rollouts**|Wenxuan Guo et.al.|[2610.18873](http://arxiv.org/abs/2610.18873)|null|
 |**2026-10-13**|**Interaction Latents as Actions for Contact-Rich Manipulation**|Yuhang Zheng et.al.|[2610.18855](http://arxiv.org/abs/2610.18855)|null|
 |**2026-10-13**|**Contact Trajectory Prompting: In-Context Transfer of Contact-Rich Behaviors from a Single Demonstration**|Xian Nie et.al.|[2610.18848](http://arxiv.org/abs/2610.18848)|null|
@@ -2927,6 +2937,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-14**|**Player-1: Learning to Play from Synthetic Experience**|Mingyu Ouyang et.al.|[2610.20584](http://arxiv.org/abs/2610.20584)|null|
+|**2026-10-14**|**Speculative Sampling in Interactive Video Generation**|Yubo Huang et.al.|[2610.20556](http://arxiv.org/abs/2610.20556)|null|
+|**2026-10-14**|**From Semantic Editing Intentions to Persistent Parametric Controls for AI-Assisted Image Editing**|Rifat Mehreen Amin et.al.|[2610.20283](http://arxiv.org/abs/2610.20283)|null|
+|**2026-10-14**|**Let Me Clarify: Interactive Modeling of Soft Attributes**|Steffen Holter et.al.|[2610.20227](http://arxiv.org/abs/2610.20227)|null|
+|**2026-10-14**|**What and Where in Identifying and Quantifying Conventions in Humans and AI Agents**|Makoto Fukushima et.al.|[2610.20205](http://arxiv.org/abs/2610.20205)|null|
+|**2026-10-14**|**The Body-Algorithm-Emotion Loop: Making Emotion AI Misrecognition Visible through Artistic Practice**|Chunyi Shen et.al.|[2610.20161](http://arxiv.org/abs/2610.20161)|null|
+|**2026-10-14**|**Task-State Governance: A Virtual Machine for Verifiable and Recoverable GUI Agent Execution**|Wenkui Yang et.al.|[2610.20100](http://arxiv.org/abs/2610.20100)|null|
+|**2026-10-14**|**Scoping the Landscape of Large Language Model-based Affective Personal Informatics: Review, Reflection, Future Direction**|Minjie Liu et.al.|[2610.20084](http://arxiv.org/abs/2610.20084)|null|
+|**2026-10-14**|**ShadAR: Real-time Prompting On-demand Visual Augmentation in Augmented Reality**|Yanni Mei et.al.|[2610.19998](http://arxiv.org/abs/2610.19998)|null|
+|**2026-10-14**|**Think Once, Reflect Twice: How Feedback Shapes Human-AI Collaboration**|Joshua Holstein et.al.|[2610.19991](http://arxiv.org/abs/2610.19991)|null|
 |**2026-10-13**|**What Human-AI Interaction Leaves Behind: Residual Human States -- A Trajectory-Based Framework and Multi-Study Analysis**|David Herrera-Poyatos et.al.|[2610.18765](http://arxiv.org/abs/2610.18765)|null|
 |**2026-10-13**|**Bio-Inspired Electrotactile Feedback: A Framework and Impacts of Multimodal Cues**|Melika Emami et.al.|[2610.18746](http://arxiv.org/abs/2610.18746)|null|
 |**2026-10-13**|**AIRRI: Towards a Human-Readable, Machine-Resistant Reading Interface**|Emory Salaun et.al.|[2610.18724](http://arxiv.org/abs/2610.18724)|null|
