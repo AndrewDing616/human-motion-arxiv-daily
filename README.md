@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.10.18
+### Automatically Updated on 2026.10.19
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-16**|**LAW: Unifying Language, Action, and World Modeling for Agentic Physical Intelligence**|Jiajun Cao et.al.|[2610.23334](http://arxiv.org/abs/2610.23334)|null|
+|**2026-10-16**|**LY-GWM-RoboCasa-Human300: Prediction-Guided Action Selection with a Graph Dynamics Model**|TianLiang Ma et.al.|[2610.23274](http://arxiv.org/abs/2610.23274)|null|
+|**2026-10-16**|**BeJEPA: A Goal-Conditioned Humanoid Behavior World Model via Unsupervised RL**|Liyun Yan et.al.|[2610.23127](http://arxiv.org/abs/2610.23127)|null|
+|**2026-10-16**|**Unifying Embodied Foundation Models via a Model-to-Policy Formulation**|Xinyi Hong et.al.|[2610.23053](http://arxiv.org/abs/2610.23053)|null|
+|**2026-10-16**|**VLA-Fabric: Learning Interaction for Composable Multi-Arm VLA Agents**|Chenglong Zhang et.al.|[2610.23018](http://arxiv.org/abs/2610.23018)|null|
+|**2026-10-16**|**Robotic Spatiotemporal Editing: A Unified Interface for Controllable Action Generation via Masked Action Reconstruction**|Yanbang Li et.al.|[2610.23002](http://arxiv.org/abs/2610.23002)|null|
 |**2026-10-15**|**Dense4D: Pixel-Level 4D Human Correspondence**|Rıza Alp Güler et.al.|[2610.22325](http://arxiv.org/abs/2610.22325)|null|
 |**2026-10-15**|**ARC-SORT: Adaptive, Robust, Compensated Multi-Object Tracking with Interacting Multiple Models**|Girish Kumar Adari et.al.|[2610.22306](http://arxiv.org/abs/2610.22306)|null|
 |**2026-10-15**|**LEASH: Uncertainty-Aware Weak-to-Strong Escalation and Oversight for Computer-Use Agents**|Qingni Wang et.al.|[2610.22280](http://arxiv.org/abs/2610.22280)|null|
@@ -1461,12 +1467,13 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20261018>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-16**|**HAPACT: A Benchmark For Human-Centric Physical Impact Localization in Movies**|Youngrae Kim et.al.|[2610.22895](http://arxiv.org/abs/2610.22895)|null|
 |**2026-10-11**|**Semantic Saliency from Multi-Modal Large Language Model Scene Understanding Maps**|Ziqi Wen et.al.|[2610.15467](http://arxiv.org/abs/2610.15467)|null|
 |**2026-10-08**|**MAMHOI: Factorizing Scene-Aware Human-Object Interaction through Affordances**|Mingyuan Lei et.al.|[2610.12416](http://arxiv.org/abs/2610.12416)|null|
 |**2026-10-05**|**Online Neural Space Time Memory for Dynamic Novel View Synthesis**|Baback Elmieh et.al.|[2607.15271](http://arxiv.org/abs/2607.15271)|null|
@@ -1635,7 +1642,7 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20261018>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
@@ -2002,12 +2009,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20261018>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-16**|**Bad Diagnosis: Analyzing Consent and Data Collection Practices of Mobile Medical Apps**|Ethan Myers et.al.|[2610.23851](http://arxiv.org/abs/2610.23851)|null|
+|**2026-10-16**|**Sensory Comfort Across Multisensory XR Prototypes for Autistic Adults**|Yibo Meng et.al.|[2610.23833](http://arxiv.org/abs/2610.23833)|null|
+|**2026-10-16**|**"To Boldly Go Where No One Has Gone Before" What Has AI Let Developers Unlock?**|Rudrajit Choudhuri et.al.|[2610.23708](http://arxiv.org/abs/2610.23708)|null|
+|**2026-10-16**|**PresenceBench: An Exploratory Evaluation of Large Language Model Adaptation to User State**|Peña Arroyo Gallego et.al.|[2610.23625](http://arxiv.org/abs/2610.23625)|null|
+|**2026-10-16**|**mmPencil: Toward Writing-Style-Independent In-Air Handwriting Recognition via mmWave Radar and Large Vision-Language Model**|Yifan Guo et.al.|[2610.23419](http://arxiv.org/abs/2610.23419)|null|
+|**2026-10-16**|**Wait for It: A Component-Level Analysis of Latency Feedback Mechanisms for LLM Agents in VR**|Pratham Arora et.al.|[2610.23336](http://arxiv.org/abs/2610.23336)|null|
+|**2026-10-16**|**Designing for Imperfect Prompts: A Simulation-Based Evaluation of an LLM-Based Enterprise Data Assistant Using Knowledge Graphs**|Niklas Wagner et.al.|[2610.23304](http://arxiv.org/abs/2610.23304)|null|
+|**2026-10-16**|**Annotrace: A Workbench for Step-Level Annotation of Agent Traces**|Arun Josephraj Arokiaraj et.al.|[2610.23284](http://arxiv.org/abs/2610.23284)|null|
+|**2026-10-16**|**"Can Computing Systems Eventually Disappear?": A Long-Term Tracking Study on the Use of Diabetes Computing Systems by Patients with Diabetes**|Yibo Meng et.al.|[2610.23276](http://arxiv.org/abs/2610.23276)|null|
+|**2026-10-16**|**When Ubiquitous Health Data Stops Helping: Patients' Experience of Breakdowns in the Data-Interpretation-Action Loop at the End of Life**|Yibo Meng et.al.|[2610.23259](http://arxiv.org/abs/2610.23259)|null|
 |**2026-10-15**|**Asking Smarter Questions: Targeted Active Preference Learning for Underspecified Rewards**|Helena Merker et.al.|[2610.22285](http://arxiv.org/abs/2610.22285)|null|
 |**2026-10-15**|**Inflak: A Unified Orchestration Architecture for Human-Agent Interaction**|Lin Gao et.al.|[2610.21972](http://arxiv.org/abs/2610.21972)|null|
 |**2026-10-15**|**Why Users Stop at Good Enough: Applying Bounded Rationality to Self-Service Restaurant Display Interactions**|Muhammad Ismail Khursheed et.al.|[2610.21971](http://arxiv.org/abs/2610.21971)|null|
@@ -4485,7 +4502,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20261018>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
 
 Notes: 
 
