@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.10.19
+### Automatically Updated on 2026.10.20
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-19**|**Physical Words: A Vocabulary for Structuring Latent Reasoning in Robot Manipulation**|Jiaming Liu et.al.|[2610.26854](http://arxiv.org/abs/2610.26854)|null|
+|**2026-10-19**|**Train An Imaginative Agent**|Jiaxin Ge et.al.|[2610.26845](http://arxiv.org/abs/2610.26845)|null|
+|**2026-10-19**|**PICA-WAM: Visual Perturbation Invariance via Cross-Appearance Self-Alignment in World Action Models**|Yude Zou et.al.|[2610.26813](http://arxiv.org/abs/2610.26813)|null|
+|**2026-10-19**|**DexOAK: Object-Aware Kinematic Retargeting**|Federica Spinola et.al.|[2610.26762](http://arxiv.org/abs/2610.26762)|null|
+|**2026-10-19**|**HAF-VLA: Hierarchical Action Flow Framework for Humanoid Vision-Language-Action Control**|Langzhe Gu et.al.|[2610.26584](http://arxiv.org/abs/2610.26584)|null|
+|**2026-10-19**|**RoboMMT: Learning Stable Tracking of Modulated Expressive and Interactive Robot Motion**|Till Hielscher et.al.|[2610.26414](http://arxiv.org/abs/2610.26414)|null|
+|**2026-10-19**|**CoRS: Fast Neural Flexible Job-Shop Scheduling via Composite Interval State Reuse**|Jiang Sutong et.al.|[2610.26239](http://arxiv.org/abs/2610.26239)|null|
+|**2026-10-19**|**ExMR: Extremity Motion Refinement for Monocular Human Motion Capture**|Tom Wehrbein et.al.|[2610.26213](http://arxiv.org/abs/2610.26213)|null|
+|**2026-10-19**|**Data-Efficient Learning from Demonstration for Humanoid Robots via Feature-Level Perception and Prompt-Based Object Detection**|Keyhan Rayati et.al.|[2610.26170](http://arxiv.org/abs/2610.26170)|null|
+|**2026-10-19**|**Compositional Humanoid Manipulation through Isomorphic Teleoperation and Independent Skill Routing**|Yiming Wang et.al.|[2610.26169](http://arxiv.org/abs/2610.26169)|null|
 |**2026-10-16**|**LAW: Unifying Language, Action, and World Modeling for Agentic Physical Intelligence**|Jiajun Cao et.al.|[2610.23334](http://arxiv.org/abs/2610.23334)|null|
 |**2026-10-16**|**LY-GWM-RoboCasa-Human300: Prediction-Guided Action Selection with a Graph Dynamics Model**|TianLiang Ma et.al.|[2610.23274](http://arxiv.org/abs/2610.23274)|null|
 |**2026-10-16**|**BeJEPA: A Goal-Conditioned Humanoid Behavior World Model via Unsupervised RL**|Liyun Yan et.al.|[2610.23127](http://arxiv.org/abs/2610.23127)|null|
@@ -2416,6 +2426,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-19**|**InteractAgent: Agentic Human Motion Interaction with Memory-Augmented Reflection**|Tao Zhang et.al.|[2610.25649](http://arxiv.org/abs/2610.25649)|null|
+|**2026-10-18**|**Generative Embodied Multiple Behavior Control Systems for Human-like Agents**|Chongyu Bao et.al.|[2609.22691](http://arxiv.org/abs/2609.22691)|null|
 |**2026-10-16**|**HAPACT: A Benchmark For Human-Centric Physical Impact Localization in Movies**|Youngrae Kim et.al.|[2610.22895](http://arxiv.org/abs/2610.22895)|null|
 |**2026-10-11**|**Semantic Saliency from Multi-Modal Large Language Model Scene Understanding Maps**|Ziqi Wen et.al.|[2610.15467](http://arxiv.org/abs/2610.15467)|null|
 |**2026-10-08**|**MAMHOI: Factorizing Scene-Aware Human-Object Interaction through Affordances**|Mingyuan Lei et.al.|[2610.12416](http://arxiv.org/abs/2610.12416)|null|
@@ -2589,6 +2601,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-19**|**HORIA: 4D Human and Object Reconstruction from a Monocular Video with Interaction-Aware Re-Rendering**|Hyeongjin Nam et.al.|[2610.25960](http://arxiv.org/abs/2610.25960)|null|
+|**2026-10-19**|**Auditing Semantic and Relational Reliability in Open-Vocabulary Human-Object Interaction Evaluation**|S M Asif Hossain et.al.|[2610.25849](http://arxiv.org/abs/2610.25849)|null|
+|**2026-10-16**|**ULIFLOW: Unified Latent Human-Object Interaction Flow**|Wenqi Cai et.al.|[2610.24286](http://arxiv.org/abs/2610.24286)|null|
+|**2026-10-13**|**SituHOI: Scalable Capture of Scene-Situated Full-Body Human-Object Interaction**|Qifan Wang et.al.|[2610.23980](http://arxiv.org/abs/2610.23980)|null|
 |**2026-10-13**|**Benchmarking Multimodal Large Language Models for Zero-Shot Human-Object Interaction**|Oriol Rabasseda et.al.|[2610.18161](http://arxiv.org/abs/2610.18161)|null|
 |**2026-10-13**|**DexStitch: Learning and Composing Dexterous Skills from Human Videos via Contact-Aware Robotic Inpainting**|Byeonggyeol Choi et.al.|[2610.17789](http://arxiv.org/abs/2610.17789)|null|
 |**2026-10-13**|**The Human--VLA Communication Gap: What Humans Leave Implicit and What Policies Cannot Recover**|Yiqing Xu et.al.|[2610.17746](http://arxiv.org/abs/2610.17746)|null|
@@ -2954,6 +2970,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-19**|**AI Misconception and Adoption Among Indonesian K-12 Teachers**|Alham Fikri Aji et.al.|[2610.26758](http://arxiv.org/abs/2610.26758)|null|
+|**2026-10-19**|**Comparing Computer Use Behavior Across Multiple Levels of Abstraction**|Ananya Gubbi Mohanbabu et.al.|[2610.26703](http://arxiv.org/abs/2610.26703)|null|
+|**2026-10-19**|**TapID: Rapid touch interaction in virtual reality using wearable sensing**|Manuel Meier et.al.|[2610.26598](http://arxiv.org/abs/2610.26598)|null|
+|**2026-10-19**|**Small Average Error, Wide Individual Error: General-Purpose LLMs Estimating Energy Intake from Meal Photos in a Feeding Trial**|Xiaomeng Li et.al.|[2610.26538](http://arxiv.org/abs/2610.26538)|null|
+|**2026-10-19**|**Beyond Behavioral Accuracy: Evaluating Individual-Level Fidelity in LLM Investor Simulation**|Jiajie He et.al.|[2610.26524](http://arxiv.org/abs/2610.26524)|null|
+|**2026-10-19**|**Promptile: Recovering and Reusing Prompting Strategies from LLM Interaction Histories**|Qingyang Wan et.al.|[2610.26485](http://arxiv.org/abs/2610.26485)|null|
+|**2026-10-19**|**Comparing Experiences of Speech-Driven Game Modification in Solo Play, Paired Play, and Paired Watching Using the Fighting Game PATCH FIGHTER**|Maya Grace Torii et.al.|[2610.26447](http://arxiv.org/abs/2610.26447)|null|
+|**2026-10-19**|**Exploring Visual Access and Proactive AI Tutoring for Handwritten Mathematics**|Nachiket Kotalwar et.al.|[2610.26411](http://arxiv.org/abs/2610.26411)|null|
+|**2026-10-19**|**From Tasks to Turns: Measuring Human Labor Contributions in Human-Agent Joint Production**|Likai Wang et.al.|[2610.26365](http://arxiv.org/abs/2610.26365)|null|
+|**2026-10-19**|**Remote Expert Evaluation of Tabletop Avatar Gaze Control in Asymmetric Multi-Scale MR--VR Collaboration**|Carlos Mosquera et.al.|[2610.26360](http://arxiv.org/abs/2610.26360)|null|
 |**2026-10-16**|**Bad Diagnosis: Analyzing Consent and Data Collection Practices of Mobile Medical Apps**|Ethan Myers et.al.|[2610.23851](http://arxiv.org/abs/2610.23851)|null|
 |**2026-10-16**|**Sensory Comfort Across Multisensory XR Prototypes for Autistic Adults**|Yibo Meng et.al.|[2610.23833](http://arxiv.org/abs/2610.23833)|null|
 |**2026-10-16**|**"To Boldly Go Where No One Has Gone Before" What Has AI Let Developers Unlock?**|Rudrajit Choudhuri et.al.|[2610.23708](http://arxiv.org/abs/2610.23708)|null|
