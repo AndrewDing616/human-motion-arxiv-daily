@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.10.20
+### Automatically Updated on 2026.10.21
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-20**|**Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking**|Yuxuan Kuang et.al.|[2610.28628](http://arxiv.org/abs/2610.28628)|null|
+|**2026-10-20**|**VLM-Guided Contact Retargeting and Generative Partner Modeling for Humanoid-Human Interaction**|Yuto Shibata et.al.|[2610.28523](http://arxiv.org/abs/2610.28523)|null|
+|**2026-10-20**|**SuperMimic: Scaling Humanoid Whole-Body Control with One Differentiable World Model**|Qiayuan Liao et.al.|[2610.28480](http://arxiv.org/abs/2610.28480)|null|
+|**2026-10-20**|**Fast Motion Retargeting Pipeline for Scalable Humanoid Robot Learning**|Daniel Marew et.al.|[2610.28470](http://arxiv.org/abs/2610.28470)|null|
+|**2026-10-20**|**Plausible Future, Wrong Choice: Steering World-Action Models toward Intended Future**|Zhuohao Li et.al.|[2610.28431](http://arxiv.org/abs/2610.28431)|null|
+|**2026-10-20**|**Learn to Modify: Self-evolving Multi-agent Refinement Framework for Conversational Text-to-Motion Generation**|Jianan Li et.al.|[2610.28210](http://arxiv.org/abs/2610.28210)|null|
+|**2026-10-20**|**From Predictive Geometry to Action: Learning Complementary Predictive Representations for Embodied Manipulation**|Xiaoxu Xu et.al.|[2610.28164](http://arxiv.org/abs/2610.28164)|null|
+|**2026-10-20**|**Thin-Shell Wormholes in Born--Infeld-Type Magnetic Spacetimes**|Jonathan A. Rebouças et.al.|[2610.28112](http://arxiv.org/abs/2610.28112)|null|
+|**2026-10-20**|**FIT-MAC: A Closed-Loop Multi-Agent Framework for Robust Vision-Language-Action Models**|Jiatong Li et.al.|[2610.28109](http://arxiv.org/abs/2610.28109)|null|
+|**2026-10-20**|**Gaze2HOI: Gaze-Aware Intention Disambiguation for Egocentric Hand-Object Interaction Forecasting**|Chuanyang Ma et.al.|[2610.27877](http://arxiv.org/abs/2610.27877)|null|
 |**2026-10-19**|**Physical Words: A Vocabulary for Structuring Latent Reasoning in Robot Manipulation**|Jiaming Liu et.al.|[2610.26854](http://arxiv.org/abs/2610.26854)|null|
 |**2026-10-19**|**Train An Imaginative Agent**|Jiaxin Ge et.al.|[2610.26845](http://arxiv.org/abs/2610.26845)|null|
 |**2026-10-19**|**PICA-WAM: Visual Perturbation Invariance via Cross-Appearance Self-Alignment in World Action Models**|Yude Zou et.al.|[2610.26813](http://arxiv.org/abs/2610.26813)|null|
@@ -1477,13 +1487,14 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20261020>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261021>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-10-19**|**InteractAgent: Agentic Human Motion Interaction with Memory-Augmented Reflection**|Tao Zhang et.al.|[2610.25649](http://arxiv.org/abs/2610.25649)|null|
+|**2026-10-20**|**World2HOSI: A Multi-Expert Harness for Long-Horizon Human-Object-Scene Interaction Generation**|Jiushu Li et.al.|[2610.27725](http://arxiv.org/abs/2610.27725)|null|
+|**2026-10-20**|**InteractAgent: Agentic Human Motion Interaction with Memory-Augmented Reflection**|Senhe Zhang et.al.|[2610.25649](http://arxiv.org/abs/2610.25649)|null|
 |**2026-10-18**|**Generative Embodied Multiple Behavior Control Systems for Human-like Agents**|Chongyu Bao et.al.|[2609.22691](http://arxiv.org/abs/2609.22691)|null|
 |**2026-10-16**|**HAPACT: A Benchmark For Human-Centric Physical Impact Localization in Movies**|Youngrae Kim et.al.|[2610.22895](http://arxiv.org/abs/2610.22895)|null|
 |**2026-10-11**|**Semantic Saliency from Multi-Modal Large Language Model Scene Understanding Maps**|Ziqi Wen et.al.|[2610.15467](http://arxiv.org/abs/2610.15467)|null|
@@ -1654,12 +1665,14 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20261020>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261021>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-20**|**World2HOSI: A Multi-Expert Harness for Long-Horizon Human-Object-Scene Interaction Generation**|Jiushu Li et.al.|[2610.27725](http://arxiv.org/abs/2610.27725)|null|
+|**2026-10-19**|**BUMP: Body-driven Unified Multi-object Physics for HOI Synthesis**|Wonjung Woo et.al.|[2610.27066](http://arxiv.org/abs/2610.27066)|null|
 |**2026-10-19**|**HORIA: 4D Human and Object Reconstruction from a Monocular Video with Interaction-Aware Re-Rendering**|Hyeongjin Nam et.al.|[2610.25960](http://arxiv.org/abs/2610.25960)|null|
 |**2026-10-19**|**Auditing Semantic and Relational Reliability in Open-Vocabulary Human-Object Interaction Evaluation**|S M Asif Hossain et.al.|[2610.25849](http://arxiv.org/abs/2610.25849)|null|
 |**2026-10-16**|**ULIFLOW: Unified Latent Human-Object Interaction Flow**|Wenqi Cai et.al.|[2610.24286](http://arxiv.org/abs/2610.24286)|null|
@@ -2025,12 +2038,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20261020>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261021>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-20**|**TracePrism: Extending Semantic Trace Topics to Iterative, Encoding-Aware Trace Partitioning**|Gennady Andrienko et.al.|[2610.28532](http://arxiv.org/abs/2610.28532)|null|
+|**2026-10-20**|**VLM-Guided Contact Retargeting and Generative Partner Modeling for Humanoid-Human Interaction**|Yuto Shibata et.al.|[2610.28523](http://arxiv.org/abs/2610.28523)|null|
+|**2026-10-20**|**Claims of emergence in AI should be grounded in information decomposition**|Christoph Riedl et.al.|[2610.28479](http://arxiv.org/abs/2610.28479)|null|
+|**2026-10-20**|**The Labor of Storytelling: How People with Chronic Illnesses Leverage AI and Communities for Narrative Translation**|Drishti Goel et.al.|[2610.28438](http://arxiv.org/abs/2610.28438)|null|
+|**2026-10-20**|**The GenAI Who Knew Too Little: Revisiting Transactive Memory Systems in Human GenAI Collaboration**|Christian Meske et.al.|[2610.28343](http://arxiv.org/abs/2610.28343)|null|
+|**2026-10-20**|**Digital Nudge Effects in Optimal Stopping Games: Antagonistic Interactions in Layered Choice Architectures**|Batisse Manhardt et.al.|[2610.28154](http://arxiv.org/abs/2610.28154)|null|
+|**2026-10-20**|**What Novice Operators See Changes What the Policy Learns: A User Study of Keypoint Hand Visual Representation for Teleoperated Demonstration**|Amane Yamaguchi et.al.|[2610.27907](http://arxiv.org/abs/2610.27907)|null|
+|**2026-10-20**|**VISH-ASR: Viterbi-Guided Selection of Hotwords for Speech-LLM Contextual ASR**|Xiaoyu Gu et.al.|[2610.27867](http://arxiv.org/abs/2610.27867)|null|
+|**2026-10-20**|**Looks Fine to Me: Understanding Oversight in Agentic Interactions**|Dinithi Dissanayake et.al.|[2610.27801](http://arxiv.org/abs/2610.27801)|null|
+|**2026-10-20**|**PhonoBridge: Error-Aware Phoneme-Mediated EMG-to-Text Reconstruction**|Wen Qiu et.al.|[2610.27678](http://arxiv.org/abs/2610.27678)|null|
 |**2026-10-19**|**AI Misconception and Adoption Among Indonesian K-12 Teachers**|Alham Fikri Aji et.al.|[2610.26758](http://arxiv.org/abs/2610.26758)|null|
 |**2026-10-19**|**Comparing Computer Use Behavior Across Multiple Levels of Abstraction**|Ananya Gubbi Mohanbabu et.al.|[2610.26703](http://arxiv.org/abs/2610.26703)|null|
 |**2026-10-19**|**TapID: Rapid touch interaction in virtual reality using wearable sensing**|Manuel Meier et.al.|[2610.26598](http://arxiv.org/abs/2610.26598)|null|
@@ -4528,7 +4551,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20261020>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261021>back to top</a>)</p>
 
 Notes: 
 
