@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.10.21
+### Automatically Updated on 2026.10.22
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-21**|**SP-HLM: Sparse-Pose-Driven Motion Generation and Whole-Body Control for Humanoid Loco-Manipulation**|Zhaohui Yang et.al.|[2610.30044](http://arxiv.org/abs/2610.30044)|null|
+|**2026-10-21**|**DONIC: Generalist Dexterous Bimanual Tracking Control from Human Demonstrations**|Mingze Sun et.al.|[2610.29997](http://arxiv.org/abs/2610.29997)|null|
+|**2026-10-21**|**DewHand: Direct Metric World-Space Hand Motion Reconstruction from Egocentric Videos**|Naru Suzuki et.al.|[2610.29936](http://arxiv.org/abs/2610.29936)|null|
+|**2026-10-21**|**GeoMem-VLA: Internalizing 3D Scene Understanding into Temporal Memory for Vision-Language-Action Models**|Qinfan Zhang et.al.|[2610.29866](http://arxiv.org/abs/2610.29866)|null|
+|**2026-10-21**|**From VLM Planners to Robotic Agents: Self-Evolving Harnesses for History-Dependent Manipulation**|Tingwen Du et.al.|[2610.29560](http://arxiv.org/abs/2610.29560)|null|
+|**2026-10-21**|**SMR: Learning streaming motion retargeting for humanoids from human semantic**|Chun Gu et.al.|[2610.29169](http://arxiv.org/abs/2610.29169)|null|
+|**2026-10-21**|**How Representational Priors Shape Generalization in World Action Models**|Junha Chun et.al.|[2610.29168](http://arxiv.org/abs/2610.29168)|null|
+|**2026-10-21**|**Steering Black-Box Large Language Model Agents with Pitfall Anticipation World Model**|Jiongxiao Wang et.al.|[2610.29139](http://arxiv.org/abs/2610.29139)|null|
+|**2026-10-20**|**T-WLA: Bridging Slow Vision and Fast Touch**|Kaichen Zhou et.al.|[2610.28814](http://arxiv.org/abs/2610.28814)|null|
 |**2026-10-20**|**Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking**|Yuxuan Kuang et.al.|[2610.28628](http://arxiv.org/abs/2610.28628)|null|
 |**2026-10-20**|**VLM-Guided Contact Retargeting and Generative Partner Modeling for Humanoid-Human Interaction**|Yuto Shibata et.al.|[2610.28523](http://arxiv.org/abs/2610.28523)|null|
 |**2026-10-20**|**SuperMimic: Scaling Humanoid Whole-Body Control with One Differentiable World Model**|Qiayuan Liao et.al.|[2610.28480](http://arxiv.org/abs/2610.28480)|null|
@@ -1487,7 +1496,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20261021>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261022>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -1665,15 +1674,15 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20261021>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261022>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-21**|**HORIA: 4D Human and Object Reconstruction from a Monocular Video with Interaction-Aware Re-Rendering**|Hyeongjin Nam et.al.|[2610.25960](http://arxiv.org/abs/2610.25960)|null|
 |**2026-10-20**|**World2HOSI: A Multi-Expert Harness for Long-Horizon Human-Object-Scene Interaction Generation**|Jiushu Li et.al.|[2610.27725](http://arxiv.org/abs/2610.27725)|null|
 |**2026-10-19**|**BUMP: Body-driven Unified Multi-object Physics for HOI Synthesis**|Wonjung Woo et.al.|[2610.27066](http://arxiv.org/abs/2610.27066)|null|
-|**2026-10-19**|**HORIA: 4D Human and Object Reconstruction from a Monocular Video with Interaction-Aware Re-Rendering**|Hyeongjin Nam et.al.|[2610.25960](http://arxiv.org/abs/2610.25960)|null|
 |**2026-10-19**|**Auditing Semantic and Relational Reliability in Open-Vocabulary Human-Object Interaction Evaluation**|S M Asif Hossain et.al.|[2610.25849](http://arxiv.org/abs/2610.25849)|null|
 |**2026-10-16**|**ULIFLOW: Unified Latent Human-Object Interaction Flow**|Wenqi Cai et.al.|[2610.24286](http://arxiv.org/abs/2610.24286)|null|
 |**2026-10-13**|**SituHOI: Scalable Capture of Scene-Situated Full-Body Human-Object Interaction**|Qifan Wang et.al.|[2610.23980](http://arxiv.org/abs/2610.23980)|null|
@@ -2038,12 +2047,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20261021>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261022>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-21**|**Measurement-Guided Conversion of Laboratory Eye-Tracking Data for VR Authentication**|Md Arif Shahriar et.al.|[2610.30032](http://arxiv.org/abs/2610.30032)|null|
+|**2026-10-21**|**Privacy Preference Controls for Agentic Systems**|Shreya Kochar et.al.|[2610.29929](http://arxiv.org/abs/2610.29929)|null|
+|**2026-10-21**|**The Privacy Paradox Is a Misnomer: Data Under Structural Uncertainty**|Ignacio Cofone et.al.|[2610.29756](http://arxiv.org/abs/2610.29756)|null|
+|**2026-10-21**|**From Acceptance and Avoidance to Affective Viscosity: Designing Social Agents Intermediating in Human Relationships**|Tomoko Yonezawa et.al.|[2610.29674](http://arxiv.org/abs/2610.29674)|null|
+|**2026-10-21**|**The Serendiptionnaire: a Questionnaire for Measuring Experienced Serendipity**|Brett Binst et.al.|[2610.29487](http://arxiv.org/abs/2610.29487)|null|
+|**2026-10-21**|**VIRA-Bench: Diagnosing Pedagogical Contingency Understanding in Online Tutoring Videos**|Weihang Wang et.al.|[2610.29428](http://arxiv.org/abs/2610.29428)|null|
+|**2026-10-21**|**Beyond Small Talk: Modeling Disclosure Trajectories in Human-AI Conversation**|Keith Kwok et.al.|[2610.29413](http://arxiv.org/abs/2610.29413)|null|
+|**2026-10-21**|**A Stratified Multi-Rater Evaluation of LLM-Based Virtual Standardized Patients with a Deployed Data-Generation Platform**|Yongjin Yi et.al.|[2610.29312](http://arxiv.org/abs/2610.29312)|null|
+|**2026-10-21**|**Preference Is Not Permission: Personalizing the Auto-Purchase Line in Agentic Commerce**|Ryotaro Shimizu et.al.|[2610.29216](http://arxiv.org/abs/2610.29216)|null|
+|**2026-10-21**|**Motivation and Contribution in Open Source Software: A Meta-Analytic Investigation**|Parisa Omidmand et.al.|[2610.29199](http://arxiv.org/abs/2610.29199)|null|
 |**2026-10-20**|**TracePrism: Extending Semantic Trace Topics to Iterative, Encoding-Aware Trace Partitioning**|Gennady Andrienko et.al.|[2610.28532](http://arxiv.org/abs/2610.28532)|null|
 |**2026-10-20**|**VLM-Guided Contact Retargeting and Generative Partner Modeling for Humanoid-Human Interaction**|Yuto Shibata et.al.|[2610.28523](http://arxiv.org/abs/2610.28523)|null|
 |**2026-10-20**|**Claims of emergence in AI should be grounded in information decomposition**|Christoph Riedl et.al.|[2610.28479](http://arxiv.org/abs/2610.28479)|null|
@@ -4551,7 +4570,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20261021>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261022>back to top</a>)</p>
 
 Notes: 
 
