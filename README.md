@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.10.22
+### Automatically Updated on 2026.10.23
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-22**|**Echo: Coupled Action and Task Status Signal Denoising for Vision Language Action Models**|Yufeng Liu et.al.|[2610.31569](http://arxiv.org/abs/2610.31569)|null|
+|**2026-10-22**|**PhysTrace: Interpretable Temporal Evaluation of Physical Consistency in Video Generative Models**|Taekoan Yoo et.al.|[2610.31429](http://arxiv.org/abs/2610.31429)|null|
+|**2026-10-22**|**FocusVLA: Future-Intent Guided Dynamic View Routing for Vision-Language-Action Models**|Huixin Xu et.al.|[2610.31423](http://arxiv.org/abs/2610.31423)|null|
+|**2026-10-22**|**Whole-Body Motion Guided Reference Generation for Uncertainty-Aware Compliant Assistance**|Muyuan Ma et.al.|[2610.31302](http://arxiv.org/abs/2610.31302)|null|
+|**2026-10-22**|**PiHand: Latent Hand-Object Interaction Priors for Physics-Based Policy Learning**|Niklas Berndt et.al.|[2610.31299](http://arxiv.org/abs/2610.31299)|null|
+|**2026-10-22**|**Calibration-free IMU-based Relative Orientation Estimation under Dynamic Human Motion**|Ruiyuan Li et.al.|[2610.31156](http://arxiv.org/abs/2610.31156)|null|
+|**2026-10-22**|**In-Context Learning World Models for Robot Dual-Arm Manipulation of Soft Garment with Partial Observations**|Hengyi Sim et.al.|[2610.30988](http://arxiv.org/abs/2610.30988)|null|
+|**2026-10-22**|**LocoManiLab: A Unified Testbed for Data, Policies, Controllers, and Deployment in Humanoid Loco-Manipulation**|Dewei Wang et.al.|[2610.30876](http://arxiv.org/abs/2610.30876)|null|
+|**2026-10-22**|**Robot Motion Transition with Human Motion Prior**|Taehyun Byun et.al.|[2610.30817](http://arxiv.org/abs/2610.30817)|null|
+|**2026-10-22**|**When One Step Is Enough: An Empirical Study of Euler Integration in Flow-Matching Policies**|Shivakanth Sujit et.al.|[2610.30735](http://arxiv.org/abs/2610.30735)|null|
 |**2026-10-21**|**SP-HLM: Sparse-Pose-Driven Motion Generation and Whole-Body Control for Humanoid Loco-Manipulation**|Zhaohui Yang et.al.|[2610.30044](http://arxiv.org/abs/2610.30044)|null|
 |**2026-10-21**|**DONIC: Generalist Dexterous Bimanual Tracking Control from Human Demonstrations**|Mingze Sun et.al.|[2610.29997](http://arxiv.org/abs/2610.29997)|null|
 |**2026-10-21**|**DewHand: Direct Metric World-Space Hand Motion Reconstruction from Egocentric Videos**|Naru Suzuki et.al.|[2610.29936](http://arxiv.org/abs/2610.29936)|null|
@@ -1496,7 +1506,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20261022>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261023>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -1674,7 +1684,7 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20261022>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261023>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
@@ -2047,12 +2057,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20261022>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261023>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-22**|**Who Is Sycophantic to Whom? Confident LLMs, Human Deference, and the Collapse of Trust Calibration**|Deepthika S et.al.|[2610.31579](http://arxiv.org/abs/2610.31579)|null|
+|**2026-10-22**|**Contestable Agents for Data Governance: Recording Human Stewardship of AI-Generated Metadata Across Structured and Unstructured Systems**|Humza Akhtar et.al.|[2610.31553](http://arxiv.org/abs/2610.31553)|null|
+|**2026-10-22**|**Supporting or Replacing Students' Reasoning? Cognitive Offloading in AI-Assisted Proof Learning**|Eason Chen et.al.|[2610.31481](http://arxiv.org/abs/2610.31481)|null|
+|**2026-10-22**|**How Different, or Different How? Stance Granularity in Viewpoint Selection for Dialog Systems that Engage Users with Alternative Views**|Morita Tarvirdians et.al.|[2610.31459](http://arxiv.org/abs/2610.31459)|null|
+|**2026-10-22**|**In-Browser Human-AI Co-Writing for Counterspeech: An Exploratory User Study of Agency, Perceived Response Quality, and Time**|Tammy Schmidt et.al.|[2610.31357](http://arxiv.org/abs/2610.31357)|null|
+|**2026-10-22**|**Making Generative AI Workable at Work: Accountability, Localization, and Representation in Kenyan and Nigerian Small Businesses**|Najeeb Gambo Abdulhamid et.al.|[2610.31344](http://arxiv.org/abs/2610.31344)|null|
+|**2026-10-22**|**CoWriter: Guiding Methodological and Synergetic Human-LLM Co-Authoring**|Shmuel Amar et.al.|[2610.31277](http://arxiv.org/abs/2610.31277)|null|
+|**2026-10-22**|**PointerBench: A Diagnostic Benchmark for Fine-Grained GUI Grounding**|Valentino Sacco et.al.|[2610.31274](http://arxiv.org/abs/2610.31274)|null|
+|**2026-10-22**|**Navigating human-robot interaction challenges in private and residential aged care homes**|David Ahmedt-Aristizabal et.al.|[2610.31149](http://arxiv.org/abs/2610.31149)|null|
+|**2026-10-22**|**Adaptive Uncertainty Visualization With jk-Plots**|Nikolaus Piccolotto et.al.|[2610.31050](http://arxiv.org/abs/2610.31050)|null|
 |**2026-10-21**|**Measurement-Guided Conversion of Laboratory Eye-Tracking Data for VR Authentication**|Md Arif Shahriar et.al.|[2610.30032](http://arxiv.org/abs/2610.30032)|null|
 |**2026-10-21**|**Privacy Preference Controls for Agentic Systems**|Shreya Kochar et.al.|[2610.29929](http://arxiv.org/abs/2610.29929)|null|
 |**2026-10-21**|**The Privacy Paradox Is a Misnomer: Data Under Structural Uncertainty**|Ignacio Cofone et.al.|[2610.29756](http://arxiv.org/abs/2610.29756)|null|
@@ -4570,7 +4590,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20261022>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261023>back to top</a>)</p>
 
 Notes: 
 
