@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.10.25
+### Automatically Updated on 2026.10.26
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-23**|**ViT-H: Generative Video-To-Humanoid Control with Motion Tracking Feedback**|Zimo He et.al.|[2610.32966](http://arxiv.org/abs/2610.32966)|null|
+|**2026-10-23**|**If at First You Don't Succeed, Backtrack: Lightweight Recovery for Frozen VLAs**|Thomas Landeg et.al.|[2610.32941](http://arxiv.org/abs/2610.32941)|null|
+|**2026-10-23**|**DT-JEPA: Learning to Predict Future Representations for Decision-Making**|Changxu Ni et.al.|[2610.32657](http://arxiv.org/abs/2610.32657)|null|
+|**2026-10-23**|**CoCarry: Contact-Support-Structured Retargeting for Dual-Humanoid Cooperative Carrying**|Ziyu Lin et.al.|[2610.32460](http://arxiv.org/abs/2610.32460)|null|
+|**2026-10-23**|**Past as State, Present as Attention: Persistent-State Blockwise Flow Matching for Long-Horizon Co-Speech Motion Generation**|Yi Liu et.al.|[2610.32373](http://arxiv.org/abs/2610.32373)|null|
+|**2026-10-23**|**ChoreoStudio: Planning What, When, and Who in Music-Driven Group Choreography**|Jing Xu et.al.|[2610.32325](http://arxiv.org/abs/2610.32325)|null|
+|**2026-10-23**|**TTT in VLA Models: Exploring Training with Human Demonstrations**|Qiangong Zhou et.al.|[2610.32094](http://arxiv.org/abs/2610.32094)|null|
+|**2026-10-22**|**EgoForesight: Effectively Scaling Policy Learning with Noisy Egocentric Actions**|Chubin Zhang et.al.|[2610.31845](http://arxiv.org/abs/2610.31845)|null|
+|**2026-10-22**|**KiRoSe: Using Kinematic Data for Efficient Segmentation of Robot Demonstrations**|Shuangyu Xie et.al.|[2610.31801](http://arxiv.org/abs/2610.31801)|null|
 |**2026-10-22**|**Echo: Coupled Action and Task Status Signal Denoising for Vision Language Action Models**|Yufeng Liu et.al.|[2610.31569](http://arxiv.org/abs/2610.31569)|null|
 |**2026-10-22**|**PhysTrace: Interpretable Temporal Evaluation of Physical Consistency in Video Generative Models**|Taekoan Yoo et.al.|[2610.31429](http://arxiv.org/abs/2610.31429)|null|
 |**2026-10-22**|**FocusVLA: Future-Intent Guided Dynamic View Routing for Vision-Language-Action Models**|Huixin Xu et.al.|[2610.31423](http://arxiv.org/abs/2610.31423)|null|
@@ -3002,6 +3011,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-23**|**Measure Before You Train: Typed Decision Models vs. a Classical Baseline vs. a Generative LLM for Routing a Personal Multilingual Inbox**|Federico Lucca et.al.|[2610.32955](http://arxiv.org/abs/2610.32955)|null|
+|**2026-10-23**|**Runtime BiDi Structural Verification Catches Right-to-Left Layout Defects that Accessibility, Actionability, and Logical-Property Linting Miss**|Karan Yadav et.al.|[2610.32934](http://arxiv.org/abs/2610.32934)|null|
+|**2026-10-23**|**STROKE: Simple Sparse Structural Occlusions for Black-Box Adversarial Attacks**|Ankit Gupta et.al.|[2610.32932](http://arxiv.org/abs/2610.32932)|null|
+|**2026-10-23**|**What Mean Error Misses: Device-Clock Diagnostics for Evaluating Eye Tracking across Three Virtual Reality Headsets**|Aleksandr Chernysh et.al.|[2610.32915](http://arxiv.org/abs/2610.32915)|null|
+|**2026-10-23**|**When Should I Trust This? Designing and Evaluating Factuality Indicators for LLM-based Chatbots**|Greta Warren et.al.|[2610.32883](http://arxiv.org/abs/2610.32883)|null|
+|**2026-10-23**|**Beyond pass or fail: an information-processing account of the Turing Test**|Qiwei Zhao et.al.|[2610.32868](http://arxiv.org/abs/2610.32868)|null|
+|**2026-10-23**|**SPOOK: Sparse Pixel Optimization for Off-Manifold Knowledge in Vision Encoders**|Ankit Gupta et.al.|[2610.32835](http://arxiv.org/abs/2610.32835)|null|
+|**2026-10-23**|**EMG Tokenization Preserves Movement Information at a Fraction of the Bitrate**|Raul C. Sîmpetru et.al.|[2610.32674](http://arxiv.org/abs/2610.32674)|null|
+|**2026-10-23**|**Political sense-making in "individual" human-technology-world relations: the case of LLM-generated autobiographies**|Anthony Longo et.al.|[2610.32594](http://arxiv.org/abs/2610.32594)|null|
+|**2026-10-23**|**From Regulation to Engineering: Organizational Privacy Climate as Mediator**|Oshrat Ayalon et.al.|[2610.32576](http://arxiv.org/abs/2610.32576)|null|
 |**2026-10-22**|**Who Is Sycophantic to Whom? Confident LLMs, Human Deference, and the Collapse of Trust Calibration**|Deepthika S et.al.|[2610.31579](http://arxiv.org/abs/2610.31579)|null|
 |**2026-10-22**|**Contestable Agents for Data Governance: Recording Human Stewardship of AI-Generated Metadata Across Structured and Unstructured Systems**|Humza Akhtar et.al.|[2610.31553](http://arxiv.org/abs/2610.31553)|null|
 |**2026-10-22**|**Supporting or Replacing Students' Reasoning? Cognitive Offloading in AI-Assisted Proof Learning**|Eason Chen et.al.|[2610.31481](http://arxiv.org/abs/2610.31481)|null|
