@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.10.26
+### Automatically Updated on 2026.10.27
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-26**|**OSWAM: An Effective World Action Model with One-Step Action Generation**|Guowen Zhang et.al.|[2610.35850](http://arxiv.org/abs/2610.35850)|null|
+|**2026-10-26**|**VLA-HWBench: Where the Time Goes When VLA Models Run on Edge Hardware**|Borui Xu et.al.|[2610.34717](http://arxiv.org/abs/2610.34717)|null|
+|**2026-10-25**|**Scaling Dexterous Manipulation via Action Representation Pretraining**|Yanjinghao Xu et.al.|[2610.34453](http://arxiv.org/abs/2610.34453)|null|
+|**2026-10-25**|**ThinkLocoManip: A Whole-Body Control Agentic Harness for Legged Loco-Manipulation**|Nuo Chen et.al.|[2610.34370](http://arxiv.org/abs/2610.34370)|null|
+|**2026-10-25**|**Variational Cognitive Memory Abstraction for Long-Horizon Vision-Language-Action Models**|Xinyu Liu et.al.|[2610.34251](http://arxiv.org/abs/2610.34251)|null|
+|**2026-10-25**|**CORMA: Constraint-Routed Decision Mamba for Generalizable Multi-Constraint Offline Safe Reinforcement Learning**|Changxu Ni et.al.|[2610.34208](http://arxiv.org/abs/2610.34208)|null|
+|**2026-10-25**|**PS-DLO: Property- and Spatially Aware Deformable Linear Object Manipulation Policy**|Mengdi Li et.al.|[2610.34147](http://arxiv.org/abs/2610.34147)|null|
+|**2026-10-25**|**AGENS: Agentic Link Construction for Environment and Intent Aware 6G Communication**|Zhaoyang Li et.al.|[2610.34131](http://arxiv.org/abs/2610.34131)|null|
+|**2026-10-25**|**Learning Interaction-Aware Path Corrections from Unlabeled Trajectories: A LiDAR-Based Sim-to-Real GNN Framework for Construction Robots**|Yilong Chen et.al.|[2610.34060](http://arxiv.org/abs/2610.34060)|null|
+|**2026-10-24**|**MimicAll: Structured Embodiment Conditioning for Cross-Humanoid Whole-Body Motion Tracking**|Jia Li et.al.|[2610.33508](http://arxiv.org/abs/2610.33508)|null|
 |**2026-10-23**|**ViT-H: Generative Video-To-Humanoid Control with Motion Tracking Feedback**|Zimo He et.al.|[2610.32966](http://arxiv.org/abs/2610.32966)|null|
 |**2026-10-23**|**If at First You Don't Succeed, Backtrack: Lightweight Recovery for Frozen VLAs**|Thomas Landeg et.al.|[2610.32941](http://arxiv.org/abs/2610.32941)|null|
 |**2026-10-23**|**DT-JEPA: Learning to Predict Future Representations for Decision-Making**|Changxu Ni et.al.|[2610.32657](http://arxiv.org/abs/2610.32657)|null|
@@ -2640,6 +2650,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-26**|**Dream to Assist: Intent-Conditioned World Models for Shared Vehicle Control**|Jonathan DeCastro et.al.|[2610.34650](http://arxiv.org/abs/2610.34650)|null|
 |**2026-10-21**|**HORIA: 4D Human and Object Reconstruction from a Monocular Video with Interaction-Aware Re-Rendering**|Hyeongjin Nam et.al.|[2610.25960](http://arxiv.org/abs/2610.25960)|null|
 |**2026-10-20**|**World2HOSI: A Multi-Expert Harness for Long-Horizon Human-Object-Scene Interaction Generation**|Jiushu Li et.al.|[2610.27725](http://arxiv.org/abs/2610.27725)|null|
 |**2026-10-19**|**BUMP: Body-driven Unified Multi-object Physics for HOI Synthesis**|Wonjung Woo et.al.|[2610.27066](http://arxiv.org/abs/2610.27066)|null|
@@ -3011,6 +3022,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-26**|**The Evolution and 'Chineseness' of Urban Screens in China: From Propaganda Posters to Smart City Interfaces**|Wuwu Ran et.al.|[2610.35762](http://arxiv.org/abs/2610.35762)|null|
+|**2026-10-26**|**EEGaze: Multimodal Attention Prediction in Visual Search via EEG-Based Saliency Refinement**|Mansi Sharma et.al.|[2610.35757](http://arxiv.org/abs/2610.35757)|null|
+|**2026-10-26**|**The Watchtower Imperative: Lifespan-Calibrated Evaluation for Frontier AI**|Casey M. Williams et.al.|[2610.35725](http://arxiv.org/abs/2610.35725)|null|
+|**2026-10-26**|**Reflective Computing**|Md Haseen Akhtar et.al.|[2610.35696](http://arxiv.org/abs/2610.35696)|null|
+|**2026-10-26**|**GNN-VIEW: Visual Inspection and Explanation of Graph-based Earth-System Models**|Alessandro Lucatelli et.al.|[2610.35693](http://arxiv.org/abs/2610.35693)|null|
+|**2026-10-26**|**Offline Language-Based Support System for Tactical Decision-Making in Air Combat Operations**|Joao P. A. Dantas et.al.|[2610.35635](http://arxiv.org/abs/2610.35635)|null|
+|**2026-10-26**|**Revisiting Direct Control: A Field Evaluation of Sensor Fusion Efficacy in Teleoperating Full-Scale Autonomous Vehicles via Bird's Eye View**|Stanisław Kuczma et.al.|[2610.35630](http://arxiv.org/abs/2610.35630)|null|
+|**2026-10-26**|**From Language to Drives: A Multimodal Framework for Aligning Autonomous Robots with Human Purposes**|Diana Cerdas-Vargas et.al.|[2610.35629](http://arxiv.org/abs/2610.35629)|null|
+|**2026-10-26**|**High-resolution tactile observation makes hidden racket-control mechanisms learnable**|Haoyang Tian et.al.|[2610.35563](http://arxiv.org/abs/2610.35563)|null|
+|**2026-10-26**|**Beyond Being Accurate: Implications for Using Natural Language Descriptions for Accessible 3D Modeling with~Blind and Low Vision Makers**|Gene S-H Kim et.al.|[2610.35562](http://arxiv.org/abs/2610.35562)|null|
 |**2026-10-23**|**Measure Before You Train: Typed Decision Models vs. a Classical Baseline vs. a Generative LLM for Routing a Personal Multilingual Inbox**|Federico Lucca et.al.|[2610.32955](http://arxiv.org/abs/2610.32955)|null|
 |**2026-10-23**|**Runtime BiDi Structural Verification Catches Right-to-Left Layout Defects that Accessibility, Actionability, and Logical-Property Linting Miss**|Karan Yadav et.al.|[2610.32934](http://arxiv.org/abs/2610.32934)|null|
 |**2026-10-23**|**STROKE: Simple Sparse Structural Occlusions for Black-Box Adversarial Attacks**|Ankit Gupta et.al.|[2610.32932](http://arxiv.org/abs/2610.32932)|null|
