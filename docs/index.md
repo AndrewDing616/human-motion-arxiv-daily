@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.10.27
+### Automatically Updated on 2026.10.28
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-27**|**PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations**|Hanqing Wang et.al.|[2610.37381](http://arxiv.org/abs/2610.37381)|null|
+|**2026-10-27**|**Tokens of Motion: Primitive Motion Learning for Human-Humanoid Skill Transfer**|Hanwen Ren et.al.|[2610.37330](http://arxiv.org/abs/2610.37330)|null|
+|**2026-10-27**|**Transport statistics in asymmetric coupled chaotic dots in series: Brownian motion model**|Ashutosh Dheer et.al.|[2610.37090](http://arxiv.org/abs/2610.37090)|null|
+|**2026-10-27**|**Trace-WAM: Learning to Act via 3D Motion Prediction for World Action Models**|Xu Hu et.al.|[2610.36840](http://arxiv.org/abs/2610.36840)|null|
+|**2026-10-27**|**HC2Robot: Hyper-Connection Transformers with Predicted Foresight for Multi-Terrain Humanoid Parkour**|Wenhao Xu et.al.|[2610.36825](http://arxiv.org/abs/2610.36825)|null|
+|**2026-10-27**|**Making Self-Driving Laboratories Auditable:A Unified Framework for Hybrid Actions,Measurements, and Safe Execution**|Zihan Zhang et.al.|[2610.36761](http://arxiv.org/abs/2610.36761)|null|
+|**2026-10-27**|**Mimetic Embodiment Transfer of Human-Humanoid Interaction from In-the-Wild Videos**|Nghia Le et.al.|[2610.36615](http://arxiv.org/abs/2610.36615)|null|
+|**2026-10-27**|**FAMIR: Future-aligned latent dynamics for complex-flow forecasting**|Yuxuan Chen et.al.|[2610.36515](http://arxiv.org/abs/2610.36515)|null|
+|**2026-10-26**|**SOMA: A Benchmark for Fine-Grained Egocentric Behavior and Body-Motion Understanding**|Matea Tashkovska et.al.|[2610.36384](http://arxiv.org/abs/2610.36384)|null|
+|**2026-10-26**|**Learning Multi-Phase Robot Loco-Manipulation via Phase-Conditioned Policy Optimization**|Simone Manni et.al.|[2610.36270](http://arxiv.org/abs/2610.36270)|null|
 |**2026-10-26**|**OSWAM: An Effective World Action Model with One-Step Action Generation**|Guowen Zhang et.al.|[2610.35850](http://arxiv.org/abs/2610.35850)|null|
 |**2026-10-26**|**VLA-HWBench: Where the Time Goes When VLA Models Run on Edge Hardware**|Borui Xu et.al.|[2610.34717](http://arxiv.org/abs/2610.34717)|null|
 |**2026-10-25**|**Scaling Dexterous Manipulation via Action Representation Pretraining**|Yanjinghao Xu et.al.|[2610.34453](http://arxiv.org/abs/2610.34453)|null|
@@ -3022,6 +3032,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-27**|**Who Shaped What? Untangling Human and AI Creative Contributions Through Spatial Provenance in Image Editing**|Riya Sahni et.al.|[2610.37469](http://arxiv.org/abs/2610.37469)|null|
+|**2026-10-27**|**PolyGandr: Steering Generative Models via Spatial Navigation through Latent Space**|Mingwei S. G. Li et.al.|[2610.37446](http://arxiv.org/abs/2610.37446)|null|
+|**2026-10-27**|**Time-Dynamic Semantic-Activity Entanglement: Quantifying Communication-Based Synchrony in Collaborative VR**|Pooja Pol et.al.|[2610.37427](http://arxiv.org/abs/2610.37427)|null|
+|**2026-10-27**|**Comparing Temporal Deep Learning Architectures for Discrete Cross-User Myoelectric Control**|Ethan Eddy et.al.|[2610.37374](http://arxiv.org/abs/2610.37374)|null|
+|**2026-10-27**|**Understanding Human-Robot Collaboration through Joint Action**|Chengwen Zhang et.al.|[2610.37298](http://arxiv.org/abs/2610.37298)|null|
+|**2026-10-27**|**An Interactive Mobile Augmented Reality System for Efficient Virtual Model-to-Patient Registration in Thoracic Surgery**|Emmanuel Ajaero et.al.|[2610.37271](http://arxiv.org/abs/2610.37271)|null|
+|**2026-10-27**|**Peers4U: Designing Learner-Centered Virtual Peers for Children's Multimodal Mathematics Learning**|Zhi Zheng et.al.|[2610.37238](http://arxiv.org/abs/2610.37238)|null|
+|**2026-10-27**|**Science-Fiction Transformation as a Design Lens for Visualization Transformation**|Abdulhaq Adetunji Salako et.al.|[2610.37131](http://arxiv.org/abs/2610.37131)|null|
+|**2026-10-27**|**A Serious-Game Testbed for Self-Governing Human-Machine Institutions**|Callum Berger et.al.|[2610.36989](http://arxiv.org/abs/2610.36989)|null|
+|**2026-10-27**|**Words or Deeds? How LLMs Predict Users' Decisions in Human-Agent Dialogue**|Baiqiao Zhang et.al.|[2610.36813](http://arxiv.org/abs/2610.36813)|null|
 |**2026-10-26**|**The Evolution and 'Chineseness' of Urban Screens in China: From Propaganda Posters to Smart City Interfaces**|Wuwu Ran et.al.|[2610.35762](http://arxiv.org/abs/2610.35762)|null|
 |**2026-10-26**|**EEGaze: Multimodal Attention Prediction in Visual Search via EEG-Based Saliency Refinement**|Mansi Sharma et.al.|[2610.35757](http://arxiv.org/abs/2610.35757)|null|
 |**2026-10-26**|**The Watchtower Imperative: Lifespan-Calibrated Evaluation for Frontier AI**|Casey M. Williams et.al.|[2610.35725](http://arxiv.org/abs/2610.35725)|null|
