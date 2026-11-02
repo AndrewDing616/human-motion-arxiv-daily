@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.11.01
+### Automatically Updated on 2026.11.02
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-30**|**Nexus-VLA: Bridging Human and Robot Experiences via a Shared Hierarchical Semantic Latent Space**|Biaoliang Guan et.al.|[2610.42021](http://arxiv.org/abs/2610.42021)|null|
+|**2026-10-30**|**Movens-Zero: Scaling Humanoid Motion Foundation Models with Large-Scale Human Videos**|Wendong Bu et.al.|[2610.41877](http://arxiv.org/abs/2610.41877)|null|
+|**2026-10-30**|**Direct Action-Manifold Modeling for Efficient and Robust Bimanual Manipulation**|Hongren Wang et.al.|[2610.41643](http://arxiv.org/abs/2610.41643)|null|
+|**2026-10-30**|**RTPolicy: Real-Time (32.9 Hz) Multi-View Visuomotor Policy for Robotic Manipulation on Edge Devices**|Xianbao Hou et.al.|[2610.41625](http://arxiv.org/abs/2610.41625)|null|
+|**2026-10-30**|**HIPC: Humanoid Iterative Planning and Control via Goal-Conditioned Motion Closure**|Yi Han et.al.|[2610.41334](http://arxiv.org/abs/2610.41334)|null|
+|**2026-10-29**|**TalkFlow: Structured Latent Flow Matching for Speech Driven Holistic Motion Generation**|Xinmu Wang et.al.|[2610.40972](http://arxiv.org/abs/2610.40972)|null|
+|**2026-10-29**|**WorldBridge: Bridging Video and Action for Task Generalization in World Action Models**|Jun Cen et.al.|[2610.40748](http://arxiv.org/abs/2610.40748)|null|
 |**2026-10-29**|**BURGER: Benchmarking and Understanding Robotic Generalization via Embodied Drawing**|Xiangyu Xu et.al.|[2610.40532](http://arxiv.org/abs/2610.40532)|null|
 |**2026-10-29**|**Continuous-Action World Models: Learning Cross-Embodiment Spatiotemporal Dynamics Priors**|Liangyu Li et.al.|[2610.40401](http://arxiv.org/abs/2610.40401)|null|
 |**2026-10-29**|**HiFOR: Hierarchical Foresight with Action-Guided World Grounding for Vision-Language-Action Model**|Rongxing Ding et.al.|[2610.40373](http://arxiv.org/abs/2610.40373)|null|
@@ -3043,6 +3050,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-30**|**GazeRIB: Systematic Evaluation of Multi-Reader Gaze-Guided Chest X-ray Learning**|Nattakorn Kittisut et.al.|[2610.42152](http://arxiv.org/abs/2610.42152)|null|
+|**2026-10-30**|**AutoAnalysis: An automated, self-updating meta-analysis of human-AI collaboration**|Michelle Vaccaro et.al.|[2610.42001](http://arxiv.org/abs/2610.42001)|null|
+|**2026-10-30**|**SimXAI: A Simple Drop-in Layer Increases Interaction Quality and Understanding in Conversational XAI**|Van Bach Nguyen et.al.|[2610.41856](http://arxiv.org/abs/2610.41856)|null|
+|**2026-10-30**|**MERIDIAN: Memory-Encoded Rituals for Intimacy across Distance in an Interactive, Asynchronous Neighbourhood**|Jingyi Chen et.al.|[2610.41776](http://arxiv.org/abs/2610.41776)|null|
+|**2026-10-30**|**When Architectural Spaces Start to Act**|Alex Binh Vinh Duc Nguyen et.al.|[2610.41724](http://arxiv.org/abs/2610.41724)|null|
+|**2026-10-30**|**Designing wearable haptic cueing for neurological gait rehabilitation: user requirements across residential care and community settings**|Riasat Islam et.al.|[2610.41680](http://arxiv.org/abs/2610.41680)|null|
+|**2026-10-30**|**Look Over There! Dynamic Visual Guidance for AI-Narrated Slides**|Jiongning Allen Lian et.al.|[2610.41645](http://arxiv.org/abs/2610.41645)|null|
+|**2026-10-30**|**Altered Visual Hand Feedback in Virtual Reality: An Exploratory Study in Essential Tremor**|Alejandro Pascual-Valdunciel et.al.|[2610.41496](http://arxiv.org/abs/2610.41496)|null|
+|**2026-10-30**|**A prospective randomized study of patient-centered AI for clinical visit preparation**|Xincheng Tan et.al.|[2610.41437](http://arxiv.org/abs/2610.41437)|null|
+|**2026-10-30**|**Hybrid Computer Use: A Unified Programmatic, Semantic, and Visual Interface for General Agents**|Haoqing Wang et.al.|[2610.41432](http://arxiv.org/abs/2610.41432)|null|
 |**2026-10-29**|**Micro-Edits: Computational Support for Fine-Scale Edits in Film**|Nhan Tran et.al.|[2610.40653](http://arxiv.org/abs/2610.40653)|null|
 |**2026-10-29**|**When to Assist and What to Suggest: Joint Gating and Memory-Grounded Hint Generation in One Compact Decoder**|A. J. A. Jubayer Talukder et.al.|[2610.40611](http://arxiv.org/abs/2610.40611)|null|
 |**2026-10-29**|**Deep Learning Based Behavioral Drift Modeling for Continuous Biometric Authentication**|Suprava Saha Dibya et.al.|[2610.40398](http://arxiv.org/abs/2610.40398)|null|
