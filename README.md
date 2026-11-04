@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.11.03
+### Automatically Updated on 2026.11.04
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-03**|**Möbius: A Unified Motion-Language Model Bridging Understanding and Generation**|Jiazhi Shu et.al.|[2611.05279](http://arxiv.org/abs/2611.05279)|null|
+|**2026-11-03**|**OperAItor: An Agentic Framework for Fault-Tolerant Operation of Chemical Processes**|Javal Vyas et.al.|[2611.05179](http://arxiv.org/abs/2611.05179)|null|
+|**2026-11-03**|**Asynchronous Robot Policies**|Sombit Dey et.al.|[2611.05155](http://arxiv.org/abs/2611.05155)|null|
+|**2026-11-03**|**FloMo: 3D Scene Flow as a World Action Model Intermediate for Learning from Human Video**|Jeremy Collins et.al.|[2611.05062](http://arxiv.org/abs/2611.05062)|null|
+|**2026-11-03**|**HiLo-WAM: Decoupling Long-Horizon Task Evolution and Local Dynamics in World Action Models**|Xingyu Wang et.al.|[2611.05023](http://arxiv.org/abs/2611.05023)|null|
+|**2026-11-03**|**Coordinating Humanoid Loco-Manipulation through Action-Conditioned Latent Foresight**|Ju Dong et.al.|[2611.04839](http://arxiv.org/abs/2611.04839)|null|
+|**2026-11-03**|**Amplified transport variability in granular slope flows near the critical angle**|Fumiaki Nakai et.al.|[2611.04440](http://arxiv.org/abs/2611.04440)|null|
 |**2026-11-02**|**ForceLDM: A Force-aware Latent Dynamics Model for Contact-Rich Manipulation**|Peiyuan Tang et.al.|[2611.03294](http://arxiv.org/abs/2611.03294)|null|
 |**2026-11-02**|**MoSoLoco: Monocular 3D Human Localization through Visual Latent Features and Social Context**|Yasamin Borhani et.al.|[2611.03189](http://arxiv.org/abs/2611.03189)|null|
 |**2026-11-02**|**Comprehensive Evaluation of Monocular and Multi-view 3D Human Pose Estimation Models for Fitness Exercise Analysis**|Néstor Ortega et.al.|[2611.02929](http://arxiv.org/abs/2611.02929)|null|
@@ -1562,7 +1569,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20261103>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261104>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -1740,7 +1747,7 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20261103>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261104>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
@@ -2116,12 +2123,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20261103>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261104>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-03**|**Whose Guardrail? User Identity Shapes the Effectiveness of Model Disclaimers in Mitigating LLM Political Persuasion**|Jillian Fisher et.al.|[2611.05347](http://arxiv.org/abs/2611.05347)|null|
+|**2026-11-03**|**False Reassurance in LLM Severe-Weather Guidance: A Replayable Evaluation Against Real NWS Alerts**|Kadharmoideen Fadurudeen et.al.|[2611.05290](http://arxiv.org/abs/2611.05290)|null|
+|**2026-11-03**|**Extending the MM-AR Metamodeling Platform with Process Mining Capabilities**|Geraldine Hürzeler et.al.|[2611.05176](http://arxiv.org/abs/2611.05176)|null|
+|**2026-11-03**|**Better Plans, Better Outcomes: Integrating Historical Data into Student Planning in a Computing Course**|Jiaen Yu et.al.|[2611.05143](http://arxiv.org/abs/2611.05143)|null|
+|**2026-11-03**|**From Opinions to Commitments: Unstable Assignments and Silent Choices in AI-Mediated Proposals**|Sachit Mahajan et.al.|[2611.05135](http://arxiv.org/abs/2611.05135)|null|
+|**2026-11-03**|**Haptic Shared Control for Multi-Robot Systems**|Maxime Bernard et.al.|[2611.05027](http://arxiv.org/abs/2611.05027)|null|
+|**2026-11-03**|**For You, Not for Everyone: Bystander-Aware Delivery of Critical Feedback in Robot Tutoring**|Atikkhan Faridkhan Nilgar et.al.|[2611.05001](http://arxiv.org/abs/2611.05001)|null|
+|**2026-11-03**|**Who is the Pronoun Pro? Comparing LLMs and Humans at Number-Disambiguation of 'they'**|Carlos Hartmann et.al.|[2611.04968](http://arxiv.org/abs/2611.04968)|null|
+|**2026-11-03**|**AI for eGovernance: Leveraging Language Technologies For Digital Inclusion**|Cynthia Jayne Amol et.al.|[2611.04820](http://arxiv.org/abs/2611.04820)|null|
+|**2026-11-03**|**Who Is Doing the Thinking? Characterising Human Agency in First-Year Students' AI Interactions**|Ali Shakiba et.al.|[2611.04783](http://arxiv.org/abs/2611.04783)|null|
 |**2026-11-02**|**Mediating Human-Swarm Interactions Through a Robot Helper: A Shepherding-Inspired Approach**|Arihant Yadav et.al.|[2611.03548](http://arxiv.org/abs/2611.03548)|null|
 |**2026-11-02**|**EmbryoProfiler: A Visual Clinical Decision Support System for IVF**|Johannes Knittel et.al.|[2611.03516](http://arxiv.org/abs/2611.03516)|null|
 |**2026-11-02**|**OpenZilo: An Open Smart-Ring Platform for Human-Centric Sensing and Interaction with Robots**|Qianggang Ding et.al.|[2611.03410](http://arxiv.org/abs/2611.03410)|null|
@@ -4709,7 +4726,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20261103>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261104>back to top</a>)</p>
 
 Notes: 
 
