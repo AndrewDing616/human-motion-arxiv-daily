@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.11.04
+### Automatically Updated on 2026.11.05
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-04**|**Human Mobility Sensing Using Wall-Reflected Beamformed Millimeter-Wave Communication Signals**|Tony DiMichele et.al.|[2611.06900](http://arxiv.org/abs/2611.06900)|null|
+|**2026-11-04**|**Semantic Residual Vector Quantization for Sign Language Generation**|Chang Liu et.al.|[2611.06781](http://arxiv.org/abs/2611.06781)|null|
+|**2026-11-04**|**Where Is VLA Inference Time Spent? Bottlenecks and Optimization Interactions Across GPUs**|Muhammad Danish Waseem et.al.|[2611.06710](http://arxiv.org/abs/2611.06710)|null|
+|**2026-11-04**|**Human Motion Prediction via Continual Prior Compensation**|Jianwei Tang et.al.|[2611.06637](http://arxiv.org/abs/2611.06637)|null|
+|**2026-11-04**|**Robocasa-Mem: Benchmarking Environment and Process Memory in Long-Horizon Mobile Manipulation**|Sihang Chen et.al.|[2611.06475](http://arxiv.org/abs/2611.06475)|null|
+|**2026-11-04**|**Online Adaptation to Latent Physical Properties for Learning from Demonstration**|Kotaro Kajitsuka et.al.|[2611.06118](http://arxiv.org/abs/2611.06118)|null|
+|**2026-11-04**|**Chronos: Sequential Identity-Preserving Video Generation by Temporal Anchoring**|Mengqi Huang et.al.|[2611.05893](http://arxiv.org/abs/2611.05893)|null|
+|**2026-11-03**|**Quantum error correcting codes from quiver moduli: Grassmannians, cyclic monodromy, and argyle collision divisors**|Steven Rayan et.al.|[2611.05526](http://arxiv.org/abs/2611.05526)|null|
+|**2026-11-03**|**Ctrl-F: Force as an Interface for Humanoid Loco-Manipulation**|Mengjie Zhao et.al.|[2611.05507](http://arxiv.org/abs/2611.05507)|null|
 |**2026-11-03**|**Möbius: A Unified Motion-Language Model Bridging Understanding and Generation**|Jiazhi Shu et.al.|[2611.05279](http://arxiv.org/abs/2611.05279)|null|
 |**2026-11-03**|**OperAItor: An Agentic Framework for Fault-Tolerant Operation of Chemical Processes**|Javal Vyas et.al.|[2611.05179](http://arxiv.org/abs/2611.05179)|null|
 |**2026-11-03**|**Asynchronous Robot Policies**|Sombit Dey et.al.|[2611.05155](http://arxiv.org/abs/2611.05155)|null|
@@ -1569,7 +1578,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20261104>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261105>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -1747,12 +1756,13 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20261104>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261105>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-04**|**Learning Object-Centric Motion Priors from Human for Robotic Dexterous Manipulation**|Zhengdong Hong et.al.|[2611.05979](http://arxiv.org/abs/2611.05979)|null|
 |**2026-11-02**|**ReContact: Reconstruct and Retarget Human Contacts from Video for Contact-Rich Humanoid Manipulation**|Zhongkai Gu et.al.|[2611.02968](http://arxiv.org/abs/2611.02968)|null|
 |**2026-10-29**|**UniffordInteractor: Reasoning the Unified Affordance for Human and Multi-Object Interaction**|Chen Su et.al.|[2610.39745](http://arxiv.org/abs/2610.39745)|null|
 |**2026-10-29**|**SituHOI: Scalable Capture of Scene-Situated Full-Body Human-Object Interaction**|Qifan Wang et.al.|[2610.23980](http://arxiv.org/abs/2610.23980)|null|
@@ -2123,12 +2133,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20261104>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261105>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-04**|**Dull, Dirty, Dangerous? Working Conditions and the Limits of Occupational AI Exposure**|Siyi Yu et.al.|[2611.06888](http://arxiv.org/abs/2611.06888)|null|
+|**2026-11-04**|**A Frame-Level View and Image-Quality Annotation Tool for Fetal Echocardiography: Comparison with Spreadsheet Annotation**|Mohamed Azzam et.al.|[2611.06791](http://arxiv.org/abs/2611.06791)|null|
+|**2026-11-04**|**Go-Go-Go: the game of Go without turns**|Andrea Cambiaghi et.al.|[2611.06786](http://arxiv.org/abs/2611.06786)|null|
+|**2026-11-04**|**Smartphone-Aided VR Exergames for HIIT: Gamifying Fitness with Real-Time Pose Estimation**|Abhiram Kothagundu et.al.|[2611.06734](http://arxiv.org/abs/2611.06734)|null|
+|**2026-11-04**|**You Know What You Will Like: People Predict Their Own Ratings Better Than Recommender Systems**|Zihan Chen et.al.|[2611.06696](http://arxiv.org/abs/2611.06696)|null|
+|**2026-11-04**|**Cognitive and Behavioural Effects of Haptic Feedback for ROV Teleoperation in Hazardous Environments**|Joshua Brown et.al.|[2611.06689](http://arxiv.org/abs/2611.06689)|null|
+|**2026-11-04**|**Perceived Trust and Transparency in AI-Altered vs. Human-Written LinkedIn Posts**|Thomas Christian Joos et.al.|[2611.06660](http://arxiv.org/abs/2611.06660)|null|
+|**2026-11-04**|**Measuring the collaboration, not the agent**|Xinxiao Li et.al.|[2611.06487](http://arxiv.org/abs/2611.06487)|null|
+|**2026-11-04**|**A Cracked Mirror: How People Perceive Gender Performance by Large Language Models**|Faezeh Fadaei et.al.|[2611.06393](http://arxiv.org/abs/2611.06393)|null|
+|**2026-11-04**|**Today's Work, Tomorrow's Workforce: Incentivizing Learning in AI-Assisted Work**|Moritz Diener et.al.|[2611.06346](http://arxiv.org/abs/2611.06346)|null|
 |**2026-11-03**|**Whose Guardrail? User Identity Shapes the Effectiveness of Model Disclaimers in Mitigating LLM Political Persuasion**|Jillian Fisher et.al.|[2611.05347](http://arxiv.org/abs/2611.05347)|null|
 |**2026-11-03**|**False Reassurance in LLM Severe-Weather Guidance: A Replayable Evaluation Against Real NWS Alerts**|Kadharmoideen Fadurudeen et.al.|[2611.05290](http://arxiv.org/abs/2611.05290)|null|
 |**2026-11-03**|**Extending the MM-AR Metamodeling Platform with Process Mining Capabilities**|Geraldine Hürzeler et.al.|[2611.05176](http://arxiv.org/abs/2611.05176)|null|
@@ -4726,7 +4746,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20261104>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261105>back to top</a>)</p>
 
 Notes: 
 
