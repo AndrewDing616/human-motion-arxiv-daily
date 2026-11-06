@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.11.05
+### Automatically Updated on 2026.11.06
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-05**|**EgoGeneralist: Unifying Egocentric Action-Video Tasks through Video-Native Modeling**|Yanlin Jin et.al.|[2611.08477](http://arxiv.org/abs/2611.08477)|null|
+|**2026-11-05**|**REACT: Towards Real-Time Completion of Skeletal Motion Signals**|P. de Clermont Gallerande et.al.|[2611.08301](http://arxiv.org/abs/2611.08301)|null|
+|**2026-11-05**|**Concertina: Embodying Manipulation and Cognition in One Diffusion Vision-Language Model**|Chengcheng Wang et.al.|[2611.07513](http://arxiv.org/abs/2611.07513)|null|
+|**2026-11-05**|**FFMT: Frequency-Factorized Multi-Rate Tokenization for Music-to-Dance Generation**|Qirong Guo et.al.|[2611.07384](http://arxiv.org/abs/2611.07384)|null|
 |**2026-11-04**|**Human Mobility Sensing Using Wall-Reflected Beamformed Millimeter-Wave Communication Signals**|Tony DiMichele et.al.|[2611.06900](http://arxiv.org/abs/2611.06900)|null|
 |**2026-11-04**|**Semantic Residual Vector Quantization for Sign Language Generation**|Chang Liu et.al.|[2611.06781](http://arxiv.org/abs/2611.06781)|null|
 |**2026-11-04**|**Where Is VLA Inference Time Spent? Bottlenecks and Optimization Interactions Across GPUs**|Muhammad Danish Waseem et.al.|[2611.06710](http://arxiv.org/abs/2611.06710)|null|
@@ -1578,7 +1582,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20261105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261106>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -1756,7 +1760,7 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20261105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261106>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
@@ -2133,12 +2137,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20261105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261106>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-05**|**Souffleur: A Glanceable Display for Mobile Voice Conversations**|Anton Wolter et.al.|[2611.08443](http://arxiv.org/abs/2611.08443)|null|
+|**2026-11-05**|**A Multimodal Haptic Interface for Simultaneous Softness and Thermal Modulation**|Joshua Brown et.al.|[2611.08398](http://arxiv.org/abs/2611.08398)|null|
+|**2026-11-05**|**ControlAnything: Generative UI and On-Demand Device Integration for Mixed-Reality Hand Interaction by a Coding Agent**|Bektur Ryskeldiev et.al.|[2611.08321](http://arxiv.org/abs/2611.08321)|null|
+|**2026-11-05**|**Transformer-Based Trajectory Prescription for sEMG-Optimizing Robot-Mediated Rehabilitation**|Gabriel Parra et.al.|[2611.08295](http://arxiv.org/abs/2611.08295)|null|
+|**2026-11-05**|**"Blind Compliance": Coercive Control in AI Jailbreaking**|Acacia L. Ackles et.al.|[2611.08226](http://arxiv.org/abs/2611.08226)|null|
+|**2026-11-05**|**IntentWeaver: Sustaining Coherence across Evolving Intents in Human-AI Co-Writing**|Yuanhao Zhang et.al.|[2611.08214](http://arxiv.org/abs/2611.08214)|null|
+|**2026-11-05**|**Reflective Nature Experiences in Virtual Reality**|Shiva Ghasemi et.al.|[2611.08167](http://arxiv.org/abs/2611.08167)|null|
+|**2026-11-05**|**Automatic keyphrase extraction and annotation: modern theoretical approaches and practical solutions for text and speech**|Daria Guseva et.al.|[2611.08006](http://arxiv.org/abs/2611.08006)|null|
+|**2026-11-05**|**Technohybridism: Recursive Semantic Normalization in AI-Mediated Societies**|Charalampos M. Liapis et.al.|[2611.07984](http://arxiv.org/abs/2611.07984)|null|
+|**2026-11-05**|**Responsible GenAI Use During Active Armed Conflict: Evidence from Sudan's Emergency Response Rooms**|Dalia Ali et.al.|[2611.07874](http://arxiv.org/abs/2611.07874)|null|
 |**2026-11-04**|**Dull, Dirty, Dangerous? Working Conditions and the Limits of Occupational AI Exposure**|Siyi Yu et.al.|[2611.06888](http://arxiv.org/abs/2611.06888)|null|
 |**2026-11-04**|**A Frame-Level View and Image-Quality Annotation Tool for Fetal Echocardiography: Comparison with Spreadsheet Annotation**|Mohamed Azzam et.al.|[2611.06791](http://arxiv.org/abs/2611.06791)|null|
 |**2026-11-04**|**Go-Go-Go: the game of Go without turns**|Andrea Cambiaghi et.al.|[2611.06786](http://arxiv.org/abs/2611.06786)|null|
@@ -4746,7 +4760,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20261105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261106>back to top</a>)</p>
 
 Notes: 
 
