@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.11.08
+### Automatically Updated on 2026.11.09
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-06**|**FlowMoP: Stochastic Multi-Person Motion Prediction**|Aadya Agrawal et.al.|[2611.09882](http://arxiv.org/abs/2611.09882)|null|
+|**2026-11-06**|**ODEAction: From Predicting Chunks to Evolving Actions**|Qishen Wang et.al.|[2611.09672](http://arxiv.org/abs/2611.09672)|null|
+|**2026-11-06**|**MDF++: Visuo-Tactile World Action Model with End-to-end Representation Learning**|Zixuan Huang et.al.|[2611.09293](http://arxiv.org/abs/2611.09293)|null|
+|**2026-11-06**|**Controllable Molecule Generation via Sparse Representation Editing: An Interpretability-Driven Perspective**|Zhuoran Li et.al.|[2611.09235](http://arxiv.org/abs/2611.09235)|null|
+|**2026-11-06**|**Semantic Extraction Framework for Goal-Oriented V2X Communication Supporting Safe Intersection Passage**|Haoran Yang et.al.|[2611.09118](http://arxiv.org/abs/2611.09118)|null|
+|**2026-11-06**|**MARS: Training Multilingual Search Agents for Retriever-Free Evidence Acquisition**|Rui Qi et.al.|[2611.09090](http://arxiv.org/abs/2611.09090)|null|
+|**2026-11-05**|**MotionBench-XAI: Benchmarking What Shapes Shapley Explanations in Spatiotemporal Machine Learning**|Mathilde Papillon et.al.|[2611.08797](http://arxiv.org/abs/2611.08797)|null|
+|**2026-11-05**|**MotionDecipher: LLM-Assisted Clinical Interpretation of Human Motion Signals for Efficient Gait Analysis**|Mingrui Ma et.al.|[2611.08795](http://arxiv.org/abs/2611.08795)|null|
+|**2026-11-05**|**VICTR: Value-Informed In-Context Learning for Vision-Language-Action Models**|Luca Macesanu et.al.|[2611.08698](http://arxiv.org/abs/2611.08698)|null|
 |**2026-11-05**|**EgoGeneralist: Unifying Egocentric Action-Video Tasks through Video-Native Modeling**|Yanlin Jin et.al.|[2611.08477](http://arxiv.org/abs/2611.08477)|null|
 |**2026-11-05**|**REACT: Towards Real-Time Completion of Skeletal Motion Signals**|P. de Clermont Gallerande et.al.|[2611.08301](http://arxiv.org/abs/2611.08301)|null|
 |**2026-11-05**|**Concertina: Embodying Manipulation and Cognition in One Diffusion Vision-Language Model**|Chengcheng Wang et.al.|[2611.07513](http://arxiv.org/abs/2611.07513)|null|
@@ -2707,6 +2716,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-06**|**TouchAnnotator: Multi-Source Tactile Supervision with Privileged-View Distillation**|Ao Li et.al.|[2611.09129](http://arxiv.org/abs/2611.09129)|null|
 |**2026-11-04**|**Learning Object-Centric Motion Priors from Human for Robotic Dexterous Manipulation**|Zhengdong Hong et.al.|[2611.05979](http://arxiv.org/abs/2611.05979)|null|
 |**2026-11-02**|**ReContact: Reconstruct and Retarget Human Contacts from Video for Contact-Rich Humanoid Manipulation**|Zhongkai Gu et.al.|[2611.02968](http://arxiv.org/abs/2611.02968)|null|
 |**2026-10-29**|**UniffordInteractor: Reasoning the Unified Affordance for Human and Multi-Object Interaction**|Chen Su et.al.|[2610.39745](http://arxiv.org/abs/2610.39745)|null|
@@ -3082,6 +3092,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-06**|**FlowMoP: Stochastic Multi-Person Motion Prediction**|Aadya Agrawal et.al.|[2611.09882](http://arxiv.org/abs/2611.09882)|null|
+|**2026-11-06**|**GroundWork: Bridging Human and LLM Reasoning Through a Structured Argumentation Model**|Sjoerd Vink et.al.|[2611.09840](http://arxiv.org/abs/2611.09840)|null|
+|**2026-11-06**|**Assessing the Impact of Retrieval-Augmented Generation on Algorithmic Problem-Solving**|Gabriel Souza Baggio et.al.|[2611.09791](http://arxiv.org/abs/2611.09791)|null|
+|**2026-11-06**|**What to Delegate, What to Preserve: Human Preferences for Agentic AI Across Everyday Life and Work**|Sarah Wheeler et.al.|[2611.09730](http://arxiv.org/abs/2611.09730)|null|
+|**2026-11-06**|**Entering a New Domain in the Era of Generative AI: An Autoethnography of Solo Game Development as a Bioinformatics Educator**|Hannah Kim et.al.|[2611.09623](http://arxiv.org/abs/2611.09623)|null|
+|**2026-11-06**|**DeepRadio: A Human-Agent Workspace for Physical Radio Development**|Jiazhen Lei et.al.|[2611.09418](http://arxiv.org/abs/2611.09418)|null|
+|**2026-11-06**|**Uniqueness-Aware Feature Engineering for Representing Humans in Algorithmic Decision Making**|Theresa Elstner et.al.|[2611.09403](http://arxiv.org/abs/2611.09403)|null|
+|**2026-11-06**|**Tracybot: Preserving Developer Intent by Tracing Agent-Generated Code to Prompts**|Răzvan Albu et.al.|[2611.09395](http://arxiv.org/abs/2611.09395)|null|
+|**2026-11-06**|**Sensed but Not Told: Hidden Physiological Adaptation Shapes LLM Persuasion**|Xiaoyan Wei et.al.|[2611.09394](http://arxiv.org/abs/2611.09394)|null|
+|**2026-11-06**|**Thinking Twice: A Sequential Approach to Nudge Towards Reflective Judgment in GenAI-Assisted Decision Making**|Hüseyin Hussein Keke et.al.|[2611.09269](http://arxiv.org/abs/2611.09269)|null|
 |**2026-11-05**|**Souffleur: A Glanceable Display for Mobile Voice Conversations**|Anton Wolter et.al.|[2611.08443](http://arxiv.org/abs/2611.08443)|null|
 |**2026-11-05**|**A Multimodal Haptic Interface for Simultaneous Softness and Thermal Modulation**|Joshua Brown et.al.|[2611.08398](http://arxiv.org/abs/2611.08398)|null|
 |**2026-11-05**|**ControlAnything: Generative UI and On-Demand Device Integration for Mixed-Reality Hand Interaction by a Coding Agent**|Bektur Ryskeldiev et.al.|[2611.08321](http://arxiv.org/abs/2611.08321)|null|
