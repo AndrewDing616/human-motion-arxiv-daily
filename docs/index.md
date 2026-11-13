@@ -959,6 +959,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-12**|**ProtoVis-Nav: Prototypical Visual Imagination for Visual-Spatial Aligned UAV Navigation**|Guangyuan Sui et.al.|[2611.17330](http://arxiv.org/abs/2611.17330)|null|
+|**2026-11-12**|**XBot-Omni: An Omni-Modal Model for Embodied Understanding and Interaction**|Kerui Gu et.al.|[2611.17160](http://arxiv.org/abs/2611.17160)|null|
+|**2026-11-12**|**FORGE: Force-Aware Multi-Granularity Control for Efficient Humanoid Loco-Manipulation**|Liangjun Xing et.al.|[2611.17142](http://arxiv.org/abs/2611.17142)|null|
+|**2026-11-12**|**Ropedia Xperience 2: A Gold Standard for Scaling Physical AI Environments and Behaviors**|Hao Li et.al.|[2611.17060](http://arxiv.org/abs/2611.17060)|null|
 |**2026-11-12**|**Experience-Handoff Reinforcement Learning for Recursive Self-Improvement**|Doyoung Kim et.al.|[2611.16409](http://arxiv.org/abs/2611.16409)|null|
 |**2026-11-11**|**MOSAIC: Modular Obstacle and Spatial-Aware Framework for Manipulation In Cluttered Scenes**|Richard Shi et.al.|[2611.15937](http://arxiv.org/abs/2611.15937)|null|
 |**2026-11-11**|**Prediction-Error-Tightened MPC for Socially Compliant Crowd Navigation**|Alessandro Febbraro et.al.|[2611.15781](http://arxiv.org/abs/2611.15781)|null|
@@ -3119,6 +3123,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-12**|**A Compact xDAWN-Guided Spatio-Temporal Network with Filter-Bank Convolution for P300 Detection**|Mohammad Mahdi Habibi Bina et.al.|[2611.17101](http://arxiv.org/abs/2611.17101)|null|
+|**2026-11-12**|**Neural Representations as New Modes of Interactivity**|Stanley Huang et.al.|[2611.17058](http://arxiv.org/abs/2611.17058)|null|
+|**2026-11-12**|**Exploring Socially Acceptable 3D Feedback Design for Inclusive Small-Group Conversation**|Qianjie Wei et.al.|[2611.17018](http://arxiv.org/abs/2611.17018)|null|
+|**2026-11-12**|**DiffSSMEye: Conditional High-Frequency Eye Movement Synthesis with Structured State-Space Diffusion**|Kamrul Hasan et.al.|[2611.17013](http://arxiv.org/abs/2611.17013)|null|
+|**2026-11-12**|**It Was Better Not to Know: Digital Recognition, Family Authority, and Postpartum Mental Health in Bangladesh**|Shajnin Haque Aishy et.al.|[2611.16993](http://arxiv.org/abs/2611.16993)|null|
+|**2026-11-12**|**Beyond Curiosity: Habit and Organizational Learning Capability as Predictors of Shadow AI**|Nolan Lovett et.al.|[2611.16931](http://arxiv.org/abs/2611.16931)|null|
+|**2026-11-12**|**A Connectionless Interaction Model for Network Spatial Proximity Services**|Artem Makarov et.al.|[2611.16737](http://arxiv.org/abs/2611.16737)|null|
 |**2026-11-12**|**People prefer AI to human advice in multi-turn conversations but neither changes incentivised behaviour**|Maximilian Maier et.al.|[2611.16667](http://arxiv.org/abs/2611.16667)|null|
 |**2026-11-12**|**A Dual-Branch Graph and Convolutional Network for Interpretable Movement EEG Classification**|Maryam Ostadsharif Memar et.al.|[2611.16609](http://arxiv.org/abs/2611.16609)|null|
 |**2026-11-12**|**Language Learning through Immersive Multi-User Gamification**|Rosalina Ribeiro Silva et.al.|[2611.16594](http://arxiv.org/abs/2611.16594)|null|
