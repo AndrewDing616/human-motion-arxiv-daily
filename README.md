@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.11.12
+### Automatically Updated on 2026.11.13
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-12**|**Experience-Handoff Reinforcement Learning for Recursive Self-Improvement**|Doyoung Kim et.al.|[2611.16409](http://arxiv.org/abs/2611.16409)|null|
+|**2026-11-11**|**MOSAIC: Modular Obstacle and Spatial-Aware Framework for Manipulation In Cluttered Scenes**|Richard Shi et.al.|[2611.15937](http://arxiv.org/abs/2611.15937)|null|
+|**2026-11-11**|**Prediction-Error-Tightened MPC for Socially Compliant Crowd Navigation**|Alessandro Febbraro et.al.|[2611.15781](http://arxiv.org/abs/2611.15781)|null|
+|**2026-11-11**|**Bind-WAM: Binding-Uncertainty-Guided Selective Future Imagination in World Action Models**|Chenhao Qiu et.al.|[2611.15368](http://arxiv.org/abs/2611.15368)|null|
+|**2026-11-11**|**CFGComposer: Compositional Audio-Text-to-Motion Generation via Copula Score Correction**|Pengyang Shi et.al.|[2611.15101](http://arxiv.org/abs/2611.15101)|null|
+|**2026-11-11**|**ILA: A Transferable Interface-Level Adapter for Compliant Humanoid Motion Tracking**|ZhuoChang Cai et.al.|[2611.14985](http://arxiv.org/abs/2611.14985)|null|
+|**2026-11-11**|**From a Single RGB Image to Robot Execution: Metric Scene Alignment and Contact-Guided Retargeting**|Zhenxuan Ding et.al.|[2611.14981](http://arxiv.org/abs/2611.14981)|null|
 |**2026-11-10**|**From Prediction to Action: Learning Physical Context for Deformable Linear Object Manipulation**|Chengxiao Dong et.al.|[2611.14274](http://arxiv.org/abs/2611.14274)|null|
 |**2026-11-10**|**Elastic-WAM: Adaptive Spatiotemporal Imagination for Efficient Robot Control**|Haitian Li et.al.|[2611.14257](http://arxiv.org/abs/2611.14257)|null|
 |**2026-11-10**|**LaST0.5: A Generalist World Action Model with Interaction-Centric Latent Reasoning**|Xuheng Zhang et.al.|[2611.14048](http://arxiv.org/abs/2611.14048)|null|
@@ -1609,7 +1616,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20261112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261113>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -1788,7 +1795,7 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20261112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261113>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
@@ -2167,12 +2174,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20261112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261113>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-12**|**People prefer AI to human advice in multi-turn conversations but neither changes incentivised behaviour**|Maximilian Maier et.al.|[2611.16667](http://arxiv.org/abs/2611.16667)|null|
+|**2026-11-12**|**A Dual-Branch Graph and Convolutional Network for Interpretable Movement EEG Classification**|Maryam Ostadsharif Memar et.al.|[2611.16609](http://arxiv.org/abs/2611.16609)|null|
+|**2026-11-12**|**Language Learning through Immersive Multi-User Gamification**|Rosalina Ribeiro Silva et.al.|[2611.16594](http://arxiv.org/abs/2611.16594)|null|
+|**2026-11-12**|**Robots That Talk Too Much and Don't Listen Enough**|Graham Wilcock et.al.|[2611.16473](http://arxiv.org/abs/2611.16473)|null|
+|**2026-11-12**|**A Serious Game for Training Civil Participation in Flood Crisis Management**|Solmaz Goodarzi et.al.|[2611.16446](http://arxiv.org/abs/2611.16446)|null|
+|**2026-11-12**|**Rasoi: Visual Diffs for Evaluating Structural Changes Made by Coding Agents**|Riya Sahni et.al.|[2611.16293](http://arxiv.org/abs/2611.16293)|null|
+|**2026-11-12**|**RiskLens: Human-Informed Incident Transfer for AI Risk Evaluation**|Yiliu Tang et.al.|[2611.16287](http://arxiv.org/abs/2611.16287)|null|
+|**2026-11-12**|**Agentic Dashboards: A New Design Paradigm for Visual Analytics**|Sam Yu-Te Lee et.al.|[2611.16245](http://arxiv.org/abs/2611.16245)|null|
+|**2026-11-12**|**"We Are the Dirty Hands": Reimagining an Ambient Intelligence Care System with Professional Caregivers**|Andrea Green et.al.|[2611.16198](http://arxiv.org/abs/2611.16198)|null|
+|**2026-11-12**|**Between Niti and Nyaya: A Society-Centered Framework for AI Governance**|Snehalkumar `Neil' S. Gaikwad et.al.|[2611.16173](http://arxiv.org/abs/2611.16173)|null|
 |**2026-11-10**|**Demonstration of MANA: Multi-perspective Alignment of NPC Agents**|Amir Tahmasbi et.al.|[2611.14431](http://arxiv.org/abs/2611.14431)|null|
 |**2026-11-10**|**Evaluating Tactile Encoding Strategies for Communicating 3-D Shape**|MacKenzie C. Harnett et.al.|[2611.14389](http://arxiv.org/abs/2611.14389)|null|
 |**2026-11-10**|**AI Isn't Getting Dumber, We're Getting Pickier: Rising Standards in Human Evaluation of Large Language Models**|Zihan Chen et.al.|[2611.14333](http://arxiv.org/abs/2611.14333)|null|
@@ -4820,7 +4837,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20261112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261113>back to top</a>)</p>
 
 Notes: 
 
