@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.11.15
+### Automatically Updated on 2026.11.16
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-12**|**Adversarial Tracking: Attacks on Image Sensors for Object Tracking in Autonomous Vehicles**|Han Wu et.al.|[2611.17505](http://arxiv.org/abs/2611.17505)|null|
 |**2026-11-12**|**ProtoVis-Nav: Prototypical Visual Imagination for Visual-Spatial Aligned UAV Navigation**|Guangyuan Sui et.al.|[2611.17330](http://arxiv.org/abs/2611.17330)|null|
 |**2026-11-12**|**XBot-Omni: An Omni-Modal Model for Embodied Understanding and Interaction**|Kerui Gu et.al.|[2611.17160](http://arxiv.org/abs/2611.17160)|null|
 |**2026-11-12**|**FORGE: Force-Aware Multi-Granularity Control for Efficient Humanoid Loco-Manipulation**|Liangjun Xing et.al.|[2611.17142](http://arxiv.org/abs/2611.17142)|null|
@@ -3123,6 +3124,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-13**|**Between Obligations and Evidence: A Participatory Study of Translating the EU AI Act into Technical Requirements**|Helma Torkamaan et.al.|[2611.18439](http://arxiv.org/abs/2611.18439)|null|
+|**2026-11-13**|**Toward On-Device Markerless 6DoF Tracking of a Physical Manipulative on a Mixed-Reality Headset: A Preliminary Study**|Guangxi Feng et.al.|[2611.18438](http://arxiv.org/abs/2611.18438)|null|
+|**2026-11-13**|**Voice-Based Conversational Agents as AI Care Assistants: Evaluating Personalization, Intervention Delivery Fidelity, and Privacy Expectations in Older Adults' Care**|Thalia Viranda et.al.|[2611.18385](http://arxiv.org/abs/2611.18385)|null|
+|**2026-11-13**|**Clean Tickets, Wrong Orders: Catching Silent Errors with a Language Model in Your Browser Tab**|Umar Ahmed et.al.|[2611.18284](http://arxiv.org/abs/2611.18284)|null|
+|**2026-11-13**|**Personalization of Basic and Moral Values Guiding LLM-Controlled Assistant Robots**|Mateusz Wozniak et.al.|[2611.18230](http://arxiv.org/abs/2611.18230)|null|
+|**2026-11-13**|**What a Memory Preview Cannot Tell You: Ambiguity in AI Memory Permissions**|Sadia Noman Tonni et.al.|[2611.17874](http://arxiv.org/abs/2611.17874)|null|
+|**2026-11-13**|**DECODE: Diagnosing Interpretability Failures in Automated Interpretation Process**|Dohyun Kim et.al.|[2611.17856](http://arxiv.org/abs/2611.17856)|null|
+|**2026-11-13**|**Alleviating Interview Stress: Effects of Robot Persona and Reactive Backchanneling on High-Pressure Mock Interviews**|Haochen Yang et.al.|[2611.17830](http://arxiv.org/abs/2611.17830)|null|
+|**2026-11-13**|**Multimodal Person Concept Model for Person Identification under Varying Observation Conditions**|Mizuho Okitani et.al.|[2611.17802](http://arxiv.org/abs/2611.17802)|null|
+|**2026-11-13**|**DesignSpecs: A DESIGN.md Dataset of Visual Design Specifications for AI Agents**|Jialiang Wei et.al.|[2611.17713](http://arxiv.org/abs/2611.17713)|null|
 |**2026-11-12**|**A Compact xDAWN-Guided Spatio-Temporal Network with Filter-Bank Convolution for P300 Detection**|Mohammad Mahdi Habibi Bina et.al.|[2611.17101](http://arxiv.org/abs/2611.17101)|null|
 |**2026-11-12**|**Neural Representations as New Modes of Interactivity**|Stanley Huang et.al.|[2611.17058](http://arxiv.org/abs/2611.17058)|null|
 |**2026-11-12**|**Exploring Socially Acceptable 3D Feedback Design for Inclusive Small-Group Conversation**|Qianjie Wei et.al.|[2611.17018](http://arxiv.org/abs/2611.17018)|null|

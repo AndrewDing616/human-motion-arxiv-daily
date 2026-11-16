@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.11.15
+### Automatically Updated on 2026.11.16
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-12**|**Adversarial Tracking: Attacks on Image Sensors for Object Tracking in Autonomous Vehicles**|Han Wu et.al.|[2611.17505](http://arxiv.org/abs/2611.17505)|null|
 |**2026-11-12**|**ProtoVis-Nav: Prototypical Visual Imagination for Visual-Spatial Aligned UAV Navigation**|Guangyuan Sui et.al.|[2611.17330](http://arxiv.org/abs/2611.17330)|null|
 |**2026-11-12**|**XBot-Omni: An Omni-Modal Model for Embodied Understanding and Interaction**|Kerui Gu et.al.|[2611.17160](http://arxiv.org/abs/2611.17160)|null|
 |**2026-11-12**|**FORGE: Force-Aware Multi-Granularity Control for Efficient Humanoid Loco-Manipulation**|Liangjun Xing et.al.|[2611.17142](http://arxiv.org/abs/2611.17142)|null|
@@ -1620,7 +1621,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20261115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261116>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -1799,7 +1800,7 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20261115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261116>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
@@ -2178,12 +2179,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20261115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261116>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-13**|**Between Obligations and Evidence: A Participatory Study of Translating the EU AI Act into Technical Requirements**|Helma Torkamaan et.al.|[2611.18439](http://arxiv.org/abs/2611.18439)|null|
+|**2026-11-13**|**Toward On-Device Markerless 6DoF Tracking of a Physical Manipulative on a Mixed-Reality Headset: A Preliminary Study**|Guangxi Feng et.al.|[2611.18438](http://arxiv.org/abs/2611.18438)|null|
+|**2026-11-13**|**Voice-Based Conversational Agents as AI Care Assistants: Evaluating Personalization, Intervention Delivery Fidelity, and Privacy Expectations in Older Adults' Care**|Thalia Viranda et.al.|[2611.18385](http://arxiv.org/abs/2611.18385)|null|
+|**2026-11-13**|**Clean Tickets, Wrong Orders: Catching Silent Errors with a Language Model in Your Browser Tab**|Umar Ahmed et.al.|[2611.18284](http://arxiv.org/abs/2611.18284)|null|
+|**2026-11-13**|**Personalization of Basic and Moral Values Guiding LLM-Controlled Assistant Robots**|Mateusz Wozniak et.al.|[2611.18230](http://arxiv.org/abs/2611.18230)|null|
+|**2026-11-13**|**What a Memory Preview Cannot Tell You: Ambiguity in AI Memory Permissions**|Sadia Noman Tonni et.al.|[2611.17874](http://arxiv.org/abs/2611.17874)|null|
+|**2026-11-13**|**DECODE: Diagnosing Interpretability Failures in Automated Interpretation Process**|Dohyun Kim et.al.|[2611.17856](http://arxiv.org/abs/2611.17856)|null|
+|**2026-11-13**|**Alleviating Interview Stress: Effects of Robot Persona and Reactive Backchanneling on High-Pressure Mock Interviews**|Haochen Yang et.al.|[2611.17830](http://arxiv.org/abs/2611.17830)|null|
+|**2026-11-13**|**Multimodal Person Concept Model for Person Identification under Varying Observation Conditions**|Mizuho Okitani et.al.|[2611.17802](http://arxiv.org/abs/2611.17802)|null|
+|**2026-11-13**|**DesignSpecs: A DESIGN.md Dataset of Visual Design Specifications for AI Agents**|Jialiang Wei et.al.|[2611.17713](http://arxiv.org/abs/2611.17713)|null|
 |**2026-11-12**|**A Compact xDAWN-Guided Spatio-Temporal Network with Filter-Bank Convolution for P300 Detection**|Mohammad Mahdi Habibi Bina et.al.|[2611.17101](http://arxiv.org/abs/2611.17101)|null|
 |**2026-11-12**|**Neural Representations as New Modes of Interactivity**|Stanley Huang et.al.|[2611.17058](http://arxiv.org/abs/2611.17058)|null|
 |**2026-11-12**|**Exploring Socially Acceptable 3D Feedback Design for Inclusive Small-Group Conversation**|Qianjie Wei et.al.|[2611.17018](http://arxiv.org/abs/2611.17018)|null|
@@ -4848,7 +4859,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20261115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261116>back to top</a>)</p>
 
 Notes: 
 
