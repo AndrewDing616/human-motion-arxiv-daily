@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.11.17
+### Automatically Updated on 2026.11.18
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,7 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-11-16**|**DuoFlow: Towards Synchronized Speech and Motion Generation with Fine-Grained Control**|Jun Dong et.al.|[2611.21530](http://arxiv.org/abs/2611.21530)|null|
+|**2026-11-17**|**Making Future-Predictive Representations Actionable**|Fangchuan Wang et.al.|[2611.22994](http://arxiv.org/abs/2611.22994)|null|
+|**2026-11-17**|**ForceBody: Force-Paired Parametric Body Motion with Torque Uncertainty**|Joonwoo Kwon et.al.|[2611.22769](http://arxiv.org/abs/2611.22769)|null|
+|**2026-11-17**|**Robust Actor-Critic Learning under Transport and Divergence Uncertainty**|Kunqi Huang et.al.|[2611.22759](http://arxiv.org/abs/2611.22759)|null|
+|**2026-11-17**|**MAVE: Reconstructing Editable 3D Blockouts from Film Shots**|Yifan Chang et.al.|[2611.22464](http://arxiv.org/abs/2611.22464)|null|
+|**2026-11-17**|**VoxelSBFL: Voxel-Level Spectrum-Based Failure Prediction for Vision-Language-Action Models**|Arusa Kanwal et.al.|[2611.22453](http://arxiv.org/abs/2611.22453)|null|
+|**2026-11-17**|**Autonomous Track Racing with a Commercially Available Humanoid: System Design and Real-World Deployment**|Koki Inami et.al.|[2611.22445](http://arxiv.org/abs/2611.22445)|null|
+|**2026-11-17**|**CoBoVLA: Decoupling Language from Action with Discrete Codes for Robust and Interpretable Robot Manipulation**|Mehul Arora et.al.|[2611.22395](http://arxiv.org/abs/2611.22395)|null|
+|**2026-11-17**|**Inertial Video World Models**|Yuan Gao et.al.|[2611.22314](http://arxiv.org/abs/2611.22314)|null|
+|**2026-11-17**|**DuoFlow: Towards Synchronized Speech and Motion Generation with Fine-Grained Control**|Jun Dong et.al.|[2611.21530](http://arxiv.org/abs/2611.21530)|null|
+|**2026-11-16**|**A Probabilistic Lateral Motion Prediction Model with Improved Response Fidelity for Vehicle-in-the-Loop Simulation**|Xiangyang Ye et.al.|[2611.21806](http://arxiv.org/abs/2611.21806)|null|
 |**2026-11-16**|**ThinkWAM: Rethinking Latent Futures for Action Refinement**|Haoyun Tang et.al.|[2611.21258](http://arxiv.org/abs/2611.21258)|null|
 |**2026-11-16**|**ReuseMem: One Memory, Multiple Goals in Robot Manipulation**|Yoonseok Kang et.al.|[2611.21115](http://arxiv.org/abs/2611.21115)|null|
 |**2026-11-16**|**WiTac: Wrist-Informed Tactile Representations for Contact-Rich Manipulation**|Haotian He et.al.|[2611.21057](http://arxiv.org/abs/2611.21057)|null|
@@ -1631,7 +1640,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20261117>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261118>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -1811,12 +1820,13 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20261117>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261118>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-16**|**From Human Videos to Bimanual Dexterous Manipulation Data: Confidence-Guided RL Refinement of Video Priors**|Yanghong Liu et.al.|[2611.21908](http://arxiv.org/abs/2611.21908)|null|
 |**2026-11-15**|**HORIA: 4D Human and Object Reconstruction from a Monocular Video with Interaction-Aware Re-Rendering**|Hyeongjin Nam et.al.|[2610.25960](http://arxiv.org/abs/2610.25960)|null|
 |**2026-11-08**|**InfCoiL: Coordinated Planner-Controller Learning for Closed-Loop Physics-Based Human-Object Interaction**|Yude Zou et.al.|[2611.11517](http://arxiv.org/abs/2611.11517)|null|
 |**2026-11-06**|**TouchAnnotator: Multi-Source Tactile Supervision with Privileged-View Distillation**|Ao Li et.al.|[2611.09129](http://arxiv.org/abs/2611.09129)|null|
@@ -2190,12 +2200,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20261117>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261118>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-17**|**"I Just Don't Want to Be a Burden": Investigating AI Chatbot Emotional Support Among People with Suicidal Ideation and Other Mental Health Concerns**|Vasudha Varadarajan et.al.|[2611.23190](http://arxiv.org/abs/2611.23190)|null|
+|**2026-11-17**|**AI Companions for Young Adult Caregivers: Practical Advice, Emotional Depth, and the Limits of Metric Evaluation**|Trizal Garg et.al.|[2611.23147](http://arxiv.org/abs/2611.23147)|null|
+|**2026-11-17**|**A Unified Choice Model of News Selection: Experimental Evidence on Stance, Rank, and Engagement Cues**|Jacopo D'Ignazi et.al.|[2611.23079](http://arxiv.org/abs/2611.23079)|null|
+|**2026-11-17**|**How Web Research Agents Interpret User Priorities**|Robin Sharma et.al.|[2611.22989](http://arxiv.org/abs/2611.22989)|null|
+|**2026-11-17**|**The Whole Warps the Parts: Attentional Certainty Modulates Ensemble-Induced Bias in Visualizations**|Jennifer E. Corbett et.al.|[2611.22885](http://arxiv.org/abs/2611.22885)|null|
+|**2026-11-17**|**AI as Anchor: How Interview Sequencing Relates to the Appropriation of Synthetic Stakeholder Voices in Design Education**|Osnat Mokryn et.al.|[2611.22740](http://arxiv.org/abs/2611.22740)|null|
+|**2026-11-17**|**An Affordable Vibrotactile Surface for Tactile Figure Recognition: Exploration Strategies of Blind and Sighted Users**|Uday Nath Gunda et.al.|[2611.22614](http://arxiv.org/abs/2611.22614)|null|
+|**2026-11-17**|**Controlling Proactive Multimodal AI: Separating Perception from Participation**|Muawiz Feroze Khan et.al.|[2611.22431](http://arxiv.org/abs/2611.22431)|null|
+|**2026-11-17**|**Plenty to FRET About: From Hazard Analysis to Formal Requirements for Robot-Assisted Dressing**|Gunjari Chakraborty et.al.|[2611.22399](http://arxiv.org/abs/2611.22399)|null|
+|**2026-11-17**|**An AI-Driven Assistant for Human-Centric Building Digital Twin Systems: Design, Implementation, and Comparative User Evaluation**|Leonardo Messi et.al.|[2611.22350](http://arxiv.org/abs/2611.22350)|null|
 |**2026-11-16**|**Benefits and Barriers to Human-AI Teaming for Crisis Counseling**|Ivy Pham et.al.|[2611.21558](http://arxiv.org/abs/2611.21558)|null|
 |**2026-11-16**|**Shaping AI's Beliefs Before It Generates: Human Sense of Agency in Creative AI**|Zi Wang et.al.|[2611.21405](http://arxiv.org/abs/2611.21405)|null|
 |**2026-11-16**|**Beyond Bilingual: Studying Quadrilingual Code-Switching with Conversational AI**|Annika Bush et.al.|[2611.21394](http://arxiv.org/abs/2611.21394)|null|
@@ -4880,7 +4900,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20261117>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261118>back to top</a>)</p>
 
 Notes: 
 
