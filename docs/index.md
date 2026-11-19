@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.11.18
+### Automatically Updated on 2026.11.19
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-18**|**$Z$ -sight: Unifying Vision-Language-Action and Latent World Modeling**|Junjie Ye et.al.|[2611.24940](http://arxiv.org/abs/2611.24940)|null|
+|**2026-11-18**|**Phoenix: Learning Scene Structure Representations for Generalizable World-Action Models**|Yupeng Zheng et.al.|[2611.24938](http://arxiv.org/abs/2611.24938)|null|
+|**2026-11-18**|**HINT-WAM: Hindsight-Informed Training for World Action Models**|Phuong Tuan Dat et.al.|[2611.24789](http://arxiv.org/abs/2611.24789)|null|
+|**2026-11-18**|**From Activity Recognition to Shift Detection: Variational Wi-Fi Sensing with Evidential Uncertainty**|Luca Cotti et.al.|[2611.24596](http://arxiv.org/abs/2611.24596)|null|
+|**2026-11-18**|**Probing Physics in Motion Diffusion Models Against Their Own Estimate**|Saeed Ghorbani et.al.|[2611.24423](http://arxiv.org/abs/2611.24423)|null|
+|**2026-11-18**|**Lost Between Mind, Model Collaboration, and Motion: Understanding and Measuring Cross-Model Action Misalignment in Commercial Robots**|Yuhang Huang et.al.|[2611.24100](http://arxiv.org/abs/2611.24100)|null|
+|**2026-11-18**|**Meaning Reaches Object Choice but Not Completion: Where Is a VLA Vulnerable to Landmark Synonyms?**|Ryoichi Kurihara et.al.|[2611.24076](http://arxiv.org/abs/2611.24076)|null|
+|**2026-11-18**|**SemPhys: Semantic-Physical Co-Learning for Humanoid Motion Generation via Differentiable World Models**|Zejian Kang et.al.|[2611.24074](http://arxiv.org/abs/2611.24074)|null|
+|**2026-11-18**|**RePlan-VLA: Progress-Aware Replanning for Long-Horizon Vision-Language-Action Models**|Apoorva Vashisth et.al.|[2611.23843](http://arxiv.org/abs/2611.23843)|null|
+|**2026-11-18**|**Learning Martial Arts Motion Skills for Animating Opponents in VR Sparring Games**|Jiqing Wen et.al.|[2611.23825](http://arxiv.org/abs/2611.23825)|null|
 |**2026-11-17**|**Making Future-Predictive Representations Actionable**|Fangchuan Wang et.al.|[2611.22994](http://arxiv.org/abs/2611.22994)|null|
 |**2026-11-17**|**ForceBody: Force-Paired Parametric Body Motion with Torque Uncertainty**|Joonwoo Kwon et.al.|[2611.22769](http://arxiv.org/abs/2611.22769)|null|
 |**2026-11-17**|**Robust Actor-Critic Learning under Transport and Divergence Uncertainty**|Kunqi Huang et.al.|[2611.22759](http://arxiv.org/abs/2611.22759)|null|
@@ -3145,6 +3155,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-18**|**Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems**|Priyanka Sinha et.al.|[2611.24932](http://arxiv.org/abs/2611.24932)|null|
+|**2026-11-18**|**Who are you? The Personal Imitation Game**|Muhammad Rizky Wellyanto et.al.|[2611.24888](http://arxiv.org/abs/2611.24888)|null|
+|**2026-11-18**|**Overlooked and Underutilized: Prototypes are the Missing Piece in Tabular XAI**|Jacek Karolczak et.al.|[2611.24831](http://arxiv.org/abs/2611.24831)|null|
+|**2026-11-18**|**A Foundation Model to Measure and Predict Human Behaviour**|Haoran Ye et.al.|[2611.24830](http://arxiv.org/abs/2611.24830)|null|
+|**2026-11-18**|**One size does not fit all: session-specific effects of deep brain stimulation on hand-motor kinematics in Parkinson's disease**|Matthias Dold et.al.|[2611.24823](http://arxiv.org/abs/2611.24823)|null|
+|**2026-11-18**|**Data-driven simulation of the brain's response to stimulation: a system identification approach for closed-loop neuromodulation, piloted in adaptive deep brain stimulation**|Matthias Dold et.al.|[2611.24818](http://arxiv.org/abs/2611.24818)|null|
+|**2026-11-18**|**Towards Transparent Computational Agents for Air Traffic Control: Explainability, Interpretability and Trust**|Rob Procter et.al.|[2611.24791](http://arxiv.org/abs/2611.24791)|null|
+|**2026-11-18**|**Interpersonal trust, institutional trust and trust in technology in Air Traffic Control**|Rob Procter et.al.|[2611.24715](http://arxiv.org/abs/2611.24715)|null|
+|**2026-11-18**|**Negotiating Control and Accountability among Stakeholders in High-Risk AI Use Cases: Development and Evaluation of the Method ALIGN**|Lena Schneider et.al.|[2611.24609](http://arxiv.org/abs/2611.24609)|null|
+|**2026-11-18**|**The Impact Of Multitasking In Video Meetings On Meeting Outcomes: Initial Results**|Julia Seitz et.al.|[2611.24545](http://arxiv.org/abs/2611.24545)|null|
 |**2026-11-17**|**"I Just Don't Want to Be a Burden": Investigating AI Chatbot Emotional Support Among People with Suicidal Ideation and Other Mental Health Concerns**|Vasudha Varadarajan et.al.|[2611.23190](http://arxiv.org/abs/2611.23190)|null|
 |**2026-11-17**|**AI Companions for Young Adult Caregivers: Practical Advice, Emotional Depth, and the Limits of Metric Evaluation**|Trizal Garg et.al.|[2611.23147](http://arxiv.org/abs/2611.23147)|null|
 |**2026-11-17**|**A Unified Choice Model of News Selection: Experimental Evidence on Stance, Rank, and Engagement Cues**|Jacopo D'Ignazi et.al.|[2611.23079](http://arxiv.org/abs/2611.23079)|null|
