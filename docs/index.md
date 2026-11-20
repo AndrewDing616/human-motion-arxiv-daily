@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.11.19
+### Automatically Updated on 2026.11.20
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-19**|**A Tutorial on Complementarity-Based Contact Models for Robotics**|Onur Beker et.al.|[2611.26600](http://arxiv.org/abs/2611.26600)|null|
+|**2026-11-19**|**Awaken-HI: Scaling Humanoid Intelligence with Whole-Body Human Experience**| EngineAI et.al.|[2611.26420](http://arxiv.org/abs/2611.26420)|null|
+|**2026-11-19**|**PhysVAM: Physics-oriented Future Value Action Model for Dynamic Object Manipulation**|Yuxiang Yang et.al.|[2611.26105](http://arxiv.org/abs/2611.26105)|null|
+|**2026-11-19**|**UniVEP: Unifying Velocity and Endpoint Prediction for Robot Manipulation**|Zhengtu Liang et.al.|[2611.26103](http://arxiv.org/abs/2611.26103)|null|
+|**2026-11-19**|**Trajectory-Calibrated Merging of Embodied Policies**|Wenshuo Chen et.al.|[2611.25575](http://arxiv.org/abs/2611.25575)|null|
+|**2026-11-19**|**WAMotor: Accelerating World Action Models via Speculative Inference under Dual Nonuniform Denoising Dynamics**|Zexun Lin et.al.|[2611.25413](http://arxiv.org/abs/2611.25413)|null|
+|**2026-11-19**|**Learning to Move from and for Manipulation Policies: Spatializing Latent Action Representations for Goal-Pose-Free Mobile Manipulation**|Siyuan Zheng et.al.|[2611.25366](http://arxiv.org/abs/2611.25366)|null|
+|**2026-11-18**|**CoRelate: Coordinated Human-Object Motion Synthesis through Interaction Relations**|Zhiwen Qiu et.al.|[2611.25166](http://arxiv.org/abs/2611.25166)|null|
 |**2026-11-18**|**$Z$ -sight: Unifying Vision-Language-Action and Latent World Modeling**|Junjie Ye et.al.|[2611.24940](http://arxiv.org/abs/2611.24940)|null|
 |**2026-11-18**|**Phoenix: Learning Scene Structure Representations for Generalizable World-Action Models**|Yupeng Zheng et.al.|[2611.24938](http://arxiv.org/abs/2611.24938)|null|
 |**2026-11-18**|**HINT-WAM: Hindsight-Informed Training for World Action Models**|Phuong Tuan Dat et.al.|[2611.24789](http://arxiv.org/abs/2611.24789)|null|
@@ -2599,6 +2607,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-18**|**Inhabitant: An Agent Framework for Long-Horizon Human-Scene Interaction with Spatial Control and Quantitative Feedback**|Yao Zhang et.al.|[2611.25005](http://arxiv.org/abs/2611.25005)|null|
 |**2026-11-15**|**SGIP: Learning Scene-Grounded Interaction Priors for Scene-Aware Human Motion Prediction**|Donghyeon Soon et.al.|[2611.20076](http://arxiv.org/abs/2611.20076)|null|
 |**2026-11-09**|**3R-Adapter: Retrieval, Rewiring, and Refinement for Efficient Adaptation of 3D Reconstruction Model**|Zixiang Ai et.al.|[2611.11964](http://arxiv.org/abs/2611.11964)|null|
 |**2026-10-20**|**World2HOSI: A Multi-Expert Harness for Long-Horizon Human-Object-Scene Interaction Generation**|Jiushu Li et.al.|[2610.27725](http://arxiv.org/abs/2610.27725)|null|
@@ -2777,6 +2786,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-18**|**CoRelate: Coordinated Human-Object Motion Synthesis through Interaction Relations**|Zhiwen Qiu et.al.|[2611.25166](http://arxiv.org/abs/2611.25166)|null|
 |**2026-11-16**|**From Human Videos to Bimanual Dexterous Manipulation Data: Confidence-Guided RL Refinement of Video Priors**|Yanghong Liu et.al.|[2611.21908](http://arxiv.org/abs/2611.21908)|null|
 |**2026-11-15**|**HORIA: 4D Human and Object Reconstruction from a Monocular Video with Interaction-Aware Re-Rendering**|Hyeongjin Nam et.al.|[2610.25960](http://arxiv.org/abs/2610.25960)|null|
 |**2026-11-08**|**InfCoiL: Coordinated Planner-Controller Learning for Closed-Loop Physics-Based Human-Object Interaction**|Yude Zou et.al.|[2611.11517](http://arxiv.org/abs/2611.11517)|null|
@@ -3155,6 +3165,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-19**|**Introducing ReTiNA-Cinema: Real-Time Neuro-Augmented Cinema via Generative AI**|Antoine Bellemare-Pepin et.al.|[2611.26469](http://arxiv.org/abs/2611.26469)|null|
+|**2026-11-19**|**Rethinking Utility in Differentially Private Visualization: A Channel-Centric Perspective**|Jing Yang et.al.|[2611.26396](http://arxiv.org/abs/2611.26396)|null|
+|**2026-11-19**|**RouterWeave: A Unified Observation Layer for Cross-Platform Activity Analysis via Home Routers**|Chengeng Liu et.al.|[2611.26134](http://arxiv.org/abs/2611.26134)|null|
+|**2026-11-19**|**Presenting Your Figures: Data-informed Animated Transitions Across Scientific Figure Panels**|Lu Ying et.al.|[2611.26036](http://arxiv.org/abs/2611.26036)|null|
+|**2026-11-19**|**Ground Truth Bias in AI-Assisted Medical Annotation: A Crossover Study Using an Independent Radiologist Reference Standard**|Márton Baltay et.al.|[2611.25924](http://arxiv.org/abs/2611.25924)|null|
+|**2026-11-19**|**Embodied Human-Data Interaction**|Niklas Elmqvist et.al.|[2611.25744](http://arxiv.org/abs/2611.25744)|null|
+|**2026-11-19**|**From Reliance to Overreliance: Taxonomizing and Detecting Relational Risks in AI Companionship**|Viet Cuong Nguyen et.al.|[2611.25734](http://arxiv.org/abs/2611.25734)|null|
+|**2026-11-19**|**MetaScanner: An Empirical Study and Proactive Defense against Deceptive UI Attacks in Social VR**|Junhee Lee et.al.|[2611.25608](http://arxiv.org/abs/2611.25608)|null|
+|**2026-11-19**|**Design and Evaluation of Epira: An Automated Interview System for Case Investigation and Contact Tracing**|Ishita Asnani et.al.|[2611.25577](http://arxiv.org/abs/2611.25577)|null|
+|**2026-11-19**|**Persona Lenses: What Makes a Vision-Language Model See Through Its Persona's Eyes?**|Yoonho Shin et.al.|[2611.25508](http://arxiv.org/abs/2611.25508)|null|
 |**2026-11-18**|**Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems**|Priyanka Sinha et.al.|[2611.24932](http://arxiv.org/abs/2611.24932)|null|
 |**2026-11-18**|**Who are you? The Personal Imitation Game**|Muhammad Rizky Wellyanto et.al.|[2611.24888](http://arxiv.org/abs/2611.24888)|null|
 |**2026-11-18**|**Overlooked and Underutilized: Prototypes are the Missing Piece in Tabular XAI**|Jacek Karolczak et.al.|[2611.24831](http://arxiv.org/abs/2611.24831)|null|
