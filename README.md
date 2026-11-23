@@ -1,5 +1,5 @@
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.11.22
+### Automatically Updated on 2026.11.23
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-20**|**Synthesizing Expressive Human-Object Interactions via Test-time Latent Adaptation**|Zijing Wu et.al.|[2611.27603](http://arxiv.org/abs/2611.27603)|null|
+|**2026-11-20**|**S-BFM: A Behavioral Foundation Model for Humanoid Control from Sparse Spatiotemporal Goals**|Kun Yang et.al.|[2611.27552](http://arxiv.org/abs/2611.27552)|null|
+|**2026-11-20**|**Learning Interaction Dynamics via Motion-Region Guidance for Robotic Video World Models**|Yongkang He et.al.|[2611.27344](http://arxiv.org/abs/2611.27344)|null|
+|**2026-11-20**|**Embodied Interaction Policy: A Unified Model for Full-Duplex Human-Robot Interaction**|Youqiang Gui et.al.|[2611.27327](http://arxiv.org/abs/2611.27327)|null|
+|**2026-11-20**|**PACE: Policy Augmentation and Compensation With Explicit Disturbance Estimation for Robust Locomotion**|Shixuan Han et.al.|[2611.27061](http://arxiv.org/abs/2611.27061)|null|
 |**2026-11-19**|**A Tutorial on Complementarity-Based Contact Models for Robotics**|Onur Beker et.al.|[2611.26600](http://arxiv.org/abs/2611.26600)|null|
 |**2026-11-19**|**Awaken-HI: Scaling Humanoid Intelligence with Whole-Body Human Experience**| EngineAI et.al.|[2611.26420](http://arxiv.org/abs/2611.26420)|null|
 |**2026-11-19**|**PhysVAM: Physics-oriented Future Value Action Model for Dynamic Object Manipulation**|Yuxiang Yang et.al.|[2611.26105](http://arxiv.org/abs/2611.26105)|null|
@@ -1658,7 +1663,7 @@
 |**2023-12-05**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
 |**2022-09-01**|**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**|Mingyuan Zhang et.al.|[2208.15001](http://arxiv.org/abs/2208.15001)|null|
 
-<p align=right>(<a href=#updated-on-20261122>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
 
 ## Human-Scene Interaction (HSI)
 
@@ -1839,12 +1844,13 @@
 |**2022-10-19**|**HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes**|Zan Wang et.al.|[2210.09729](http://arxiv.org/abs/2210.09729)|null|
 |**2022-05-27**|**Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis**|Jingbo Wang et.al.|[2205.13001](http://arxiv.org/abs/2205.13001)|null|
 
-<p align=right>(<a href=#updated-on-20261122>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
 
 ## Human-Object Interaction (HOI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-20**|**Synthesizing Expressive Human-Object Interactions via Test-time Latent Adaptation**|Zijing Wu et.al.|[2611.27603](http://arxiv.org/abs/2611.27603)|null|
 |**2026-11-18**|**CoRelate: Coordinated Human-Object Motion Synthesis through Interaction Relations**|Zhiwen Qiu et.al.|[2611.25166](http://arxiv.org/abs/2611.25166)|null|
 |**2026-11-16**|**From Human Videos to Bimanual Dexterous Manipulation Data: Confidence-Guided RL Refinement of Video Priors**|Yanghong Liu et.al.|[2611.21908](http://arxiv.org/abs/2611.21908)|null|
 |**2026-11-15**|**HORIA: 4D Human and Object Reconstruction from a Monocular Video with Interaction-Aware Re-Rendering**|Hyeongjin Nam et.al.|[2610.25960](http://arxiv.org/abs/2610.25960)|null|
@@ -2220,12 +2226,22 @@
 |**2021-01-05**|**The Challenges in Modeling Human Performance in 3D Space with Fitts' Law**|Eleftherios Triantafyllidis et.al.|[2101.00260](http://arxiv.org/abs/2101.00260)|null|
 |**2020-09-29**|**Human-Object Interaction Detection:A Quick Survey and Examination of Methods**|Trevor Bergstrom et.al.|[2009.12950](http://arxiv.org/abs/2009.12950)|null|
 
-<p align=right>(<a href=#updated-on-20261122>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
 
 ## Human-Human Interaction (HHI)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-20**|**Shared Understanding in Human-AI Teams: Coordination Continuity in Evolving Work**|Siân Lindley et.al.|[2611.27746](http://arxiv.org/abs/2611.27746)|null|
+|**2026-11-20**|**GAZEAIDE: Recording Gaze Context for Research on AI-Assisted Development**|Heidi Albarazi et.al.|[2611.27614](http://arxiv.org/abs/2611.27614)|null|
+|**2026-11-20**|**The Times They Are A-Changin': Tracking Global Trends through the Lens of Web Search**|Anju Bhuiya et.al.|[2611.27613](http://arxiv.org/abs/2611.27613)|null|
+|**2026-11-20**|**Standard-Anchored Delegation in Teachers' Use of Generative AI**|Muhammad Saleh Farooq et.al.|[2611.27533](http://arxiv.org/abs/2611.27533)|null|
+|**2026-11-20**|**On the Challenges of Using LLMs in High-Risk AI Recruitment: Guiding Questions for Legal Conformity with the AI Act**|Clara Punzi et.al.|[2611.27462](http://arxiv.org/abs/2611.27462)|null|
+|**2026-11-20**|**Omo: Giving Continuing AI-Agent Work a Place to Return To**|Kaviru Hapuarachchi et.al.|[2611.27107](http://arxiv.org/abs/2611.27107)|null|
+|**2026-11-20**|**Scalable Evaluation of Medical AI using Evidence-based Practice Recommendations**|Teya Bergamaschi et.al.|[2611.27007](http://arxiv.org/abs/2611.27007)|null|
+|**2026-11-20**|**Comparing Visual Motion Patterns for Pedestrian Guidance with Multi-Display Signage: Two Field Studies**|Yuri Mikawa et.al.|[2611.26984](http://arxiv.org/abs/2611.26984)|null|
+|**2026-11-20**|**Beyond Prompt Heuristics: Assessing Child Safety Alignment in LLMs**|Anika Misra et.al.|[2611.26965](http://arxiv.org/abs/2611.26965)|null|
+|**2026-11-19**|**AROMA: Understanding AI Support For Mental Well-being through Role Theory**|Issac Ting et.al.|[2611.26843](http://arxiv.org/abs/2611.26843)|null|
 |**2026-11-19**|**Introducing ReTiNA-Cinema: Real-Time Neuro-Augmented Cinema via Generative AI**|Antoine Bellemare-Pepin et.al.|[2611.26469](http://arxiv.org/abs/2611.26469)|null|
 |**2026-11-19**|**Rethinking Utility in Differentially Private Visualization: A Channel-Centric Perspective**|Jing Yang et.al.|[2611.26396](http://arxiv.org/abs/2611.26396)|null|
 |**2026-11-19**|**RouterWeave: A Unified Observation Layer for Cross-Platform Activity Analysis via Home Routers**|Chengeng Liu et.al.|[2611.26134](http://arxiv.org/abs/2611.26134)|null|
@@ -4940,7 +4956,7 @@
 |**2024-03-29**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|null|
 |**2024-02-26**|**Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration**|Eike Schneiders et.al.|[2402.15427](http://arxiv.org/abs/2402.15427)|null|
 
-<p align=right>(<a href=#updated-on-20261122>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
 
 Notes: 
 
