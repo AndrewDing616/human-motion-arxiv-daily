@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.11.23
+### Automatically Updated on 2026.11.24
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-23**|**Pruning Autonomous Driving VLAs: What to Preserve for Reasoning and Action**|Seongchan Kim et.al.|[2611.31240](http://arxiv.org/abs/2611.31240)|null|
+|**2026-11-23**|**VITA-WAM: Manifold-Aligned World-Action Modeling for Real-Time Robot Control**|Boqi Zhao et.al.|[2611.31195](http://arxiv.org/abs/2611.31195)|null|
+|**2026-11-23**|**WeaveVLA: 3D Relational Grounding for Vision-Language-Action Models**|Zien Wang et.al.|[2611.31126](http://arxiv.org/abs/2611.31126)|null|
+|**2026-11-23**|**ActField: Learning Action Effects as Continuous-Time Latent Dynamics**|Yunpeng Qing et.al.|[2611.30659](http://arxiv.org/abs/2611.30659)|null|
+|**2026-11-23**|**JEPA-ICL: Progress-Aligned Latent Plans for In-Context Robotic Manipulation**|Tingjun Dai et.al.|[2611.30516](http://arxiv.org/abs/2611.30516)|null|
+|**2026-11-23**|**DMC-5: Dual-Model Collaboration with Cache-aware Context Compression for Long-horizon Agents**|Haochen Li et.al.|[2611.30412](http://arxiv.org/abs/2611.30412)|null|
+|**2026-11-23**|**BASE: A Backend-Agnostic Streaming Embodiment Layer for Full-Duplex Conversational Avatars**|Chenye Yang et.al.|[2611.30388](http://arxiv.org/abs/2611.30388)|null|
+|**2026-11-23**|**SOAR: temporal Structure-guided One-step Action generation for Robotic manipulation**|Di Xin et.al.|[2611.30363](http://arxiv.org/abs/2611.30363)|null|
+|**2026-11-23**|**Innata-0: A Native Embodied World System with Model-Agent Co-Design**| Innata Team et.al.|[2611.30254](http://arxiv.org/abs/2611.30254)|null|
+|**2026-11-23**|**Quantizing in the Loop: Drift-Aware Ultra-Low-Bit Vision-Language-Action Models**|Yanlong Chen et.al.|[2611.30178](http://arxiv.org/abs/2611.30178)|null|
 |**2026-11-20**|**Synthesizing Expressive Human-Object Interactions via Test-time Latent Adaptation**|Zijing Wu et.al.|[2611.27603](http://arxiv.org/abs/2611.27603)|null|
 |**2026-11-20**|**S-BFM: A Behavioral Foundation Model for Humanoid Control from Sparse Spatiotemporal Goals**|Kun Yang et.al.|[2611.27552](http://arxiv.org/abs/2611.27552)|null|
 |**2026-11-20**|**Learning Interaction Dynamics via Motion-Region Guidance for Robotic Video World Models**|Yongkang He et.al.|[2611.27344](http://arxiv.org/abs/2611.27344)|null|
@@ -2791,6 +2801,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-23**|**Tri-DNO: Trilateral Diffusion Noise Optimization for 3D Human Object Interaction**|Paul Hinzer et.al.|[2611.30607](http://arxiv.org/abs/2611.30607)|null|
+|**2026-11-23**|**One Policy, Many Bodies: Cooperative Human-Object Interaction with Heterogeneous Teams**|Zhihao Cao et.al.|[2611.30312](http://arxiv.org/abs/2611.30312)|null|
+|**2026-11-22**|**CarlHOI: Counterfactual Predictive Imagination for Generalizable Multi-Humanoid Object Interaction under Constrained Environments**|Wenjie Lin et.al.|[2611.29749](http://arxiv.org/abs/2611.29749)|null|
+|**2026-11-21**|**Div3DAfford: Diverse 3D affordance grounding**|Haomeng Zhang et.al.|[2611.28917](http://arxiv.org/abs/2611.28917)|null|
+|**2026-11-21**|**CHORD: Closed-loop Human-Object Rectified-flow Decomposition**|Yi Wang et.al.|[2611.28682](http://arxiv.org/abs/2611.28682)|null|
 |**2026-11-20**|**Synthesizing Expressive Human-Object Interactions via Test-time Latent Adaptation**|Zijing Wu et.al.|[2611.27603](http://arxiv.org/abs/2611.27603)|null|
 |**2026-11-18**|**CoRelate: Coordinated Human-Object Motion Synthesis through Interaction Relations**|Zhiwen Qiu et.al.|[2611.25166](http://arxiv.org/abs/2611.25166)|null|
 |**2026-11-16**|**From Human Videos to Bimanual Dexterous Manipulation Data: Confidence-Guided RL Refinement of Video Priors**|Yanghong Liu et.al.|[2611.21908](http://arxiv.org/abs/2611.21908)|null|
@@ -3171,6 +3186,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-23**|**A Mixed-Methods Study of Personal Software Creation**|Shaokang Jiang et.al.|[2611.31217](http://arxiv.org/abs/2611.31217)|null|
+|**2026-11-23**|**Tradeoffs between objective outcomes and human enjoyment of work in human-AI task allocation**|Katherine M. Collins et.al.|[2611.31095](http://arxiv.org/abs/2611.31095)|null|
+|**2026-11-23**|**How Systems Treat Intent: A Faceted Taxonomy of Intent for Human-AI Co-Creation**|Ashwin Ram et.al.|[2611.30793](http://arxiv.org/abs/2611.30793)|null|
+|**2026-11-23**|**The user who is not there: genealogy and critique of simulated users built with generative AI in UX testing**|José Carlos Arcoverde et.al.|[2611.30674](http://arxiv.org/abs/2611.30674)|null|
+|**2026-11-23**|**An Experimental Apparatus for Embodied Conversational AI: A Simple Implementation Coupling a Commercial Voice AI with an Avatar**|Hiroshi Hamada et.al.|[2611.30552](http://arxiv.org/abs/2611.30552)|null|
+|**2026-11-23**|**Causal Evidence for the Emergence and Spread of Reward Hacking in AI Agent Swarms**|Sumer S. Vaid et.al.|[2611.30185](http://arxiv.org/abs/2611.30185)|null|
+|**2026-11-23**|**MindBridge: A Multilingual and Multimodal Tool for Interactive Cognitive Monitoring**|Xiaojie Gu et.al.|[2611.29996](http://arxiv.org/abs/2611.29996)|null|
+|**2026-11-22**|**Managing Uncertainty in Teacher Vibe Coding: A Comparison of Teacher and Expert Workflows**|Jiaju Lin et.al.|[2611.29698](http://arxiv.org/abs/2611.29698)|null|
+|**2026-11-22**|**But Can You Draw It Live? The Emergence of AI Duidus for Adjudicating Suspected Generative AI Use in Digital Art Commission Communities**|Elise Chenxinran Shen et.al.|[2611.29684](http://arxiv.org/abs/2611.29684)|null|
+|**2026-11-22**|**Immersive Video Effects Persist Beyond Exposure: From Psychological Closeness to Self-Initiated Behaviour in a Two-Week Comparison with 2D Video**|Koichi Toida et.al.|[2611.29647](http://arxiv.org/abs/2611.29647)|null|
 |**2026-11-20**|**Shared Understanding in Human-AI Teams: Coordination Continuity in Evolving Work**|Siân Lindley et.al.|[2611.27746](http://arxiv.org/abs/2611.27746)|null|
 |**2026-11-20**|**GAZEAIDE: Recording Gaze Context for Research on AI-Assisted Development**|Heidi Albarazi et.al.|[2611.27614](http://arxiv.org/abs/2611.27614)|null|
 |**2026-11-20**|**The Times They Are A-Changin': Tracking Global Trends through the Lens of Web Search**|Anju Bhuiya et.al.|[2611.27613](http://arxiv.org/abs/2611.27613)|null|
