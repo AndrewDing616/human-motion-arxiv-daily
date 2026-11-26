@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 3D Human Motion Generation Research Papers
-### Automatically Updated on 2026.11.25
+### Automatically Updated on 2026.11.26
 ## Talking Face
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -959,6 +959,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-25**|**Motion Beyond Pixels: Learning Future Visual Representations for Object-Centric Dynamics**|Chengzhi Zhao et.al.|[2611.34644](http://arxiv.org/abs/2611.34644)|null|
+|**2026-11-25**|**AGLR: Attribute-Guided Latent Refinement for Fine-Grained Humanoid Motion Generation and Editing**|Shuai Yuan et.al.|[2611.34519](http://arxiv.org/abs/2611.34519)|null|
+|**2026-11-25**|**Rehearse in 3D, Render in 2D: Physically Consistent and Editable Robot World Models**|Guangyu Liu et.al.|[2611.34288](http://arxiv.org/abs/2611.34288)|null|
+|**2026-11-25**|**Non-Linear Motion from Two Frames: Cubic Hermite Trajectories for Video Frame Interpolation**|Md Rifat Ur Rahman et.al.|[2611.34143](http://arxiv.org/abs/2611.34143)|null|
+|**2026-11-25**|**WAtcher: Watching Ahead for Safe Robotic Manipulation with Efficient World-Action Models**|Ziyu Shan et.al.|[2611.34124](http://arxiv.org/abs/2611.34124)|null|
+|**2026-11-25**|**ContextHands: Completing Hand Motion with Learned Context and Joint-Specific Body Kinematics**|Taewoo Kim et.al.|[2611.34027](http://arxiv.org/abs/2611.34027)|null|
+|**2026-11-25**|**MoSk: A Unified Motion-Skeleton Foundation Model for Human Motion Understanding and Generation**|Yun Chen et.al.|[2611.34022](http://arxiv.org/abs/2611.34022)|null|
+|**2026-11-25**|**iMFPO: Improving Mean Flow Policy Optimization with Drift-Aware Velocity Alignment for Embodied Control**|Lisiyu Pan et.al.|[2611.33922](http://arxiv.org/abs/2611.33922)|null|
+|**2026-11-25**|**CoTAMP: Cooperative Task and Motion Planning for Quadruped Robots with Large Language Models**|Woojin Kim et.al.|[2611.33911](http://arxiv.org/abs/2611.33911)|null|
+|**2026-11-25**|**MotionODE: Enhancing Autoregressive Text-to-Motion Generation with Continuous-Depth Modeling**|Zhaoxin Fan et.al.|[2611.33826](http://arxiv.org/abs/2611.33826)|null|
 |**2026-11-24**|**Back to Raw Motion: Latent-Free Diffusion Transformers for Text-to-Motion and Exact Conditional Generation**|Yun Chen et.al.|[2611.32793](http://arxiv.org/abs/2611.32793)|null|
 |**2026-11-24**|**DiffGR00T: Execution-Aware Differentiable Training for Humanoid Whole-Body Vision-Language-Action Models**|Sichen Wu et.al.|[2611.32665](http://arxiv.org/abs/2611.32665)|null|
 |**2026-11-24**|**BARE: Body-Aware Reflexive Evasion for Humanoid Robots**|Zihao Li et.al.|[2611.32642](http://arxiv.org/abs/2611.32642)|null|
@@ -2812,6 +2822,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-25**|**FineDex: Bridging Fine-Grained Human-Object Interaction Generation to Dexterous Humanoid Manipulation**|Yujia Zeng et.al.|[2611.34884](http://arxiv.org/abs/2611.34884)|null|
+|**2026-11-25**|**CamAct: Learning Robotic Manipulation from In-the-Wild Videos via Camera Motion**|Haoming Gu et.al.|[2611.34257](http://arxiv.org/abs/2611.34257)|null|
 |**2026-11-24**|**HARI4D: Hand-Articulation Aware 4D Reconstruction of Human-Object Interaction**|Semin Kim et.al.|[2611.32932](http://arxiv.org/abs/2611.32932)|null|
 |**2026-11-23**|**Tri-DNO: Trilateral Diffusion Noise Optimization for 3D Human Object Interaction**|Paul Hinzer et.al.|[2611.30607](http://arxiv.org/abs/2611.30607)|null|
 |**2026-11-23**|**One Policy, Many Bodies: Cooperative Human-Object Interaction with Heterogeneous Teams**|Zhihao Cao et.al.|[2611.30312](http://arxiv.org/abs/2611.30312)|null|
@@ -3198,6 +3210,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-25**|**MidasTUI: Instant Tangible User Interfaces for Wearable Displays using Everyday Objects**|Wen Ying et.al.|[2611.34945](http://arxiv.org/abs/2611.34945)|null|
+|**2026-11-25**|**Supporting Without Taking Over: AI Support in Gratitude Writing**|Thu Bui et.al.|[2611.34673](http://arxiv.org/abs/2611.34673)|null|
+|**2026-11-25**|**Procedure Inference as Memory: Learning Recruiter Decision Procedures from OKF-Structured Episodes in Multi-Session Hiring Assistants**|Praveen Kumar Bodigutla et.al.|[2611.34576](http://arxiv.org/abs/2611.34576)|null|
+|**2026-11-25**|**Decision-Aligned Value Learning for Selective Adoption of EEG Fusion in Human-Robot Collaboration**|Xinjia Yu et.al.|[2611.34451](http://arxiv.org/abs/2611.34451)|null|
+|**2026-11-25**|**RecField: Embedding Recommendations into Spatial Movie Organization as Affordances for Serendipitous Encounters**|Kenta Oku et.al.|[2611.34330](http://arxiv.org/abs/2611.34330)|null|
+|**2026-11-25**|**The Socratic PAUSE: safeguarding scientific judgement at AI speed**|Abdulkadir Celik et.al.|[2611.34222](http://arxiv.org/abs/2611.34222)|null|
+|**2026-11-25**|**Interacting with Alexa: A Longitudinal Case Study of Voice Assistant Use in Down Syndrome**|Caterina Senette et.al.|[2611.34159](http://arxiv.org/abs/2611.34159)|null|
+|**2026-11-25**|**Somatic Alignment: Scaffolding Non-Visible Inner Body Sensations in and beyond Vocal Pedagogy**|Ziyue Piao et.al.|[2611.34133](http://arxiv.org/abs/2611.34133)|null|
+|**2026-11-25**|**GlassGround: GUI Grounding Beyond Native Screenshots with Egocentric Wearable Vision**|Yun Wang et.al.|[2611.33760](http://arxiv.org/abs/2611.33760)|null|
+|**2026-11-25**|**AI Persona Dialogue Pipeline; From Survey Report to Conversational Personas, Evaluated by LLMs and Experts**|Jinyoung Jeong et.al.|[2611.33736](http://arxiv.org/abs/2611.33736)|null|
 |**2026-11-24**|**Temporal Conditioning for Human Behavioral Cloning in Chess**|Victor Dziwniel et.al.|[2611.33106](http://arxiv.org/abs/2611.33106)|null|
 |**2026-11-24**|**The Radar-based Activities of Daily Living (R-ADL) Dataset**|Dominique Regli et.al.|[2611.33088](http://arxiv.org/abs/2611.33088)|null|
 |**2026-11-24**|**One Style Fits All? Cultural Values Embedded in Conversational AI via a People-Pleasing Lens**|Yi-Jun Chen et.al.|[2611.32939](http://arxiv.org/abs/2611.32939)|null|
